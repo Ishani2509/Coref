@@ -1,0 +1,52 @@
+T18	Exp 0 28	The macrophage transcription
+T19	Exp 79 128	the macrophage colony-stimulating factor receptor
+T20	Exp 131 188	The macrophage colony-stimulating factor (M-CSF) receptor
+T21	Exp 288 300	the placenta
+T22	Exp 461 463	we
+T23	Exp 359 364	which
+T24	Exp 511 516	which
+T25	Exp 333 358	the transcription factors
+T26	Exp 380 394	the commitment
+T27	Exp 428 459	the monocyte/macrophage lineage
+T28	Exp 499 510	the factors
+T29	Exp 526 544	the M-CSF receptor
+T30	Exp 563 599	the monocyte differentiation process
+T31	Exp 606 608	we
+T32	Exp 621 625	that
+T33	Exp 626 669	the human monocytic M-CSF receptor promoter
+T34	Exp 903 905	we
+T35	Exp 774 779	which
+T36	Exp 744 773	the few transcription factors
+T37	Exp 804 818	the regulation
+T38	Exp 840 854	the macrophage
+T39	Exp 952 979	the M-CSF receptor promoter
+T40	Exp 986 988	we
+T41	Exp 1001 1005	that
+T42	Exp 1094 1121	the M-CSF receptor promoter
+T43	Exp 1141 1180	the major transcription initiation site
+T44	Exp 1205 1210	which
+T45	Exp 1195 1204	this site
+T46	Exp 1354 1381	the M-CSF receptor promoter
+T47	Exp 1428 1432	that
+T48	Exp 1516 1530	the expression
+T49	Exp 1406 1419	These results
+R5	Coref Anaphora:T23 Antecedent:T25
+R6	Coref Anaphora:T24 Antecedent:T28
+R7	Coref Anaphora:T35 Antecedent:T36
+R8	Coref Anaphora:T44 Antecedent:T45
+T1	Protein 36 40	PU.1
+T2	Protein 83 128	macrophage colony-stimulating factor receptor
+T3	Protein 135 188	macrophage colony-stimulating factor (M-CSF) receptor
+T4	Protein 530 544	M-CSF receptor
+T5	Protein 646 660	M-CSF receptor
+T6	Protein 876 880	PU.1
+T7	Protein 927 931	PU.1
+T8	Protein 956 970	M-CSF receptor
+T9	Protein 1031 1035	PU.1
+T10	Protein 1040 1044	PU.1
+T11	Protein 1098 1112	M-CSF receptor
+T12	Protein 1221 1225	PU.1
+T13	Protein 1243 1257	M-CSF receptor
+T14	Protein 1334 1338	PU.1
+T15	Protein 1358 1372	M-CSF receptor
+T16	Protein 1433 1437	PU.1

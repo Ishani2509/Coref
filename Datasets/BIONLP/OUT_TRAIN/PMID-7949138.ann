@@ -1,0 +1,44 @@
+T16	Exp 110 124	The tal-1 gene
+T17	Exp 217 246	the erythroid, megakaryocytic
+T18	Exp 385 387	we
+T19	Exp 354 358	that
+T20	Exp 329 353	the molecular mechanisms
+T21	Exp 604 608	that
+T22	Exp 628 639	the absence
+T23	Exp 674 683	the locus
+T24	Exp 715 719	that
+T25	Exp 720 730	the tal-15
+T26	Exp 954 969	the tal-1 locus
+T27	Exp 1056 1060	that
+T28	Exp 1016 1055	the erythroid/megakaryocytic cell lines
+T29	Exp 1080 1096	the promoters 1a
+T30	Exp 1208 1212	that
+T31	Exp 1248 1266	the cis-activation
+T32	Exp 1213 1224	this region
+T33	Exp 1291 1305	this cell line
+T34	Exp 1387 1391	that
+T35	Exp 1480 1484	that
+T36	Exp 1534 1541	the use
+T37	Exp 1545 1574	the different tal-1 promoters
+T38	Exp 1458 1471	These results
+R5	Coref Anaphora:T19 Antecedent:T20
+R6	Coref Anaphora:T21 Antecedent:T39
+R7	Coref Anaphora:T27 Antecedent:T28
+R8	Coref Anaphora:T34 Antecedent:T40
+T1	Protein 9 16	DNase-I
+T2	Protein 58 63	TAL-1
+T3	Protein 114 119	tal-1
+T4	Protein 367 372	tal-1
+T5	Protein 401 406	tal-1
+T6	Protein 509 514	tal-1
+T7	Protein 531 536	Tal-1
+T8	Protein 619 624	tal-1
+T9	Protein 724 729	tal-1
+T10	Protein 905 912	DNase-I
+T11	Protein 958 963	tal-1
+T12	Protein 1069 1074	tal-1
+T13	Protein 1270 1275	tal-1
+T14	Protein 1423 1428	tal-1
+T15	Protein 1559 1564	tal-1
+T39	Exp 590 603	a T-cell line
+T40	Exp 1373 1386	a T-cell line

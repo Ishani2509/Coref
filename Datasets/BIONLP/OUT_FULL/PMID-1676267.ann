@@ -1,0 +1,15 @@
+T1	Exp 97 105	the best
+T2	Exp 193 196	how
+T3	Exp 222 226	that
+T4	Exp 319 323	that
+T5	Exp 197 208	the cloning
+T6	Exp 212 221	the genes
+T7	Exp 275 293	the identification
+T8	Exp 332 346	the expression
+T9	Exp 350 368	these T-cell genes
+T10	Exp 416 431	the development
+T11	Exp 435 462	the mature T-cell phenotype
+T12	Exp 370 396	Such transcription factors
+R3	Coref Anaphora:T3 Antecedent:T6
+R4	Coref Anaphora:T4 Antecedent:T13
+T13	Exp 297 318	transcription factors

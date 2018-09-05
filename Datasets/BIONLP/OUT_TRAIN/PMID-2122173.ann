@@ -1,0 +1,14 @@
+T3	Exp 21 42	the sexual dimorphism
+T4	Exp 61 82	The sexual difference
+T5	Exp 86 99	the incidence
+T6	Exp 165 180	the examination
+T7	Exp 184 197	the induction
+T8	Exp 281 312	the lymphokine interferon-gamma
+T9	Exp 316 328	the etiology
+T10	Exp 372 386	the production
+T11	Exp 450 481	the gender-specific differences
+T12	Exp 485 502	the immune system
+T13	Exp 390 403	this molecule
+R2	Coref Anaphora:T13 Antecedent:T8
+T1	Protein 0 16	Interferon-gamma
+T2	Protein 296 312	interferon-gamma

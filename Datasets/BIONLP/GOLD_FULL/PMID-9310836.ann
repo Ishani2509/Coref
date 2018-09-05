@@ -1,0 +1,11 @@
+T1	Protein 73 77	IL-4
+T2	Protein 281 285	IL-4
+T3	Protein 309 313	IL-4
+T4	Protein 667 671	IL-4
+T5	Protein 844 848	IL-4
+T6	Exp 479 500	these P-like elements	492 500	elements
+T7	Exp 505 510	their
+T8	Exp 1400 1418	Six tandem repeats	1411 1418	repeats
+T9	Exp 1516 1520	that
+R1	Coref Anaphora:T7 Antecedent:T6
+R2	Coref Anaphora:T9 Antecedent:T8

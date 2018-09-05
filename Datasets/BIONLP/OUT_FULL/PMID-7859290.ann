@@ -1,0 +1,30 @@
+T20	Exp 43 47	that
+T21	Exp 192 196	that
+T22	Exp 212 240	the octamer-binding proteins
+T23	Exp 414 416	we
+T24	Exp 507 511	that
+T25	Exp 590 594	that
+T26	Exp 654 669	the POU domains
+T27	Exp 724 738	The OBF-1 mRNA
+T28	Exp 851 866	the other cells
+T29	Exp 956 968	the activity
+T30	Exp 1063 1077	the properties
+R5	Coref Anaphora:T20 Antecedent:T31
+R6	Coref Anaphora:T24 Antecedent:T32
+T1	Protein 0 5	OBF-1
+T2	Protein 241 246	Oct-1
+T3	Protein 251 256	Oct-2
+T4	Protein 461 481	Oct-binding factor 1
+T5	Protein 483 488	OBF-1
+T6	Protein 541 546	Oct-1
+T7	Protein 551 556	Oct-2
+T8	Protein 595 600	OBF-1
+T9	Protein 673 678	Oct-1
+T10	Protein 683 688	Oct-2
+T11	Protein 707 712	Oct-4
+T12	Protein 717 722	Oct-6
+T13	Protein 728 733	OBF-1
+T14	Protein 913 918	OBF-1
+T15	Protein 1049 1054	OBF-1
+T31	Exp 7 42	a novel B cell-specific coactivator
+T32	Exp 491 506	a novel protein

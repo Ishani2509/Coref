@@ -1,0 +1,26 @@
+T8	Exp 220 225	which
+T9	Exp 318 331	the synthesis
+T10	Exp 431 433	we
+T11	Exp 406 419	its mechanism
+T12	Exp 447 458	the effects
+T13	Exp 508 517	the onset
+T14	Exp 622 632	The levels
+T15	Exp 734 749	the basal level
+T16	Exp 833 837	that
+T17	Exp 887 895	the rate
+T18	Exp 932 946	the c-jun mRNA
+T19	Exp 961 970	the level
+T20	Exp 1116 1127	the 5X AP-1
+T21	Exp 1173 1177	that
+T22	Exp 1142 1155	These results
+R3	Coref Anaphora:T8 Antecedent:T23
+R4	Coref Anaphora:T11 Antecedent:T24
+T1	Protein 14 19	c-jun
+T2	Protein 482 487	c-jun
+T3	Protein 605 610	c-jun
+T4	Protein 636 641	c-jun
+T5	Protein 851 856	c-jun
+T6	Protein 936 941	c-jun
+T7	Protein 1247 1252	c-jun
+T23	Exp 201 219	an antitumor agent
+T24	Exp 304 306	HU

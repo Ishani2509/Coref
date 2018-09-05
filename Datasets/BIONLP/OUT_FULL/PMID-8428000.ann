@@ -1,0 +1,49 @@
+T11	Exp 223 227	that
+T12	Exp 316 318	We
+T13	Exp 337 372	the protein binding characteristics
+T14	Exp 402 429	the ACT-1-activating region
+T15	Exp 433 450	the IL-3 promoter
+T16	Exp 512 522	its 5' end
+T17	Exp 531 535	that
+T18	Exp 553 567	the expression
+T19	Exp 579 590	the absence
+T20	Exp 452 463	This region
+T21	Exp 636 638	it
+T22	Exp 624 634	its 3' end
+T23	Exp 654 658	that
+T24	Exp 785 787	it
+T25	Exp 817 829	the activity
+T26	Exp 705 716	This factor
+T27	Exp 889 903	the ACT-1 site
+T28	Exp 917 943	the activating ARRE-1 site
+T29	Exp 947 964	the IL-2 promoter
+T30	Exp 862 883	These characteristics
+T31	Exp 1106 1110	that
+T32	Exp 1020 1033	the promoters
+T33	Exp 1141 1171	the T-cell-specific expression
+T34	Exp 1175 1186	these genes
+R9	Coref Anaphora:T11 Antecedent:T35
+R10	Coref Anaphora:T16 Antecedent:T36
+R11	Coref Anaphora:T17 Antecedent:T37
+R12	Coref Anaphora:T22 Antecedent:T20
+R13	Coref Anaphora:T21 Antecedent:T20
+R14	Coref Anaphora:T23 Antecedent:T38
+R15	Coref Anaphora:T26 Antecedent:T5
+R16	Coref Anaphora:T24 Antecedent:T5
+R17	Coref Anaphora:T31 Antecedent:T39
+T40	SPAN 1037 1050	IL-3 and IL-2
+R18	Coref Anaphora:T34 Antecedent:T40
+T1	Protein 0 13	Interleukin-3
+T2	Protein 125 138	Interleukin-3
+T3	Protein 140 144	IL-3
+T4	Protein 437 441	IL-3
+T5	Protein 571 575	IL-3
+T6	Protein 720 725	Oct-1
+T7	Protein 951 955	IL-2
+T8	Protein 1037 1041	IL-3
+T9	Protein 1046 1050	IL-2
+T35	Exp 212 222	a function
+T36	Exp 470 506	an inducible, T-cell-specific factor
+T37	Exp 524 530	a site
+T38	Exp 645 653	a factor
+T39	Exp 1086 1105	regulatory elements

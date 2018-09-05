@@ -1,0 +1,43 @@
+T23	Exp 27 40	the IL-2 gene
+T24	Exp 177 181	when
+T25	Exp 275 277	we
+T26	Exp 329 342	their ability
+T27	Exp 285 289	that
+T28	Exp 493 497	that
+T29	Exp 590 594	that
+T30	Exp 264 273	this work
+T31	Exp 290 311	these anergic T cells
+T32	Exp 677 681	that
+T33	Exp 682 719	the impaired DNA-protein interactions
+T34	Exp 779 812	the inducible AP-1 family members
+T35	Exp 845 867	the reduced expression
+T36	Exp 894 904	the result
+T37	Exp 1088 1099	the nucleus
+T38	Exp 871 885	these proteins
+T39	Exp 1254 1268	the expression
+T40	Exp 1272 1284	the AP-1 Fos
+R5	Coref Anaphora:T26 Antecedent:T31
+R6	Coref Anaphora:T28 Antecedent:T41
+R7	Coref Anaphora:T29 Antecedent:T42
+T43	SPAN 813 834	c-Fos, FosB, and JunB
+R8	Coref Anaphora:T38 Antecedent:T43
+T1	Protein 31 35	IL-2
+T2	Protein 83 88	c-Fos
+T3	Protein 90 94	FosB
+T4	Protein 100 104	JunB
+T5	Protein 172 176	IL-2
+T6	Protein 410 414	IL-2
+T7	Protein 521 526	NFATp
+T8	Protein 528 531	Fos
+T9	Protein 537 540	Jun
+T10	Protein 601 604	Fos
+T11	Protein 609 612	Jun
+T12	Protein 813 818	c-Fos
+T13	Protein 820 824	FosB
+T14	Protein 830 834	JunB
+T15	Protein 1046 1051	NFATp
+T16	Protein 1169 1173	IL-2
+T17	Protein 1281 1284	Fos
+T18	Protein 1289 1292	Jun
+T41	Exp 482 492	a sequence
+T42	Exp 583 587	AP-1

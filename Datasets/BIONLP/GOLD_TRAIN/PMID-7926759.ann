@@ -1,0 +1,19 @@
+T1	Protein 10 15	v-abl
+T2	Protein 386 391	v-abl
+T3	Protein 683 688	BCL-2
+T4	Protein 739 744	v-abl
+T5	Protein 916 921	RAG-1
+T6	Protein 926 931	RAG-2
+T7	Protein 1037 1042	v-abl
+T8	Protein 1145 1150	v-abl
+T9	Protein 1303 1308	v-abl
+T10	Exp 275 286	these cells	281 286	cells
+T11	Exp 303 308	their
+T12	Exp 335 340	their
+T13	Exp 596 607	derivatives
+T14	Exp 608 612	that
+T15	Exp 662 666	they
+R1	Coref Anaphora:T11 Antecedent:T10
+R2	Coref Anaphora:T12 Antecedent:T10
+R3	Coref Anaphora:T14 Antecedent:T13
+R4	Coref Anaphora:T15 Antecedent:T13

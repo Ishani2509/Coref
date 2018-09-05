@@ -1,0 +1,12 @@
+T4	Exp 14 62	the human immunodeficiency virus type 1 enhancer
+T5	Exp 92 104	The function
+T6	Exp 134 182	the human immunodeficiency virus type 1 enhancer
+T7	Exp 216 243	the T-cell antigen receptor
+T8	Exp 290 307	the kappa B sites
+T9	Exp 461 463	it
+T10	Exp 309 335	The putative NFAT-1 region
+T11	Exp 356 368	the response
+R2	Coref Anaphora:T9 Antecedent:T10
+T1	Protein 83 89	NFAT-1
+T2	Protein 119 125	NFAT-1
+T3	Protein 322 328	NFAT-1

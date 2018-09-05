@@ -1,0 +1,33 @@
+T1	Protein 126 139	IkappaB-alpha
+T2	Protein 556 569	IkappaB-alpha
+T3	Protein 625 638	IkappaB-alpha
+T4	Protein 701 728	tumor necrosis factor-alpha
+T5	Protein 730 739	TNF-alpha
+T6	Protein 764 777	IkappaB-alpha
+T7	Protein 813 846	vascular cell adhesion molecule-1
+T8	Protein 848 854	VCAM-1
+T9	Protein 857 890	intercellular adhesion molecule-1
+T10	Protein 892 898	ICAM-1
+T11	Protein 905 915	E-selectin
+T12	Protein 1007 1041	monocyte chemoattractant protein 1
+T13	Protein 1043 1048	MCP-1
+T14	Protein 1054 1083	growth-related activity-alpha
+T15	Protein 1085 1094	GRO-alpha
+T16	Protein 1099 1108	TNF-alpha
+T17	Protein 1162 1167	MCP-1
+T18	Protein 1182 1191	GRO-alpha
+T19	Protein 1337 1346	TNF-alpha
+T20	Protein 1395 1408	IkappaB-alpha
+T21	Protein 1673 1686	IkappaB-alpha
+T22	Protein 1723 1733	P-selectin
+T23	Protein 1794 1804	E-selectin
+T24	Protein 1919 1932	IkappaB-alpha
+T25	Exp 219 279	genes encoding endothelial adhesion molecules and chemokines	219 224	genes
+T26	Exp 280 284	that
+T27	Exp 1635 1655	rolling of monocytes	1635 1642	rolling
+T28	Exp 1744 1746	it
+T29	Exp 1839 1853	novel evidence	1845 1853	evidence
+T30	Exp 1854 1858	that
+R1	Coref Anaphora:T26 Antecedent:T25
+R2	Coref Anaphora:T28 Antecedent:T27
+R3	Coref Anaphora:T30 Antecedent:T29

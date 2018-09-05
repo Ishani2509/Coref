@@ -1,0 +1,30 @@
+T13	Exp 115 127	the capacity
+T14	Exp 245 273	the intracellular mechanisms
+T15	Exp 278 291	these effects
+T16	Exp 498 500	we
+T17	Exp 341 345	that
+T18	Exp 523 527	that
+T19	Exp 434 453	the promoter region
+T20	Exp 457 488	the inflammatory cytokine genes
+T21	Exp 508 522	the hypothesis
+T22	Exp 832 881	the inhibitory, p50/p50, NF-kappa B/Rel homodimer
+T23	Exp 915 938	the p65/p50 heterodimer
+T24	Exp 1026 1030	that
+T25	Exp 1002 1025	the p65/p50 heterodimer
+T26	Exp 1108 1140	the inhibitory p50/p50 homodimer
+T27	Exp 1082 1104	such unique activation
+T28	Exp 1305 1309	that
+T29	Exp 1283 1296	these results
+R3	Coref Anaphora:T18 Antecedent:T21
+R4	Coref Anaphora:T24 Antecedent:T25
+T1	Protein 848 851	p50
+T2	Protein 852 855	p50
+T3	Protein 919 922	p65
+T4	Protein 923 926	p50
+T5	Protein 1006 1009	p65
+T6	Protein 1010 1013	p50
+T7	Protein 1123 1126	p50
+T8	Protein 1127 1130	p50
+T9	Protein 1418 1445	tumor necrosis factor-alpha
+T10	Protein 1447 1465	interleukin-1 beta
+T11	Protein 1471 1484	interleukin-6

@@ -1,0 +1,48 @@
+T5	Exp 373 383	the 3' end
+T6	Exp 387 400	the IgH locus
+T7	Exp 482 484	it
+T8	Exp 614 616	it
+T9	Exp 769 771	it
+T10	Exp 657 661	that
+T11	Exp 810 814	that
+T12	Exp 409 428	the latter elements
+T13	Exp 430 449	the IgH 3' enhancer
+T14	Exp 693 711	the c-myc oncogene
+T15	Exp 746 759	the IgH locus
+T16	Exp 795 809	the mechanisms
+T17	Exp 859 861	We
+T18	Exp 984 988	When
+T19	Exp 1024 1029	which
+T20	Exp 1030 1037	the IgH
+T21	Exp 1122 1131	the level
+T22	Exp 1155 1157	we
+T23	Exp 1163 1167	that
+T24	Exp 1218 1225	the IgH
+T25	Exp 1282 1284	we
+T26	Exp 1297 1301	that
+T27	Exp 1412 1417	which
+T28	Exp 1463 1474	the binding
+T29	Exp 1519 1544	the high expression level
+T30	Exp 1573 1597	the parental MPC11 cells
+T31	Exp 1607 1633	the t(12;15) translocation
+T32	Exp 1656 1667	the hybrids
+T33	Exp 1815 1819	that
+T34	Exp 1727 1746	the IgH 3' enhancer
+T35	Exp 1828 1872	the cell-specific and developmental activity
+T36	Exp 1876 1888	the enhancer
+R7	Coref Anaphora:T7 Antecedent:T37
+R8	Coref Anaphora:T8 Antecedent:T38
+R9	Coref Anaphora:T9 Antecedent:T38
+R10	Coref Anaphora:T10 Antecedent:T39
+R11	Coref Anaphora:T11 Antecedent:T16
+R12	Coref Anaphora:T19 Antecedent:T40
+R13	Coref Anaphora:T33 Antecedent:T41
+T1	Protein 59 64	c-myc
+T2	Protein 167 172	c-myc
+T3	Protein 697 702	c-myc
+T4	Protein 1548 1553	c-myc
+T37	Exp 457 476	particular interest
+T38	Exp 583 601	some human Burkitt
+T39	Exp 652 655	LCR
+T40	Exp 989 1019	mouse MPC11 plasmacytoma cells
+T41	Exp 1785 1814	several transcription factors

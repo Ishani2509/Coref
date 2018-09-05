@@ -1,0 +1,33 @@
+T15	Exp 136 181	The cell cycle-dependent transcription factor
+T16	Exp 200 282	the cyclin-like species of the DNA repair enzyme uracil-DNA glycosylase (UDG) gene
+T17	Exp 321 323	We
+T18	Exp 395 399	that
+T19	Exp 345 357	the deletion
+T20	Exp 361 393	the human UDG promoter sequences
+T21	Exp 430 446	the UDG promoter
+T22	Exp 474 525	The major putative downstream site for E2F, located
+T23	Exp 529 543	the first exon
+T24	Exp 604 606	We
+T25	Exp 633 660	the functional relationship
+T26	Exp 669 701	the cyclin-like UDG gene product
+T27	Exp 785 804	the down-regulation
+T28	Exp 1032 1043	the S phase
+T29	Exp 998 1009	these cells
+T30	Exp 1113 1135	the cell cycle control
+T31	Exp 1045 1068	This hypothetical model
+T32	Exp 1296 1315	the negative effect
+R2	Coref Anaphora:T18 Antecedent:T20
+T1	Protein 0 5	E2F-1
+T2	Protein 43 65	uracil-DNA glycosylase
+T3	Protein 183 188	E2F-1
+T4	Protein 249 271	uracil-DNA glycosylase
+T5	Protein 273 276	UDG
+T6	Protein 371 374	UDG
+T7	Protein 414 419	E2F-1
+T8	Protein 434 437	UDG
+T9	Protein 568 573	E2F-1
+T10	Protein 574 577	DP1
+T11	Protein 685 688	UDG
+T12	Protein 726 729	UDG
+T13	Protein 909 912	UDG
+T14	Protein 1319 1322	UDG

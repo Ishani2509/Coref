@@ -1,0 +1,24 @@
+T16	Exp 389 391	We
+T17	Exp 511 513	We
+T18	Exp 527 531	that
+T19	Exp 854 859	which
+T20	Exp 903 939	the transcriptionally active p50/p65
+T21	Exp 1130 1145	The replacement
+T22	Exp 1255 1279	the progressive increase
+T23	Exp 1353 1363	The change
+T24	Exp 1443 1483	the different transcriptional activities
+T25	Exp 1487 1509	these cell populations
+R3	Coref Anaphora:T19 Antecedent:T2
+T1	Protein 27 30	p50
+T2	Protein 840 843	p50
+T3	Protein 932 935	p50
+T4	Protein 936 939	p65
+T5	Protein 944 947	p50
+T6	Protein 948 952	RelB
+T7	Protein 1008 1011	p50
+T8	Protein 1012 1015	p65
+T9	Protein 1020 1023	p50
+T10	Protein 1024 1028	RelB
+T11	Protein 1105 1108	p50
+T12	Protein 1109 1112	p65
+T13	Protein 1149 1152	p50

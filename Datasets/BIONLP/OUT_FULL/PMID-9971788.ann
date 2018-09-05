@@ -1,0 +1,41 @@
+T6	Exp 150 152	We
+T7	Exp 182 186	that
+T8	Exp 467 469	We
+T9	Exp 482 486	that
+T10	Exp 537 562	the transcriptional level
+T11	Exp 585 624	the Rel/NF-kappaB transcription factors
+T12	Exp 487 502	this activation
+T13	Exp 626 628	We
+T14	Exp 647 651	that
+T15	Exp 754 767	this provirus
+T16	Exp 816 818	We
+T17	Exp 836 840	that
+T18	Exp 922 928	either
+T19	Exp 897 907	the nuclei
+T20	Exp 951 961	the thymus
+T21	Exp 1026 1047	The prevalent complex
+T22	Exp 1051 1074	the heterodimer p50-p65
+T23	Exp 1122 1150	the transcriptional activity
+T24	Exp 1309 1313	that
+T25	Exp 1219 1237	The cotransfection
+T26	Exp 1361 1385	the Rel/NF-kappaB family
+T27	Exp 1241 1249	this LTR
+T28	Exp 1401 1403	We
+T29	Exp 1416 1420	that
+T30	Exp 1510 1523	the coculture
+T31	Exp 1638 1642	that
+T32	Exp 1774 1778	that
+T33	Exp 1926 1931	which
+T34	Exp 1898 1925	the thymic microenvironment
+T35	Exp 1941 1964	the necessary cytokines
+T36	Exp 1754 1764	these data
+R4	Coref Anaphora:T17 Antecedent:T37
+R5	Coref Anaphora:T31 Antecedent:T38
+R6	Coref Anaphora:T33 Antecedent:T34
+T1	Protein 1067 1070	p50
+T2	Protein 1071 1074	p65
+T3	Protein 1265 1277	IkappaBalpha
+T4	Protein 1598 1602	IL-7
+T5	Protein 1981 1985	IL-7
+T37	Exp 827 835	evidence
+T38	Exp 1625 1637	thymopoiesis

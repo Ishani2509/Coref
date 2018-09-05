@@ -1,0 +1,15 @@
+T2	Exp 192 229	The long terminal repeat (LTR) region
+T3	Exp 318 348	this transcriptional activator
+T4	Exp 562 566	that
+T5	Exp 580 585	which
+T6	Exp 523 540	The present study
+T7	Exp 613 627	the activation
+T8	Exp 856 871	the stimulation
+T9	Exp 1024 1045	The inhibitory action
+T10	Exp 1218 1222	that
+T11	Exp 1195 1208	These results
+R3	Coref Anaphora:T4 Antecedent:T12
+R4	Coref Anaphora:T5 Antecedent:T13
+T1	Protein 935 962	tumor necrosis factor-alpha
+T12	Exp 554 561	reports
+T13	Exp 567 579	antioxidants

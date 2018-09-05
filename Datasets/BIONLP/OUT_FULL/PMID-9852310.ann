@@ -1,0 +1,38 @@
+T3	Exp 59 64	the 5
+T4	Exp 178 193	the interaction
+T5	Exp 269 299	the viral long terminal repeat
+T6	Exp 337 377	the series of sequence elements upstream
+T7	Exp 381 416	the transcriptional initiation site
+T8	Exp 420 433	the U3 region
+T9	Exp 437 444	the LTR
+T10	Exp 455 462	the Sp1
+T11	Exp 529 533	that
+T12	Exp 639 684	These regulatory elements situated downstream
+T13	Exp 888 893	The 5
+T14	Exp 926 956	the transcription factors AP-1
+T15	Exp 1042 1060	the viral response
+T16	Exp 1003 1022	these binding sites
+T17	Exp 1201 1205	that
+T18	Exp 1148 1153	The 5
+T19	Exp 1264 1283	the latent provirus
+T20	Exp 1285 1287	We
+T21	Exp 1296 1300	that
+T22	Exp 1402 1406	that
+T23	Exp 1301 1335	the inducible transcription factor
+T24	Exp 1353 1358	the 5
+T25	Exp 1456 1472	the LTR promoter
+T26	Exp 1579 1581	we
+T27	Exp 1669 1679	their role
+T28	Exp 1627 1631	that
+T29	Exp 1591 1626	the host-cell transcription factors
+T30	Exp 1646 1651	the 5
+T31	Exp 1683 1713	the transcriptional regulation
+T32	Exp 1566 1577	this review
+R4	Coref Anaphora:T17 Antecedent:T33
+R5	Coref Anaphora:T22 Antecedent:T34
+R6	Coref Anaphora:T28 Antecedent:T29
+R7	Coref Anaphora:T27 Antecedent:T29
+T1	Protein 459 462	Sp1
+T2	Protein 985 988	Sp1
+T33	Exp 1179 1200	a specific nucleosome
+T34	Exp 1373 1401	a downstream enhancer domain

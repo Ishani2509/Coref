@@ -1,0 +1,31 @@
+T10	Exp 0 44	The Megakaryocyte/Platelet-specific enhancer
+T11	Exp 48 77	the alpha2beta1 integrin gene
+T12	Exp 104 158	the mitogen-activated protein kinase signaling cascade
+T13	Exp 161 185	The alpha2beta1 integrin
+T14	Exp 312 336	the alpha2 integrin gene
+T15	Exp 505 524	the distal 5' flank
+T16	Exp 526 528	We
+T17	Exp 568 587	the distal 5' flank
+T18	Exp 591 615	the alpha2 integrin gene
+T19	Exp 834 856	the c-fos/c-jun family
+T20	Exp 858 873	The requirement
+T21	Exp 914 950	the mitogen-activated protein kinase
+T22	Exp 1037 1059	the MAP kinase cascade
+T23	Exp 1123 1137	the expression
+T24	Exp 1141 1168	the alpha2 integrin subunit
+T25	Exp 1212 1214	We
+T26	Exp 1268 1273	which
+T27	Exp 1288 1312	the alpha2 integrin gene
+T28	Exp 1336 1358	the MAP kinase pathway
+T29	Exp 1403 1431	the alpha2 integrin enhancer
+R2	Coref Anaphora:T26 Antecedent:T30
+T1	Protein 316 331	alpha2 integrin
+T2	Protein 595 610	alpha2 integrin
+T3	Protein 838 843	c-fos
+T4	Protein 844 849	c-jun
+T5	Protein 990 1005	alpha2 integrin
+T6	Protein 1098 1111	MAPK kinase 1
+T7	Protein 1145 1160	alpha2 integrin
+T8	Protein 1292 1307	alpha2 integrin
+T9	Protein 1407 1422	alpha2 integrin
+T30	Exp 1234 1264	megakaryocytic differentiation

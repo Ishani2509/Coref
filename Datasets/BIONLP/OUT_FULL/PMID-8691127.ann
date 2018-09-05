@@ -1,0 +1,39 @@
+T12	Exp 196 213	the transcription
+T13	Exp 255 274	the immune response
+T14	Exp 276 278	We
+T15	Exp 292 306	the mechanisms
+T16	Exp 569 571	it
+T17	Exp 380 385	whose
+T18	Exp 484 488	that
+T19	Exp 564 568	when
+T20	Exp 417 447	the other NFAT-family proteins
+T21	Exp 498 513	the recruitment
+T22	Exp 588 599	the absence
+T23	Exp 620 631	the protein
+T24	Exp 735 739	that
+T25	Exp 633 645	The activity
+T26	Exp 649 688	the NH2-terminal transactivation domain
+T27	Exp 803 818	the NFAT family
+T28	Exp 820 831	Our results
+T29	Exp 865 870	which
+T30	Exp 842 861	the multiple levels
+T31	Exp 955 971	the architecture
+R7	Coref Anaphora:T17 Antecedent:T32
+R8	Coref Anaphora:T18 Antecedent:T33
+R9	Coref Anaphora:T16 Antecedent:T21
+R10	Coref Anaphora:T23 Antecedent:T10
+R11	Coref Anaphora:T24 Antecedent:T34
+R12	Coref Anaphora:T29 Antecedent:T30
+T1	Protein 33 70	nuclear factor of activated T cells-1
+T2	Protein 126 131	NFAT1
+T3	Protein 132 137	NFATp
+T4	Protein 139 144	NFATc
+T5	Protein 146 151	NFAT3
+T6	Protein 157 162	NFAT4
+T7	Protein 163 168	NFATx
+T8	Protein 169 175	NFATc3
+T9	Protein 329 334	NFAT1
+T10	Protein 336 341	NFAT1
+T32	Exp 352 379	two transactivation domains
+T33	Exp 465 483	DNA-binding domain
+T34	Exp 705 734	an adjacent regulatory region

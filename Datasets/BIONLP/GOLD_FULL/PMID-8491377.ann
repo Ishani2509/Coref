@@ -1,0 +1,25 @@
+T1	Protein 43 62	early B-cell factor
+T2	Protein 117 136	Early B-cell factor
+T3	Protein 138 141	EBF
+T4	Protein 320 324	mb-1
+T5	Protein 383 386	EBF
+T6	Protein 455 458	EBF
+T7	Protein 532 535	EBF
+T8	Protein 556 560	mb-1
+T9	Protein 777 780	EBF
+T10	Protein 892 895	EBF
+T11	Protein 958 961	EBF
+T12	Protein 1162 1165	EBF
+T13	Protein 1455 1458	EBF
+T14	Exp 172 244	a tissue-specific and differentiation stage-specific DNA-binding protein
+T15	Exp 245 249	that
+T16	Exp 408 419	cDNA clones	413 419	clones
+T17	Exp 421 426	which
+T18	Exp 1181 1192	the protein
+T19	Exp 1208 1211	its
+T20	Exp 1304 1333	two repeats of 15 amino acids	1308 1315	repeats
+T21	Exp 1334 1338	that
+R1	Coref Anaphora:T15 Antecedent:T14
+R2	Coref Anaphora:T17 Antecedent:T16
+R3	Coref Anaphora:T19 Antecedent:T18
+R4	Coref Anaphora:T21 Antecedent:T20

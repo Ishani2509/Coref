@@ -1,0 +1,62 @@
+T17	Exp 56 84	the human interleukin 4 gene
+T18	Exp 139 141	We
+T19	Exp 172 176	that
+T20	Exp 234 262	the human interleukin (IL) 4
+T21	Exp 285 304	The human IL-4 gene
+T22	Exp 413 418	the 5
+T23	Exp 506 525	the human IL-4 gene
+T24	Exp 596 663	the granulocyte/macrophage colony-stimulating factor basic promoter
+T25	Exp 715 727	the cap site
+T26	Exp 731 740	the mouse
+T27	Exp 818 823	the 5
+T28	Exp 846 859	the IL-4 gene
+T29	Exp 861 875	The P sequence
+T30	Exp 930 958	the transcription start site
+T31	Exp 962 981	the human IL-4 gene
+T32	Exp 987 1000	this location
+T33	Exp 1047 1059	The plasmids
+T34	Exp 1088 1102	the P sequence
+T35	Exp 1135 1150	the stimulation
+T36	Exp 1175 1179	that
+T37	Exp 1152 1171	The binding protein
+T38	Exp 1190 1204	the P sequence
+T39	Exp 1208 1221	the IL-4 gene
+T40	Exp 1312 1316	that
+T41	Exp 1389 1393	when
+T42	Exp 1461 1465	that
+T43	Exp 1513 1517	that
+T44	Exp 1268 1279	The binding
+T45	Exp 1341 1355	the P sequence
+T46	Exp 1360 1374	the P sequence
+T47	Exp 1466 1487	the NF(P) interaction
+T48	Exp 1541 1552	the protein
+T49	Exp 1564 1589	the sequence requirements
+T50	Exp 1619 1633	The P sequence
+T51	Exp 1663 1668	the 5
+T52	Exp 1691 1704	the IL-2 gene
+T53	Exp 1743 1762	the IL-4 gene share
+T54	Exp 1782 1795	the IL-2 gene
+T55	Exp 1797 1799	We
+T56	Exp 1809 1813	that
+R5	Coref Anaphora:T19 Antecedent:T57
+R6	Coref Anaphora:T36 Antecedent:T58
+R7	Coref Anaphora:T40 Antecedent:T59
+R8	Coref Anaphora:T48 Antecedent:T39
+T1	Protein 66 79	interleukin 4
+T2	Protein 244 262	interleukin (IL) 4
+T3	Protein 295 299	IL-4
+T4	Protein 516 520	IL-4
+T5	Protein 600 648	granulocyte/macrophage colony-stimulating factor
+T6	Protein 741 789	granulocyte/macrophage colony-stimulating factor
+T7	Protein 850 854	IL-4
+T8	Protein 972 976	IL-4
+T9	Protein 1212 1216	IL-4
+T10	Protein 1594 1598	IL-4
+T11	Protein 1695 1699	IL-2
+T12	Protein 1747 1751	IL-4
+T13	Protein 1786 1790	IL-2
+T14	Protein 1852 1856	IL-2
+T15	Protein 1861 1865	IL-4
+T57	Exp 158 171	a DNA segment
+T58	Exp 1172 1173	s
+T59	Exp 1290 1311	a DNA binding protein

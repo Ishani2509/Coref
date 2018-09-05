@@ -1,0 +1,30 @@
+T4	Exp 23 71	the human immunodeficiency virus type 1 enhancer
+T5	Exp 173 181	the role
+T6	Exp 215 271	the human immunodeficiency virus type 1 (HIV-1) enhancer
+T7	Exp 373 394	the monocytic lineage
+T8	Exp 144 153	This work
+T9	Exp 414 416	we
+T10	Exp 400 412	this purpose
+T11	Exp 445 454	The first
+T12	Exp 532 554	the enhancer sequences
+T13	Exp 870 876	itself
+T14	Exp 776 786	The second
+T15	Exp 803 840	the permanent NF-kappaB translocation
+T16	Exp 996 1009	the inhibitor
+T17	Exp 1013 1031	the culture medium
+T18	Exp 1300 1304	both
+T19	Exp 1131 1149	The third approach
+T20	Exp 1165 1191	the replication competence
+T21	Exp 1266 1296	the kappaB-responsive elements
+T22	Exp 1342 1367	its wild-type counterpart
+T23	Exp 1369 1390	this mutated provirus
+T24	Exp 1512 1523	our results
+T25	Exp 1533 1537	that
+T26	Exp 1780 1791	the ability
+T27	Exp 1849 1897	the intense self-perpetuated viral transcription
+T28	Exp 1919 1940	the monocytic lineage
+R3	Coref Anaphora:T13 Antecedent:T15
+R4	Coref Anaphora:T22 Antecedent:T19
+T1	Protein 1584 1587	p50
+T2	Protein 1588 1591	p65
+T3	Protein 1761 1764	Tat

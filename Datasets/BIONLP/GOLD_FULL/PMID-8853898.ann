@@ -1,0 +1,11 @@
+T1	Protein 410 435	porphobilinogen deaminase
+T2	Protein 437 441	PBGD
+T3	Protein 602 606	PBGD
+T4	Protein 608 631	erythropoietin receptor
+T5	Protein 637 643	GATA-1
+T6	Protein 901 905	PBGD
+T7	Protein 910 916	GATA-1
+T8	Protein 1270 1276	GATA-1
+T9	Exp 1363 1387	These two anthracyclines	1373 1387	anthracyclines
+T10	Exp 1417 1422	their
+R1	Coref Anaphora:T10 Antecedent:T9

@@ -1,0 +1,49 @@
+T21	Exp 26 53	the Notch signaling pathway
+T22	Exp 66 80	the expression
+T23	Exp 189 193	that
+T24	Exp 143 157	the DSL family
+T25	Exp 202 219	the proliferation
+T26	Exp 337 351	its expression
+T27	Exp 323 327	that
+T28	Exp 297 322	the transcription factors
+T29	Exp 359 361	we
+T30	Exp 367 371	that
+T31	Exp 619 630	this effect
+T32	Exp 854 879	the Notch1/TAN-1 receptor
+T33	Exp 902 916	the initiation
+T34	Exp 1096 1133	its Rel/NF-kappaB-dependent induction
+T35	Exp 1195 1200	where
+T36	Exp 1262 1266	that
+T37	Exp 1285 1312	the Notch signaling pathway
+T38	Exp 1236 1249	These results
+T39	Exp 1483 1496	the potential
+T40	Exp 1522 1531	the Notch
+T41	Exp 1568 1585	the immune system
+T42	Exp 1453 1467	These findings
+R6	Coref Anaphora:T23 Antecedent:T43
+R7	Coref Anaphora:T27 Antecedent:T28
+R8	Coref Anaphora:T26 Antecedent:T2
+R9	Coref Anaphora:T34 Antecedent:T44
+R10	Coref Anaphora:T35 Antecedent:T45
+T1	Protein 84 91	Jagged1
+T2	Protein 124 131	Jagged1
+T3	Protein 372 379	Jagged1
+T4	Protein 421 426	c-Rel
+T5	Protein 431 435	RelA
+T6	Protein 444 451	jagged1
+T7	Protein 538 545	jagged1
+T8	Protein 669 681	IkappaBalpha
+T9	Protein 750 757	Jagged1
+T10	Protein 761 766	c-Rel
+T11	Protein 858 864	Notch1
+T12	Protein 865 870	TAN-1
+T13	Protein 987 992	HES-1
+T14	Protein 1037 1041	CD23
+T15	Protein 1135 1142	Jagged1
+T16	Protein 1201 1206	c-Rel
+T17	Protein 1267 1272	c-Rel
+T18	Protein 1346 1353	jagged1
+T19	Protein 1394 1401	Jagged1
+T43	Exp 173 188	Notch receptors
+T44	Exp 723 746	Cell surface expression
+T45	Exp 1179 1194	splenic B cells

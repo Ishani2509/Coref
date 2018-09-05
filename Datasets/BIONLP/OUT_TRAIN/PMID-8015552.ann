@@ -1,0 +1,53 @@
+T29	Exp 76 115	the interferon regulatory factor-1 gene
+T30	Exp 118 165	The interferon regulatory factor-1 (IRF-1) gene
+T31	Exp 355 357	we
+T32	Exp 301 306	which
+T33	Exp 284 297	the mechanism
+T34	Exp 321 344	the biphasic expression
+T35	Exp 365 383	the rat IRF-1 gene
+T36	Exp 415 433	the IRF-1 promoter
+T37	Exp 986 990	that
+T38	Exp 848 860	The sequence
+T39	Exp 991 1003	the activity
+T40	Exp 1171 1173	we
+T41	Exp 1226 1240	the IRF-1 gene
+T42	Exp 1265 1276	the IRF-1 5
+T43	Exp 1305 1333	The 0.2-kb IRF-CAT construct
+T44	Exp 1372 1384	the G1 phase
+T45	Exp 1388 1402	the cell cycle
+T46	Exp 1417 1445	the 1.7-kb IRF-CAT construct
+T47	Exp 1497 1511	the cell cycle
+T48	Exp 1520 1555	the PRL-induced biphasic expression
+T49	Exp 1559 1573	the IRF-1 gene
+T50	Exp 1648 1664	the first 0.2 kb
+T51	Exp 1668 1693	the IRF-1 promoter region
+T52	Exp 1779 1805	the proximal 0.2-kb region
+R2	Coref Anaphora:T32 Antecedent:T33
+T1	Protein 9 18	prolactin
+T2	Protein 80 110	interferon regulatory factor-1
+T3	Protein 122 152	interferon regulatory factor-1
+T4	Protein 154 159	IRF-1
+T5	Protein 240 243	PRL
+T6	Protein 307 310	PRL
+T7	Protein 348 353	IRF-1
+T8	Protein 373 378	IRF-1
+T9	Protein 419 424	IRF-1
+T10	Protein 493 498	IRF-1
+T11	Protein 527 561	chloramphenicol acetyl transferase
+T12	Protein 563 566	CAT
+T13	Protein 614 617	CAT
+T14	Protein 657 660	PRL
+T15	Protein 843 846	PRL
+T16	Protein 958 961	PRL
+T17	Protein 1016 1019	PRL
+T18	Protein 1110 1113	CAT
+T19	Protein 1144 1147	PRL
+T20	Protein 1209 1212	PRL
+T21	Protein 1230 1235	IRF-1
+T22	Protein 1269 1274	IRF-1
+T23	Protein 1349 1352	PRL
+T24	Protein 1463 1466	PRL
+T25	Protein 1524 1527	PRL
+T26	Protein 1563 1568	IRF-1
+T27	Protein 1611 1614	PRL
+T28	Protein 1672 1677	IRF-1

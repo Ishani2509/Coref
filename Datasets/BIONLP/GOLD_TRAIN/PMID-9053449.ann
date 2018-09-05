@@ -1,0 +1,37 @@
+T1	Protein 15 20	Egr-1
+T2	Protein 21 25	RelA
+T3	Protein 75 102	tumor necrosis factor-alpha
+T4	Protein 111 122	NF-kappa B1
+T5	Protein 331 334	p50
+T6	Protein 434 445	NF-kappa B1
+T7	Protein 597 613	phytohemagglutin
+T8	Protein 615 618	PHA
+T9	Protein 659 670	NF-kappa B1
+T10	Protein 719 746	tumor necrosis factor-alpha
+T11	Protein 828 839	NF-kappa B1
+T12	Protein 863 868	Egr-1
+T13	Protein 923 926	PHA
+T14	Protein 1021 1025	RelA
+T15	Protein 1052 1057	Egr-1
+T16	Protein 1072 1077	Egr-1
+T17	Protein 1116 1127	NF-kappa B1
+T18	Protein 1155 1158	PHA
+T19	Protein 1204 1209	Egr-1
+T20	Protein 1260 1271	NF-kappa B1
+T21	Protein 1368 1373	Egr-1
+T22	Protein 1460 1471	NF-kappa B1
+T23	Exp 285 301	a 105-kD protein	294 301	protein
+T24	Exp 302 306	that
+T25	Exp 492 516	the molecular mechanisms	506 516	mechanisms
+T26	Exp 520 525	which
+T27	Exp 756 764	the fact
+T28	Exp 765 769	that
+T29	Exp 860 873	an Egr-1 site	869 873	site
+T30	Exp 874 879	which
+T31	Exp 1151 1213	PMA/PHA-stimulated T cell lines expressing antisense Egr-1 RNA	1170 1182	T cell lines
+T32	Exp 1232 1237	their
+R1	Coref Anaphora:T24 Antecedent:T23
+R2	Coref Anaphora:T26 Antecedent:T25
+R3	Coref Anaphora:T28 Antecedent:T27
+R4	Coref Anaphora:T30 Antecedent:T29	[T12]
+R5	Coref Anaphora:T32 Antecedent:T31	[T18, T19]

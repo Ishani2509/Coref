@@ -1,0 +1,30 @@
+T4	Exp 128 132	that
+T5	Exp 223 231	the rate
+T6	Exp 308 328	the competence phase
+T7	Exp 332 354	the activation program
+T8	Exp 395 397	we
+T9	Exp 407 410	how
+T10	Exp 437 453	the type I IL-1R
+T11	Exp 481 501	the antigen receptor
+T12	Exp 529 559	the transactivating properties
+T13	Exp 383 394	this report
+T14	Exp 672 676	they
+T15	Exp 575 607	The synergistic antigen receptor
+T16	Exp 696 713	the phorbol ester
+T17	Exp 877 881	that
+T18	Exp 1042 1046	that
+T19	Exp 1047 1069	the synergistic effect
+T20	Exp 1172 1183	the cytosol
+T21	Exp 1244 1296	The IL-1-induced NF-kappa B DNA nuclear localization
+T22	Exp 1436 1440	that
+T23	Exp 1496 1537	the synthesis of a protein(s) responsible
+T24	Exp 1584 1595	the nucleus
+T25	Exp 1414 1427	These results
+T26	Exp 1696 1722	the IL-1-induced synthesis
+T27	Exp 1755 1795	the transient NF-kappa B-DNA interaction
+R3	Coref Anaphora:T14 Antecedent:T28
+R4	Coref Anaphora:T23 Antecedent:T3
+T1	Protein 441 453	type I IL-1R
+T2	Protein 1122 1137	I kappa B alpha
+T3	Protein 1139 1143	MAD3
+T28	Exp 618 625	signals

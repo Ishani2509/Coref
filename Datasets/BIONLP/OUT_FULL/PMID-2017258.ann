@@ -1,0 +1,31 @@
+T7	Exp 14 27	the precursor
+T8	Exp 45 63	the HIV-1 protease
+T9	Exp 106 160	the human immunodeficiency virus type-1 (HIV-1) genome
+T10	Exp 342 347	which
+T11	Exp 303 316	the induction
+T12	Exp 320 341	the factor NF-kappa B
+T13	Exp 379 409	the HIV-1 long terminal repeat
+T14	Exp 411 422	This factor
+T15	Exp 534 536	It
+T16	Exp 551 562	the nucleus
+T17	Exp 687 691	that
+T18	Exp 764 775	The cloning
+T19	Exp 779 800	the complementary DNA
+T20	Exp 805 820	the 50K subunit
+T21	Exp 934 948	The expression
+T22	Exp 1007 1017	the extent
+T23	Exp 1111 1113	we
+T24	Exp 1121 1131	the effect
+T25	Exp 1154 1168	the processing
+T26	Exp 1172 1196	the human 105K precursor
+T27	Exp 1198 1200	We
+T28	Exp 1211 1215	that
+T29	Exp 1216 1234	the HIV-1 protease
+R3	Coref Anaphora:T10 Antecedent:T12
+R4	Coref Anaphora:T15 Antecedent:T14
+T1	Protein 55 63	protease
+T2	Protein 809 820	50K subunit
+T3	Protein 883 887	p105
+T4	Protein 1035 1039	p105
+T5	Protein 1226 1234	protease
+T6	Protein 1247 1251	p105

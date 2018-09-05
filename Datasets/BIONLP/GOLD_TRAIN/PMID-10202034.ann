@@ -1,0 +1,31 @@
+T1	Protein 36 57	Jun N-terminal kinase
+T2	Protein 63 68	c-Jun
+T3	Protein 106 110	IL-6
+T4	Protein 308 331	c-Jun N-terminal kinase
+T5	Protein 333 336	JNK
+T6	Protein 351 355	IL-6
+T7	Protein 562 566	IL-6
+T8	Protein 702 705	JNK
+T9	Protein 769 773	IL-6
+T10	Protein 855 860	Raf-1
+T11	Protein 864 868	JNK1
+T12	Protein 930 934	IL-6
+T13	Protein 997 1001	Raf1
+T14	Protein 1002 1006	MEK1
+T15	Protein 1242 1246	IL-6
+T16	Protein 1345 1350	c-Jun
+T17	Protein 1398 1402	IL-6
+T18	Protein 1572 1575	JNK
+T19	Protein 1682 1687	c-Jun
+T20	Exp 36 57	Jun N-terminal kinase	51 57	kinase
+T21	Exp 208 337	the mitogen-activated protein kinase family members extracellular-regulated kinase 1/2 (ERK1/2) and c-Jun N-terminal kinase (JNK)	252 259	members
+T22	Exp 406 411	their
+T23	Exp 547 574	high levels of IL-6 protein	552 558	levels
+T24	Exp 576 581	which
+T25	Exp 1175 1213	NF-kappa B-mediated gene transcription	1200 1213	transcription
+T26	Exp 1270 1273	its
+T27	Exp 1644 1647	its
+R1	Coref Anaphora:T22 Antecedent:T21	[T5, T4]
+R2	Coref Anaphora:T24 Antecedent:T23	[T7]
+R3	Coref Anaphora:T26 Antecedent:T25
+R4	Coref Anaphora:T27 Antecedent:T20	[T1]

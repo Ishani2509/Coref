@@ -1,0 +1,37 @@
+T17	Exp 190 192	we
+T18	Exp 280 285	which
+T19	Exp 130 142	the function
+T20	Exp 146 182	the intracellular vitamin D receptor
+T21	Exp 354 356	we
+T22	Exp 343 353	this study
+T23	Exp 414 442	this variable VDR expression
+T24	Exp 474 478	that
+T25	Exp 773 795	the catalytic sub-unit
+T26	Exp 836 902	the peroxisomal enzyme 17beta-hydroxysteroid dehydrogenase type IV
+T27	Exp 948 952	that
+T28	Exp 1252 1256	that
+T29	Exp 1393 1403	both genes
+T30	Exp 1487 1507	its established role
+T31	Exp 1466 1470	that
+T32	Exp 1447 1457	These data
+R4	Coref Anaphora:T18 Antecedent:T33
+T35	SPAN 1292 1319	17beta-HSD IV or DNA-PK(CS)
+R5	Coref Anaphora:T29 Antecedent:T35
+R6	Coref Anaphora:T30 Antecedent:T34
+T1	Protein 74 92	vitamin D receptor
+T2	Protein 164 182	vitamin D receptor
+T3	Protein 184 187	VDR
+T4	Protein 335 338	VDR
+T5	Protein 428 431	VDR
+T6	Protein 497 500	VDR
+T7	Protein 590 595	c-myc
+T8	Protein 819 829	DNA-PK(CS)
+T9	Protein 859 902	17beta-hydroxysteroid dehydrogenase type IV
+T10	Protein 904 917	17beta-HSD IV
+T11	Protein 1025 1028	VDR
+T12	Protein 1049 1062	17beta-HSD IV
+T13	Protein 1292 1305	17beta-HSD IV
+T14	Protein 1309 1319	DNA-PK(CS)
+T15	Protein 1548 1551	VDR
+T33	Exp 274 278	U937
+T34	Exp 1475 1483	addition

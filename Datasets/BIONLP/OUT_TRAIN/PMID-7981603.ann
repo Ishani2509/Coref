@@ -1,0 +1,11 @@
+T1	Exp 53 66	The induction
+T2	Exp 128 140	the earliest
+T3	Exp 222 227	which
+T4	Exp 199 218	the exact mechanism
+T5	Exp 338 349	these cells
+T6	Exp 382 390	The role
+T7	Exp 437 458	the apoptotic process
+T8	Exp 496 511	the involvement
+T9	Exp 584 607	the clinical importance
+T10	Exp 647 660	the treatment
+R2	Coref Anaphora:T3 Antecedent:T4

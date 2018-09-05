@@ -1,0 +1,19 @@
+T6	Exp 65 85	the 3' locus control
+T7	Exp 95 114	The suggested roles
+T8	Exp 118 143	the downstream 3' regions
+T9	Exp 228 242	the regulation
+T10	Exp 246 259	the IgH locus
+T11	Exp 341 343	we
+T12	Exp 454 456	it
+T13	Exp 390 418	its putative functional role
+T14	Exp 354 368	the importance
+T15	Exp 372 381	the IgH 3
+T16	Exp 462 489	the 5'LCR regulatory region
+T17	Exp 493 520	the human beta-globin locus
+R2	Coref Anaphora:T13 Antecedent:T14
+R3	Coref Anaphora:T12 Antecedent:T14
+T1	Protein 20 23	IgH
+T2	Protein 250 253	IgH
+T3	Protein 376 379	IgH
+T4	Protein 422 425	IgH
+T5	Protein 503 514	beta-globin

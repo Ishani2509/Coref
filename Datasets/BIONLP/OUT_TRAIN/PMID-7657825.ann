@@ -1,0 +1,25 @@
+T14	Exp 206 215	The viral
+T15	Exp 290 307	Our previous data
+T16	Exp 360 364	that
+T17	Exp 465 469	both
+T18	Exp 556 563	the tax
+T19	Exp 837 844	the tax
+T20	Exp 1144 1149	which
+T21	Exp 1132 1142	the B line
+T22	Exp 1053 1065	this protein
+T23	Exp 1404 1430	the transgenic mouse model
+R3	Coref Anaphora:T22 Antecedent:T12
+R4	Coref Anaphora:T20 Antecedent:T21
+T1	Protein 105 108	tax
+T2	Protein 232 235	tax
+T3	Protein 324 327	tax
+T4	Protein 365 368	tax
+T5	Protein 447 450	tax
+T6	Protein 560 563	tax
+T7	Protein 829 833	Jak2
+T8	Protein 841 844	tax
+T9	Protein 890 894	Jak3
+T10	Protein 956 960	Jak2
+T11	Protein 964 967	tax
+T12	Protein 1019 1023	IL-6
+T13	Protein 1260 1264	IL-6

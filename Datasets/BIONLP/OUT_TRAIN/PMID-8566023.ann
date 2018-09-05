@@ -1,0 +1,22 @@
+T6	Exp 71 111	the human T cell receptor gamma enhancer
+T7	Exp 133 140	the Ca2
+T8	Exp 178 195	the transcription
+T9	Exp 330 342	the response
+T10	Exp 300 313	this sequence
+T11	Exp 396 398	we
+T12	Exp 406 424	the identification
+T13	Exp 443 460	the same sequence
+T14	Exp 485 516	the human T cell receptor gamma
+T15	Exp 630 634	that
+T16	Exp 658 690	the ionomycin-induced activation
+T17	Exp 694 711	the TCRG enhancer
+T18	Exp 635 648	this sequence
+T19	Exp 713 724	Our studies
+T20	Exp 775 779	that
+R2	Coref Anaphora:T20 Antecedent:T21
+T1	Protein 81 102	T cell receptor gamma
+T2	Protein 495 516	T cell receptor gamma
+T3	Protein 518 522	TCRG
+T4	Protein 698 702	TCRG
+T5	Protein 780 784	TCRG
+T21	Exp 752 774	a previous observation

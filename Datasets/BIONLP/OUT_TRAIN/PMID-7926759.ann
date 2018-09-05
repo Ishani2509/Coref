@@ -1,0 +1,42 @@
+T11	Exp 176 194	the classic models
+T12	Exp 303 326	their heavy-chain locus
+T13	Exp 335 358	their light chain genes
+T14	Exp 371 375	that
+T15	Exp 275 286	these cells
+T16	Exp 416 441	this differentiation step
+T17	Exp 662 666	they
+T18	Exp 608 612	that
+T19	Exp 571 588	the Abelson virus
+T20	Exp 624 653	the nonpermissive temperature
+T21	Exp 451 466	this hypothesis
+T22	Exp 695 706	Our studies
+T23	Exp 714 718	that
+T24	Exp 735 768	the v-abl protein tyrosine kinase
+T25	Exp 898 912	the expression
+T26	Exp 846 858	These events
+T27	Exp 963 974	the absence
+T28	Exp 1033 1066	the v-abl protein tyrosine kinase
+T29	Exp 938 953	These increases
+T30	Exp 1085 1107	the accompanying paper
+T31	Exp 1175 1187	the activity
+T32	Exp 1235 1260	the kappa intron enhancer
+T33	Exp 1122 1132	this issue
+T34	Exp 1294 1298	that
+T35	Exp 1477 1481	that
+T36	Exp 1299 1316	the v-abl protein
+T37	Exp 1271 1281	these data
+T38	Exp 1428 1438	this stage
+R4	Coref Anaphora:T12 Antecedent:T15
+R5	Coref Anaphora:T13 Antecedent:T15
+R6	Coref Anaphora:T18 Antecedent:T39
+R7	Coref Anaphora:T17 Antecedent:T39
+T1	Protein 10 15	v-abl
+T2	Protein 386 391	v-abl
+T3	Protein 683 688	BCL-2
+T4	Protein 739 744	v-abl
+T5	Protein 916 921	RAG-1
+T6	Protein 926 931	RAG-2
+T7	Protein 1037 1042	v-abl
+T8	Protein 1145 1150	v-abl
+T9	Protein 1303 1308	v-abl
+T39	Exp 596 607	derivatives

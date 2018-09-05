@@ -1,0 +1,25 @@
+T11	Exp 170 174	that
+T12	Exp 70 85	The development
+T13	Exp 406 416	the Ikaros
+T14	Exp 456 463	the Ets
+T15	Exp 522 539	the Stat proteins
+T16	Exp 621 623	we
+T17	Exp 634 659	our current understanding
+T18	Exp 663 693	the transcriptional regulation
+T19	Exp 757 768	the results
+T20	Exp 608 619	this review
+T21	Exp 848 865	our understanding
+T22	Exp 892 896	that
+T23	Exp 869 891	the molecular pathways
+T24	Exp 939 952	these results
+R3	Coref Anaphora:T11 Antecedent:T25
+R4	Coref Anaphora:T22 Antecedent:T23
+T1	Protein 410 416	Ikaros
+T2	Protein 418 422	LKLF
+T3	Protein 428 433	GATA3
+T4	Protein 465 469	CREB
+T5	Protein 470 473	ATF
+T6	Protein 583 587	LEF1
+T7	Protein 589 593	TCF1
+T8	Protein 599 603	Sox4
+T25	Exp 141 169	signal transduction pathways

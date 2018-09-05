@@ -1,0 +1,44 @@
+T31	Exp 57 84	the T cell receptor complex
+T32	Exp 124 138	The regulation
+T33	Exp 184 203	the T cell receptor
+T34	Exp 333 352	the kappa B element
+T35	Exp 667 671	both
+T36	Exp 611 624	this sequence
+T37	Exp 778 787	the level
+T38	Exp 740 755	This regulation
+T39	Exp 1034 1052	the immediate ones
+T40	Exp 1188 1219	the p65 and c-rel translocation
+T41	Exp 1576 1603	its immediate translocation
+T42	Exp 1457 1461	that
+T43	Exp 1605 1610	which
+T44	Exp 1462 1476	the regulation
+T45	Exp 1434 1447	These results
+T46	Exp 1685 1712	the main factor responsible
+R6	Coref Anaphora:T41 Antecedent:T47
+R7	Coref Anaphora:T43 Antecedent:T47
+T1	Protein 94 121	tumor necrosis factor alpha
+T2	Protein 304 307	p50
+T3	Protein 356 398	interleukin-2 receptor (IL-2R) alpha chain
+T4	Protein 525 528	p50
+T5	Protein 529 532	p65
+T6	Protein 560 563	p50
+T7	Protein 564 569	c-rel
+T8	Protein 816 819	p65
+T9	Protein 824 829	c-rel
+T10	Protein 891 896	c-rel
+T11	Protein 901 905	p105
+T12	Protein 906 909	p50
+T13	Protein 934 937	p65
+T14	Protein 1092 1119	tumor necrosis factor alpha
+T15	Protein 1121 1130	TNF-alpha
+T16	Protein 1192 1195	p65
+T17	Protein 1200 1205	c-rel
+T18	Protein 1398 1407	TNF-alpha
+T19	Protein 1630 1639	TNF-alpha
+T20	Protein 1652 1661	TNF-alpha
+T21	Protein 1792 1795	p65
+T22	Protein 1800 1805	c-rel
+T23	Protein 1834 1839	c-rel
+T24	Protein 1844 1848	p105
+T25	Protein 1849 1852	p50
+T47	Exp 1559 1566	TcR/CD3

@@ -1,0 +1,58 @@
+T10	Exp 33 37	that
+T11	Exp 141 174	the lymphoid cell-specific factor
+T12	Exp 182 212	The tissue-specific expression
+T13	Exp 216 243	the MOPC 141 immunoglobulin
+T14	Exp 366 387	the octamer element 5
+T15	Exp 413 432	the upstream region
+T16	Exp 457 470	the promoters
+T17	Exp 339 348	this gene
+T18	Exp 436 449	this promoter
+T19	Exp 529 544	The interaction
+T20	Exp 616 624	the MOPC
+T21	Exp 820 844	the heavy-chain promoter
+T22	Exp 867 869	we
+T23	Exp 933 935	it
+T24	Exp 949 953	that
+T25	Exp 846 866	The OTF interactions
+T26	Exp 893 913	the heptamer element
+T27	Exp 954 965	the binding
+T28	Exp 969 989	the purified factors
+T29	Exp 1049 1062	this promoter
+T30	Exp 1095 1097	we
+T31	Exp 1138 1151	the N element
+T32	Exp 1157 1171	the sequence 5
+T33	Exp 1079 1093	these elements
+T34	Exp 1345 1347	it
+T35	Exp 1190 1203	The N element
+T36	Exp 1324 1343	the octamer element
+T37	Exp 1458 1462	that
+T38	Exp 1571 1575	that
+T39	Exp 1409 1422	The N element
+T40	Exp 1537 1570	the previously described proteins
+T41	Exp 1627 1629	we
+T42	Exp 1680 1697	their cognate DNA
+T43	Exp 1638 1642	that
+T44	Exp 1800 1804	that
+T45	Exp 1723 1748	the protein-protein level
+T46	Exp 1612 1625	these results
+T47	Exp 1805 1823	these interactions
+R8	Coref Anaphora:T10 Antecedent:T48
+R9	Coref Anaphora:T17 Antecedent:T1
+T51	SPAN 757 770	OTF1 and OTF2
+R10	Coref Anaphora:T28 Antecedent:T51
+T52	SPAN 757 770	OTF1 and OTF2
+R11	Coref Anaphora:T33 Antecedent:T52
+R12	Coref Anaphora:T34 Antecedent:T35
+R13	Coref Anaphora:T37 Antecedent:T49
+R14	Coref Anaphora:T38 Antecedent:T40
+R15	Coref Anaphora:T42 Antecedent:T50
+T1	Protein 175 179	OTF2
+T2	Protein 596 600	OTF1
+T3	Protein 605 609	OTF2
+T4	Protein 732 736	OTF1
+T5	Protein 757 761	OTF1
+T6	Protein 766 770	OTF2
+T7	Protein 1651 1655	OTF2
+T48	Exp 18 32	a novel factor
+T49	Exp 1453 1456	NTF
+T50	Exp 1656 1668	interactions

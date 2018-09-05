@@ -1,0 +1,20 @@
+T1	Protein 31 37	GATA-3
+T2	Protein 97 103	GATA-3
+T3	Protein 211 214	CD4
+T4	Protein 292 298	GATA-3
+T5	Protein 716 722	GATA-3
+T6	Protein 784 790	GATA-3
+T7	Protein 1022 1028	GATA-3
+T8	Protein 1137 1143	GATA-3
+T9	Protein 1359 1362	ZEB
+T10	Protein 1403 1406	E2A
+T11	Protein 1411 1414	HEB
+T12	Protein 1457 1460	ZEB
+T13	Protein 1465 1468	E2A
+T14	Protein 1469 1472	HEB
+T15	Exp 239 278	the DNase-I-hypersensitive (HS) regions	271 278	regions
+T16	Exp 343 348	their
+T17	Exp 1085 1109	a 707-base pair silencer	1101 1109	silencer
+T18	Exp 1110 1114	that
+R1	Coref Anaphora:T16 Antecedent:T15
+R2	Coref Anaphora:T18 Antecedent:T17

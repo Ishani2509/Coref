@@ -1,0 +1,7 @@
+T1	Protein 30 36	GATA-3
+T2	Protein 413 420	cGATA-3
+T3	Protein 514 520	GATA-3
+T4	Protein 943 949	GATA-3
+T5	Exp 155 193	A family of transcriptional activators	157 163	family
+T6	Exp 390 411	this multigene family	395 411	multigene family
+R1	Coref Anaphora:T6 Antecedent:T5

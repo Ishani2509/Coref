@@ -1,0 +1,44 @@
+T4	Exp 0 26	The intracellular parasite
+T5	Exp 144 158	their survival
+T6	Exp 360 364	them
+T7	Exp 211 226	its propagation
+T8	Exp 315 345	their continuous proliferation
+T9	Exp 160 186	The intracellular parasite
+T10	Exp 247 266	the infected animal
+T11	Exp 395 397	we
+T12	Exp 542 568	its cytoplasmic inhibitors
+T13	Exp 409 413	that
+T14	Exp 414 426	the parasite
+T15	Exp 462 496	the transcription factor NF-kappaB
+T16	Exp 510 538	the constitutive degradation
+T17	Exp 570 597	The biological significance
+T18	Exp 762 766	they
+T19	Exp 691 695	that
+T20	Exp 823 827	that
+T21	Exp 864 868	that
+T22	Exp 798 822	the apoptotic mechanisms
+T23	Exp 914 916	We
+T24	Exp 933 937	that
+T25	Exp 1097 1101	that
+T26	Exp 1000 1012	the survival
+T27	Exp 1212 1226	the expression
+T28	Exp 1278 1310	the NF-kappaB activation pathway
+T29	Exp 1397 1409	Our findings
+T30	Exp 1485 1489	that
+T31	Exp 1577 1602	the transformed phenotype
+T32	Exp 1606 1624	the infected cells
+R10	Coref Anaphora:T5 Antecedent:T33
+R11	Coref Anaphora:T7 Antecedent:T9
+R12	Coref Anaphora:T8 Antecedent:T34
+R13	Coref Anaphora:T6 Antecedent:T34
+R14	Coref Anaphora:T12 Antecedent:T16
+R15	Coref Anaphora:T19 Antecedent:T35
+R16	Coref Anaphora:T18 Antecedent:T35
+R17	Coref Anaphora:T20 Antecedent:T22
+R18	Coref Anaphora:T25 Antecedent:T36
+T1	Protein 1320 1332	IkappaBalpha
+T2	Protein 1336 1339	p65
+T33	Exp 86 95	Parasites
+T34	Exp 297 304	T cells
+T35	Exp 685 690	Cells
+T36	Exp 1077 1096	an apoptotic signal

@@ -1,0 +1,40 @@
+T8	Exp 55 59	that
+T9	Exp 31 54	the human IL-4 promoter
+T10	Exp 86 94	the gene
+T11	Exp 104 109	which
+T12	Exp 534 546	its location
+T13	Exp 571 588	its biologic role
+T14	Exp 641 654	the IL-4 gene
+T15	Exp 694 708	the atopy gene
+T16	Exp 554 566	this cluster
+T17	Exp 804 812	the gene
+T18	Exp 904 906	we
+T19	Exp 914 918	that
+T20	Exp 976 980	that
+T21	Exp 919 942	the human IL-4 promoter
+T22	Exp 892 902	this model
+T23	Exp 1277 1308	the increased promotor strength
+T24	Exp 1344 1361	the IL-4 promoter
+T25	Exp 1312 1340	this particular allelic form
+T26	Exp 1373 1390	this substitution
+T27	Exp 1538 1543	which
+T28	Exp 1495 1513	The identification
+T29	Exp 1573 1586	the IL-4 gene
+R7	Coref Anaphora:T8 Antecedent:T9
+R8	Coref Anaphora:T11 Antecedent:T30
+R9	Coref Anaphora:T12 Antecedent:T31
+R10	Coref Anaphora:T13 Antecedent:T31
+R11	Coref Anaphora:T17 Antecedent:T15
+R12	Coref Anaphora:T20 Antecedent:T32
+R13	Coref Anaphora:T27 Antecedent:T33
+T1	Protein 41 45	IL-4
+T2	Protein 645 649	IL-4
+T3	Protein 745 749	IL-4
+T4	Protein 929 933	IL-4
+T5	Protein 1028 1032	IL-4
+T6	Protein 1348 1352	IL-4
+T7	Protein 1577 1581	IL-4
+T30	Exp 97 102	Atopy
+T31	Exp 381 407	A recent sib-pair analysis
+T32	Exp 953 975	multiple allelic forms
+T33	Exp 1517 1536	allelic nucleotides

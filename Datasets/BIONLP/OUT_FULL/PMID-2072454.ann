@@ -1,0 +1,25 @@
+T5	Exp 53 77	the replicative capacity
+T6	Exp 517 531	their capacity
+T7	Exp 293 307	the NF-kappa B
+T8	Exp 341 372	the native long terminal repeat
+T9	Exp 733 738	which
+T10	Exp 765 772	the LTR
+T11	Exp 622 639	these experiments
+T12	Exp 1137 1142	which
+T13	Exp 1082 1106	the associated emergence
+T14	Exp 1169 1181	the TATA box
+T15	Exp 1205 1209	that
+T16	Exp 1286 1291	which
+T17	Exp 1210 1253	the human immunodeficiency virus type 1 LTR
+T18	Exp 1384 1410	the particular combination
+T19	Exp 1183 1196	These results
+R4	Coref Anaphora:T6 Antecedent:T20
+R5	Coref Anaphora:T12 Antecedent:T21
+R6	Coref Anaphora:T16 Antecedent:T22
+T1	Protein 31 34	Sp1
+T2	Protein 312 315	Sp1
+T3	Protein 471 474	Sp1
+T4	Protein 888 891	Sp1
+T20	Exp 380 390	proviruses
+T21	Exp 1110 1136	second-site LTR revertants
+T22	Exp 1264 1285	functional redundancy

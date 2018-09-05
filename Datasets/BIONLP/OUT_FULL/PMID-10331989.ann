@@ -1,0 +1,37 @@
+T15	Exp 125 140	the GATA-1 gene
+T16	Exp 143 186	The lineage-restricted transcription factor
+T17	Exp 265 267	We
+T18	Exp 406 411	which
+T19	Exp 451 503	the murine hematopoietic-specific GATA-1 IE promoter
+T20	Exp 814 823	This core
+T21	Exp 987 992	which
+T22	Exp 893 912	The composite motif
+T23	Exp 1061 1074	the GATA site
+T24	Exp 1120 1135	the E-box motif
+T25	Exp 1177 1190	both lineages
+T26	Exp 1381 1393	its function
+T27	Exp 1250 1254	that
+T28	Exp 1455 1459	that
+T29	Exp 1417 1441	the 317 base pair region
+T30	Exp 1540 1554	the 5' 62 base
+T31	Exp 1699 1715	the HS I element
+T32	Exp 1616 1630	These findings
+R4	Coref Anaphora:T18 Antecedent:T33
+R5	Coref Anaphora:T21 Antecedent:T34
+R6	Coref Anaphora:T26 Antecedent:T35
+T1	Protein 129 135	GATA-1
+T2	Protein 187 193	GATA-1
+T3	Protein 485 491	GATA-1
+T4	Protein 552 558	GATA-1
+T5	Protein 559 563	lacZ
+T6	Protein 1002 1008	GATA-1
+T7	Protein 1010 1013	SCL
+T8	Protein 1014 1019	tal-1
+T9	Protein 1021 1024	E2A
+T10	Protein 1026 1030	Lmo2
+T11	Protein 1035 1040	Ldb-1
+T12	Protein 1322 1328	GATA-1
+T13	Protein 1332 1338	GATA-2
+T33	Exp 352 404	a hematopoietic-specific DNase I hypersensitive site
+T34	Exp 919 986	a multi-protein hematopoietic-specific transcription factor complex
+T35	Exp 1255 1263	assembly

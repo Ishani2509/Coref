@@ -1,0 +1,44 @@
+T20	Exp 288 293	which
+T21	Exp 189 216	The proto-oncoprotein c-Rel
+T22	Exp 232 286	the nuclear factor kappa B transcription factor family
+T23	Exp 303 327	the p50 and p65 subunits
+T24	Exp 355 357	We
+T25	Exp 368 372	that
+T26	Exp 450 466	These homodimers
+T27	Exp 582 601	the c-Rel homodimer
+T28	Exp 738 740	we
+T29	Exp 694 709	its association
+T30	Exp 795 799	that
+T31	Exp 908 927	the c-Rel homodimer
+T32	Exp 837 848	this factor
+T33	Exp 1012 1014	it
+T34	Exp 1159 1171	its activity
+T35	Exp 1041 1045	that
+T36	Exp 1046 1068	the IL-6 kappa B motif
+T37	Exp 1246 1248	We
+T38	Exp 1271 1275	that
+R5	Coref Anaphora:T20 Antecedent:T22
+R6	Coref Anaphora:T29 Antecedent:T39
+R7	Coref Anaphora:T34 Antecedent:T31
+R8	Coref Anaphora:T38 Antecedent:T40
+T1	Protein 51 56	c-Rel
+T2	Protein 101 114	interleukin-6
+T3	Protein 211 216	c-Rel
+T4	Protein 373 378	c-Rel
+T5	Protein 445 448	p50
+T6	Protein 586 591	c-Rel
+T7	Protein 626 639	interleukin-6
+T8	Protein 641 645	IL-6
+T9	Protein 651 666	beta interferon
+T10	Protein 715 718	p50
+T11	Protein 809 814	c-Rel
+T12	Protein 823 826	p50
+T13	Protein 857 861	IL-6
+T14	Protein 912 917	c-Rel
+T15	Protein 966 970	IL-6
+T16	Protein 1050 1054	IL-6
+T17	Protein 1096 1117	tumor necrosis factor
+T18	Protein 1276 1280	IL-6
+T19	Protein 1345 1349	IL-6
+T39	Exp 685 690	spite
+T40	Exp 1262 1270	evidence

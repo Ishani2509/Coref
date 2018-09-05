@@ -1,0 +1,22 @@
+T6	Exp 41 69	the helix-loop-helix protein
+T7	Exp 126 139	The Id family
+T8	Exp 252 266	the regulation
+T9	Exp 303 305	We
+T10	Exp 415 420	which
+T11	Exp 321 339	the identification
+T12	Exp 363 386	the 14 kDa Id-3 protein
+T13	Exp 631 670	the predominant 0.95 kb Id-3 transcript
+T14	Exp 674 686	the majority
+T15	Exp 846 848	it
+T16	Exp 873 884	its ability
+T17	Exp 720 745	The variant Id-3L protein
+T18	Exp 908 942	the basic helix-loop-helix protein
+R3	Coref Anaphora:T10 Antecedent:T19
+R4	Coref Anaphora:T15 Antecedent:T17
+R5	Coref Anaphora:T16 Antecedent:T17
+T1	Protein 71 75	Id-3
+T2	Protein 374 378	Id-3
+T3	Protein 655 659	Id-3
+T4	Protein 796 800	Id-3
+T5	Protein 944 947	E47
+T19	Exp 401 413	long version

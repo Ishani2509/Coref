@@ -1,0 +1,66 @@
+T6	Exp 0 15	The development
+T7	Exp 53 61	The work
+T8	Exp 74 86	this article
+T9	Exp 190 195	which
+T10	Exp 335 345	the thymus
+T11	Exp 288 298	This phase
+T12	Exp 407 411	that
+T13	Exp 356 383	the profound T cell deficit
+T14	Exp 412 422	the thymus
+T15	Exp 433 453	the most potent site
+T16	Exp 467 480	the expansion
+T17	Exp 643 647	that
+T18	Exp 603 614	The details
+T19	Exp 618 642	the regulatory mechanism
+T20	Exp 711 713	It
+T21	Exp 927 929	it
+T22	Exp 720 724	that
+T23	Exp 948 951	how
+T24	Exp 725 742	the rearrangement
+T25	Exp 746 764	the TCR gamma loci
+T26	Exp 768 791	the gamma delta lineage
+T27	Exp 866 883	the rearrangement
+T28	Exp 899 921	the alpha beta lineage
+T29	Exp 958 974	the two lineages
+T30	Exp 987 1013	the TCR alpha beta lineage
+T31	Exp 1024 1059	the final gene rearrangement events
+T32	Exp 1314 1318	that
+T33	Exp 1159 1167	The loss
+T34	Exp 1236 1245	the level
+T35	Exp 1290 1313	the physiological state
+T36	Exp 1361 1380	the complex process
+T37	Exp 1615 1619	that
+T38	Exp 1576 1583	neither
+T39	Exp 1595 1614	the same phenomenon
+T40	Exp 1630 1647	the thymic cortex
+T41	Exp 1811 1828	its own chromatin
+T42	Exp 1671 1681	the cortex
+T43	Exp 1783 1801	the activated cell
+T44	Exp 1910 1912	it
+T45	Exp 1840 1844	that
+T46	Exp 1830 1839	The genes
+T47	Exp 1868 1881	this response
+T48	Exp 1953 1955	It
+T49	Exp 1971 1975	that
+T50	Exp 2212 2216	they
+T51	Exp 2285 2289	they
+T52	Exp 2184 2193	this form
+T53	Exp 2473 2477	they
+R9	Coref Anaphora:T9 Antecedent:T54
+R10	Coref Anaphora:T17 Antecedent:T19
+R11	Coref Anaphora:T32 Antecedent:T35
+R12	Coref Anaphora:T37 Antecedent:T39
+R13	Coref Anaphora:T41 Antecedent:T43
+R14	Coref Anaphora:T44 Antecedent:T43
+R15	Coref Anaphora:T45 Antecedent:T46
+R16	Coref Anaphora:T50 Antecedent:T55
+R17	Coref Anaphora:T51 Antecedent:T55
+R18	Coref Anaphora:T53 Antecedent:T56
+T1	Protein 1766 1770	IL-2
+T2	Protein 2063 2074	IL-2R alpha
+T3	Protein 2129 2133	IL-2
+T4	Protein 2226 2242	IL-2R beta chain
+T5	Protein 2308 2313	Bcl-2
+T54	Exp 171 188	TCR rearrangement
+T55	Exp 2155 2172	murine thymocytes
+T56	Exp 2384 2404	medullary thymocytes

@@ -1,0 +1,45 @@
+T20	Exp 60 79	the human FOSB gene
+T21	Exp 359 364	which
+T22	Exp 299 311	The sequence
+T23	Exp 337 357	the murine FOSB gene
+T24	Exp 388 421	the AP1 transcriptional regulator
+T25	Exp 509 523	the FOS family
+T26	Exp 607 612	which
+T27	Exp 701 705	that
+T28	Exp 666 678	The kinetics
+T29	Exp 706 729	the high initial levels
+T30	Exp 744 767	the isolation procedure
+T31	Exp 894 906	the addition
+T32	Exp 952 965	the next 3 hr
+T33	Exp 1016 1028	the addition
+T34	Exp 1074 1087	the next 6 hr
+T35	Exp 1177 1222	the protein synthesis inhibitor cycloheximide
+T36	Exp 1247 1273	the cycloheximide response
+T37	Exp 1302 1310	the case
+T38	Exp 1320 1337	These differences
+T39	Exp 1467 1477	the region
+T40	Exp 1481 1489	the gene
+T41	Exp 1518 1523	where
+T42	Exp 1729 1733	that
+T43	Exp 1707 1720	the FOSB gene
+T44	Exp 1734 1747	the potential
+R4	Coref Anaphora:T21 Antecedent:T23
+R5	Coref Anaphora:T26 Antecedent:T45
+R6	Coref Anaphora:T40 Antecedent:T15
+T1	Protein 70 74	FOSB
+T2	Protein 81 85	G0S3
+T3	Protein 89 93	G0S3
+T4	Protein 348 352	FOSB
+T5	Protein 577 581	FOSB
+T6	Protein 582 586	G0S3
+T7	Protein 591 594	FOS
+T8	Protein 595 599	G0S7
+T9	Protein 856 859	FOS
+T10	Protein 977 981	FOSB
+T11	Protein 1121 1124	FOS
+T12	Protein 1129 1133	FOSB
+T13	Protein 1314 1318	FOSB
+T14	Protein 1355 1358	FOS
+T15	Protein 1363 1367	FOSB
+T16	Protein 1711 1715	FOSB
+T45	Exp 600 605	mRNAs

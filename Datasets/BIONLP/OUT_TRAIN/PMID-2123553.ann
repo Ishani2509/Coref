@@ -1,0 +1,43 @@
+T7	Exp 317 338	its structural analog
+T8	Exp 256 260	that
+T9	Exp 235 255	the antigen receptor
+T10	Exp 278 305	the immunosuppressant FK506
+T11	Exp 354 368	the other hand
+T12	Exp 532 536	that
+T13	Exp 537 541	both
+T14	Exp 486 496	each other
+T15	Exp 516 531	the possibility
+T16	Exp 462 477	these two drugs
+T17	Exp 617 619	We
+T18	Exp 793 843	their effective biologic inhibitory concentrations
+T19	Exp 625 629	that
+T20	Exp 630 655	the dissociation constant
+T21	Exp 672 702	the FK506 binding protein FKBP
+T22	Exp 729 754	the dissociation constant
+T23	Exp 1181 1204	The drug concentrations
+T24	Exp 1249 1270	the relative affinity
+T25	Exp 1274 1283	the drugs
+T26	Exp 1295 1308	the abundance
+T27	Exp 1313 1334	the immunophilin FKBP
+T28	Exp 1481 1483	we
+T29	Exp 1489 1493	that
+T30	Exp 1368 1387	the interconversion
+T31	Exp 1391 1398	the cis
+T32	Exp 1422 1452	the peptidyl-prolyl amide bond
+T33	Exp 1542 1563	the rotamase activity
+T34	Exp 1683 1703	the biologic actions
+T35	Exp 1707 1718	these drugs
+T36	Exp 1587 1607	Neither FKBP binding
+T37	Exp 1751 1755	that
+T38	Exp 1859 1875	the immunophilin
+T39	Exp 1728 1742	these findings
+R5	Coref Anaphora:T8 Antecedent:T9
+R6	Coref Anaphora:T7 Antecedent:T10
+R7	Coref Anaphora:T12 Antecedent:T15
+R8	Coref Anaphora:T18 Antecedent:T16
+T1	Protein 370 383	interleukin 2
+T2	Protein 385 389	IL-2
+T3	Protein 926 930	IL-2
+T4	Protein 1048 1052	IL-2
+T5	Protein 1153 1157	IL-2
+T6	Protein 1892 1896	IL-2

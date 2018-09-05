@@ -1,0 +1,22 @@
+T1	Exp 49 65	the combinations
+T2	Exp 304 320	its own promoter
+T3	Exp 252 256	that
+T4	Exp 135 148	The promoters
+T5	Exp 376 378	we
+T6	Exp 407 409	it
+T7	Exp 328 344	this expectation
+T8	Exp 524 526	We
+T9	Exp 533 537	that
+T10	Exp 538 561	the relative efficiency
+T11	Exp 565 578	the enhancers
+T12	Exp 596 604	the same
+T13	Exp 622 630	the type
+T14	Exp 740 742	we
+T15	Exp 788 792	when
+T16	Exp 793 826	the immunoglobulin kappa enhancer
+T17	Exp 831 849	the immunoglobulin
+T18	Exp 915 917	We
+T19	Exp 926 930	that
+R3	Coref Anaphora:T2 Antecedent:T20
+R4	Coref Anaphora:T6 Antecedent:T7
+T20	Exp 257 273	a given enhancer

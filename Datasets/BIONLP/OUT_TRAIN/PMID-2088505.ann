@@ -1,0 +1,24 @@
+T10	Exp 31 35	that
+T11	Exp 84 110	the interleukin-2 promoter
+T12	Exp 238 242	that
+T13	Exp 113 136	The interleukin 2 (IL-2
+T14	Exp 450 452	we
+T15	Exp 550 555	which
+T16	Exp 469 526	the novel T-cell-specific transcriptional activator TCF-1
+T17	Exp 623 640	the IL-2 promoter
+T18	Exp 740 744	that
+T19	Exp 651 658	the TCE
+R4	Coref Anaphora:T10 Antecedent:T20
+R5	Coref Anaphora:T12 Antecedent:T21
+R6	Coref Anaphora:T15 Antecedent:T6
+T1	Protein 88 101	interleukin-2
+T2	Protein 117 130	interleukin 2
+T3	Protein 132 136	IL-2
+T4	Protein 317 321	IL-2
+T5	Protein 521 526	TCF-1
+T6	Protein 532 547	T-Cell Factor-1
+T7	Protein 627 631	IL-2
+T8	Protein 745 750	TCF-1
+T9	Protein 806 811	TCF-1
+T20	Exp 0 30	A novel T-cell trans-activator
+T21	Exp 200 237	ubiquitous transcriptional regulators

@@ -1,0 +1,29 @@
+T6	Exp 180 184	that
+T7	Exp 207 240	the interleukin-2 (IL-2) promoter
+T8	Exp 286 318	the T cell-specific inducibility
+T9	Exp 391 395	that
+T10	Exp 527 529	it
+T11	Exp 467 490	The B cell NFAT complex
+T12	Exp 776 780	that
+T13	Exp 727 741	the NFAT motif
+T14	Exp 836 851	both cell types
+T15	Exp 922 936	the NFAT motif
+T16	Exp 947 951	when
+T17	Exp 1100 1112	the presence
+T18	Exp 1192 1205	the formation
+T19	Exp 1209 1225	the NFAT complex
+T20	Exp 1229 1244	both cell types
+T21	Exp 1292 1297	the 5
+T22	Exp 1319 1336	the NFAT sequence
+T23	Exp 1382 1401	the wild type motif
+T24	Exp 1452 1454	We
+T25	Exp 1481 1488	whereby
+R3	Coref Anaphora:T6 Antecedent:T26
+R4	Coref Anaphora:T25 Antecedent:T27
+T1	Protein 211 224	interleukin-2
+T2	Protein 226 230	IL-2
+T3	Protein 322 326	IL-2
+T4	Protein 583 616	chloramphenicol acetyltransferase
+T5	Protein 618 621	CAT
+T26	Exp 152 179	a transcriptional activator
+T27	Exp 1473 1480	a model

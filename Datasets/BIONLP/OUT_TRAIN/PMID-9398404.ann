@@ -1,0 +1,47 @@
+T34	Exp 181 195	both cytokines
+T35	Exp 307 309	We
+T36	Exp 319 335	the contribution
+T37	Exp 339 355	the two isoforms
+T38	Exp 560 600	the interferon-gamma activation sequence
+T39	Exp 669 680	the nucleus
+T40	Exp 612 627	these complexes
+T41	Exp 464 478	Both cytokines
+T42	Exp 713 725	The kinetics
+T43	Exp 729 747	this translocation
+T44	Exp 845 858	their ability
+T45	Exp 944 955	these STATs
+T46	Exp 1081 1083	we
+T47	Exp 1132 1149	each STAT5 isomer
+T48	Exp 1170 1174	that
+T49	Exp 1250 1254	that
+T50	Exp 1151 1161	These data
+T51	SPAN 152 179	interleukin (IL)-2 and IL-7
+R10	Coref Anaphora:T34 Antecedent:T51
+T52	SPAN 366 383	STAT5A and STAT5B
+R11	Coref Anaphora:T41 Antecedent:T52
+T53	SPAN 812 825	IL-2 and IL-7
+R12	Coref Anaphora:T44 Antecedent:T53
+T1	Protein 0 4	IL-2
+T2	Protein 9 13	IL-7
+T3	Protein 152 170	interleukin (IL)-2
+T4	Protein 175 179	IL-7
+T5	Protein 366 372	STAT5A
+T6	Protein 377 383	STAT5B
+T7	Protein 388 392	IL-2
+T8	Protein 398 402	IL-7
+T9	Protein 499 505	STAT5A
+T10	Protein 510 516	STAT5B
+T11	Protein 684 688	IL-2
+T12	Protein 694 697	L-7
+T13	Protein 764 768	IL-7
+T14	Protein 792 796	IL-2
+T15	Protein 812 816	IL-2
+T16	Protein 821 825	IL-7
+T17	Protein 897 903	STAT5A
+T18	Protein 908 914	STAT5B
+T19	Protein 992 996	IL-2
+T20	Protein 1001 1005	IL-7
+T21	Protein 1037 1043	STAT5A
+T22	Protein 1044 1050	STAT5B
+T23	Protein 1175 1179	IL-2
+T24	Protein 1184 1188	IL-7

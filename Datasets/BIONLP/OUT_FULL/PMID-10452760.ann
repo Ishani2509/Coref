@@ -1,0 +1,43 @@
+T20	Exp 42 68	the FcepsilonRIIb receptor
+T21	Exp 190 204	the initiation
+T22	Exp 208 233	the inflammatory reaction
+T23	Exp 320 324	when
+T24	Exp 382 387	which
+T25	Exp 363 380	the CD23 receptor
+T26	Exp 397 411	the production
+T27	Exp 450 452	We
+T28	Exp 475 499	the molecular mechanisms
+T29	Exp 511 543	this early inflammatory response
+T30	Exp 545 547	We
+T31	Exp 564 573	the study
+T32	Exp 577 609	the signal transduction pathways
+T33	Exp 651 682	the promonocytic cell line U937
+T34	Exp 1142 1146	that
+T35	Exp 1080 1109	the main transcription factor
+T36	Exp 1122 1141	the gene activation
+T37	Exp 1306 1352	the phosphorylation and subsequent degradation
+T38	Exp 1356 1389	the NF-kappaB inhibitory molecule
+T39	Exp 1546 1572	the direct phosphorylation
+T40	Exp 1696 1722	the inflammatory cytokines
+T41	Exp 1773 1802	the main transcription factor
+T42	Exp 1815 1846	the signal transduction pathway
+R3	Coref Anaphora:T24 Antecedent:T25
+R4	Coref Anaphora:T34 Antecedent:T36
+T1	Protein 46 68	FcepsilonRIIb receptor
+T2	Protein 70 74	CD23
+T3	Protein 367 380	CD23 receptor
+T4	Protein 623 627	CD23
+T5	Protein 693 697	CD23
+T6	Protein 798 802	CD23
+T7	Protein 966 978	IkappaBalpha
+T8	Protein 1155 1159	CD23
+T9	Protein 1188 1192	CD23
+T10	Protein 1240 1243	p65
+T11	Protein 1244 1247	p50
+T12	Protein 1390 1402	IkappaBalpha
+T13	Protein 1484 1488	CD23
+T14	Protein 1576 1588	IkappaBalpha
+T15	Protein 1590 1602	IkappaBalpha
+T16	Protein 1723 1732	TNF-alpha
+T17	Protein 1737 1745	IL-1beta
+T18	Protein 1850 1854	CD23

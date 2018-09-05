@@ -1,0 +1,46 @@
+T22	Exp 192 196	that
+T23	Exp 203 220	the dual function
+T24	Exp 277 279	We
+T25	Exp 304 308	that
+T26	Exp 563 578	the composition
+T27	Exp 516 534	This investigation
+T28	Exp 899 901	we
+T29	Exp 705 709	that
+T30	Exp 843 847	that
+T31	Exp 893 898	which
+T32	Exp 710 727	the major protein
+T33	Exp 774 815	the high-affinity serum-inducible element
+T34	Exp 682 695	These studies
+T35	Exp 1001 1030	the carboxyl-terminal portion
+T36	Exp 1123 1135	our findings
+T37	Exp 1160 1164	that
+T38	Exp 1144 1159	the possibility
+T39	Exp 1054 1065	this region
+R6	Coref Anaphora:T22 Antecedent:T40
+R7	Coref Anaphora:T32 Antecedent:T11
+R8	Coref Anaphora:T30 Antecedent:T41
+R9	Coref Anaphora:T31 Antecedent:T13
+R10	Coref Anaphora:T37 Antecedent:T38
+T1	Protein 0 37	Granulocyte colony-stimulating factor
+T2	Protein 68 73	STAT3
+T3	Protein 97 134	Granulocyte colony-stimulating factor
+T4	Protein 136 141	G-CSF
+T5	Protein 309 314	G-CSF
+T6	Protein 336 341	Stat3
+T7	Protein 400 405	StatG
+T8	Protein 407 412	StatG
+T9	Protein 464 468	CD34
+T10	Protein 505 514	Stat3beta
+T11	Protein 582 587	StatG
+T12	Protein 760 765	G-CSF
+T13	Protein 866 871	Stat3
+T14	Protein 918 928	Stat3gamma
+T15	Protein 930 940	Stat3gamma
+T16	Protein 957 967	Stat3alpha
+T17	Protein 1034 1044	Stat3alpha
+T18	Protein 1069 1079	Stat3alpha
+T19	Protein 1165 1175	Stat3gamma
+T20	Protein 1231 1241	Stat3alpha
+T21	Protein 1246 1251	Stat3
+T40	Exp 183 191	proteins
+T41	Exp 826 842	a 72-kDa protein

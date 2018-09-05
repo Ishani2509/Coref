@@ -1,0 +1,42 @@
+T25	Exp 105 129	The transcription factor
+T26	Exp 236 238	we
+T27	Exp 257 261	that
+T28	Exp 265 276	the absence
+T29	Exp 396 401	which
+T30	Exp 378 392	The mechanisms
+T31	Exp 450 452	we
+T32	Exp 460 464	that
+T33	Exp 509 523	the expression
+T34	Exp 527 553	the anti-apoptotic protein
+T35	Exp 570 590	the related proteins
+T36	Exp 877 879	we
+T37	Exp 885 889	that
+T38	Exp 906 911	which
+T39	Exp 1096 1104	our data
+T40	Exp 1110 1114	that
+T41	Exp 1206 1211	which
+R4	Coref Anaphora:T29 Antecedent:T30
+R5	Coref Anaphora:T38 Antecedent:T15
+R6	Coref Anaphora:T41 Antecedent:T42
+T1	Protein 0 6	GATA-1
+T2	Protein 11 25	erythropoietin
+T3	Protein 85 91	bcl-xL
+T4	Protein 130 136	GATA-1
+T5	Protein 280 286	GATA-1
+T6	Protein 402 408	GATA-1
+T7	Protein 485 491	GATA-1
+T8	Protein 554 560	bcl-xL
+T9	Protein 591 596	bcl-2
+T10	Protein 601 606	mcl-1
+T11	Protein 635 641	bcl-xL
+T12	Protein 655 661	GATA-1
+T13	Protein 719 725	bcl-xL
+T14	Protein 840 846	GATA-1
+T15	Protein 890 904	erythropoietin
+T16	Protein 974 980	GATA-1
+T17	Protein 994 1000	bcl-xL
+T18	Protein 1115 1121	bcl-xL
+T19	Protein 1212 1218	bcl-xL
+T20	Protein 1256 1262	GATA-1
+T21	Protein 1267 1281	erythropoietin
+T42	Exp 1180 1202	a regulatory hierarchy

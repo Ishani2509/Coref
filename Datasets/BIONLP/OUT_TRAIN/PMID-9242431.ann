@@ -1,0 +1,41 @@
+T14	Exp 167 169	we
+T15	Exp 183 187	that
+T16	Exp 197 202	which
+T17	Exp 373 394	the signaling pathway
+T18	Exp 435 437	we
+T19	Exp 535 539	that
+T20	Exp 445 455	the effect
+T21	Exp 500 521	the signaling pathway
+T22	Exp 585 589	that
+T23	Exp 563 574	The results
+T24	Exp 590 603	the apoptosis
+T25	Exp 686 703	the Bcl-2 protein
+T26	Exp 779 783	that
+T27	Exp 747 761	the activation
+T28	Exp 863 877	the activation
+T29	Exp 929 938	the cells
+T30	Exp 1044 1059	this activation
+T31	Exp 1139 1143	that
+T32	Exp 1216 1220	that
+T33	Exp 1225 1246	the signaling pathway
+T34	Exp 1250 1271	the apoptotic process
+T35	Exp 1292 1320	the transcriptional activity
+T36	Exp 1374 1388	the inhibition
+T37	Exp 1116 1129	These results
+R4	Coref Anaphora:T16 Antecedent:T38
+R5	Coref Anaphora:T19 Antecedent:T39
+R6	Coref Anaphora:T26 Antecedent:T6
+T1	Protein 0 5	Bcl-2
+T2	Protein 403 408	Raf-1
+T3	Protein 414 427	MAPK kinase-1
+T4	Protein 477 482	bcl-2
+T5	Protein 690 695	Bcl-2
+T6	Protein 765 778	MAPK kinase-1
+T7	Protein 822 827	Bcl-2
+T8	Protein 954 959	Bcl-2
+T9	Protein 1084 1089	bcl-2
+T10	Protein 1144 1149	Bcl-2
+T11	Protein 1169 1182	MAPK kinase-1
+T12	Protein 1409 1414	Bcl-2
+T38	Exp 188 195	bufalin
+T39	Exp 525 534	apoptosis

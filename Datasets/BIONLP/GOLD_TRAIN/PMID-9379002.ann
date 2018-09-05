@@ -1,0 +1,24 @@
+T1	Protein 55 70	I kappa B-alpha
+T2	Protein 71 76	MAD-3
+T3	Protein 322 331	TNF-alpha
+T4	Protein 367 372	IL-2R
+T5	Protein 762 777	I kappa B-alpha
+T6	Protein 936 951	I kappa B-alpha
+T7	Protein 1207 1222	I kappa B-alpha
+T8	Protein 1506 1510	IL-8
+T9	Protein 1515 1524	IL-1 beta
+T10	Protein 1613 1623	tuberculin
+T11	Protein 1681 1696	I kappa B-alpha
+T12	Protein 1719 1734	I kappa B-alpha
+T13	Exp 14 36	nuclear factor-kappa B
+T14	Exp 41 44	its
+T15	Exp 494 520	Mycobacterium tuberculosis	508 520	tuberculosis
+T16	Exp 525 528	its
+T17	Exp 1189 1227	The expression of I kappa B-alpha gene	1193 1203	expression
+T18	Exp 1229 1234	which
+T19	Exp 1589 1604	M. tuberculosis	1592 1604	tuberculosis
+T20	Exp 1609 1612	its
+R1	Coref Anaphora:T14 Antecedent:T13
+R2	Coref Anaphora:T16 Antecedent:T15
+R3	Coref Anaphora:T18 Antecedent:T17	[T7]
+R4	Coref Anaphora:T20 Antecedent:T19

@@ -1,0 +1,21 @@
+T6	Exp 160 162	it
+T7	Exp 166 179	the cytoplasm
+T8	Exp 331 369	the nucleus and initiate transcription
+T9	Exp 393 404	the defense
+T10	Exp 408 420	the organism
+T11	Exp 511 526	the proteolysis
+T12	Exp 530 544	this inhibitor
+T13	Exp 546 550	When
+T14	Exp 613 624	the protein
+T15	Exp 749 753	that
+T16	Exp 780 784	both
+T17	Exp 727 740	These results
+T18	Exp 788 802	these residues
+R3	Coref Anaphora:T6 Antecedent:T19
+R4	Coref Anaphora:T14 Antecedent:T5
+T1	Protein 11 26	I kappa B-alpha
+T2	Protein 90 105	I kappa B-alpha
+T3	Protein 270 285	I kappa B-alpha
+T4	Protein 482 497	I kappa B-alpha
+T5	Protein 584 599	I kappa B-alpha
+T19	Exp 115 146	transcription factor NF-kappa B

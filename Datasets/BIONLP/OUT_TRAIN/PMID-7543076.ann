@@ -1,0 +1,15 @@
+T7	Exp 208 213	which
+T8	Exp 537 541	when
+T9	Exp 551 564	the same time
+T10	Exp 669 687	the nuclear factor
+T11	Exp 757 761	when
+T12	Exp 905 909	that
+T13	Exp 1049 1072	the on-going LPS signal
+T14	Exp 882 895	These results
+R2	Coref Anaphora:T7 Antecedent:T2
+T1	Protein 27 37	E-selectin
+T2	Protein 196 206	E-selectin
+T3	Protein 292 302	E-selectin
+T4	Protein 441 485	bactericidal/permeability-increasing protein
+T5	Protein 487 490	BPI
+T6	Protein 515 525	E-selectin

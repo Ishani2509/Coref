@@ -1,0 +1,18 @@
+T1	Protein 3 8	IRF-1
+T2	Protein 330 333	p53
+T3	Protein 422 425	p53
+T4	Protein 646 682	interferon regulatory factor (IRF)-1
+T5	Protein 742 745	p53
+T6	Protein 750 755	IRF-1
+T7	Protein 863 899	interleukin-1 beta converting enzyme
+T8	Protein 901 904	ICE
+T9	Protein 980 985	ced-3
+T10	Protein 990 995	IRF-1
+T11	Protein 1033 1038	IRF-1
+T12	Protein 1092 1095	ICE
+T13	Exp 96 107	Lymphocytes
+T14	Exp 170 180	a response
+T15	Exp 181 186	which
+T16	Exp 242 247	their
+R1	Coref Anaphora:T15 Antecedent:T14
+R2	Coref Anaphora:T16 Antecedent:T13

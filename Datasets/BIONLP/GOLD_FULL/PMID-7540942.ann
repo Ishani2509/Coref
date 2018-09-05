@@ -1,0 +1,23 @@
+T1	Protein 17 21	CD30
+T2	Protein 79 83	CD30
+T3	Protein 335 339	CD30
+T4	Protein 353 357	CD30
+T5	Protein 444 455	CD30 ligand
+T6	Protein 457 462	CD30L
+T7	Protein 492 496	CD30
+T8	Protein 667 671	CD30
+T9	Protein 741 745	CD30
+T10	Protein 746 751	CD30L
+T11	Protein 955 958	CD4
+T12	Exp 192 219	the human T cell line ACH-2
+T13	Exp 221 226	which
+T14	Exp 345 386	an anti-CD30-specific monoclonal antibody	378 386	antibody
+T15	Exp 388 393	which
+T16	Exp 808 835	a kappa B-dependent pathway	828 835	pathway
+T17	Exp 836 840	that
+T18	Exp 983 998	lymphoid organs	992 998	organs
+T19	Exp 999 1004	where
+R1	Coref Anaphora:T13 Antecedent:T12
+R2	Coref Anaphora:T15 Antecedent:T14	[T4]
+R3	Coref Anaphora:T17 Antecedent:T16
+R4	Coref Anaphora:T19 Antecedent:T18

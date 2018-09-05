@@ -1,0 +1,46 @@
+T10	Exp 46 74	the human CD36 gene promoter
+T11	Exp 198 203	which
+T12	Exp 387 401	Its expression
+T13	Exp 472 483	these cells
+T14	Exp 710 712	we
+T15	Exp 643 647	that
+T16	Exp 618 642	the molecular mechanisms
+T17	Exp 656 673	the transcription
+T18	Exp 677 690	the CD36 gene
+T19	Exp 740 757	the CD36 promoter
+T20	Exp 873 877	that
+T21	Exp 820 837	the CD36 promoter
+T22	Exp 917 950	the transcription initiation site
+T23	Exp 977 1012	the monocyte-specific transcription
+T24	Exp 1016 1033	the reporter gene
+T25	Exp 1042 1058	the above region
+T26	Exp 1060 1072	the fragment
+T27	Exp 1189 1204	the region -158
+T28	Exp 1262 1303	the polyomavirus enhancer-binding protein
+T29	Exp 1377 1395	the PEBP2/CBF site
+T30	Exp 1416 1424	the role
+T31	Exp 1428 1449	the PEBP2/CBF factors
+T32	Exp 1453 1483	the constitutive transcription
+T33	Exp 1487 1500	the CD36 gene
+T34	Exp 1502 1517	The involvement
+T35	Exp 1532 1552	the PEBP2/CBF family
+T36	Exp 1629 1659	the transcriptional regulation
+T37	Exp 1663 1689	the myeloid-specific genes
+T38	Exp 1734 1772	the colony-stimulating factor receptor
+T39	Exp 1785 1798	the relevance
+T40	Exp 1802 1816	the regulation
+T41	Exp 1820 1842	the CD36 gene promoter
+T42	Exp 1876 1896	the PEBP2/CBF family
+R4	Coref Anaphora:T11 Antecedent:T43
+R5	Coref Anaphora:T12 Antecedent:T2
+R6	Coref Anaphora:T15 Antecedent:T16
+T1	Protein 56 60	CD36
+T2	Protein 122 126	CD36
+T3	Protein 485 489	CD36
+T4	Protein 681 685	CD36
+T5	Protein 744 748	CD36
+T6	Protein 824 828	CD36
+T7	Protein 1491 1495	CD36
+T8	Protein 1703 1718	myeloperoxidase
+T9	Protein 1824 1828	CD36
+T43	Exp 170 196	a single polypeptide chain

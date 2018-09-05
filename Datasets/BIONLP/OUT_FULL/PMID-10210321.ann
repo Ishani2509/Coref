@@ -1,0 +1,42 @@
+T26	Exp 328 332	that
+T27	Exp 498 500	we
+T28	Exp 479 496	the present study
+T29	Exp 510 525	the possibility
+T30	Exp 621 665	the targeted and conditional immortalization
+T31	Exp 713 715	we
+T32	Exp 699 711	that purpose
+T33	Exp 904 929	the massive amplification
+T34	Exp 852 873	these transgenic mice
+T35	Exp 1006 1025	this drastic effect
+T36	Exp 1369 1378	the cells
+T37	Exp 1382 1411	the nonpermissive temperature
+T38	Exp 1667 1703	the Ter 119 positive cell population
+T39	Exp 1785 1813	these Ter 119 positive cells
+T40	Exp 2010 2014	that
+T41	Exp 2110 2114	that
+T42	Exp 2015 2040	the unexpected expression
+T43	Exp 1990 2000	these data
+R6	Coref Anaphora:T26 Antecedent:T44
+R7	Coref Anaphora:T41 Antecedent:T45
+T1	Protein 41 46	Spi-1
+T2	Protein 48 53	Fli-1
+T3	Protein 88 91	Epo
+T4	Protein 373 378	Spi-1
+T5	Protein 386 391	Fli-1
+T6	Protein 1067 1081	erythropoietin
+T7	Protein 1256 1272	glycoprotein IIb
+T8	Protein 1274 1291	platelet factor 4
+T9	Protein 1304 1309	Spi-1
+T10	Protein 1314 1319	Fli-1
+T11	Protein 1505 1510	Spi-1
+T12	Protein 1512 1517	Fli-1
+T13	Protein 1550 1564	erythropoietin
+T14	Protein 1621 1626	Spi-1
+T15	Protein 1631 1636	Fli-1
+T16	Protein 1866 1877	beta-globin
+T17	Protein 1907 1923	glycoprotein IIb
+T18	Protein 1928 1945	platelet factor 4
+T19	Protein 2166 2171	Spi-1
+T20	Protein 2179 2184	Fli-1
+T44	Exp 320 327	markers
+T45	Exp 2104 2109	cells

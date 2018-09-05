@@ -1,0 +1,31 @@
+T1	Exp 122 124	we
+T2	Exp 184 188	that
+T3	Exp 250 281	the KB-enhancer target sequence
+T4	Exp 375 388	The B2 factor
+T5	Exp 404 414	the nuclei
+T6	Exp 418 429	these cells
+T7	Exp 456 469	The B3 factor
+T8	Exp 586 600	Its expression
+T9	Exp 674 676	we
+T10	Exp 807 809	it
+T11	Exp 689 693	that
+T12	Exp 802 806	that
+T13	Exp 694 707	the B2 factor
+T14	Exp 724 735	the cytosol
+T15	Exp 662 672	this paper
+T16	Exp 887 898	the cytosol
+T17	Exp 923 933	the nuclei
+T18	Exp 853 864	This factor
+T19	Exp 1007 1011	when
+T20	Exp 961 974	The B3 factor
+T21	Exp 990 1001	the cytosol
+T22	Exp 1037 1045	The role
+T23	Exp 1067 1081	the expression
+T24	Exp 1086 1103	the translocation
+T25	Exp 1107 1120	these factors
+R5	Coref Anaphora:T2 Antecedent:T26
+R6	Coref Anaphora:T8 Antecedent:T7
+R7	Coref Anaphora:T10 Antecedent:T27
+R8	Coref Anaphora:T18 Antecedent:T13
+T26	Exp 145 182	electrophoretic mobility shift assays
+T27	Exp 768 789	a DNA-binding protein

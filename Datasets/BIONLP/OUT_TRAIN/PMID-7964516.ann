@@ -1,0 +1,21 @@
+T10	Exp 365 382	the c-Myc protein
+T11	Exp 386 400	the phenomenon
+T12	Exp 575 577	we
+T13	Exp 529 562	its heterodimeric binding partner
+T14	Exp 569 574	which
+T15	Exp 434 443	This role
+T16	Exp 734 748	the mutant Max
+T17	Exp 768 798	the dominant negative activity
+T18	Exp 861 865	that
+T19	Exp 841 854	These results
+R3	Coref Anaphora:T13 Antecedent:T4
+R4	Coref Anaphora:T14 Antecedent:T5
+T1	Protein 11 14	Myc
+T2	Protein 15 18	Max
+T3	Protein 369 374	c-Myc
+T4	Protein 448 453	c-Myc
+T5	Protein 564 567	Max
+T6	Protein 674 677	Myc
+T7	Protein 745 748	Max
+T8	Protein 866 869	Myc
+T9	Protein 946 949	Max

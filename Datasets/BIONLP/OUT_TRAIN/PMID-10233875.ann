@@ -1,0 +1,35 @@
+T17	Exp 320 325	which
+T18	Exp 272 286	the mechanisms
+T19	Exp 453 464	the cytosol
+T20	Exp 636 658	its delayed expression
+T21	Exp 715 735	the rapid production
+T22	Exp 745 760	The correlation
+T23	Exp 846 875	the RAW264.7 macrophage cells
+T24	Exp 909 928	the kappaB sequence
+T25	Exp 1055 1071	the kappaB sites
+T26	Exp 1201 1206	which
+T27	Exp 1223 1238	the Gi proteins
+T28	Exp 1258 1274	the C5a receptor
+T29	Exp 1434 1438	that
+T30	Exp 1513 1517	that
+T31	Exp 1412 1425	These results
+T32	Exp 1518 1531	this response
+R4	Coref Anaphora:T17 Antecedent:T4
+R5	Coref Anaphora:T20 Antecedent:T7
+R6	Coref Anaphora:T26 Antecedent:T33
+T1	Protein 49 62	interleukin-8
+T2	Protein 152 165	interleukin-8
+T3	Protein 167 171	IL-8
+T4	Protein 303 307	IL-8
+T5	Protein 390 394	IL-8
+T6	Protein 440 444	IL-8
+T7	Protein 556 563	NF-IL-6
+T8	Protein 739 743	IL-8
+T9	Protein 809 813	IL-8
+T10	Protein 934 946	IkappaBalpha
+T11	Protein 951 955	IL-8
+T12	Protein 1115 1127	IkappaBalpha
+T13	Protein 1262 1274	C5a receptor
+T14	Protein 1319 1323	IL-8
+T15	Protein 1488 1492	IL-8
+T33	Exp 1184 1199	Pertussis toxin

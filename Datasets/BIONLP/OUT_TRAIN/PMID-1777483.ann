@@ -1,0 +1,47 @@
+T16	Exp 12 32	the kappa B enhancer
+T17	Exp 36 74	the interleukin-2 receptor alpha chain
+T18	Exp 117 141	the nuclear localization
+T19	Exp 282 288	itself
+T20	Exp 158 182	The two nuclear proteins
+T21	Exp 235 258	the DNA-binding subunit
+T22	Exp 354 365	the nucleus
+T23	Exp 369 395	the human T-cell line IARC
+T24	Exp 524 526	we
+T25	Exp 454 459	which
+T26	Exp 422 431	the roles
+T27	Exp 468 494	the same kappa B enhancers
+T28	Exp 435 452	these two factors
+T29	Exp 652 664	their nuclei
+T30	Exp 702 722	The kappa B enhancer
+T31	Exp 726 734	the gene
+T32	Exp 744 789	the interleukin-2 (IL-2) receptor alpha chain
+T33	Exp 826 837	the hybrids
+T34	Exp 974 980	itself
+T35	Exp 889 893	that
+T36	Exp 938 958	the kappa B enhancer
+T37	Exp 869 883	These findings
+T38	Exp 1000 1002	We
+T39	Exp 1011 1015	that
+T40	Exp 1074 1077	how
+T41	Exp 1111 1135	the transient expression
+T42	Exp 1173 1192	the immune response
+T43	Exp 1078 1091	these factors
+R5	Coref Anaphora:T19 Antecedent:T44
+R6	Coref Anaphora:T25 Antecedent:T28
+R7	Coref Anaphora:T29 Antecedent:T45
+R8	Coref Anaphora:T34 Antecedent:T10
+T1	Protein 40 68	interleukin-2 receptor alpha
+T2	Protein 218 221	p50
+T3	Protein 226 229	p65
+T4	Protein 274 277	p50
+T5	Protein 302 306	KBF1
+T6	Protein 629 633	KBF1
+T7	Protein 696 700	KBF1
+T8	Protein 748 789	interleukin-2 (IL-2) receptor alpha chain
+T9	Protein 791 802	IL-2R alpha
+T10	Protein 966 970	KBF1
+T11	Protein 1016 1020	KBF1
+T12	Protein 1139 1143	IL-2
+T13	Protein 1148 1159	IL-2R alpha
+T44	Exp 262 272	NF-kappa B
+T45	Exp 603 615	Most hybrids

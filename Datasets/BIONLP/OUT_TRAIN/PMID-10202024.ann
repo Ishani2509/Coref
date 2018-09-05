@@ -1,0 +1,60 @@
+T10	Exp 194 196	we
+T11	Exp 104 121	our investigation
+T12	Exp 145 149	that
+T13	Exp 125 144	the cellular events
+T14	Exp 208 222	the regulation
+T15	Exp 297 299	we
+T16	Exp 307 311	that
+T17	Exp 452 456	that
+T18	Exp 477 505	the major HCMV glycoproteins
+T19	Exp 542 555	the induction
+T20	Exp 559 570	these genes
+T21	Exp 578 580	we
+T22	Exp 671 684	their binding
+T23	Exp 688 724	their appropriate cellular receptors
+T24	Exp 594 598	that
+T25	Exp 599 618	these viral ligands
+T26	Exp 726 728	We
+T27	Exp 780 795	the translation
+T28	Exp 824 835	Our results
+T29	Exp 843 847	that
+T30	Exp 886 900	the production
+T31	Exp 1018 1020	we
+T32	Exp 994 1016	their promoter regions
+T33	Exp 942 969	these induced gene products
+T34	Exp 1124 1128	that
+T35	Exp 1169 1180	the nucleus
+T36	Exp 1099 1116	These experiments
+T37	Exp 1286 1297	the changes
+T38	Exp 1334 1336	we
+T39	Exp 1429 1431	it
+T40	Exp 1350 1354	that
+T41	Exp 1424 1428	that
+T42	Exp 1500 1514	our hypothesis
+T43	Exp 1515 1519	that
+T44	Exp 1565 1569	that
+T45	Exp 1635 1642	whereby
+T46	Exp 1478 1491	These results
+R10	Coref Anaphora:T12 Antecedent:T13
+T51	SPAN 370 399	IL-1beta, A20, NF-kappaB-p105
+R11	Coref Anaphora:T20 Antecedent:T51
+T52	SPAN 370 399	IL-1beta, A20, NF-kappaB-p105
+R12	Coref Anaphora:T22 Antecedent:T52
+R13	Coref Anaphora:T23 Antecedent:T25
+R14	Coref Anaphora:T32 Antecedent:T47
+R15	Coref Anaphora:T39 Antecedent:T48
+R16	Coref Anaphora:T43 Antecedent:T42
+R17	Coref Anaphora:T44 Antecedent:T49
+R18	Coref Anaphora:T45 Antecedent:T50
+T1	Protein 370 378	IL-1beta
+T2	Protein 380 383	A20
+T3	Protein 395 399	p105
+T4	Protein 400 403	p50
+T5	Protein 409 421	IkappaBalpha
+T6	Protein 916 924	IL-1beta
+T7	Protein 1250 1262	IkappaBalpha
+T8	Protein 1400 1408	IL-1beta
+T47	Exp 975 990	NF-kappaB sites
+T48	Exp 1355 1374	p38 kinase activity
+T49	Exp 1535 1564	a signal transduction pathway
+T50	Exp 1613 1634	a potential mechanism

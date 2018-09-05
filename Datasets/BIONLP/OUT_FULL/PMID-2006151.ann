@@ -1,0 +1,39 @@
+T6	Exp 285 317	its functional, DNA binding form
+T7	Exp 253 257	that
+T8	Exp 191 211	The kappa B sequence
+T9	Exp 452 454	it
+T10	Exp 446 451	where
+T11	Exp 577 594	the transcription
+T12	Exp 629 672	the interleukin 2 receptor alpha-chain gene
+T13	Exp 677 701	the beta-interferon gene
+T14	Exp 783 787	that
+T15	Exp 848 860	the patterns
+T16	Exp 712 723	these genes
+T17	Exp 876 878	We
+T18	Exp 897 952	the constitutive and inducible transcriptional activity
+T19	Exp 1033 1035	We
+T20	Exp 1041 1045	that
+T21	Exp 1067 1079	the activity
+T22	Exp 1117 1138	the relative affinity
+T23	Exp 1172 1184	that element
+T24	Exp 1083 1095	each element
+T25	Exp 1268 1294	the interleukin 2 receptor
+T26	Exp 1510 1514	that
+T27	Exp 1574 1578	that
+T28	Exp 1442 1462	the tax gene product
+T29	Exp 1604 1615	this factor
+T30	Exp 1384 1409	both lower-affinity sites
+R7	Coref Anaphora:T7 Antecedent:T31
+R8	Coref Anaphora:T6 Antecedent:T1
+R9	Coref Anaphora:T10 Antecedent:T32
+T34	SPAN 633 696	interleukin 2 receptor alpha-chain gene and the beta-interferon
+R10	Coref Anaphora:T16 Antecedent:T34
+R11	Coref Anaphora:T27 Antecedent:T33
+R12	Coref Anaphora:T29 Antecedent:T25
+T1	Protein 180 183	tax
+T2	Protein 633 667	interleukin 2 receptor alpha-chain
+T3	Protein 681 696	beta-interferon
+T4	Protein 1446 1449	tax
+T31	Exp 241 251	NF-kappa B
+T32	Exp 423 444	many other cell types
+T33	Exp 1560 1573	a B-cell line

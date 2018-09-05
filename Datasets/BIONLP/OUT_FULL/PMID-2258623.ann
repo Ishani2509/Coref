@@ -1,0 +1,32 @@
+T2	Exp 207 221	the conversion
+T3	Exp 285 289	that
+T4	Exp 411 416	which
+T5	Exp 271 284	the sequences
+T6	Exp 337 361	the long terminal repeat
+T7	Exp 381 409	the transcriptional enhancer
+T8	Exp 458 484	the nuclear factor kappa B
+T9	Exp 301 323	these signaling events
+T10	Exp 499 523	The corresponding region
+T11	Exp 527 553	the second AIDS retrovirus
+T12	Exp 624 626	We
+T13	Exp 639 643	that
+T14	Exp 644 657	the HIV-1 LTR
+T15	Exp 679 692	the HIV-2 LTR
+T16	Exp 942 962	their respective LTR
+T17	Exp 814 818	when
+T18	Exp 900 904	when
+T19	Exp 756 768	the response
+T20	Exp 723 752	These qualitative differences
+T21	Exp 905 920	these enhancers
+T22	Exp 1026 1030	both
+T23	Exp 1050 1084	the HIV-1 transcriptional enhancer
+T24	Exp 1097 1107	the single
+T25	Exp 1126 1160	the HIV-2 transcriptional enhancer
+T26	Exp 1185 1208	the activator protein 3
+T27	Exp 1218 1236	the divergent site
+T28	Exp 1373 1390	the longer period
+T29	Exp 1341 1356	this difference
+R4	Coref Anaphora:T3 Antecedent:T5
+R5	Coref Anaphora:T4 Antecedent:T7
+R6	Coref Anaphora:T16 Antecedent:T21
+T1	Protein 1189 1208	activator protein 3

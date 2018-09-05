@@ -1,0 +1,43 @@
+T23	Exp 189 197	its role
+T24	Exp 162 184	the cellular functions
+T25	Exp 288 290	we
+T26	Exp 276 286	this study
+T27	Exp 388 390	we
+T28	Exp 404 408	that
+T29	Exp 539 541	we
+T30	Exp 687 709	its mRNA transcription
+T31	Exp 548 552	that
+T32	Exp 779 783	when
+T33	Exp 840 864	the transcription factor
+T34	Exp 878 900	the integrin-dependent
+T35	Exp 1016 1020	that
+T36	Exp 1181 1186	which
+T37	Exp 1021 1033	the adhesion
+T38	Exp 993 1006	These results
+T39	Exp 1265 1267	We
+T40	Exp 1286 1290	that
+T41	Exp 1363 1379	the pathogenesis
+T42	Exp 1291 1309	such cross-talking
+R4	Coref Anaphora:T23 Antecedent:T3
+R5	Coref Anaphora:T30 Antecedent:T9
+R6	Coref Anaphora:T36 Antecedent:T43
+T1	Protein 17 21	CD44
+T2	Protein 64 70	VCAM-1
+T3	Protein 73 77	CD44
+T4	Protein 320 324	CD44
+T5	Protein 409 413	CD44
+T6	Protein 464 470	VCAM-1
+T7	Protein 499 505	VCAM-1
+T8	Protein 599 603	CD44
+T9	Protein 625 629	CD44
+T10	Protein 665 671	VCAM-1
+T11	Protein 729 737	IL-1beta
+T12	Protein 742 751	TNF-alpha
+T13	Protein 814 820	VCAM-1
+T14	Protein 825 829	CD44
+T15	Protein 865 869	AP-1
+T16	Protein 973 977	CD44
+T17	Protein 1099 1103	CD44
+T18	Protein 1122 1128	VCAM-1
+T19	Protein 1144 1150	VCAM-1
+T43	Exp 1172 1179	T cells

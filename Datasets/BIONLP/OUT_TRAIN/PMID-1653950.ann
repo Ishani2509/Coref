@@ -1,0 +1,34 @@
+T16	Exp 138 143	which
+T17	Exp 104 128	The transcription factor
+T18	Exp 188 200	the enhancer
+T19	Exp 204 238	the human immunodeficiency virus-1
+T20	Exp 345 373	the HIV long terminal repeat
+T21	Exp 409 425	the HIV promoter
+T22	Exp 436 460	The HIV-TF1-binding site
+T23	Exp 487 495	the site
+T24	Exp 547 561	the adenovirus
+T25	Exp 627 631	that
+T26	Exp 754 778	its DNA-binding activity
+T27	Exp 791 795	that
+T28	Exp 854 868	The disruption
+T29	Exp 919 928	the level
+T30	Exp 951 967	the HIV promoter
+T31	Exp 999 1003	that
+T32	Exp 977 990	These results
+R3	Coref Anaphora:T16 Antecedent:T3
+R4	Coref Anaphora:T26 Antecedent:T12
+T1	Protein 0 3	USF
+T2	Protein 34 41	HIV-TF1
+T3	Protein 129 136	HIV-TF1
+T4	Protein 281 288	HIV-TF1
+T5	Protein 334 341	HIV-TF1
+T6	Protein 440 447	HIV-TF1
+T7	Protein 510 537	upstream stimulatory factor
+T8	Protein 539 542	USF
+T9	Protein 609 616	HIV-TF1
+T10	Protein 632 639	HIV-TF1
+T11	Protein 673 676	USF
+T12	Protein 715 722	HIV-TF1
+T13	Protein 815 822	HIV-TF1
+T14	Protein 872 879	HIV-TF1
+T15	Protein 1004 1011	HIV-TF1

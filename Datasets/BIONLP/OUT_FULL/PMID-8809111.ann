@@ -1,0 +1,20 @@
+T8	Exp 20 42	the human myeloid cell
+T9	Exp 219 251	the human myelomonocytic lineage
+T10	Exp 351 356	the 5
+T11	Exp 379 387	the gene
+T12	Exp 292 349	this lineage-specific and interferon-regulated expression
+T13	Exp 792 812	the possible factors
+T14	Exp 893 898	which
+T15	Exp 846 851	The 5
+T16	Exp 954 958	that
+T17	Exp 932 944	The findings
+R3	Coref Anaphora:T11 Antecedent:T2
+R4	Coref Anaphora:T14 Antecedent:T18
+T1	Protein 91 95	MNDA
+T2	Protein 97 141	myeloid cell nuclear differentiation antigen
+T3	Protein 524 528	MNDA
+T4	Protein 658 662	PU.1
+T5	Protein 675 678	Sp1
+T6	Protein 829 833	MNDA
+T7	Protein 959 963	MNDA
+T18	Exp 875 892	promoter activity

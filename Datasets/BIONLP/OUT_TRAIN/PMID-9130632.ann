@@ -1,0 +1,43 @@
+T24	Exp 106 134	the human T cell line Jurkat
+T25	Exp 137 139	We
+T26	Exp 153 172	the functional role
+T27	Exp 193 235	the cytoplasmic tyrosine kinase Tec family
+T28	Exp 411 416	which
+T29	Exp 466 494	The tyrosine kinase activity
+T30	Exp 498 528	the anti-Itk immunoprecipitate
+T31	Exp 562 580	these stimulations
+T32	Exp 766 785	the kinase activity
+T33	Exp 787 800	The reduction
+T34	Exp 1000 1005	which
+T35	Exp 932 950	the nuclear factor
+T36	Exp 980 996	the binding site
+T37	Exp 1021 1043	the IL-2 gene promoter
+T38	Exp 1045 1059	The activation
+T39	Exp 1103 1117	the Itk mutant
+T40	Exp 1145 1149	that
+T41	Exp 1231 1248	the initial stage
+T42	Exp 1296 1315	the TCR/CD3 complex
+T43	Exp 1119 1132	These results
+R3	Coref Anaphora:T28 Antecedent:T6
+R4	Coref Anaphora:T34 Antecedent:T36
+T1	Protein 0 3	Itk
+T2	Protein 56 59	CD2
+T3	Protein 69 82	interleukin-2
+T4	Protein 176 179	Itk
+T5	Protein 281 284	CD2
+T6	Protein 406 409	Itk
+T7	Protein 507 510	Itk
+T8	Protein 582 595	Interleukin-2
+T9	Protein 597 601	IL-2
+T10	Protein 652 655	CD2
+T11	Protein 670 674	CD28
+T12	Protein 747 750	Itk
+T13	Protein 875 878	Itk
+T14	Protein 895 898	CD2
+T15	Protein 1025 1029	IL-2
+T16	Protein 1107 1110	Itk
+T17	Protein 1150 1153	Itk
+T18	Protein 1170 1174	IL-2
+T19	Protein 1224 1227	Itk
+T20	Protein 1317 1320	CD2
+T21	Protein 1326 1330	CD28

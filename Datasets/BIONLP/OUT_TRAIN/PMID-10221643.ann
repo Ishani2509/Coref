@@ -1,0 +1,34 @@
+T18	Exp 141 163	the vertebrate homolog
+T19	Exp 167 198	the Drosophila segment polarity
+T20	Exp 277 302	the Wnt signaling cascade
+T21	Exp 434 437	how
+T22	Exp 325 364	the Lef/Tcf transcription factor family
+T23	Exp 480 482	we
+T24	Exp 490 494	that
+T25	Exp 601 605	that
+T26	Exp 606 641	the Wnt signal transduction pathway
+T27	Exp 880 882	we
+T28	Exp 734 746	the activity
+T29	Exp 750 819	the negative regulatory protein kinase glycogen synthase kinase-3beta
+T30	Exp 1103 1107	that
+T31	Exp 1424 1428	that
+T32	Exp 1400 1423	the first demonstration
+R3	Coref Anaphora:T30 Antecedent:T13
+R4	Coref Anaphora:T31 Antecedent:T32
+T1	Protein 0 5	Tcf-1
+T2	Protein 69 95	glycogen synthase kinase-3
+T3	Protein 125 137	Beta-catenin
+T4	Protein 409 421	beta-catenin
+T5	Protein 438 450	beta-catenin
+T6	Protein 507 512	Tcf-1
+T7	Protein 576 588	beta-catenin
+T8	Protein 789 819	glycogen synthase kinase-3beta
+T9	Protein 821 830	GSK-3beta
+T10	Protein 866 878	beta-catenin
+T11	Protein 919 928	GSK-3beta
+T12	Protein 1000 1009	GSK-3beta
+T13	Protein 1083 1101	phytohemagglutinin
+T14	Protein 1116 1125	GSK-3beta
+T15	Protein 1196 1205	GSK-3beta
+T16	Protein 1340 1349	GSK-3beta
+T17	Protein 1362 1365	Tcf

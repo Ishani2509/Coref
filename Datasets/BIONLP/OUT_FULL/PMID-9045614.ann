@@ -1,0 +1,18 @@
+T9	Exp 69 85	the CD28 pathway
+T10	Exp 375 401	the CD3 and CD28 receptors
+T11	Exp 417 445	the HIV-1 transactivator Tat
+T12	Exp 460 474	this phenotype
+T13	Exp 612 637	the transcriptional level
+T14	Exp 655 682	the CD28-responsive element
+T15	Exp 686 703	the IL-2 promoter
+T16	Exp 738 756	the 29 amino acids
+T17	Exp 768 783	the second exon
+R2	Coref Anaphora:T14 Antecedent:T5
+T1	Protein 73 77	CD28
+T2	Protein 307 320	interleukin-2
+T3	Protein 322 326	IL-2
+T4	Protein 509 513	IL-2
+T5	Protein 567 571	CD28
+T6	Protein 573 577	IL-2
+T7	Protein 659 663	CD28
+T8	Protein 690 694	IL-2

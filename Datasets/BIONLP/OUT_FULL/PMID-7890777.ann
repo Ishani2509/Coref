@@ -1,0 +1,38 @@
+T2	Exp 11 31	the interaction site
+T3	Exp 35 69	the defective transcription factor
+T4	Exp 73 118	the class II major histocompatibility complex
+T5	Exp 148 168	the divergent X2-box
+T6	Exp 171 173	We
+T7	Exp 247 251	that
+T8	Exp 272 283	the absence
+T9	Exp 330 334	that
+T10	Exp 335 345	the defect
+T11	Exp 375 387	the activity
+T12	Exp 349 363	this cell line
+T13	Exp 513 517	that
+T14	Exp 518 537	the affected factor
+T15	Exp 600 633	the transcription initiation site
+T16	Exp 711 736	the relevant cis-elements
+T17	Exp 740 751	this system
+T18	Exp 792 858	the DQB X-box (but not the DQB-W region or the DQB Y-box) upstream
+T19	Exp 983 988	where
+T20	Exp 989 1005	the entire X-box
+T21	Exp 1015 1021	the X1
+T22	Exp 1065 1086	the analogous regions
+T23	Exp 1099 1113	The DQB X2-box
+T24	Exp 1148 1181	the silent DRA reporter construct
+T25	Exp 1208 1222	the DQB X2-box
+T26	Exp 1228 1242	the DRA X2-box
+T27	Exp 1263 1275	the activity
+T28	Exp 1279 1295	the DQB promoter
+T29	Exp 1299 1314	the mutant cell
+T30	Exp 1370 1374	when
+T31	Exp 1324 1334	the hybrid
+T32	Exp 1477 1481	that
+T33	Exp 1482 1502	the divergent X2-box
+T34	Exp 1506 1515	the class
+T35	Exp 1628 1643	the human class
+T36	Exp 1455 1468	These studies
+R2	Coref Anaphora:T7 Antecedent:T37
+T1	Protein 1038 1045	HLA-DRA
+T37	Exp 237 245	Clone-13

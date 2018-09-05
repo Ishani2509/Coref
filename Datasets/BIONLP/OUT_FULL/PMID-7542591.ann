@@ -1,0 +1,35 @@
+T13	Exp 77 95	The CD4 coreceptor
+T14	Exp 256 258	We
+T15	Exp 389 394	which
+T16	Exp 277 287	the effect
+T17	Exp 429 431	We
+T18	Exp 444 448	that
+T19	Exp 534 539	which
+T20	Exp 503 533	the NF-AT transcription factor
+T21	Exp 791 795	they
+T22	Exp 822 835	their ability
+T23	Exp 760 765	which
+T24	Exp 665 700	the protein tyrosine kinases p56lck
+T25	Exp 735 758	the Shc adaptor protein
+T26	Exp 1018 1029	The results
+T27	Exp 1073 1091	the CD4 coreceptor
+T28	Exp 1118 1142	the Ras/protein kinase C
+R5	Coref Anaphora:T15 Antecedent:T29
+R6	Coref Anaphora:T19 Antecedent:T20
+R7	Coref Anaphora:T23 Antecedent:T25
+T30	SPAN 610 632	CD4 mAb or HIV-1 gp120
+R8	Coref Anaphora:T21 Antecedent:T30
+T31	SPAN 610 632	CD4 mAb or HIV-1 gp120
+R9	Coref Anaphora:T22 Antecedent:T31
+T1	Protein 62 65	CD4
+T2	Protein 81 84	CD4
+T3	Protein 291 294	CD4
+T4	Protein 415 418	CD4
+T5	Protein 449 452	CD4
+T6	Protein 556 569	interleukin-2
+T7	Protein 610 613	CD4
+T8	Protein 627 632	gp120
+T9	Protein 694 700	p56lck
+T10	Protein 705 711	p59fyn
+T11	Protein 1077 1080	CD4
+T29	Exp 384 387	mAb

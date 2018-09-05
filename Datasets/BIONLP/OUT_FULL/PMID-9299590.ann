@@ -1,0 +1,26 @@
+T1	Exp 0 8	The role
+T2	Exp 61 75	the regulation
+T3	Exp 153 157	that
+T4	Exp 249 253	that
+T5	Exp 387 412	The sophisticated control
+T6	Exp 464 489	this transcription factor
+T7	Exp 640 642	it
+T8	Exp 858 875	their replication
+T9	Exp 661 665	that
+T10	Exp 760 765	which
+T11	Exp 666 708	this versatile cellular homeostatic switch
+T12	Exp 981 985	that
+T13	Exp 956 980	the molecular mechanisms
+T14	Exp 1040 1052	the activity
+T15	Exp 1097 1105	the role
+T16	Exp 1127 1141	the regulation
+T17	Exp 933 944	This review
+R6	Coref Anaphora:T3 Antecedent:T18
+R7	Coref Anaphora:T4 Antecedent:T19
+R8	Coref Anaphora:T10 Antecedent:T20
+R9	Coref Anaphora:T8 Antecedent:T21
+R10	Coref Anaphora:T12 Antecedent:T13
+T18	Exp 119 152	a ubiquitous transcription factor
+T19	Exp 219 248	complex regulatory mechanisms
+T20	Exp 743 758	viral pathogens
+T21	Exp 801 816	various aspects

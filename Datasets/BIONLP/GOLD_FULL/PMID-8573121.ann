@@ -1,0 +1,6 @@
+T1	Protein 848 875	tumor necrosis factor alpha
+T2	Protein 877 886	TNF alpha
+T3	Protein 897 906	TNF alpha
+T4	Exp 477 491	an antioxidant
+T5	Exp 492 497	which
+R1	Coref Anaphora:T5 Antecedent:T4

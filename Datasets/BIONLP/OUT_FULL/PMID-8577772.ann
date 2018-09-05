@@ -1,0 +1,39 @@
+T27	Exp 178 187	the adult
+T28	Exp 232 250	the cellular level
+T29	Exp 267 269	we
+T30	Exp 275 338	the T-cell-activating superantigen staphylococcal enterotoxin A
+T31	Exp 255 265	this study
+T32	Exp 690 707	the remaining CD4
+T33	Exp 790 792	We
+T34	Exp 884 889	which
+T35	Exp 918 932	the regulation
+T36	Exp 1410 1432	the NF-kappa B complex
+T37	Exp 1557 1601	the transcriptionally inactive p50 homodimer
+T38	Exp 1603 1620	These alterations
+R2	Coref Anaphora:T34 Antecedent:T39
+T1	Protein 18 21	CD4
+T2	Protein 310 338	staphylococcal enterotoxin A
+T3	Protein 340 343	SEA
+T4	Protein 426 429	SEA
+T5	Protein 454 457	CD4
+T6	Protein 587 600	interleukin 2
+T7	Protein 602 606	IL-2
+T8	Protein 645 648	SEA
+T9	Protein 655 658	CD4
+T10	Protein 704 707	CD4
+T11	Protein 757 761	IL-2
+T12	Protein 936 940	IL-2
+T13	Protein 1054 1057	SEA
+T14	Protein 1068 1071	CD4
+T15	Protein 1097 1102	Oct-1
+T16	Protein 1107 1112	Oct-2
+T17	Protein 1206 1209	CD4
+T18	Protein 1265 1268	Fos
+T19	Protein 1269 1272	Jun
+T20	Protein 1379 1382	SEA
+T21	Protein 1472 1475	p50
+T22	Protein 1476 1479	p65
+T23	Protein 1506 1509	CD4
+T24	Protein 1588 1591	p50
+T25	Protein 1693 1697	IL-2
+T39	Exp 845 882	octamer binding transcription factors

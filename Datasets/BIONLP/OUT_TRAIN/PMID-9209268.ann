@@ -1,0 +1,35 @@
+T13	Exp 145 149	that
+T14	Exp 221 237	the pathogenesis
+T15	Exp 348 350	we
+T16	Exp 296 318	the biological effects
+T17	Exp 364 375	the ability
+T18	Exp 438 444	the N9
+T19	Exp 585 598	the detection
+T20	Exp 800 804	that
+T21	Exp 805 827	the NF-kappa B complex
+T22	Exp 710 723	This response
+T23	Exp 899 903	that
+T24	Exp 967 978	the nucleus
+T25	Exp 1109 1119	themselves
+T26	Exp 1163 1190	the N9 microglial cell line
+T27	Exp 1456 1461	which
+T28	Exp 1393 1406	the formation
+T29	Exp 1531 1533	it
+T30	Exp 1490 1506	The LPS response
+T31	Exp 1640 1644	that
+T32	Exp 1691 1705	the mechanisms
+T33	Exp 1717 1741	the inducible expression
+T34	Exp 1616 1630	these findings
+R3	Coref Anaphora:T25 Antecedent:T35
+R4	Coref Anaphora:T29 Antecedent:T30
+T1	Protein 66 82	interferon-gamma
+T2	Protein 563 572	IFN gamma
+T3	Protein 842 846	RelA
+T4	Protein 851 854	p50
+T5	Protein 937 941	RelA
+T6	Protein 946 949	p50
+T7	Protein 1041 1050	IFN gamma
+T8	Protein 1480 1484	RelA
+T9	Protein 1485 1488	p50
+T10	Protein 1816 1825	IFN gamma
+T35	Exp 1052 1073	Higher concentrations

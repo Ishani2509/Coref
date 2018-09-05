@@ -1,0 +1,25 @@
+T1	Protein 76 110	hematopoietic tyrosine phosphatase
+T2	Protein 112 117	HePTP
+T3	Protein 396 438	hematopoietic protein-tyrosine phosphatase
+T4	Protein 440 445	HePTP
+T5	Protein 614 627	interleukin-2
+T6	Protein 698 703	HePTP
+T7	Protein 743 748	HePTP
+T8	Protein 935 940	HePTP
+T9	Protein 1044 1049	HePTP
+T10	Protein 1212 1217	HePTP
+T11	Exp 208 266	protein-tyrosine kinases and protein-tyrosine phosphatases
+T12	Exp 276 281	which
+T13	Exp 363 368	their
+T14	Exp 766 820	the mitogen-activated protein (MAP) kinases Erk1 and 2	802 809	kinases
+T15	Exp 876 881	their
+T16	Exp 1008 1023	the MAP kinases	1016 1023	kinases
+T17	Exp 1044 1049	HePTP
+T18	Exp 1066 1069	its
+T19	Exp 1099 1102	its
+R1	Coref Anaphora:T12 Antecedent:T11
+R2	Coref Anaphora:T13 Antecedent:T11
+R3	Coref Anaphora:T15 Antecedent:T14
+R4	Coref Anaphora:T16 Antecedent:T14
+R5	Coref Anaphora:T18 Antecedent:T17	[T9]
+R6	Coref Anaphora:T19 Antecedent:T17	[T9]

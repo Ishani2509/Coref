@@ -1,0 +1,23 @@
+T6	Exp 32 54	the interleukin-2 gene
+T7	Exp 195 197	we
+T8	Exp 206 214	the role
+T9	Exp 240 257	the IL-2 promoter
+T10	Exp 261 272	such clones
+T11	Exp 290 292	It
+T12	Exp 319 323	that
+T13	Exp 342 347	which
+T14	Exp 324 340	the element TCEd
+T15	Exp 354 384	the transcription factor NF-kB
+T16	Exp 474 489	the Jurkat line
+T17	Exp 431 443	This element
+T18	Exp 510 515	which
+T19	Exp 491 508	The NFATd element
+T20	Exp 522 546	the transcription factor
+R4	Coref Anaphora:T13 Antecedent:T14
+R5	Coref Anaphora:T17 Antecedent:T2
+R6	Coref Anaphora:T18 Antecedent:T19
+T1	Protein 36 49	interleukin-2
+T2	Protein 153 166	interleukin-2
+T3	Protein 244 248	IL-2
+T4	Protein 547 553	NFAT-1
+T5	Protein 687 691	IL-2

@@ -1,0 +1,34 @@
+T8	Exp 158 172	the activation
+T9	Exp 461 465	that
+T10	Exp 437 460	the molecular mechanism
+T11	Exp 269 279	This study
+T12	Exp 476 515	this GSSG/GSH-induced adhesion response
+T13	Exp 700 709	the ratio
+T14	Exp 748 767	These redox changes
+T15	Exp 1103 1108	which
+T16	Exp 1137 1159	the adhesion responses
+T17	Exp 1090 1101	both phases
+T18	Exp 1247 1265	the GSSG/GSH ratio
+T19	Exp 1465 1498	the increased neutrophil adhesion
+T20	Exp 1582 1602	the phase 2 response
+T21	Exp 1506 1517	both phases
+T22	Exp 1692 1696	that
+T23	Exp 1821 1826	which
+T24	Exp 1799 1819	the phase 2 response
+T25	Exp 1986 1997	the phase 1
+T26	Exp 2059 2063	that
+T27	Exp 2230 2235	which
+T28	Exp 2035 2045	This study
+R6	Coref Anaphora:T9 Antecedent:T10
+R7	Coref Anaphora:T15 Antecedent:T17
+R8	Coref Anaphora:T22 Antecedent:T29
+R9	Coref Anaphora:T23 Antecedent:T24
+R10	Coref Anaphora:T27 Antecedent:T30
+T1	Protein 1374 1407	Intercellular adhesion molecule-1
+T2	Protein 1412 1422	P-selectin
+T3	Protein 1535 1545	E-selectin
+T4	Protein 1898 1931	intercellular adhesion molecule-1
+T5	Protein 1933 1943	P-selectin
+T6	Protein 1949 1959	E-selectin
+T29	Exp 1662 1691	competing ds-oligonucleotides
+T30	Exp 2183 2228	different endothelial cell adhesion molecules

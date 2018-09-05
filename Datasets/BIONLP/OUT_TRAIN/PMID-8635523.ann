@@ -1,0 +1,38 @@
+T8	Exp 238 240	We
+T9	Exp 252 256	that
+T10	Exp 553 555	we
+T11	Exp 534 551	the present study
+T12	Exp 573 583	the effect
+T13	Exp 800 827	This differentiation marker
+T14	Exp 1320 1324	that
+T15	Exp 1058 1076	The maximum levels
+T16	Exp 1182 1192	the medium
+T17	Exp 1204 1213	the cells
+T18	Exp 1215 1230	the expressions
+T19	Exp 1080 1093	these markers
+T20	Exp 1413 1434	The growth inhibition
+T21	Exp 1591 1605	the morphology
+T22	Exp 1634 1648	the expression
+T23	Exp 1821 1835	the expression
+T24	Exp 1865 1879	the expression
+T25	Exp 1924 1938	the expression
+T26	Exp 1942 1957	these oncogenes
+T27	Exp 2020 2024	when
+T28	Exp 2025 2034	the cells
+T29	Exp 2156 2158	it
+T30	Exp 2288 2293	which
+T31	Exp 2367 2376	the cells
+T32	Exp 2380 2395	the G0/G1 phase
+T33	Exp 2399 2413	the cell cycle
+T34	Exp 2437 2441	that
+T35	Exp 2477 2491	the mechanisms
+T36	Exp 2415 2428	These results
+R3	Coref Anaphora:T29 Antecedent:T37
+R4	Coref Anaphora:T30 Antecedent:T6
+T1	Protein 1708 1712	CD14
+T2	Protein 1839 1844	c-myc
+T3	Protein 1883 1888	c-fos
+T4	Protein 1893 1898	c-jun
+T5	Protein 2240 2273	transforming growth factor-beta 1
+T6	Protein 2275 2285	TGF-beta 1
+T37	Exp 1971 1999	ML-9-induced differentiation

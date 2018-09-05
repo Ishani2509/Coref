@@ -1,0 +1,30 @@
+T11	Exp 115 142	the leukemic cell line K562
+T12	Exp 145 154	The Wilms
+T13	Exp 207 227	the zinc finger type
+T14	Exp 513 517	that
+T15	Exp 486 504	These observations
+T16	Exp 616 620	each
+T17	Exp 624 651	the four different isoforms
+T18	Exp 695 722	the leukemic cell line K562
+T19	Exp 604 614	this study
+T20	Exp 759 764	which
+T21	Exp 829 870	the erythroid and megakaryocytic pathways
+T22	Exp 872 874	We
+T23	Exp 891 895	that
+T24	Exp 929 956	the four different isoforms
+T25	Exp 988 1016	the differentiation response
+T26	Exp 1082 1096	the expression
+T27	Exp 1195 1197	We
+T28	Exp 1207 1211	that
+T29	Exp 1352 1363	these cells
+R2	Coref Anaphora:T20 Antecedent:T8
+T1	Protein 37 40	WT1
+T2	Protein 168 171	WT1
+T3	Protein 250 253	WT1
+T4	Protein 307 310	WT1
+T5	Protein 406 409	WT1
+T6	Protein 525 528	WT1
+T7	Protein 655 658	WT1
+T8	Protein 754 757	WT1
+T9	Protein 960 963	WT1
+T10	Protein 1230 1233	WT1

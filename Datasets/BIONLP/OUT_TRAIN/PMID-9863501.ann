@@ -1,0 +1,10 @@
+T4	Exp 81 86	which
+T5	Exp 495 499	that
+T6	Exp 720 724	when
+T7	Exp 680 694	the inhibition
+T8	Exp 642 660	These observations
+R2	Coref Anaphora:T4 Antecedent:T9
+T1	Protein 549 560	p24 antigen
+T2	Protein 768 795	tumor necrosis factor alpha
+T3	Protein 797 806	TNF-alpha
+T9	Exp 75 78	PAO

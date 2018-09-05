@@ -1,0 +1,11 @@
+T1	Protein 879 890	NF-kappa B1
+T2	Protein 991 1000	TNF-alpha
+T3	Protein 1008 1012	IL-6
+T4	Protein 1014 1018	IL-8
+T5	Protein 1023 1038	beta-interferon
+T6	Exp 179 200	inflammatory diseases	192 200	diseases
+T7	Exp 201 205	that
+T8	Exp 928 937	cytokines
+T9	Exp 938 942	that
+R1	Coref Anaphora:T7 Antecedent:T6
+R2	Coref Anaphora:T9 Antecedent:T8

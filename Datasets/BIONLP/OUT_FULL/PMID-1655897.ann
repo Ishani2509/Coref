@@ -1,0 +1,37 @@
+T8	Exp 30 34	that
+T9	Exp 55 72	the IL-2 promoter
+T10	Exp 171 175	that
+T11	Exp 190 202	the activity
+T12	Exp 206 223	the IL-2 promoter
+T13	Exp 227 253	the stimulated T cell line
+T14	Exp 277 312	their corresponding nuclear binding
+T15	Exp 263 272	The sites
+T16	Exp 372 382	The latter
+T17	Exp 444 466	the tissue specificity
+T18	Exp 537 539	we
+T19	Exp 627 641	their presence
+T20	Exp 695 699	that
+T21	Exp 683 694	the signals
+T22	Exp 553 580	these transcription factors
+T23	Exp 754 764	the nuclei
+T24	Exp 858 884	the signaling requirements
+T25	Exp 959 973	the activities
+T26	Exp 1086 1093	the CD3
+T27	Exp 1265 1307	the protein synthesis inhibitor anisomycin
+T28	Exp 1309 1317	Our data
+T29	Exp 1328 1340	the activity
+T30	Exp 1384 1412	the two signals requirements
+R6	Coref Anaphora:T8 Antecedent:T31
+R7	Coref Anaphora:T10 Antecedent:T32
+R8	Coref Anaphora:T14 Antecedent:T15
+R9	Coref Anaphora:T19 Antecedent:T22
+R10	Coref Anaphora:T20 Antecedent:T21
+T1	Protein 59 63	IL-2
+T2	Protein 210 214	IL-2
+T3	Protein 354 359	OCT-1
+T4	Protein 470 474	IL-2
+T5	Protein 829 833	IL-2
+T6	Protein 1097 1101	CD28
+T7	Protein 1417 1421	IL-2
+T31	Exp 0 29	Nuclear transcription factors
+T32	Exp 154 170	several elements

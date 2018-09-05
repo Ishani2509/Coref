@@ -1,0 +1,29 @@
+T3	Exp 45 74	the THP-1 monocytic cell line
+T4	Exp 110 115	which
+T5	Exp 77 91	The expression
+T6	Exp 171 215	the transcriptional regulator nuclear factor
+T7	Exp 454 456	we
+T8	Exp 487 497	its action
+T9	Exp 470 474	that
+T10	Exp 301 309	the lung
+T11	Exp 356 370	the expression
+T12	Exp 547 549	We
+T13	Exp 622 641	the THP-1 cell line
+T14	Exp 925 934	the cells
+T15	Exp 830 845	This activation
+T16	Exp 969 994	the NF-kappa B inhibitors
+T17	Exp 1114 1119	which
+T18	Exp 1226 1230	that
+T19	Exp 1141 1157	the pathogenesis
+T20	Exp 1285 1293	the lung
+T21	Exp 1072 1090	These observations
+R5	Coref Anaphora:T4 Antecedent:T22
+R6	Coref Anaphora:T8 Antecedent:T23
+R7	Coref Anaphora:T17 Antecedent:T24
+R8	Coref Anaphora:T18 Antecedent:T25
+T1	Protein 0 20	Surfactant protein A
+T2	Protein 1031 1058	tumor necrosis factor-alpha
+T22	Exp 95 105	many genes
+T23	Exp 475 479	SP-A
+T24	Exp 1099 1110	a mechanism
+T25	Exp 1195 1225	potential therapeutic measures

@@ -1,0 +1,30 @@
+T15	Exp 59 73	the expression
+T16	Exp 366 391	their open reading frames
+T17	Exp 147 204	The human platelet-activating factor receptor (PAFR) gene
+T18	Exp 469 471	we
+T19	Exp 478 482	that
+T20	Exp 706 711	which
+T21	Exp 483 493	the levels
+T22	Exp 657 691	the human stomach cancer cell line
+T23	Exp 936 940	that
+T24	Exp 815 829	the promoter 1
+T25	Exp 968 980	the promoter
+T26	Exp 991 1011	the deleted promoter
+T27	Exp 1020 1053	the three consensus binding sites
+T28	Exp 1102 1116	These findings
+R3	Coref Anaphora:T16 Antecedent:T29
+R4	Coref Anaphora:T20 Antecedent:T30
+T1	Protein 83 95	PAF receptor
+T2	Protein 157 192	platelet-activating factor receptor
+T3	Protein 194 198	PAFR
+T4	Protein 317 321	PAFR
+T5	Protein 339 343	PAFR
+T6	Protein 497 501	PAFR
+T7	Protein 541 545	PAFR
+T8	Protein 738 742	PAFR
+T9	Protein 760 764	PAFR
+T10	Protein 870 903	chloramphenicol acetyltransferase
+T11	Protein 905 908	CAT
+T12	Protein 1173 1177	PAFR
+T29	Exp 286 301	two transcripts
+T30	Exp 693 704	JR-St cells

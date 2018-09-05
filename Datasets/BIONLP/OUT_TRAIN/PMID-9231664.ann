@@ -1,0 +1,26 @@
+T5	Exp 67 76	the genes
+T6	Exp 155 164	The genes
+T7	Exp 174 225	the functionally related hepatocyte nuclear factors
+T8	Exp 485 490	which
+T9	Exp 449 464	the young [MODY
+T10	Exp 327 369	these liver-enriched transcription factors
+T11	Exp 663 667	that
+T12	Exp 616 645	The transcriptional hierarchy
+T13	Exp 686 708	the regulatory cascade
+T14	Exp 804 806	we
+T15	Exp 812 816	that
+T16	Exp 792 802	this study
+T17	Exp 902 904	We
+T18	Exp 912 930	the identification
+T19	Exp 997 1006	the genes
+T20	Exp 1065 1076	the mapping
+T21	Exp 1196 1204	the role
+T22	Exp 1244 1260	the pathogenesis
+T23	Exp 1158 1171	These markers
+T24	Exp 1229 1240	these genes
+R3	Coref Anaphora:T8 Antecedent:T25
+R4	Coref Anaphora:T24 Antecedent:T19
+T1	Protein 226 236	HNF-1alpha
+T2	Protein 241 251	HNF-4alpha
+T3	Protein 1080 1085	HNF-6
+T25	Exp 478 483	MODY1

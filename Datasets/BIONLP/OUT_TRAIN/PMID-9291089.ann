@@ -1,0 +1,21 @@
+T6	Exp 49 75	The coordinated production
+T7	Exp 351 353	it
+T8	Exp 373 377	that
+T9	Exp 283 304	the characterizations
+T10	Exp 464 469	which
+T11	Exp 479 494	the development
+T12	Exp 724 726	it
+T13	Exp 740 744	they
+T14	Exp 735 739	that
+T15	Exp 658 671	these factors
+T16	Exp 814 816	we
+R3	Coref Anaphora:T10 Antecedent:T17
+T18	SPAN 601 649	AML1/CBF beta, C/EBP, Ets, c-Myb, HOX, and MZF-1
+R4	Coref Anaphora:T15 Antecedent:T18
+T19	SPAN 601 649	AML1/CBF beta, C/EBP, Ets, c-Myb, HOX, and MZF-1
+R5	Coref Anaphora:T13 Antecedent:T19
+T1	Protein 601 605	AML1
+T2	Protein 606 614	CBF beta
+T3	Protein 628 633	c-Myb
+T4	Protein 644 649	MZF-1
+T17	Exp 450 462	myelopoiesis

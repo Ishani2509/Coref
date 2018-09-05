@@ -1,0 +1,60 @@
+T39	Exp 98 119	The anaphylatoxin C3a
+T40	Exp 222 224	we
+T41	Exp 338 344	either
+T42	Exp 238 249	the effects
+T43	Exp 211 221	this study
+T44	Exp 439 453	the expression
+T45	Exp 485 489	when
+T46	Exp 752 754	we
+T47	Exp 768 786	the potential role
+T48	Exp 968 972	that
+T49	Exp 928 948	the observed effects
+T50	Exp 973 984	the effects
+T51	Exp 1089 1093	that
+T52	Exp 1264 1268	that
+T53	Exp 1215 1228	the functions
+T54	Exp 1269 1280	the actions
+T55	Exp 1284 1303	these two molecules
+T56	Exp 1362 1364	we
+T57	Exp 1378 1389	the effects
+T58	Exp 1473 1487	Both molecules
+T59	Exp 1619 1622	its
+T60	Exp 1588 1600	the capacity
+T61	Exp 1562 1575	These results
+T62	SPAN 253 272	C3a and C3a(desArg)
+R9	Coref Anaphora:T41 Antecedent:T62
+T63	SPAN 1232 1251	C3a and C3a(desArg)
+R10	Coref Anaphora:T55 Antecedent:T63
+T64	SPAN 1393 1412	C3a and C3a(desArg)
+R11	Coref Anaphora:T58 Antecedent:T64
+R12	Coref Anaphora:T59 Antecedent:T60
+T1	Protein 14 18	IL-6
+T2	Protein 76 79	C3a
+T3	Protein 84 95	C3a(desArg)
+T4	Protein 116 119	C3a
+T5	Protein 253 256	C3a
+T6	Protein 261 272	C3a(desArg)
+T7	Protein 317 321	IL-6
+T8	Protein 381 389	IL-1beta
+T9	Protein 391 394	C3a
+T10	Protein 398 409	C3a(desArg)
+T11	Protein 470 474	IL-6
+T12	Protein 523 531	IL-1beta
+T13	Protein 538 541	C3a
+T14	Protein 546 557	C3a(desArg)
+T15	Protein 580 584	IL-6
+T16	Protein 635 638	C3a
+T17	Protein 798 801	C3a
+T18	Protein 835 843	IL-1beta
+T19	Protein 852 856	IL-6
+T20	Protein 952 955	C3a
+T21	Protein 988 991	C3a
+T22	Protein 995 999	IL-6
+T23	Protein 1094 1097	C3a
+T24	Protein 1109 1120	C3a(desArg)
+T25	Protein 1158 1162	IL-6
+T26	Protein 1232 1235	C3a
+T27	Protein 1240 1251	C3a(desArg)
+T28	Protein 1393 1396	C3a
+T29	Protein 1401 1412	C3a(desArg)
+T30	Protein 1611 1614	C3a

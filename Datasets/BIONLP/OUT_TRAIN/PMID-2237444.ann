@@ -1,0 +1,23 @@
+T4	Exp 211 214	how
+T5	Exp 215 228	these factors
+T6	Exp 341 345	each
+T7	Exp 270 283	The functions
+T8	Exp 287 301	these proteins
+T9	Exp 499 503	that
+T10	Exp 554 591	The phosphorothioate oligonucleotides
+T11	Exp 679 708	The modified oligonucleotides
+T12	Exp 984 988	when
+T13	Exp 922 969	the human immunodeficiency virus (HIV) enhancer
+T14	Exp 989 1037	the appropriate phosphorothioate oligonucleotide
+T15	Exp 1136 1140	that
+T16	Exp 1151 1172	the octamer consensus
+T17	Exp 1309 1326	the IL-2 enhancer
+T18	Exp 1328 1368	The ds phosphorothioate oligonucleotides
+R4	Coref Anaphora:T8 Antecedent:T5
+R5	Coref Anaphora:T9 Antecedent:T19
+R6	Coref Anaphora:T15 Antecedent:T20
+T1	Protein 1210 1223	interleukin-2
+T2	Protein 1225 1229	IL-2
+T3	Protein 1313 1317	IL-2
+T19	Exp 444 498	double-stranded (ds) phosphorothioate oligonucleotides
+T20	Exp 1102 1135	phosphorothioate oligonucleotides

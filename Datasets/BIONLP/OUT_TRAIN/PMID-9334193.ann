@@ -1,0 +1,23 @@
+T3	Exp 281 302	the respiratory burst
+T4	Exp 304 315	The effects
+T5	Exp 660 665	which
+T6	Exp 579 609	the respiratory burst activity
+T7	Exp 802 807	which
+T8	Exp 816 837	the respiratory burst
+T9	Exp 693 704	These cells
+T10	Exp 992 997	which
+T11	Exp 870 899	The NH2Cl-treated neutrophils
+T12	Exp 1013 1033	the cytosolic factor
+T13	Exp 1136 1150	the expression
+T14	Exp 1154 1192	the interleukin-2 receptor alpha chain
+T15	Exp 1389 1393	that
+T16	Exp 1463 1489	the inducible PKC activity
+T17	Exp 1370 1383	These results
+R4	Coref Anaphora:T5 Antecedent:T18
+R5	Coref Anaphora:T7 Antecedent:T19
+R6	Coref Anaphora:T10 Antecedent:T20
+T1	Protein 1052 1061	p47(phox)
+T2	Protein 1158 1192	interleukin-2 receptor alpha chain
+T18	Exp 654 657	PMA
+T19	Exp 772 800	arachidonic acid stimulation
+T20	Exp 974 990	a 47-kDa protein

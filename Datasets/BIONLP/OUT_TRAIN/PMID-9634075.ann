@@ -1,0 +1,36 @@
+T3	Exp 228 244	the large number
+T4	Exp 319 333	The major goal
+T5	Exp 373 410	the mycobacterial cell wall component
+T6	Exp 337 347	this study
+T7	Exp 555 562	the use
+T8	Exp 653 657	that
+T9	Exp 697 722	the major virus reservoir
+T10	Exp 726 746	the peripheral blood
+T11	Exp 599 616	These experiments
+T12	Exp 872 874	it
+T13	Exp 891 895	that
+T14	Exp 778 795	the 1G5 cell line
+T15	Exp 807 835	the luciferase reporter gene
+T16	Exp 842 853	the control
+T17	Exp 857 870	the HIV-1 LTR
+T18	Exp 1076 1091	The implication
+T19	Exp 1183 1197	the abrogation
+T20	Exp 1201 1231	the ManLAM-mediated activation
+T21	Exp 1295 1297	It
+T22	Exp 1364 1368	that
+T23	Exp 1399 1424	the nuclear translocation
+T24	Exp 1428 1462	the transcription factor NF-kappaB
+T25	Exp 1518 1537	the luciferase gene
+T26	Exp 1551 1562	the control
+T27	Exp 1566 1579	the wild-type
+T28	Exp 1589 1625	the kappaB-mutated, HIV-1 LTR region
+T29	Exp 1636 1666	the ManLAM-mediated activation
+T30	Exp 1725 1758	the autocrine or paracrine action
+T31	Exp 1804 1808	that
+T32	Exp 1784 1795	The results
+T33	Exp 1888 1901	the potential
+T34	Exp 1915 1931	the pathogenesis
+R2	Coref Anaphora:T22 Antecedent:T35
+T1	Protein 658 661	CD4
+T2	Protein 1773 1782	TNF-alpha
+T35	Exp 1325 1362	electrophoresis mobility shift assays

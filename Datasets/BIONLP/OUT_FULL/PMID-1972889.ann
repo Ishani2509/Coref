@@ -1,0 +1,24 @@
+T7	Exp 15 61	the human immunodeficiency virus type 2 (HIV-2
+T8	Exp 82 101	the cytomegalovirus
+T9	Exp 304 334	The transactivator (IE-2) gene
+T10	Exp 338 363	the human cytomegalovirus
+T11	Exp 468 486	the HIV-2 tat gene
+T12	Exp 431 443	This inducer
+T13	Exp 571 580	the HIV-2
+T14	Exp 670 692	the CMV transactivator
+T15	Exp 713 726	the HIV-2 tat
+T16	Exp 1037 1051	the initiation
+T17	Exp 1128 1139	the absence
+T18	Exp 1236 1240	that
+T19	Exp 1253 1257	that
+T20	Exp 1319 1325	either
+T21	Exp 1190 1220	the HIV-2 long terminal repeat
+T22	Exp 1241 1252	the element
+T23	Exp 1365 1383	the HIV-2 enhancer
+R2	Coref Anaphora:T19 Antecedent:T22
+T1	Protein 324 328	IE-2
+T2	Protein 478 481	tat
+T3	Protein 547 550	CD4
+T4	Protein 591 594	tat
+T5	Protein 723 726	tat
+T6	Protein 1299 1302	CD4

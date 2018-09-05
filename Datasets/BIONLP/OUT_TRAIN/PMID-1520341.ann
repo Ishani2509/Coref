@@ -1,0 +1,20 @@
+T10	Exp 242 255	the induction
+T11	Exp 259 283	the transcription factor
+T12	Exp 360 370	the levels
+T13	Exp 374 402	the octamer binding proteins
+T14	Exp 567 569	we
+T15	Exp 501 514	the induction
+T16	Exp 518 566	the tumor necrosis factor-alpha (TNF-alpha) gene
+T17	Exp 579 590	the effects
+T18	Exp 799 816	the culture media
+T19	Exp 899 901	it
+R2	Coref Anaphora:T19 Antecedent:T20
+T1	Protein 58 85	tumor necrosis factor-alpha
+T2	Protein 404 409	Oct-1
+T3	Protein 413 418	Oct-2
+T4	Protein 522 549	tumor necrosis factor-alpha
+T5	Protein 551 560	TNF-alpha
+T6	Protein 610 619	TNF-alpha
+T7	Protein 696 705	TNF-alpha
+T8	Protein 770 779	TNF-alpha
+T20	Exp 827 839	okadaic acid

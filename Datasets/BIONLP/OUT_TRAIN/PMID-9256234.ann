@@ -1,0 +1,30 @@
+T2	Exp 120 145	The double NF-kappaB site
+T3	Exp 160 167	the LTR
+T4	Exp 171 205	the human immunodeficiency virus-1
+T5	Exp 302 304	we
+T6	Exp 436 440	that
+T7	Exp 313 333	the characterisation
+T8	Exp 388 412	the HIV-1 NF-kappaB site
+T9	Exp 290 301	this report
+T10	Exp 536 547	the nucleus
+T11	Exp 551 562	these cells
+T12	Exp 600 602	we
+T13	Exp 569 576	the use
+T14	Exp 619 634	the composition
+T15	Exp 638 650	each complex
+T16	Exp 696 707	The results
+T17	Exp 713 725	the presence
+T18	Exp 768 792	the transactivating RelA
+T19	Exp 830 844	The importance
+T20	Exp 918 927	the level
+T21	Exp 1050 1081	their syncytia-forming capacity
+T22	Exp 1029 1033	that
+T23	Exp 1169 1194	the actively fusing cells
+T24	Exp 1196 1211	The correlation
+T25	Exp 1227 1236	the level
+R4	Coref Anaphora:T6 Antecedent:T26
+R5	Coref Anaphora:T22 Antecedent:T27
+R6	Coref Anaphora:T21 Antecedent:T27
+T1	Protein 788 792	RelA
+T26	Exp 416 434	human 8e51 T-cells
+T27	Exp 1018 1028	8e51 cells

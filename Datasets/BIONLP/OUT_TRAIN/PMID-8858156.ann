@@ -1,0 +1,23 @@
+T10	Exp 77 79	We
+T11	Exp 139 143	that
+T12	Exp 152 174	the core TFIID complex
+T13	Exp 201 203	we
+T14	Exp 211 215	that
+T15	Exp 352 379	The cDNA encoding hTAFII105
+T16	Exp 466 499	the N-terminal coactivator domain
+T17	Exp 706 723	the transcription
+T18	Exp 775 779	that
+T19	Exp 830 834	that
+T20	Exp 750 766	These properties
+R3	Coref Anaphora:T11 Antecedent:T21
+R4	Coref Anaphora:T19 Antecedent:T22
+T1	Protein 6 15	TAFII 105
+T2	Protein 65 74	hTAFII130
+T3	Protein 370 379	hTAFII105
+T4	Protein 435 444	hTAFII130
+T5	Protein 449 458	oTAFII110
+T6	Protein 553 561	TAFII105
+T7	Protein 674 683	hTAFII105
+T8	Protein 780 788	TAFII105
+T21	Exp 126 138	TAF subunits
+T22	Exp 824 829	TFIID

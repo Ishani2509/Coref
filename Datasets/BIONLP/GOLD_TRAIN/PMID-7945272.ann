@@ -1,0 +1,7 @@
+T1	Protein 36 41	v-abl
+T2	Protein 88 93	v-abl
+T3	Protein 442 447	v-abl
+T4	Protein 589 594	v-abl
+T5	Exp 480 555	detectable NF-kappaB DNA binding activity and low level RAG gene expression
+T6	Exp 656 682	these two crucial elements
+R1	Coref Anaphora:T6 Antecedent:T5

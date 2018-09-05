@@ -1,0 +1,56 @@
+T31	Exp 381 393	the duration
+T32	Exp 421 440	the region upstream
+T33	Exp 464 476	the presence
+T34	Exp 516 530	the activities
+T35	Exp 534 557	the EBNA gene promoters
+T36	Exp 409 419	this study
+T37	Exp 629 631	It
+T38	Exp 647 651	that
+T39	Exp 767 773	either
+T40	Exp 658 668	the origin
+T41	Exp 854 890	the EBNA2-dependent enhancer located
+T42	Exp 969 977	the LCLs
+T43	Exp 1050 1078	the EBNA2-dependent enhancer
+T44	Exp 1129 1138	This loss
+T45	Exp 1382 1386	that
+T46	Exp 1529 1533	when
+T47	Exp 1422 1434	the presence
+T48	Exp 1476 1490	the dependence
+T49	Exp 1494 1523	the distal CCAAT box apparent
+T50	Exp 1534 1556	the proximal CCAAT box
+T51	Exp 1350 1368	these cis elements
+T52	Exp 1593 1637	the glucocorticoid response elements located
+T53	Exp 1740 1745	which
+T54	Exp 2037 2041	that
+T55	Exp 1891 1909	The identification
+T56	Exp 1922 1950	the EBNA2-dependent enhancer
+T57	Exp 1954 1985	the major positive cis elements
+R4	Coref Anaphora:T53 Antecedent:T58
+T1	Protein 0 4	oriP
+T2	Protein 259 261	Cp
+T3	Protein 265 267	Wp
+T4	Protein 326 328	Wp
+T5	Protein 374 376	Cp
+T6	Protein 444 446	Cp
+T7	Protein 652 656	oriP
+T8	Protein 774 776	Cp
+T9	Protein 780 782	Wp
+T10	Protein 858 863	EBNA2
+T11	Protein 903 905	Cp
+T12	Protein 954 956	Cp
+T13	Protein 1036 1038	Cp
+T14	Protein 1054 1059	EBNA2
+T15	Protein 1116 1118	Cp
+T16	Protein 1317 1319	Cp
+T17	Protein 1387 1389	Cp
+T18	Protein 1665 1667	Cp
+T19	Protein 1757 1759	Cp
+T20	Protein 1794 1796	Wp
+T21	Protein 1838 1840	Wp
+T22	Protein 1887 1889	Cp
+T23	Protein 1913 1917	oriP
+T24	Protein 1926 1931	EBNA2
+T25	Protein 2009 2011	Cp
+T26	Protein 2094 2100	EBNA 1
+T27	Protein 2105 2111	EBNA 2
+T58	Exp 1730 1739	deletions

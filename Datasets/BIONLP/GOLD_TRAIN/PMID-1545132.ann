@@ -1,0 +1,33 @@
+T1	Protein 36 63	activation-inducer molecule
+T2	Protein 64 68	CD69
+T3	Protein 368 395	activation inducer molecule
+T4	Protein 397 400	AIM
+T5	Protein 402 406	CD69
+T6	Protein 465 468	AIM
+T7	Protein 469 473	CD69
+T8	Protein 578 581	AIM
+T9	Protein 638 641	AIM
+T10	Protein 801 804	AIM
+T11	Protein 1055 1060	c-fos
+T12	Protein 1077 1082	c-jun
+T13	Protein 1135 1138	Fos
+T14	Protein 1182 1187	c-Fos
+T15	Protein 1226 1229	AIM
+T16	Protein 1295 1298	AIM
+T17	Protein 1560 1563	AIM
+T18	Exp 94 119	transcription factor AP-1	94 114	transcription factor
+T19	Exp 139 168	the AP-1 transcription factor	148 168	transcription factor
+T20	Exp 717 721	AP-1
+T21	Exp 725 728	its
+T22	Exp 874 896	a transcription factor
+T23	Exp 897 902	whose
+T24	Exp 967 971	AP-1
+T25	Exp 967 988	AP-1-binding activity	972 988	binding activity
+T26	Exp 1069 1073	that
+T27	Exp 1191 1209	the AP-1 complexes	1200 1209	complexes
+R1	Coref Anaphora:T19 Antecedent:T18
+R2	Coref Anaphora:T21 Antecedent:T20
+R3	Coref Anaphora:T23 Antecedent:T22
+R4	Coref Anaphora:T24 Antecedent:T20
+R5	Coref Anaphora:T26 Antecedent:T25
+R6	Coref Anaphora:T27 Antecedent:T24

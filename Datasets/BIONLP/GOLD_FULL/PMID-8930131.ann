@@ -1,0 +1,10 @@
+T1	Protein 4 9	Oct-2
+T2	Protein 37 42	Oct-2
+T3	Protein 656 676	tyrosine hydroxylase
+T4	Protein 688 693	Oct-2
+T5	Exp 306 324	different variants	316 324	variants
+T6	Exp 325 330	which
+T7	Exp 379 388	The forms
+T8	Exp 481 486	those
+R1	Coref Anaphora:T6 Antecedent:T5
+R2	Coref Anaphora:T8 Antecedent:T7

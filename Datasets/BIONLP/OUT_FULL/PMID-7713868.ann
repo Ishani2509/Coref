@@ -1,0 +1,23 @@
+T9	Exp 55 117	the heparin-binding epidermal growth factor-like growth factor
+T10	Exp 305 319	the transcript
+T11	Exp 509 519	the ligand
+T12	Exp 444 457	This function
+T13	Exp 559 588	The PAF-induced up-regulation
+T14	Exp 719 749	the cell surface PAF receptors
+T15	Exp 821 838	the up-regulation
+T16	Exp 664 679	These functions
+T17	Exp 899 914	The antagonists
+T18	Exp 1080 1095	these functions
+T19	Exp 1407 1411	that
+T20	Exp 1319 1332	These results
+T21	Exp 1412 1428	this stimulation
+R2	Coref Anaphora:T19 Antecedent:T22
+T1	Protein 59 117	heparin-binding epidermal growth factor-like growth factor
+T2	Protein 324 382	heparin-binding epidermal growth factor-like growth factor
+T3	Protein 384 390	HB-EGF
+T4	Protein 592 598	HB-EGF
+T5	Protein 842 848	HB-EGF
+T6	Protein 981 987	HB-EGF
+T7	Protein 1306 1312	HB-EGF
+T8	Protein 1368 1374	HB-EGF
+T22	Exp 1398 1406	evidence

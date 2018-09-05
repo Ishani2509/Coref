@@ -1,0 +1,24 @@
+T1	Protein 9 16	DNase-I
+T2	Protein 58 63	TAL-1
+T3	Protein 114 119	tal-1
+T4	Protein 367 372	tal-1
+T5	Protein 401 406	tal-1
+T6	Protein 509 514	tal-1
+T7	Protein 531 536	Tal-1
+T8	Protein 619 624	tal-1
+T9	Protein 724 729	tal-1
+T10	Protein 905 912	DNase-I
+T11	Protein 958 963	tal-1
+T12	Protein 1069 1074	tal-1
+T13	Protein 1270 1275	tal-1
+T14	Protein 1423 1428	tal-1
+T15	Protein 1559 1564	tal-1
+T16	Exp 329 353	the molecular mechanisms	343 353	mechanisms
+T17	Exp 354 358	that
+T18	Exp 590 603	a T-cell line	599 603	line
+T19	Exp 604 608	that
+T20	Exp 1373 1386	a T-cell line	1382 1386	line
+T21	Exp 1387 1391	that
+R1	Coref Anaphora:T17 Antecedent:T16
+R2	Coref Anaphora:T19 Antecedent:T18
+R3	Coref Anaphora:T21 Antecedent:T20

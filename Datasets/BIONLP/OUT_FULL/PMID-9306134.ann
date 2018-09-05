@@ -1,0 +1,28 @@
+T1	Exp 146 148	we
+T2	Exp 228 245	their metabolites
+T3	Exp 162 166	that
+T4	Exp 135 145	this study
+T5	Exp 302 311	Our study
+T6	Exp 360 363	who
+T7	Exp 523 525	we
+T8	Exp 748 762	the percentage
+T9	Exp 720 731	both groups
+T10	Exp 834 838	When
+T11	Exp 930 947	the control group
+T12	Exp 995 1010	each mean group
+T13	Exp 1257 1283	the cell cycle progression
+T14	Exp 1320 1324	that
+T15	Exp 1413 1421	the S-G2
+T16	Exp 1470 1475	which
+T17	Exp 1446 1469	the signaling molecules
+T18	Exp 1581 1610	the many molecular mechanisms
+T19	Exp 1752 1767	the lymphocytes
+T20	Exp 1771 1799	the chemically-exposed group
+T21	Exp 1893 1910	the control level
+T22	Exp 1856 1869	This reversal
+T23	Exp 1977 2000	this signaling molecule
+R4	Coref Anaphora:T2 Antecedent:T24
+R5	Coref Anaphora:T6 Antecedent:T25
+R6	Coref Anaphora:T16 Antecedent:T17
+T24	Exp 170 181	individuals
+T25	Exp 351 359	subjects

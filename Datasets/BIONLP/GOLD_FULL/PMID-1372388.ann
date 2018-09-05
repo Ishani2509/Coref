@@ -1,0 +1,37 @@
+T1	Protein 51 56	c-Rel
+T2	Protein 101 114	interleukin-6
+T3	Protein 211 216	c-Rel
+T4	Protein 373 378	c-Rel
+T5	Protein 445 448	p50
+T6	Protein 586 591	c-Rel
+T7	Protein 626 639	interleukin-6
+T8	Protein 641 645	IL-6
+T9	Protein 651 666	beta interferon
+T10	Protein 715 718	p50
+T11	Protein 809 814	c-Rel
+T12	Protein 823 826	p50
+T13	Protein 857 861	IL-6
+T14	Protein 912 917	c-Rel
+T15	Protein 966 970	IL-6
+T16	Protein 1050 1054	IL-6
+T17	Protein 1096 1117	tumor necrosis factor
+T18	Protein 1276 1280	IL-6
+T19	Protein 1345 1349	IL-6
+T20	Exp 101 137	interleukin-6 kappa B-related motifs	131 137	motifs
+T21	Exp 138 143	whose
+T22	Exp 232 286	the nuclear factor kappa B transcription factor family	259 286	transcription factor family
+T23	Exp 288 293	which
+T24	Exp 582 601	the c-Rel homodimer	592 601	homodimer
+T25	Exp 694 697	its
+T26	Exp 747 786	a lymphoid cell-specific nuclear factor	772 786	nuclear factor
+T27	Exp 795 799	that
+T28	Exp 837 848	this factor
+T29	Exp 857 887	IL-6 kappa B binding factor II	870 887	binding factor II
+T30	Exp 1046 1068	the IL-6 kappa B motif	1055 1068	kappa B motif
+T31	Exp 1159 1162	its
+R1	Coref Anaphora:T21 Antecedent:T20	[T2]
+R2	Coref Anaphora:T23 Antecedent:T22
+R3	Coref Anaphora:T25 Antecedent:T24	[T6]
+R4	Coref Anaphora:T27 Antecedent:T26
+R5	Coref Anaphora:T28 Antecedent:T29	[T13]
+R6	Coref Anaphora:T31 Antecedent:T30	[T16]

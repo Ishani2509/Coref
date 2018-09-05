@@ -1,0 +1,22 @@
+T1	Protein 14 62	granulocyte-macrophage colony-stimulating factor
+T2	Protein 67 77	E-selectin
+T3	Protein 659 707	granulocyte-macrophage colony-stimulating factor
+T4	Protein 709 715	GM-CSF
+T5	Protein 815 821	GM-CSF
+T6	Protein 902 912	E-selectin
+T7	Protein 922 955	vascular cell adhesion molecule-1
+T8	Protein 957 963	VCAM-1
+T9	Protein 1014 1024	E-selectin
+T10	Protein 1162 1195	tumor necrosis factor (TNF)-alpha
+T11	Protein 1400 1406	DNasel
+T12	Protein 1444 1450	GM-CSF
+T13	Protein 1468 1478	E-selectin
+T14	Exp 241 279	a T-cell-specific transcription factor	259 279	transcription factor
+T15	Exp 280 285	athat
+T16	Exp 659 741	granulocyte-macrophage colony-stimulating factor (GM-CSF) gene regulatory elements	733 741	elements
+T17	Exp 742 746	that
+T18	Exp 1587 1597	mechanisms
+T19	Exp 1601 1606	which
+R1	Coref Anaphora:T15 Antecedent:T14
+R2	Coref Anaphora:T17 Antecedent:T16	[T3, T4]
+R3	Coref Anaphora:T19 Antecedent:T18

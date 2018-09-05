@@ -1,0 +1,14 @@
+T7	Exp 55 86	the signal transduction pathway
+T8	Exp 279 283	that
+T9	Exp 298 331	the kappa immunoglobulin enhancer
+T10	Exp 335 367	the human immunodeficiency virus
+T11	Exp 477 481	that
+T12	Exp 535 566	the signal transduction pathway
+T13	Exp 390 404	This inhibitor
+R2	Coref Anaphora:T8 Antecedent:T4
+T1	Protein 91 104	interleukin-1
+T2	Protein 201 214	interleukin-1
+T3	Protein 216 220	IL-1
+T4	Protein 247 251	IL-1
+T5	Protein 302 322	kappa immunoglobulin
+T6	Protein 571 575	IL-1

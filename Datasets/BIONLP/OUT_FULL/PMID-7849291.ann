@@ -1,0 +1,43 @@
+T10	Exp 203 217	the initiation
+T11	Exp 391 402	its ability
+T12	Exp 333 355	the signalling pathway
+T13	Exp 502 512	The effect
+T14	Exp 749 787	the endogenous antioxidant glutathione
+T15	Exp 885 889	that
+T16	Exp 890 897	neither
+T17	Exp 1014 1024	the effect
+T18	Exp 901 913	these agents
+T19	Exp 1113 1117	that
+T20	Exp 1215 1219	that
+T21	Exp 1156 1200	the characteristic plasmalemmal localization
+T22	Exp 1276 1280	that
+T23	Exp 1307 1323	the accumulation
+T24	Exp 1327 1356	the 47-kD mature glycoprotein
+T25	Exp 1405 1416	the results
+T26	Exp 1420 1450	the immunofluorescence studies
+T27	Exp 1519 1540	the less mature forms
+T28	Exp 1465 1481	these conditions
+T29	Exp 1617 1630	their effects
+T30	Exp 1548 1552	When
+T31	Exp 1593 1597	that
+T32	Exp 1574 1584	these data
+T33	Exp 1715 1725	The effect
+T34	Exp 2005 2012	whereby
+T35	Exp 1909 1939	The posttranscriptional effect
+T36	Exp 2013 2025	these agents
+R5	Coref Anaphora:T11 Antecedent:T37
+R6	Coref Anaphora:T20 Antecedent:T7
+R7	Coref Anaphora:T29 Antecedent:T38
+R8	Coref Anaphora:T34 Antecedent:T39
+T1	Protein 45 58	tissue factor
+T2	Protein 88 101	Tissue factor
+T3	Protein 103 105	TF
+T4	Protein 574 576	TF
+T5	Protein 937 939	TF
+T6	Protein 1094 1096	TF
+T7	Protein 1204 1206	TF
+T8	Protein 1544 1546	TF
+T9	Protein 1959 1961	TF
+T37	Exp 381 387	virtue
+T38	Exp 1598 1610	antioxidants
+T39	Exp 1987 2004	a novel mechanism

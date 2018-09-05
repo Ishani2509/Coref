@@ -1,0 +1,53 @@
+T27	Exp 358 367	the cells
+T28	Exp 465 478	their ability
+T29	Exp 564 569	which
+T30	Exp 418 428	The effect
+T31	Exp 514 552	the DNA-binding heterodimer NF-kappa B
+T32	Exp 602 630	the HIV-long terminal repeat
+T33	Exp 663 667	that
+T34	Exp 632 649	The present study
+T35	Exp 910 922	the presence
+T36	Exp 1148 1152	that
+T37	Exp 1081 1091	the amount
+T38	Exp 1225 1227	We
+T39	Exp 1245 1249	that
+T40	Exp 1284 1309	the nuclear translocation
+T41	Exp 1576 1580	when
+T42	Exp 1512 1522	The amount
+T43	Exp 1647 1664	the translocation
+T44	Exp 1777 1781	that
+T45	Exp 1914 1918	that
+T46	Exp 1864 1873	the cells
+T47	Exp 2011 2033	the NF-kappa B complex
+T48	Exp 1750 1768	these observations
+R4	Coref Anaphora:T28 Antecedent:T49
+R5	Coref Anaphora:T29 Antecedent:T9
+R6	Coref Anaphora:T36 Antecedent:T50
+T1	Protein 35 38	CR1
+T2	Protein 40 44	CD35
+T3	Protein 55 60	CD11b
+T4	Protein 61 65	CD18
+T5	Protein 112 115	p50
+T6	Protein 116 119	p65
+T7	Protein 398 407	TNF-alpha
+T8	Protein 440 449	TNF-alpha
+T9	Protein 554 557	p50
+T10	Protein 558 561	p65
+T11	Protein 703 706	CR1
+T12	Protein 708 712	CD35
+T13	Protein 723 728	CD11b
+T14	Protein 729 733	CD18
+T15	Protein 974 977	CR1
+T16	Protein 1031 1034	CR1
+T17	Protein 1124 1127	p24
+T18	Protein 1265 1268	CR1
+T19	Protein 1324 1327	p50
+T20	Protein 1328 1331	p65
+T21	Protein 1379 1382	p50
+T22	Protein 1383 1386	p65
+T23	Protein 1430 1433	CR1
+T24	Protein 1621 1630	TNF-alpha
+T25	Protein 1679 1682	p50
+T26	Protein 1683 1686	p65
+T49	Exp 205 225	Monocyte/macrophages
+T50	Exp 1134 1147	cell cultures

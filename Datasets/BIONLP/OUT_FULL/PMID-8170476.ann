@@ -1,0 +1,36 @@
+T26	Exp 104 116	The Pan gene
+T27	Exp 222 235	the mechanism
+T28	Exp 381 394	the abundance
+T29	Exp 610 614	that
+T30	Exp 682 684	We
+T31	Exp 728 733	which
+T32	Exp 782 798	the Yae antibody
+T33	Exp 1068 1070	we
+T34	Exp 1334 1339	which
+T35	Exp 1381 1383	it
+T36	Exp 1404 1408	that
+R3	Coref Anaphora:T31 Antecedent:T37
+T1	Protein 108 111	Pan
+T2	Protein 160 165	Pan-1
+T3	Protein 170 175	Pan-2
+T4	Protein 191 194	E47
+T5	Protein 199 202	E12
+T6	Protein 360 363	Pan
+T7	Protein 422 425	Pan
+T8	Protein 582 585	E2A
+T9	Protein 627 630	E2A
+T10	Protein 750 753	Pan
+T11	Protein 754 757	E2A
+T12	Protein 883 886	Pan
+T13	Protein 887 890	E2A
+T14	Protein 1050 1053	Pan
+T15	Protein 1054 1057	E2A
+T16	Protein 1099 1102	Pan
+T17	Protein 1115 1117	GH
+T18	Protein 1127 1134	insulin
+T19	Protein 1246 1253	insulin
+T20	Protein 1357 1360	Pan
+T21	Protein 1487 1490	Pan
+T22	Protein 1491 1494	E2A
+T23	Protein 1575 1578	Pan
+T37	Exp 723 726	Yae

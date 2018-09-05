@@ -1,0 +1,35 @@
+T22	Exp 217 221	They
+T23	Exp 303 320	the transcription
+T24	Exp 377 379	We
+T25	Exp 405 409	that
+T26	Exp 493 504	the absence
+T27	Exp 530 541	these cells
+T28	Exp 566 568	we
+T29	Exp 546 564	the present report
+T30	Exp 860 874	This detection
+T31	Exp 1050 1063	the intensity
+T32	Exp 1123 1134	the medulla
+T33	Exp 1181 1185	both
+T34	Exp 1247 1251	that
+T35	Exp 1319 1323	that
+T36	Exp 1391 1417	the intrathymic maturation
+T37	Exp 1220 1238	These observations
+R5	Coref Anaphora:T22 Antecedent:T38
+T1	Protein 8 13	Rel-A
+T2	Protein 18 23	c-Rel
+T3	Protein 647 650	p50
+T4	Protein 651 654	p65
+T5	Protein 659 662	p50
+T6	Protein 663 668	c-Rel
+T7	Protein 914 917	p50
+T8	Protein 918 923	c-Rel
+T9	Protein 957 960	p50
+T10	Protein 961 964	p65
+T11	Protein 1067 1070	p65
+T12	Protein 1136 1139	p65
+T13	Protein 1141 1144	p50
+T14	Protein 1150 1155	c-Rel
+T15	Protein 1186 1189	CD4
+T16	Protein 1252 1255	p65
+T17	Protein 1260 1265	c-Rel
+T38	Exp 135 147	Rel proteins

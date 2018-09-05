@@ -1,0 +1,17 @@
+T1	Protein 14 19	c-jun
+T2	Protein 21 26	jun B
+T3	Protein 31 36	jun D
+T4	Protein 219 224	c-jun
+T5	Protein 226 231	jun B
+T6	Protein 236 241	jun D
+T7	Protein 354 359	c-jun
+T8	Protein 361 366	jun B
+T9	Protein 371 376	jun D
+T10	Protein 583 588	c-jun
+T11	Protein 590 595	jun B
+T12	Protein 600 605	jun D
+T13	Exp 14 52	c-jun, jun B and jun D proto-oncogenes	37 52	proto-oncogenes
+T14	Exp 405 424	The three jun genes	415 424	jun genes
+T15	Exp 457 462	their
+R1	Coref Anaphora:T14 Antecedent:T13	[T1, T3, T2]
+R2	Coref Anaphora:T15 Antecedent:T14

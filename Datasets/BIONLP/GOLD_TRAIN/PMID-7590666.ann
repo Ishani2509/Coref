@@ -1,0 +1,8 @@
+T1	Protein 963 990	tumor necrosis factor-alpha
+T2	Protein 992 1001	TNF-alpha
+T3	Exp 206 224	a common mechanism	215 224	mechanism
+T4	Exp 228 233	which
+T5	Exp 798 804	levels
+T6	Exp 817 822	those
+R1	Coref Anaphora:T4 Antecedent:T3
+R2	Coref Anaphora:T6 Antecedent:T5

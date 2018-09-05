@@ -1,0 +1,20 @@
+T1	Protein 58 63	GATA1
+T2	Protein 625 638	interleukin-3
+T3	Protein 640 644	IL-3
+T4	Protein 646 694	granulocyte-macrophage colony-stimulating factor
+T5	Protein 696 702	GM-CSF
+T6	Protein 708 722	erythropoietin
+T7	Protein 724 726	Ep
+T8	Protein 743 755	c-kit ligand
+T9	Protein 1185 1187	Ep
+T10	Protein 1207 1211	IL-3
+T11	Protein 1212 1218	GM-CSF
+T12	Protein 1641 1646	GATA1
+T13	Protein 1880 1885	GATA1
+T14	Protein 2155 2160	GATA1
+T15	Exp 1543 1565	early but not late HPC	1562 1565	HPC
+T16	Exp 1583 1586	its
+T17	Exp 1612 1651	the expression of the master GATA1 gene	1616 1626	expression
+T18	Exp 1653 1658	which
+R1	Coref Anaphora:T16 Antecedent:T15
+R2	Coref Anaphora:T18 Antecedent:T17	[T12]

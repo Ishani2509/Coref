@@ -1,0 +1,4 @@
+T1	Protein 576 603	tumor necrosis factor-alpha
+T2	Exp 923 942	preliminary studies	935 942	studies
+T3	Exp 952 957	which
+R1	Coref Anaphora:T3 Antecedent:T2

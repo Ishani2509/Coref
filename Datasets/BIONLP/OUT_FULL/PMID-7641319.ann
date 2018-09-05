@@ -1,0 +1,46 @@
+T19	Exp 364 366	we
+T20	Exp 430 435	the 5
+T21	Exp 456 485	the thromboxane receptor gene
+T22	Exp 720 724	that
+T23	Exp 487 512	The exon-intron structure
+T24	Exp 516 530	the 5' portion
+T25	Exp 534 563	the thromboxane receptor gene
+T26	Exp 602 625	the nucleotide sequence
+T27	Exp 629 634	the 5
+T28	Exp 734 749	the mRNA 141 bp
+T29	Exp 772 818	the previously identified human placental cDNA
+T30	Exp 1043 1072	The thromboxane receptor gene
+T31	Exp 1077 1091	neither a TATA
+T32	Exp 1140 1145	the 5
+T33	Exp 1166 1195	the thromboxane receptor gene
+T34	Exp 1607 1624	the major phorbol
+T35	Exp 1652 1690	the thromboxane receptor gene promoter
+T36	Exp 1795 1828	the transcription initiation site
+T37	Exp 1965 1969	that
+T38	Exp 1848 1857	the first
+T39	Exp 1871 1884	the structure
+T40	Exp 1905 1915	the 5' end
+T41	Exp 1919 1948	the thromboxane receptor gene
+T42	Exp 1830 1843	These studies
+T43	Exp 2174 2178	that
+T44	Exp 2179 2192	the mechanism
+T45	Exp 2142 2156	These findings
+R2	Coref Anaphora:T22 Antecedent:T6
+T1	Protein 36 56	thromboxane receptor
+T2	Protein 186 207	thromboxane receptors
+T3	Protein 307 328	thromboxane receptors
+T4	Protein 460 480	thromboxane receptor
+T5	Protein 538 558	thromboxane receptor
+T6	Protein 694 714	thromboxane receptor
+T7	Protein 1047 1067	thromboxane receptor
+T8	Protein 1170 1190	thromboxane receptor
+T9	Protein 1229 1249	thromboxane receptor
+T10	Protein 1264 1297	chloramphenicol acetyltransferase
+T11	Protein 1299 1302	CAT
+T12	Protein 1352 1372	Thromboxane receptor
+T13	Protein 1407 1410	CAT
+T14	Protein 1656 1676	thromboxane receptor
+T15	Protein 1923 1943	thromboxane receptor
+T16	Protein 1970 1990	thromboxane receptor
+T17	Protein 2243 2264	thromboxane receptors
+T18	Protein 2312 2332	thromboxane receptor

@@ -1,0 +1,31 @@
+T10	Exp 174 188	the cell cycle
+T11	Exp 267 269	we
+T12	Exp 237 242	which
+T13	Exp 219 233	the mechanisms
+T14	Exp 257 265	the cell
+T15	Exp 320 340	the G0 and G1 phases
+T16	Exp 344 358	the cell cycle
+T17	Exp 690 702	its receptor
+T18	Exp 666 670	when
+T19	Exp 413 424	the changes
+T20	Exp 436 455	the early induction
+T21	Exp 533 550	the E2F-4 profile
+T22	Exp 671 680	the virus
+T23	Exp 723 737	the expression
+T24	Exp 814 830	the BCL-2 family
+T25	Exp 844 873	the known relative resistance
+T26	Exp 1063 1068	which
+T27	Exp 1027 1061	the NF-kappaB transcription factor
+T28	Exp 1097 1118	the EBV LMP-1 protein
+T29	Exp 1241 1256	the time course
+R4	Coref Anaphora:T12 Antecedent:T13
+R5	Coref Anaphora:T17 Antecedent:T22
+R6	Coref Anaphora:T26 Antecedent:T27
+T1	Protein 459 468	cyclin D2
+T2	Protein 537 542	E2F-4
+T3	Protein 704 708	CD21
+T4	Protein 988 993	BCL-2
+T5	Protein 998 1001	A20
+T6	Protein 1003 1006	A20
+T7	Protein 1105 1110	LMP-1
+T8	Protein 1192 1197	LMP-1

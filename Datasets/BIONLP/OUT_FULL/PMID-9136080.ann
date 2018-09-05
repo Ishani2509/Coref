@@ -1,0 +1,52 @@
+T21	Exp 35 89	the human myeloid cell nuclear differentiation antigen
+T22	Exp 35 98	the human myeloid cell nuclear differentiation antigen promoter
+T23	Exp 113 121	the role
+T24	Exp 202 251	The human myeloid nuclear differentiation antigen
+T25	Exp 306 332	the myelomonocytic lineage
+T26	Exp 408 426	the strict lineage
+T27	Exp 560 564	that
+T28	Exp 551 559	the gene
+T29	Exp 767 771	that
+T30	Exp 772 790	this 1-kb fragment
+T31	Exp 1068 1102	the major transcription start site
+T32	Exp 939 952	This sequence
+T33	Exp 1174 1185	this region
+T34	Exp 1302 1306	that
+T35	Exp 1249 1270	the promoter activity
+T36	Exp 1323 1334	the cluster
+T37	Exp 1370 1400	the core Sp1 consensus element
+T38	Exp 1453 1470	the 1-kb fragment
+T39	Exp 1484 1497	the PU.1 site
+T40	Exp 1589 1604	the Sp1 element
+T41	Exp 1643 1656	the PU.1 site
+T42	Exp 1805 1809	that
+T43	Exp 1674 1691	The 4-bp mutation
+T44	Exp 1695 1725	the core Sp1 consensus element
+T45	Exp 1752 1760	the site
+T46	Exp 1824 1835	the factors
+T47	Exp 1844 1862	the consensus site
+T48	Exp 1864 1876	The Sp1 site
+T49	Exp 1952 1956	that
+T50	Exp 1931 1942	The results
+T51	Exp 2044 2076	the highly restricted expression
+T52	Exp 2080 2121	this myelomonocytic lineage specific gene
+R2	Coref Anaphora:T27 Antecedent:T28
+T1	Protein 45 89	myeloid cell nuclear differentiation antigen
+T2	Protein 125 128	Sp1
+T3	Protein 140 145	c-Myb
+T4	Protein 149 153	PU.1
+T5	Protein 212 251	myeloid nuclear differentiation antigen
+T6	Protein 253 257	MNDA
+T7	Protein 461 465	MNDA
+T8	Protein 833 837	MNDA
+T9	Protein 1043 1047	PU.1
+T10	Protein 1120 1125	c-Myb
+T11	Protein 1338 1343	c-Myb
+T12	Protein 1379 1382	Sp1
+T13	Protein 1488 1492	PU.1
+T14	Protein 1593 1596	Sp1
+T15	Protein 1647 1651	PU.1
+T16	Protein 1704 1707	Sp1
+T17	Protein 1810 1813	Sp1
+T18	Protein 1868 1871	Sp1
+T19	Protein 2021 2024	Sp1

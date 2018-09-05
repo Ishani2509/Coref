@@ -1,0 +1,43 @@
+T11	Exp 181 185	that
+T12	Exp 197 211	the expression
+T13	Exp 215 228	the BCL6 gene
+T14	Exp 270 293	the BCL-6 coding domain
+T15	Exp 425 427	it
+T16	Exp 420 424	that
+T17	Exp 295 308	The BCL6 gene
+T18	Exp 553 555	we
+T19	Exp 505 516	its ability
+T20	Exp 566 570	that
+T21	Exp 754 777	its DNA target sequence
+T22	Exp 839 851	the presence
+T23	Exp 884 895	the protein
+T24	Exp 782 795	this activity
+T25	Exp 897 899	We
+T26	Exp 912 916	that
+T27	Exp 997 1001	that
+T28	Exp 930 947	the BCL6 molecule
+T29	Exp 1039 1052	the POZ motif
+T30	Exp 917 926	this part
+T31	Exp 1119 1123	that
+T32	Exp 1124 1141	the BCL-6 protein
+T33	Exp 1230 1238	the role
+T34	Exp 1096 1109	These results
+R6	Coref Anaphora:T11 Antecedent:T35
+R7	Coref Anaphora:T15 Antecedent:T36
+R8	Coref Anaphora:T19 Antecedent:T37
+R9	Coref Anaphora:T21 Antecedent:T38
+R10	Coref Anaphora:T23 Antecedent:T7
+T1	Protein 0 5	BCL-6
+T2	Protein 219 223	BCL6
+T3	Protein 274 279	BCL-6
+T4	Protein 299 303	BCL6
+T5	Protein 537 542	BCL-6
+T6	Protein 571 576	BCL-6
+T7	Protein 698 702	BCL6
+T8	Protein 934 938	BCL6
+T9	Protein 1128 1133	BCL-6
+T10	Protein 1242 1246	BCL6
+T35	Exp 154 180	chromosomal translocations
+T36	Exp 317 333	a 95-kDa protein
+T37	Exp 477 491	a DNA sequence
+T38	Exp 715 728	transcription

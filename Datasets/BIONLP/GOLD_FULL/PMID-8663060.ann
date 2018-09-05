@@ -1,0 +1,23 @@
+T1	Protein 137 143	gammac
+T2	Protein 195 213	interleukin (IL)-2
+T3	Protein 215 219	IL-4
+T4	Protein 221 225	IL-7
+T5	Protein 227 231	IL-9
+T6	Protein 237 242	IL-15
+T7	Protein 322 328	gammac
+T8	Protein 478 484	gammac
+T9	Protein 1079 1085	gammac
+T10	Protein 1311 1316	Elf-1
+T11	Protein 1442 1450	IL2Rbeta
+T12	Protein 1509 1515	gammac
+T13	Protein 1550 1554	GABP
+T14	Protein 1714 1720	gammac
+T15	Exp 153 243	a subunit of multiple cytokine receptors (interleukin (IL)-2, IL-4, IL-7, IL-9, and IL-15)	155 162	subunit
+T16	Exp 263 268	which
+T17	Exp 1023 1099	two potential Ets binding sites conserved in the murine gammac promoter gene	1049 1054	sites
+T18	Exp 1108 1113	which
+T19	Exp 1550 1565	GABP expression
+T20	Exp 1614 1617	its
+R1	Coref Anaphora:T16 Antecedent:T15	[T2, T4, T3, T6, T5]
+R2	Coref Anaphora:T18 Antecedent:T17	[T9]
+R3	Coref Anaphora:T20 Antecedent:T19	[T13]

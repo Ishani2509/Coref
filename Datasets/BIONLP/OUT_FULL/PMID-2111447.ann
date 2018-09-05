@@ -1,0 +1,35 @@
+T3	Exp 62 76	the regulation
+T4	Exp 325 327	we
+T5	Exp 179 323	the highly conserved octamer (OCTA)-nucleotide motif are important for lymphoid-specific expression of the immunoglobulin heavy-chain (IgH) gene
+T6	Exp 346 356	the effect
+T7	Exp 369 385	the binding site
+T8	Exp 477 500	the murine IgH enhancer
+T9	Exp 502 504	We
+T10	Exp 517 521	that
+T11	Exp 522 548	the NF-microB-binding site
+T12	Exp 574 590	the IgH enhancer
+T13	Exp 612 632	the microB DNA motif
+T14	Exp 671 687	the IgH enhancer
+T15	Exp 700 718	the B-cell lineage
+T16	Exp 801 811	the effect
+T17	Exp 829 842	the OCTA site
+T18	Exp 749 760	This effect
+T19	Exp 1060 1064	that
+T20	Exp 991 1001	the microB
+T21	Exp 1043 1059	the IgH enhancer
+T22	Exp 1071 1087	the binding site
+T23	Exp 1183 1199	the microB motif
+T24	Exp 1304 1308	that
+T25	Exp 1276 1295	the functional data
+T26	Exp 1346 1366	the microB DNA motif
+T27	Exp 1368 1379	Our results
+T28	Exp 1564 1576	its activity
+T29	Exp 1388 1392	that
+T30	Exp 1500 1504	that
+T31	Exp 1393 1411	the microB element
+T32	Exp 1483 1495	the IgH gene
+R3	Coref Anaphora:T19 Antecedent:T21
+R4	Coref Anaphora:T28 Antecedent:T33
+T1	Protein 463 472	NF-microB
+T2	Protein 526 535	NF-microB
+T33	Exp 1505 1516	interaction

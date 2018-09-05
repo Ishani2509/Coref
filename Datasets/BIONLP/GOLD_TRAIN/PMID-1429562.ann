@@ -1,0 +1,7 @@
+T1	Protein 28 55	tumor necrosis factor alpha
+T2	Protein 139 172	tumor necrosis factor (TNF) alpha
+T3	Protein 994 997	TNF
+T4	Protein 1236 1241	c-jun
+T5	Exp 114 188	The 1311-base pair human tumor necrosis factor (TNF) alpha promoter region	182 188	region
+T6	Exp 402 437	This full length promoter construct	428 437	construct
+R1	Coref Anaphora:T6 Antecedent:T5	[T2]

@@ -1,0 +1,48 @@
+T14	Exp 119 144	the transcription factors
+T15	Exp 195 197	we
+T16	Exp 210 214	that
+T17	Exp 215 240	the human GM-CSF promoter
+T18	Exp 329 342	the CBF sites
+T19	Exp 377 411	the minimum essential core regions
+T20	Exp 350 359	each case
+T21	Exp 525 529	each
+T22	Exp 499 511	the enhancer
+T23	Exp 477 495	these core regions
+T24	Exp 595 614	The GM-CSF promoter
+T25	Exp 662 690	the transcription start site
+T26	Exp 753 765	the CBF site
+T27	Exp 801 815	the activities
+T28	Exp 963 967	that
+T29	Exp 927 948	the proximal promoter
+T30	Exp 968 980	the CBF site
+T31	Exp 990 1003	the YY-1 site
+T32	Exp 1101 1105	that
+T33	Exp 1117 1121	each
+T34	Exp 1073 1081	The AML1
+T35	Exp 1127 1138	the ability
+T36	Exp 1323 1327	that
+T37	Exp 1353 1358	which
+T38	Exp 1367 1377	the growth
+T39	Exp 1255 1265	This study
+T40	Exp 1492 1496	that
+T41	Exp 1433 1449	The GM-CSF locus
+R5	Coref Anaphora:T32 Antecedent:T42
+T45	SPAN 1077 1094	AML1 and CBF beta
+R6	Coref Anaphora:T33 Antecedent:T45
+R7	Coref Anaphora:T36 Antecedent:T43
+R8	Coref Anaphora:T40 Antecedent:T44
+T1	Protein 14 20	GM-CSF
+T2	Protein 65 71	GM-CSF
+T3	Protein 185 188	Sp1
+T4	Protein 225 231	GM-CSF
+T5	Protein 588 593	NFATp
+T6	Protein 599 605	GM-CSF
+T7	Protein 711 715	YY-1
+T8	Protein 994 998	YY-1
+T9	Protein 1077 1081	AML1
+T10	Protein 1086 1094	CBF beta
+T11	Protein 1271 1277	GM-CSF
+T12	Protein 1437 1443	GM-CSF
+T42	Exp 1095 1100	genes
+T43	Exp 1313 1322	receptors
+T44	Exp 1471 1491	several target genes

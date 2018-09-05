@@ -1,0 +1,27 @@
+T12	Exp 87 89	we
+T13	Exp 102 106	that
+T14	Exp 107 131	the T cell tropic strain
+T15	Exp 74 85	this report
+T16	Exp 296 308	the same way
+T17	Exp 317 358	this physiologically relevant stimulation
+T18	Exp 436 449	These studies
+T19	Exp 612 616	that
+T20	Exp 685 689	that
+T21	Exp 883 885	it
+T22	Exp 753 768	The suppression
+T23	Exp 921 960	the important HIV transcription factors
+T24	Exp 1092 1121	their proliferative advantage
+T25	Exp 1009 1032	The inherent resistance
+R3	Coref Anaphora:T21 Antecedent:T22
+R4	Coref Anaphora:T24 Antecedent:T26
+T1	Protein 32 35	CD4
+T2	Protein 64 68	CD28
+T3	Protein 173 176	CD4
+T4	Protein 221 225	CD28
+T5	Protein 270 273	CD4
+T6	Protein 360 363	PHA
+T7	Protein 513 516	CD4
+T8	Protein 558 564	CD45RA
+T9	Protein 569 574	CD62L
+T10	Protein 1241 1244	CD4
+T26	Exp 1036 1049	naive T cells

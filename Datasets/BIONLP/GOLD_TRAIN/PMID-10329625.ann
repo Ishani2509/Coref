@@ -1,0 +1,20 @@
+T1	Protein 117 120	Id3
+T2	Protein 178 181	Id3
+T3	Protein 284 288	CD34
+T4	Protein 555 558	Id3
+T5	Protein 724 727	Id3
+T6	Protein 872 875	Id3
+T7	Protein 1021 1024	CD4
+T8	Protein 1087 1090	Id3
+T9	Exp 155 181	Enforced expression of Id3	164 174	expression
+T10	Exp 183 188	which
+T11	Exp 278 322	human CD34(+) hematopoietic progenitor cells	317 322	cells
+T12	Exp 323 327	that
+T13	Exp 563 574	progenitors
+T14	Exp 575 579	that
+T15	Exp 843 862	possible mechanisms	852 862	mechanisms
+T16	Exp 866 871	which
+R1	Coref Anaphora:T10 Antecedent:T9	[T2]
+R2	Coref Anaphora:T12 Antecedent:T11	[T3]
+R3	Coref Anaphora:T14 Antecedent:T13
+R4	Coref Anaphora:T16 Antecedent:T15

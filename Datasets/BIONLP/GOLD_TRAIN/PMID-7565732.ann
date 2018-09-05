@@ -1,0 +1,38 @@
+T1	Protein 34 47	interleukin-2
+T2	Protein 89 94	NFATp
+T3	Protein 308 321	interleukin 2
+T4	Protein 323 327	IL-2
+T5	Protein 578 582	IL-2
+T6	Protein 601 620	vitamin D3 receptor
+T7	Protein 622 625	VDR
+T8	Protein 694 698	IL-2
+T9	Protein 746 750	IL-2
+T10	Protein 786 789	VDR
+T11	Protein 1033 1040	NF-AT-1
+T12	Protein 1100 1105	NFATp
+T13	Protein 1127 1130	VDR
+T14	Protein 1227 1230	VDR
+T15	Protein 1311 1315	IL-2
+T16	Protein 1371 1374	VDR
+T17	Protein 1418 1422	IL-2
+T18	Protein 1520 1525	NFATp
+T19	Protein 1561 1564	VDR
+T20	Protein 1568 1571	VDR
+T21	Protein 1654 1657	VDR
+T22	Protein 1697 1702	NFATp
+T23	Protein 1762 1769	NF-AT-1
+T24	Protein 1869 1873	IL-2
+T25	Exp 434 465	1,25(OH)2D3-mediated repression	455 465	repression
+T26	Exp 526 528	it
+T27	Exp 597 626	the vitamin D3 receptor (VDR)
+T28	Exp 888 900	the receptor
+T29	Exp 991 1031	an important positive regulatory element	1024 1031	element
+T30	Exp 1033 1040	NF-AT-1
+T31	Exp 1042 1047	which
+T32	Exp 1181 1193	this element	1186 1193	element
+T33	Exp 1272 1283	the element
+R1	Coref Anaphora:T26 Antecedent:T25
+R2	Coref Anaphora:T28 Antecedent:T27	[T7, T6]
+R3	Coref Anaphora:T31 Antecedent:T29
+R4	Coref Anaphora:T32 Antecedent:T29
+R5	Coref Anaphora:T33 Antecedent:T32

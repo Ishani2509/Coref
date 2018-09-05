@@ -1,0 +1,24 @@
+T1	Protein 101 104	p50
+T2	Protein 673 677	CD14
+T3	Protein 1063 1066	p50
+T4	Protein 1067 1070	p65
+T5	Protein 1114 1117	p50
+T6	Protein 1161 1164	p50
+T7	Protein 1206 1210	p105
+T8	Protein 1266 1269	p50
+T9	Protein 1785 1789	CD14
+T10	Protein 1843 1846	p50
+T11	Exp 262 289	tumor necrosis factor (TNF)
+T12	Exp 448 460	the TNF gene
+T13	Exp 930 952	the NF-kappa B complex
+T14	Exp 1307 1329	the NF-kappa B complex	1322 1329	complex
+T15	Exp 1739 1767	The tolerant blood monocytes
+T16	Exp 1795 1799	they
+T17	Exp 1940 1964	post-receptor mechanisms
+T18	Exp 1965 1969	that
+T19	Exp 2004 2026	the NF-kappa B complex	2019 2026	complex
+R1	Coref Anaphora:T12 Antecedent:T11
+R2	Coref Anaphora:T14 Antecedent:T13
+R3	Coref Anaphora:T16 Antecedent:T15
+R4	Coref Anaphora:T18 Antecedent:T17
+R5	Coref Anaphora:T19 Antecedent:T14

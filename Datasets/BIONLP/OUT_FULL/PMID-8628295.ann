@@ -1,0 +1,40 @@
+T24	Exp 156 160	that
+T25	Exp 87 111	The immediate-early gene
+T26	Exp 245 259	the regulation
+T27	Exp 306 308	we
+T28	Exp 318 326	the gene
+T29	Exp 336 357	the lymphocyte homing
+T30	Exp 575 599	the B-cell line WEHI-231
+T31	Exp 637 651	the appearance
+T32	Exp 744 772	the EGR1-expressing subclone
+T33	Exp 832 855	the human CD44 promoter
+T34	Exp 1085 1093	The EGR1
+T35	Exp 1432 1445	the induction
+T36	Exp 1354 1367	These studies
+T37	Exp 1455 1468	The relevance
+T38	Exp 1472 1494	these molecular events
+R3	Coref Anaphora:T24 Antecedent:T4
+R4	Coref Anaphora:T28 Antecedent:T3
+T1	Protein 8 12	EGR1
+T2	Protein 49 53	CD44
+T3	Protein 112 117	egr-1
+T4	Protein 150 154	EGR1
+T5	Protein 380 384	CD44
+T6	Protein 400 404	EGR1
+T7	Protein 453 457	CD44
+T8	Protein 521 525	EGR1
+T9	Protein 613 618	egr-1
+T10	Protein 663 667	EGR1
+T11	Protein 684 688	CD44
+T12	Protein 748 752	EGR1
+T13	Protein 783 787	EGR1
+T14	Protein 842 846	CD44
+T15	Protein 877 881	CD44
+T16	Protein 891 924	chloramphenicol acetyltransferase
+T17	Protein 952 957	egr-1
+T18	Protein 1089 1093	EGR1
+T19	Protein 1171 1175	CD44
+T20	Protein 1185 1218	chloramphenicol acetyltransferase
+T21	Protein 1313 1317	EGR1
+T22	Protein 1377 1381	EGR1
+T23	Protein 1449 1453	CD44

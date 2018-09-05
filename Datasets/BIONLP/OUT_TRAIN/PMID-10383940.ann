@@ -1,0 +1,43 @@
+T20	Exp 253 258	their
+T21	Exp 320 332	The mediator
+T22	Exp 339 362	this maturation process
+T23	Exp 389 391	We
+T24	Exp 405 420	the involvement
+T25	Exp 522 562	the specific, time-dependent, activation
+T26	Exp 493 508	this phenomenon
+T27	Exp 746 751	which
+T28	Exp 723 736	the promoters
+T29	Exp 847 859	the promoter
+T30	Exp 863 887	the transcription factor
+T31	Exp 923 933	the effect
+T32	Exp 1140 1146	either
+T33	Exp 1282 1302	The molecular events
+T34	Exp 1475 1480	which
+T35	Exp 1671 1675	that
+T36	Exp 1706 1744	the differentiation/maturation process
+T37	Exp 1648 1661	these results
+R5	Coref Anaphora:T20 Antecedent:T38
+R6	Coref Anaphora:T27 Antecedent:T39
+T41	SPAN 818 838	FcgammaRI and ICAM-1
+R7	Coref Anaphora:T32 Antecedent:T41
+R8	Coref Anaphora:T34 Antecedent:T40
+T1	Protein 0 5	STAT1
+T2	Protein 566 571	STAT1
+T3	Protein 649 654	STAT1
+T4	Protein 818 827	FcgammaRI
+T5	Protein 832 838	ICAM-1
+T6	Protein 888 911	IFN regulatory factor-1
+T7	Protein 954 965	fibronectin
+T8	Protein 1027 1032	STAT1
+T9	Protein 1150 1161	fibronectin
+T10	Protein 1211 1216	STAT1
+T11	Protein 1257 1266	IFN-gamma
+T12	Protein 1323 1328	STAT1
+T13	Protein 1397 1402	STAT1
+T14	Protein 1609 1614	STAT1
+T15	Protein 1676 1681	STAT1
+T16	Protein 1894 1900	ICAM-1
+T17	Protein 1905 1914	FcgammaRI
+T38	Exp 196 207	macrophages
+T39	Exp 740 745	genes
+T40	Exp 1455 1473	growth factor-beta

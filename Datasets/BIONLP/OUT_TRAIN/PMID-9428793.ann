@@ -1,0 +1,49 @@
+T15	Exp 151 180	its immunosuppressive effects
+T16	Exp 257 262	which
+T17	Exp 195 256	the calcium- and calmodulin-dependent phosphatase calcineurin
+T18	Exp 320 328	the NFAT
+T19	Exp 424 455	the gene encoding interleukin-2
+T20	Exp 507 519	the G1 phase
+T21	Exp 523 537	the cell cycle
+T22	Exp 402 414	these target
+T23	Exp 596 600	that
+T24	Exp 657 684	The human G0/G1 switch gene
+T25	Exp 728 740	the 5' flank
+T26	Exp 1019 1024	which
+T27	Exp 1155 1178	the isolation procedure
+T28	Exp 1042 1071	This "spontaneous stimulation
+T29	Exp 1189 1193	that
+T30	Exp 1350 1365	the combination
+T31	Exp 1394 1415	the calcium ionophore
+T32	Exp 1428 1432	Both
+T33	Exp 1433 1448	these responses
+T34	Exp 1471 1482	Our results
+T35	Exp 1491 1495	that
+T36	Exp 1585 1589	that
+T37	Exp 1549 1561	the G1 phase
+T38	Exp 1565 1579	the cell cycle
+T39	Exp 1816 1829	its influence
+T40	Exp 1781 1794	the mechanism
+T41	Exp 1833 1868	the positive and negative selection
+R6	Coref Anaphora:T15 Antecedent:T42
+R7	Coref Anaphora:T16 Antecedent:T17
+R8	Coref Anaphora:T26 Antecedent:T9
+R9	Coref Anaphora:T29 Antecedent:T43
+R10	Coref Anaphora:T39 Antecedent:T44
+T1	Protein 48 67	G0/G1 switch gene 2
+T2	Protein 69 73	G0S2
+T3	Protein 442 455	interleukin-2
+T4	Protein 457 460	IL2
+T5	Protein 548 551	IL2
+T6	Protein 667 684	G0/G1 switch gene
+T7	Protein 686 690	G0S2
+T8	Protein 896 900	G0S2
+T9	Protein 1009 1013	G0S2
+T10	Protein 1103 1106	G0S
+T11	Protein 1272 1276	G0S2
+T12	Protein 1496 1500	G0S2
+T13	Protein 1655 1659	G0S2
+T14	Protein 1727 1731	G0S2
+T42	Exp 119 132	Cyclosporin A
+T43	Exp 1183 1188	cells
+T44	Exp 1798 1804	action

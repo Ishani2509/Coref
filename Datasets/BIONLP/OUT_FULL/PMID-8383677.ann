@@ -1,0 +1,36 @@
+T13	Exp 254 270	their substrates
+T14	Exp 225 250	the phosphorylation state
+T15	Exp 292 306	the inhibitors
+T16	Exp 383 404	the mRNA accumulation
+T17	Exp 310 328	these phosphatases
+T18	Exp 476 507	The increased mRNA accumulation
+T19	Exp 545 557	the increase
+T20	Exp 561 583	the transcription rate
+T21	Exp 587 610	the interleukin-1 genes
+T22	Exp 677 692	the stimulation
+T23	Exp 757 793	these protein phosphatase inhibitors
+T24	Exp 889 904	their secretion
+T25	Exp 818 831	the synthesis
+T26	Exp 835 867	the interleukin-1 beta precursor
+T27	Exp 962 977	the stimulation
+T28	Exp 1021 1036	The stimulation
+T29	Exp 1145 1164	the phosphorylation
+T30	Exp 1168 1210	the precursor interleukin-1 alpha cytokine
+T31	Exp 1245 1249	that
+T32	Exp 1367 1371	that
+T33	Exp 1226 1239	These results
+T34	Exp 1372 1394	these two phosphatases
+R3	Coref Anaphora:T13 Antecedent:T35
+R4	Coref Anaphora:T24 Antecedent:T36
+T1	Protein 15 34	interleukin-1 alpha
+T2	Protein 39 57	interleukin-1 beta
+T3	Protein 432 450	interleukin-1 beta
+T4	Protein 455 474	interleukin-1 alpha
+T5	Protein 748 752	AP-1
+T6	Protein 839 857	interleukin-1 beta
+T7	Protein 981 1001	IL-1 beta convertase
+T8	Protein 1040 1059	interleukin-1 alpha
+T9	Protein 1116 1134	interleukin-1 beta
+T10	Protein 1182 1201	interleukin-1 alpha
+T35	Exp 191 209	cellular functions
+T36	Exp 872 884	mature forms

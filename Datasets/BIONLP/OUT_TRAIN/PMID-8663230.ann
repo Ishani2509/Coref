@@ -1,0 +1,42 @@
+T10	Exp 11 48	the transcriptional repression domain
+T11	Exp 52 94	the lymphoid-specific transcription factor
+T12	Exp 104 146	The lymphoid-specific transcription factor
+T13	Exp 216 233	the octamer motif
+T14	Exp 353 357	that
+T15	Exp 301 312	the context
+T16	Exp 316 343	the GAL4 DNA-binding domain
+T17	Exp 423 428	the N
+T18	Exp 433 446	the C termini
+T19	Exp 448 476	The transcriptional activity
+T20	Exp 480 492	both domains
+T21	Exp 587 589	we
+T22	Exp 641 655	the N terminus
+T23	Exp 686 690	When
+T24	Exp 691 702	this domain
+T25	Exp 794 796	we
+T26	Exp 828 849	the N-terminal region
+T27	Exp 873 902	the minimal repression domain
+T28	Exp 783 793	this study
+T29	Exp 904 906	We
+T30	Exp 986 991	which
+T31	Exp 1020 1043	the repression activity
+T32	Exp 1045 1047	We
+T33	Exp 1053 1057	that
+T34	Exp 1094 1102	the type
+T35	Exp 1126 1146	the reporter plasmid
+T36	Exp 1161 1174	the cell line
+T37	Exp 1199 1203	that
+T38	Exp 1183 1198	The possibility
+T39	Exp 1290 1302	the function
+R3	Coref Anaphora:T30 Antecedent:T40
+R4	Coref Anaphora:T37 Antecedent:T38
+T1	Protein 95 101	oct-2A
+T2	Protein 147 153	Oct-2a
+T3	Protein 274 280	Oct-2a
+T4	Protein 320 324	GAL4
+T5	Protein 358 364	Oct-2a
+T6	Protein 659 665	Oct-2a
+T7	Protein 853 859	Oct-2a
+T8	Protein 1204 1210	Oct-2a
+T9	Protein 1306 1312	Oct-2a
+T40	Exp 976 984	residues

@@ -1,0 +1,33 @@
+T18	Exp 0 14	The expression
+T19	Exp 101 111	The effect
+T20	Exp 129 143	the expression
+T21	Exp 147 179	the nuclear protooncogenes c-fos
+T22	Exp 574 578	that
+T23	Exp 430 441	The changes
+T24	Exp 445 460	the mRNA levels
+T25	Exp 579 590	the changes
+T26	Exp 464 484	these protooncogenes
+T27	Exp 689 707	the primary effect
+T28	Exp 807 820	its half-life
+T29	Exp 772 792	the c-myc mRNA level
+T30	Exp 930 947	its transcription
+T31	Exp 840 858	The overall effect
+T32	Exp 975 979	that
+T33	Exp 980 997	the transcription
+T34	Exp 1099 1118	the stress response
+T35	Exp 949 962	These results
+R5	Coref Anaphora:T28 Antecedent:T29
+R6	Coref Anaphora:T30 Antecedent:T13
+T1	Protein 18 23	c-fos
+T2	Protein 25 30	c-jun
+T3	Protein 36 41	c-myc
+T4	Protein 174 179	c-fos
+T5	Protein 181 186	c-jun
+T6	Protein 192 197	c-myc
+T7	Protein 268 273	c-fos
+T8	Protein 278 283	c-jun
+T9	Protein 314 319	c-myc
+T10	Protein 663 668	c-fos
+T11	Protein 673 678	c-myc
+T12	Protein 776 781	c-myc
+T13	Protein 876 881	c-myc

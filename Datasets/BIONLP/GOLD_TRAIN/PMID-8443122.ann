@@ -1,0 +1,13 @@
+T1	Protein 14 19	PILOT
+T2	Protein 136 140	IL-2
+T3	Protein 170 186	interferon-gamma
+T4	Protein 448 453	PILOT
+T5	Protein 530 535	PILOT
+T6	Protein 669 674	PILOT
+T7	Protein 875 879	EGR1
+T8	Protein 881 885	EGR2
+T9	Protein 891 898	pAT 133
+T10	Protein 939 944	PILOT
+T11	Exp 730 790	three zinc fingers of the C2H2-type at the carboxyl-terminus	736 748	zinc fingers
+T12	Exp 791 796	which
+R1	Coref Anaphora:T12 Antecedent:T11

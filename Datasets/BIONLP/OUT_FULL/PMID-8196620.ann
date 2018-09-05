@@ -1,0 +1,64 @@
+T37	Exp 231 256	the NF-kappa B/Rel family
+T38	Exp 282 301	the rapid induction
+T39	Exp 369 399	the primary cellular initiator
+T40	Exp 403 436	the coagulation protease cascades
+T41	Exp 443 445	we
+T42	Exp 522 526	that
+T43	Exp 453 473	the characterization
+T44	Exp 578 583	the 5
+T45	Exp 604 621	the human TF gene
+T46	Exp 679 683	that
+T47	Exp 706 717	the TF gene
+T48	Exp 623 643	This nuclear complex
+T49	Exp 757 761	that
+T50	Exp 762 773	the TF site
+T51	Exp 913 917	that
+T52	Exp 891 902	the TF site
+T53	Exp 918 930	the presence
+T54	Exp 1038 1052	the TF complex
+T55	Exp 1325 1329	that
+T56	Exp 1165 1179	the NF-kappa B
+T57	Exp 1235 1247	the presence
+T58	Exp 1269 1280	the absence
+T59	Exp 1291 1305	the TF complex
+T60	Exp 1374 1386	the TF kappa
+T61	Exp 1429 1433	that
+T62	Exp 1434 1445	the TF site
+T63	Exp 1556 1567	our results
+T64	Exp 1581 1585	that
+R5	Coref Anaphora:T42 Antecedent:T65
+R6	Coref Anaphora:T46 Antecedent:T66
+T1	Protein 107 112	c-Rel
+T2	Protein 113 116	p65
+T3	Protein 343 356	tissue factor
+T4	Protein 358 360	TF
+T5	Protein 363 365	TF
+T6	Protein 614 616	TF
+T7	Protein 710 712	TF
+T8	Protein 766 768	TF
+T9	Protein 791 796	c-Rel
+T10	Protein 801 804	p65
+T11	Protein 824 827	p50
+T12	Protein 828 831	p65
+T13	Protein 848 851	p50
+T14	Protein 895 897	TF
+T15	Protein 1042 1044	TF
+T16	Protein 1085 1088	p50
+T17	Protein 1089 1092	p65
+T18	Protein 1128 1133	c-Rel
+T19	Protein 1134 1137	p65
+T20	Protein 1251 1256	c-Rel
+T21	Protein 1261 1264	p65
+T22	Protein 1284 1287	p50
+T23	Protein 1295 1297	TF
+T24	Protein 1330 1335	c-Rel
+T25	Protein 1336 1339	p65
+T26	Protein 1378 1380	TF
+T27	Protein 1438 1440	TF
+T28	Protein 1526 1531	c-Rel
+T29	Protein 1535 1538	p65
+T30	Protein 1597 1602	c-Rel
+T31	Protein 1603 1606	p65
+T32	Protein 1675 1677	TF
+T65	Exp 500 521	human monocytic cells
+T66	Exp 670 678	kinetics

@@ -1,0 +1,51 @@
+T21	Exp 62 98	the human pro-interleukin-1beta gene
+T22	Exp 120 149	the upstream enhancer element
+T23	Exp 201 223	the transcription site
+T24	Exp 227 258	the human pro-interleukin 1beta
+T25	Exp 347 360	the influence
+T26	Exp 364 385	the sequences located
+T27	Exp 413 441	the transcriptional activity
+T28	Exp 445 465	the proIL-1beta gene
+T29	Exp 335 345	this study
+T30	Exp 594 598	that
+T31	Exp 645 649	that
+T32	Exp 524 535	The results
+T33	Exp 650 660	the region
+T34	Exp 712 725	the induction
+T35	Exp 845 862	the latter region
+T36	Exp 999 1022	These specific bindings
+T37	Exp 1158 1162	that
+T38	Exp 1163 1167	both
+T39	Exp 1057 1068	The results
+T40	Exp 1196 1224	the NF-kappaB components p50
+T41	Exp 1370 1376	either
+T42	Exp 1380 1416	the putative NF-kappaB-binding sites
+T43	Exp 1420 1440	the enhancer element
+T44	Exp 1451 1494	the LPS-stimulated transcriptional activity
+T45	Exp 1517 1521	that
+T46	Exp 1551 1556	which
+T47	Exp 1611 1625	the activation
+T48	Exp 1496 1506	These data
+R4	Coref Anaphora:T30 Antecedent:T8
+T50	SPAN 1221 1232	p50 and p65
+R5	Coref Anaphora:T41 Antecedent:T50
+R6	Coref Anaphora:T46 Antecedent:T49
+T1	Protein 25 28	p50
+T2	Protein 29 32	p65
+T3	Protein 72 93	pro-interleukin-1beta
+T4	Protein 237 258	pro-interleukin 1beta
+T5	Protein 260 271	proIL-1beta
+T6	Protein 449 460	proIL-1beta
+T7	Protein 574 577	fos
+T8	Protein 579 582	CAT
+T9	Protein 1221 1224	p50
+T10	Protein 1229 1232	p65
+T11	Protein 1280 1283	p52
+T12	Protein 1285 1290	c-Rel
+T13	Protein 1292 1297	Rel B
+T14	Protein 1315 1320	c-Fos
+T15	Protein 1322 1327	C-Jun
+T16	Protein 1338 1347	C/EBPbeta
+T17	Protein 1349 1355	NF-IL6
+T18	Protein 1629 1640	proIL-1beta
+T49	Exp 1522 1549	two NF-kappaB-binding sites

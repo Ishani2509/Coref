@@ -1,0 +1,42 @@
+T13	Exp 61 73	the presence
+T14	Exp 189 211	The abnormal adherence
+T15	Exp 379 381	We
+T16	Exp 491 495	that
+T17	Exp 401 416	the interaction
+T18	Exp 572 584	the adhesion
+T19	Exp 617 630	the adherence
+T20	Exp 652 654	We
+T21	Exp 662 666	that
+T22	Exp 1044 1048	both
+T23	Exp 667 682	the interaction
+T24	Exp 716 728	the presence
+T25	Exp 1012 1042	the transcription factor NF-kB
+T26	Exp 1112 1127	these phenomena
+T27	Exp 1129 1165	The oxidant stress-induced signaling
+T28	Exp 1272 1284	The addition
+T29	Exp 1391 1403	these events
+T30	Exp 1485 1489	that
+T31	Exp 1539 1561	the surface expression
+T32	Exp 1895 1900	which
+T33	Exp 1887 1891	each
+T34	Exp 1671 1701	the transendothelial migration
+T35	Exp 1983 1987	that
+T36	Exp 2217 2221	that
+T37	Exp 1988 2009	the adherence/contact
+T38	Exp 1961 1974	These results
+R4	Coref Anaphora:T16 Antecedent:T39
+R5	Coref Anaphora:T30 Antecedent:T40
+R6	Coref Anaphora:T32 Antecedent:T33
+T1	Protein 745 766	von Willebrand factor
+T2	Protein 768 771	vWf
+T3	Protein 1231 1237	ICAM-1
+T4	Protein 1239 1249	E-selectin
+T5	Protein 1255 1261	VCAM-1
+T6	Protein 1322 1330	catalase
+T7	Protein 1332 1352	superoxide dismutase
+T8	Protein 1499 1502	vWf
+T9	Protein 1565 1571	VCAM-1
+T10	Protein 1814 1859	platelet-endothelial cell adhesion molecule-1
+T11	Protein 1861 1868	PECAM-1
+T39	Exp 467 490	cellular oxidant stress
+T40	Exp 1480 1483	RGD

@@ -1,0 +1,25 @@
+T7	Exp 201 205	that
+T8	Exp 94 102	the role
+T9	Exp 246 270	the periodontal diseases
+T10	Exp 68 78	This paper
+T11	Exp 431 440	this area
+T12	Exp 461 482	the considerable data
+T13	Exp 442 452	This paper
+T14	Exp 670 689	this important area
+T15	Exp 691 711	The recent discovery
+T16	Exp 715 739	the transcription factor
+T17	Exp 938 942	that
+T18	Exp 1211 1213	it
+T19	Exp 1230 1234	that
+T20	Exp 1040 1048	The link
+T21	Exp 1125 1140	the antioxidant
+T22	Exp 1080 1104	such important mediators
+R3	Coref Anaphora:T7 Antecedent:T23
+R4	Coref Anaphora:T17 Antecedent:T24
+T1	Protein 879 890	NF-kappa B1
+T2	Protein 991 1000	TNF-alpha
+T3	Protein 1008 1012	IL-6
+T4	Protein 1014 1018	IL-8
+T5	Protein 1023 1038	beta-interferon
+T23	Exp 179 200	inflammatory diseases
+T24	Exp 928 937	cytokines

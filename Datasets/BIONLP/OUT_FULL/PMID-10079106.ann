@@ -1,0 +1,34 @@
+T20	Exp 440 462	the upstream activator
+T21	Exp 556 558	We
+T22	Exp 594 598	that
+T23	Exp 660 664	that
+T24	Exp 572 587	the MAPk kinase
+T25	Exp 638 659	the p38 MAPk isoforms
+T26	Exp 708 732	the functional responses
+T27	Exp 690 702	this pathway
+T28	Exp 1403 1408	which
+T29	Exp 1471 1476	which
+T30	Exp 1367 1381	These findings
+R5	Coref Anaphora:T22 Antecedent:T31
+R6	Coref Anaphora:T23 Antecedent:T25
+R7	Coref Anaphora:T28 Antecedent:T32
+R8	Coref Anaphora:T29 Antecedent:T14
+T1	Protein 775 779	MKK3
+T2	Protein 781 785	MKK4
+T3	Protein 791 795	MKK6
+T4	Protein 848 852	MKK3
+T5	Protein 959 967	p38alpha
+T6	Protein 972 980	p38delta
+T7	Protein 1049 1057	p38alpha
+T8	Protein 1082 1095	p38alpha MAPk
+T9	Protein 1190 1217	tumor necrosis factor-alpha
+T10	Protein 1219 1228	TNF-alpha
+T11	Protein 1245 1258	p38alpha MAPk
+T12	Protein 1295 1304	TNF-alpha
+T13	Protein 1346 1355	TNF-alpha
+T14	Protein 1465 1469	MKK3
+T15	Protein 1495 1508	p38alpha MAPk
+T16	Protein 1592 1601	TNF-alpha
+T17	Protein 1621 1630	TNF-alpha
+T31	Exp 589 592	MKK
+T32	Exp 1390 1399	a pathway

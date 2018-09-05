@@ -1,0 +1,19 @@
+T4	Exp 82 93	The binding
+T5	Exp 150 170	the triggering event
+T6	Exp 321 325	that
+T7	Exp 245 270	the ligand binding domain
+T8	Exp 274 289	these receptors
+T9	Exp 370 381	this domain
+T10	Exp 596 606	The amount
+T11	Exp 680 690	the ligand
+T12	Exp 704 721	the determination
+T13	Exp 761 774	the wild-type
+T14	Exp 959 980	the proteolytic assay
+T15	Exp 1226 1230	when
+T16	Exp 1183 1195	the affinity
+T17	Exp 982 993	This method
+R2	Coref Anaphora:T6 Antecedent:T18
+T1	Protein 792 820	retinoic acid receptor alpha
+T2	Protein 1029 1054	retinoic X receptor alpha
+T3	Protein 1056 1079	glucocorticoid receptor
+T18	Exp 298 320	conformational changes

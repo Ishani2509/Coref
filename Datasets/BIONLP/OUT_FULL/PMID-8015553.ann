@@ -1,0 +1,77 @@
+T29	Exp 159 184	the human PRL (hPRL) gene
+T30	Exp 217 227	the uterus
+T31	Exp 290 315	the hematopoietic lineage
+T32	Exp 415 448	the pituitary-specific start site
+T33	Exp 562 564	we
+T34	Exp 472 502	the tissue-specific mechanisms
+T35	Exp 513 524	the control
+T36	Exp 615 661	the upstream decidual/lymphoid (dPRL) promoter
+T37	Exp 690 692	we
+T38	Exp 818 820	We
+T39	Exp 829 840	our studies
+T40	Exp 1114 1119	which
+T41	Exp 844 852	the role
+T42	Exp 919 941	the POU domain protein
+T43	Exp 964 975	the control
+T44	Exp 1057 1079	the endometrial stroma
+T45	Exp 1120 1141	the decidual PRL gene
+T46	Exp 1156 1158	We
+T47	Exp 1245 1249	that
+T48	Exp 1275 1289	the regulation
+T49	Exp 1363 1378	Our experiments
+T50	Exp 1389 1393	that
+T51	Exp 1457 1474	the dPRL promoter
+T52	Exp 1481 1483	we
+T53	Exp 1589 1591	we
+T54	Exp 1476 1480	When
+T55	Exp 1598 1602	that
+T56	Exp 1726 1730	that
+T57	Exp 1493 1505	the activity
+T58	Exp 1603 1613	the 3 kb 5
+T59	Exp 1634 1651	the dPRL promoter
+T60	Exp 1807 1817	the status
+T61	Exp 1821 1844	the endogenous PRL gene
+T62	Exp 1708 1725	those lymphocytes
+T63	Exp 1894 1899	where
+T64	Exp 1968 1985	the dPRL promoter
+T65	Exp 2316 2320	that
+T66	Exp 2163 2190	the dPRL promoter construct
+T67	Exp 2251 2263	the addition
+T68	Exp 2276 2287	the absence
+T69	Exp 2349 2375	the cAMP signaling pathway
+T70	Exp 2194 2222	these undifferentiated cells
+R5	Coref Anaphora:T40 Antecedent:T71
+R6	Coref Anaphora:T47 Antecedent:T72
+R7	Coref Anaphora:T56 Antecedent:T62
+R8	Coref Anaphora:T63 Antecedent:T73
+T1	Protein 19 28	prolactin
+T2	Protein 66 71	Pit-1
+T3	Protein 169 172	PRL
+T4	Protein 174 178	hPRL
+T5	Protein 541 544	PRL
+T6	Protein 647 651	dPRL
+T7	Protein 727 732	Pit-1
+T8	Protein 758 781	glucocorticoid receptor
+T9	Protein 782 803	progesterone receptor
+T10	Protein 805 807	PR
+T11	Protein 856 861	Pit-1
+T12	Protein 869 871	PR
+T13	Protein 942 947	Pit-1
+T14	Protein 989 992	PRL
+T15	Protein 1133 1136	PRL
+T16	Protein 1250 1255	Pit-1
+T17	Protein 1293 1297	dPRL
+T18	Protein 1404 1406	PR
+T19	Protein 1461 1465	dPRL
+T20	Protein 1525 1529	dPRL
+T21	Protein 1542 1545	PRL
+T22	Protein 1739 1742	PRL
+T23	Protein 1836 1839	PRL
+T24	Protein 1972 1976	dPRL
+T25	Protein 2047 2050	PRL
+T26	Protein 2108 2111	PRL
+T27	Protein 2167 2171	dPRL
+T28	Protein 2409 2412	PRL
+T71	Exp 1081 1106	a differentiation process
+T72	Exp 1225 1243	endometrial stroma
+T73	Exp 1876 1893	endometrial cells

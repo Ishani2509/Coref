@@ -1,0 +1,37 @@
+T9	Exp 87 104	The TCL1 oncogene
+T10	Exp 333 335	It
+T11	Exp 515 544	the clonally expanded T cells
+T12	Exp 567 581	the appearance
+T13	Exp 585 603	the overt leukemia
+T14	Exp 605 607	We
+T15	Exp 622 636	the expression
+T16	Exp 747 749	We
+T17	Exp 756 760	that
+T18	Exp 761 774	the TCL1 gene
+T19	Exp 796 804	the PBLs
+T20	Exp 871 897	the t(14;14) translocation
+T21	Exp 909 924	the lymphocytes
+T22	Exp 928 943	the other cases
+T23	Exp 1091 1095	that
+T24	Exp 983 1005	the TCL1 genomic locus
+T25	Exp 1036 1050	the AT patient
+T26	Exp 1056 1083	the T-cell clonal expansion
+T27	Exp 1096 1110	the breakpoint
+T28	Exp 1114 1140	the t(14;14) translocation
+T29	Exp 1153 1167	the TCL1 locus
+T30	Exp 1217 1232	the distal part
+T31	Exp 1271 1275	that
+T32	Exp 1392 1405	the TCR locus
+T33	Exp 1251 1261	These data
+T34	Exp 1440 1455	the first event
+T35	Exp 1459 1473	the initiation
+T36	Exp 1491 1502	these types
+R2	Coref Anaphora:T10 Antecedent:T9
+T1	Protein 0 4	TCL1
+T2	Protein 91 95	TCL1
+T3	Protein 640 644	TCL1
+T4	Protein 765 769	TCL1
+T5	Protein 987 991	TCL1
+T6	Protein 1157 1161	TCL1
+T7	Protein 1276 1280	TCL1
+T8	Protein 1432 1436	TCL1

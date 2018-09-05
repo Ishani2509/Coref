@@ -1,0 +1,37 @@
+T13	Exp 30 41	the nucleus
+T14	Exp 112 135	the inhibitory capacity
+T15	Exp 182 195	the retention
+T16	Exp 225 236	the cytosol
+T17	Exp 320 324	when
+T18	Exp 290 301	the nucleus
+T19	Exp 468 470	we
+T20	Exp 485 497	its presence
+T21	Exp 394 412	the potential role
+T22	Exp 501 512	the nucleus
+T23	Exp 560 562	We
+T24	Exp 575 599	the nuclear localization
+T25	Exp 849 865	The nuclear pool
+T26	Exp 977 992	the resynthesis
+T27	Exp 996 1007	the protein
+T28	Exp 1023 1035	the presence
+T29	Exp 1140 1152	the presence
+T30	Exp 1171 1188	the nuclear level
+T31	Exp 1109 1124	this phenomenon
+T32	Exp 1316 1327	Our results
+T33	Exp 1340 1344	that
+T34	Exp 1416 1427	the nucleus
+R3	Coref Anaphora:T20 Antecedent:T35
+R4	Coref Anaphora:T27 Antecedent:T8
+T1	Protein 14 26	IkappaBalpha
+T2	Protein 139 155	I(kappa)B(alpha)
+T3	Protein 247 263	I(kappa)B(alpha)
+T4	Protein 424 440	I(kappa)B(alpha)
+T5	Protein 603 619	I(kappa)B(alpha)
+T6	Protein 741 757	I(kappa)B(alpha)
+T7	Protein 869 885	I(kappa)B(alpha)
+T8	Protein 927 943	I(kappa)B(alpha)
+T9	Protein 1047 1063	I(kappa)B(alpha)
+T10	Protein 1156 1167	IkappaBbeta
+T11	Protein 1275 1291	I(kappa)B(alpha)
+T12	Protein 1385 1401	I(kappa)B(alpha)
+T35	Exp 374 388	better insight

@@ -1,0 +1,4 @@
+T1	Protein 732 735	Tat
+T2	Exp 395 409	The hypothesis
+T3	Exp 410 414	that
+R1	Coref Anaphora:T3 Antecedent:T2

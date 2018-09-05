@@ -1,0 +1,25 @@
+T2	Exp 64 99	the transcriptional initiation site
+T3	Exp 103 119	the simian virus
+T4	Exp 252 275	the TR2 orphan receptor
+T5	Exp 289 337	the steroid-thyroid hormone receptor superfamily
+T6	Exp 362 378	the simian virus
+T7	Exp 665 682	this DNA sequence
+T8	Exp 765 769	that
+T9	Exp 792 822	the transcriptional activities
+T10	Exp 850 865	the interaction
+T11	Exp 894 925	the chimeric receptor AR/TR2/AR
+T12	Exp 931 953	the DNA-binding domain
+T13	Exp 957 980	the TR2 orphan receptor
+T14	Exp 992 1035	the N-terminal and androgen-binding domains
+T15	Exp 1039 1060	the androgen receptor
+T16	Exp 874 889	this TR2RE-SV40
+T17	Exp 1131 1161	the transcriptional activities
+T18	Exp 1075 1090	this TR2RE-SV40
+T19	Exp 1337 1341	that
+T20	Exp 1230 1244	the TR2RE-SV40
+T21	Exp 1259 1308	the first identified natural DNA response element
+T22	Exp 1313 1336	the TR2 orphan receptor
+T23	Exp 1374 1398	the SV40 gene expression
+T24	Exp 1211 1221	these data
+R2	Coref Anaphora:T19 Antecedent:T22
+T1	Protein 711 745	chloramphenicol acetyl-transferase

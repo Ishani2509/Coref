@@ -1,0 +1,11 @@
+T1	Protein 1046 1057	NO synthase
+T2	Protein 1059 1062	NOS
+T3	Protein 1212 1215	NOS
+T4	Protein 1238 1241	NOS
+T5	Protein 1341 1361	GTP-cyclohydrolase I
+T6	Protein 1432 1435	NOS
+T7	Protein 1741 1744	NOS
+T8	Protein 2077 2095	GTP-cyclohydrolase
+T9	Exp 1785 1820	the generation of an oxidant stress	1789 1799	generation
+T10	Exp 1832 1836	that
+R1	Coref Anaphora:T10 Antecedent:T9

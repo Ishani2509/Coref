@@ -1,0 +1,25 @@
+T1	Protein 57 60	B29
+T2	Protein 114 117	B29
+T3	Protein 124 127	B29
+T4	Protein 129 136	Ig beta
+T5	Protein 138 143	CD79b
+T6	Protein 395 398	B29
+T7	Protein 463 466	B29
+T8	Protein 590 593	B29
+T9	Protein 915 918	B29
+T10	Protein 985 988	B29
+T11	Protein 1052 1055	B29
+T12	Protein 1122 1125	B29
+T13	Protein 1158 1161	B29
+T14	Protein 1256 1259	B29
+T15	Protein 1427 1430	B29
+T16	Protein 1493 1496	B29
+T17	Exp 94 122	the B-cell-specific B29 gene
+T18	Exp 312 329	this pivotal gene	325 329	gene
+T19	Exp 1309 1316	the BCS
+T20	Exp 1359 1395	5' negative regulatory DNA sequences	1386 1395	sequences
+T21	Exp 1396 1400	that
+T22	Exp 1451 1454	its
+R1	Coref Anaphora:T18 Antecedent:T17	[T2]
+R2	Coref Anaphora:T21 Antecedent:T20
+R3	Coref Anaphora:T22 Antecedent:T19

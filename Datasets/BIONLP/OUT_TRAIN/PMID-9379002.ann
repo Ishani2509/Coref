@@ -1,0 +1,35 @@
+T14	Exp 41 74	its inhibitor I kappa B-alpha/MAD
+T15	Exp 261 283	the stimulated release
+T16	Exp 337 363	the spontaneous expression
+T17	Exp 525 539	its components
+T18	Exp 623 625	we
+T19	Exp 635 644	the basis
+T20	Exp 612 622	this study
+T21	Exp 723 725	We
+T22	Exp 779 810	the major cytoplasmic inhibitor
+T23	Exp 1229 1234	which
+T24	Exp 1189 1203	The expression
+T25	Exp 1440 1454	the expression
+T26	Exp 1609 1623	its tuberculin
+T27	Exp 1662 1677	the degradation
+T28	Exp 1701 1715	the expression
+T29	Exp 1781 1795	the activation
+R5	Coref Anaphora:T14 Antecedent:T30
+R6	Coref Anaphora:T17 Antecedent:T31
+R7	Coref Anaphora:T23 Antecedent:T7
+R8	Coref Anaphora:T26 Antecedent:T32
+T1	Protein 55 70	I kappa B-alpha
+T2	Protein 71 76	MAD-3
+T3	Protein 322 331	TNF-alpha
+T4	Protein 367 372	IL-2R
+T5	Protein 762 777	I kappa B-alpha
+T6	Protein 936 951	I kappa B-alpha
+T7	Protein 1207 1222	I kappa B-alpha
+T8	Protein 1506 1510	IL-8
+T9	Protein 1515 1524	IL-1 beta
+T10	Protein 1613 1623	tuberculin
+T11	Protein 1681 1696	I kappa B-alpha
+T12	Protein 1719 1734	I kappa B-alpha
+T30	Exp 0 10	Regulation
+T31	Exp 494 520	Mycobacterium tuberculosis
+T32	Exp 1589 1604	M. tuberculosis

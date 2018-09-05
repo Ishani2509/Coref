@@ -1,0 +1,55 @@
+T25	Exp 45 84	the hGATA-3 T cell transcription factor
+T26	Exp 149 151	we
+T27	Exp 237 239	we
+T28	Exp 161 191	the T cell receptor(TcR) delta
+T29	Exp 283 322	the hGATA-3 T cell transcription factor
+T30	Exp 327 368	the recombination-activating gene (RAG)-1
+T31	Exp 138 148	this study
+T32	Exp 261 272	these cells
+T33	Exp 600 629	the functional TcR delta mRNA
+T34	Exp 794 798	they
+T35	Exp 789 793	that
+T36	Exp 880 915	their transcription initiation site
+T37	Exp 949 970	the J delta 1 segment
+T38	Exp 847 857	These cDNA
+T39	Exp 972 992	The sequence located
+T40	Exp 1005 1026	the J delta 1 segment
+T41	Exp 1043 1085	the previously reported germ-line sequence
+T42	Exp 1087 1108	The J delta 1 segment
+T43	Exp 1155 1177	the four C delta exons
+T44	Exp 1256 1279	the fourth C delta exon
+T45	Exp 1295 1299	that
+T46	Exp 1311 1321	the 3' end
+T47	Exp 1349 1364	the 2.3-kb cDNA
+T48	Exp 1366 1380	The expression
+T49	Exp 1442 1456	the regulation
+T50	Exp 1460 1477	the transcription
+T51	Exp 1711 1715	that
+T52	Exp 1743 1757	the regulation
+T53	Exp 1761 1803	the unrearranged TcR delta gene expression
+T54	Exp 1846 1860	the RAG-1 gene
+R3	Coref Anaphora:T34 Antecedent:T55
+R4	Coref Anaphora:T36 Antecedent:T16
+T1	Protein 6 9	CD3
+T2	Protein 10 14	CD16
+T3	Protein 49 56	hGATA-3
+T4	Protein 112 121	TcR delta
+T5	Protein 165 191	T cell receptor(TcR) delta
+T6	Protein 217 220	CD3
+T7	Protein 221 225	CD16
+T8	Protein 287 294	hGATA-3
+T9	Protein 331 368	recombination-activating gene (RAG)-1
+T10	Protein 379 388	TcR delta
+T11	Protein 431 440	TcR delta
+T12	Protein 490 493	CD3
+T13	Protein 494 498	CD16
+T14	Protein 548 557	TcR delta
+T15	Protein 615 624	TcR delta
+T16	Protein 831 840	TcR delta
+T17	Protein 1384 1391	hGATA-3
+T18	Protein 1481 1490	TcR delta
+T19	Protein 1677 1684	hGATA-3
+T20	Protein 1716 1723	hGATA-3
+T21	Protein 1778 1787	TcR delta
+T22	Protein 1850 1855	RAG-1
+T55	Exp 709 742	nine different 2.3-kb cDNA clones

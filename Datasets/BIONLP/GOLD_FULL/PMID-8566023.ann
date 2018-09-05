@@ -1,0 +1,8 @@
+T1	Protein 81 102	T cell receptor gamma
+T2	Protein 495 516	T cell receptor gamma
+T3	Protein 518 522	TCRG
+T4	Protein 698 702	TCRG
+T5	Protein 780 784	TCRG
+T6	Exp 752 774	a previous observation	763 774	observation
+T7	Exp 775 779	that
+R1	Coref Anaphora:T7 Antecedent:T6

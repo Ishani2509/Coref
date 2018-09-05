@@ -1,0 +1,34 @@
+T8	Exp 86 116	the tissue-specific expression
+T9	Exp 256 279	the transcription start
+T10	Exp 314 337	the positive activities
+T11	Exp 341 365	the AP-1 and Elf-1 sites
+T12	Exp 369 386	the IL-3 promoter
+T13	Exp 621 626	which
+T14	Exp 388 404	The contribution
+T15	Exp 585 619	the core binding factor (CBF) site
+T16	Exp 686 698	the CBF site
+T17	Exp 738 771	the adjacent activator site Act-1
+T18	Exp 782 805	the Act-1 and CBF sites
+T19	Exp 926 930	both
+T20	Exp 859 870	The AC unit
+T21	Exp 959 972	This activity
+T22	Exp 1150 1154	that
+T23	Exp 1055 1091	the already identified NIP repressor
+T24	Exp 1314 1318	that
+T25	Exp 1263 1280	the IL-3 promoter
+T26	Exp 1396 1400	that
+T27	Exp 1548 1552	that
+T28	Exp 1447 1459	the activity
+T29	Exp 1370 1383	these results
+R4	Coref Anaphora:T13 Antecedent:T15
+R5	Coref Anaphora:T22 Antecedent:T30
+R6	Coref Anaphora:T27 Antecedent:T31
+T1	Protein 120 133	interleukin-3
+T2	Protein 166 179	interleukin-3
+T3	Protein 181 185	IL-3
+T4	Protein 373 377	IL-3
+T5	Protein 509 513	IL-3
+T6	Protein 1267 1271	IL-3
+T7	Protein 1422 1426	IL-3
+T30	Exp 1124 1149	a second repressor region
+T31	Exp 1518 1547	multiple interacting elements

@@ -1,0 +1,13 @@
+T1	Protein 105 108	Sp1
+T2	Protein 268 271	Sp1
+T3	Protein 462 465	Spl
+T4	Protein 1790 1793	Sp1
+T5	Protein 2235 2238	Sp1
+T6	Protein 2294 2297	Tat
+T7	Protein 2475 2478	Sp1
+T8	Exp 2087 2144	an enhancer region just upstream of the NF-kappaB element	2099 2105	region
+T9	Exp 2145 2150	which
+T10	Exp 2312 2328	the SIV TATA box
+T11	Exp 2359 2363	that
+R1	Coref Anaphora:T9 Antecedent:T8
+R2	Coref Anaphora:T11 Antecedent:T10

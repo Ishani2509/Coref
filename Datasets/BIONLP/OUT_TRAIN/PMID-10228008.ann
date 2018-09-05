@@ -1,0 +1,65 @@
+T39	Exp 0 74	The evolutionarily conserved sequence upstream of the human Ig heavy chain
+T40	Exp 340 354	its regulation
+T41	Exp 289 293	that
+T42	Exp 277 288	the process
+T43	Exp 358 367	the human
+T44	Exp 390 392	We
+T45	Exp 411 431	our monoclonal model
+T46	Exp 508 516	the role
+T47	Exp 520 533	the I gamma 3
+T48	Exp 577 616	the germline transcriptional activation
+T49	Exp 620 644	the human C gamma 3 gene
+T50	Exp 807 816	I gamma 2
+T51	Exp 646 663	The I gamma 3 ECS
+T52	Exp 681 700	the major I gamma 3
+T53	Exp 772 805	the corresponding human I gamma 1
+T54	Exp 943 948	which
+T55	Exp 885 906	the human gamma 3 ECS
+T56	Exp 1282 1286	that
+T57	Exp 1341 1350	the gamma
+T58	Exp 1517 1521	that
+T59	Exp 1643 1650	the ECS
+T60	Exp 1772 1776	them
+T61	Exp 1747 1761	the disruption
+T62	Exp 1890 1894	that
+T63	Exp 1825 1840	the gamma 3 ECS
+T64	Exp 1969 1993	the human C gamma 3 gene
+R8	Coref Anaphora:T41 Antecedent:T42
+R9	Coref Anaphora:T40 Antecedent:T1
+R10	Coref Anaphora:T54 Antecedent:T65
+T67	SPAN 1680 1694	CD40L and IL-4
+R11	Coref Anaphora:T60 Antecedent:T67
+R12	Coref Anaphora:T62 Antecedent:T66
+T1	Protein 144 155	CD40 ligand
+T2	Protein 160 164	IL-4
+T3	Protein 196 202	STAT-6
+T4	Protein 524 533	I gamma 3
+T5	Protein 630 639	C gamma 3
+T6	Protein 650 659	I gamma 3
+T7	Protein 691 700	I gamma 3
+T8	Protein 796 805	I gamma 1
+T9	Protein 807 816	I gamma 2
+T10	Protein 822 831	I gamma 4
+T11	Protein 1030 1034	CD40
+T12	Protein 1038 1049	CD40 ligand
+T13	Protein 1051 1056	CD40L
+T14	Protein 1074 1078	IL-4
+T15	Protein 1114 1118	CD40
+T16	Protein 1119 1124	CD40L
+T17	Protein 1152 1156	IL-4
+T18	Protein 1380 1385	CD40L
+T19	Protein 1390 1394	IL-4
+T20	Protein 1404 1410	STAT-6
+T21	Protein 1453 1457	IL-4
+T22	Protein 1522 1525	p50
+T23	Protein 1526 1529	p65
+T24	Protein 1530 1535	c-Rel
+T25	Protein 1540 1546	STAT-6
+T26	Protein 1574 1579	CD40L
+T27	Protein 1584 1588	IL-4
+T28	Protein 1680 1685	CD40L
+T29	Protein 1690 1694	IL-4
+T30	Protein 1914 1919	CD40L
+T31	Protein 1924 1928	IL-4
+T65	Exp 930 941	CL-01 cells
+T66	Exp 1877 1889	cis elements

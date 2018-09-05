@@ -1,0 +1,9 @@
+T7	Exp 30 34	that
+T8	Exp 205 207	We
+R2	Coref Anaphora:T7 Antecedent:T9
+T1	Protein 157 160	Lck
+T2	Protein 180 183	Lck
+T3	Protein 608 618	L-selectin
+T4	Protein 620 626	ICAM-3
+T5	Protein 632 637	H-CAM
+T9	Exp 5 29	a novel cellular protein

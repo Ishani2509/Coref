@@ -1,0 +1,26 @@
+T13	Exp 73 80	the NKL
+T14	Exp 245 247	we
+T15	Exp 258 262	that
+T16	Exp 295 318	the human NKL cell line
+T17	Exp 571 581	the course
+T18	Exp 880 906	their DNA-binding activity
+T19	Exp 782 787	which
+T20	Exp 908 919	Our studies
+T21	Exp 934 938	that
+T22	Exp 1084 1088	that
+T23	Exp 948 960	the rapidity
+T24	Exp 1034 1049	the early stage
+T25	Exp 1166 1191	the very early activation
+R4	Coref Anaphora:T19 Antecedent:T26
+T27	SPAN 818 839	JunB, FosB, and c-Fos
+R5	Coref Anaphora:T18 Antecedent:T27
+T1	Protein 427 431	JunB
+T2	Protein 433 437	FosB
+T3	Protein 442 447	c-Fos
+T4	Protein 627 659	immunoglobulin-like transcript-2
+T5	Protein 660 688	leukocyte Ig-like receptor 1
+T6	Protein 706 713	HLA-B27
+T7	Protein 818 822	JunB
+T8	Protein 824 828	FosB
+T9	Protein 834 839	c-Fos
+T26	Exp 756 780	NKL natural cytotoxicity

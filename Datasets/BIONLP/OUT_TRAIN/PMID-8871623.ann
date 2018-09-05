@@ -1,0 +1,53 @@
+T18	Exp 334 336	it
+T19	Exp 221 225	that
+T20	Exp 277 281	that
+T21	Exp 200 220	the signaling events
+T22	Exp 268 276	the fact
+T23	Exp 357 382	the relative contribution
+T24	Exp 425 432	the TCR
+T25	Exp 460 462	we
+T26	Exp 622 624	we
+T27	Exp 494 498	that
+T28	Exp 478 493	the observation
+T29	Exp 551 576	the CD28 surface molecule
+T30	Exp 580 591	the absence
+T31	Exp 651 663	the response
+T32	Exp 446 458	this problem
+T33	Exp 734 736	we
+T34	Exp 746 750	that
+T35	Exp 840 844	that
+T36	Exp 721 732	this system
+T37	Exp 969 973	that
+T38	Exp 1120 1127	the TCR
+T39	Exp 1208 1221	the induction
+T40	Exp 1308 1310	we
+T41	Exp 1324 1346	the signaling pathways
+T42	Exp 1359 1386	the CD28-mediated induction
+T43	Exp 1424 1428	that
+T44	Exp 1532 1575	the phosphatidylinositol 3-kinase inhibitor
+T45	Exp 1713 1717	that
+T46	Exp 1852 1856	that
+T47	Exp 1694 1704	These data
+T48	Exp 1857 1870	this response
+R5	Coref Anaphora:T19 Antecedent:T21
+R6	Coref Anaphora:T20 Antecedent:T22
+R7	Coref Anaphora:T27 Antecedent:T28
+R8	Coref Anaphora:T35 Antecedent:T49
+T1	Protein 67 71	CD28
+T2	Protein 132 155	acidic sphingomyelinase
+T3	Protein 233 237	CD28
+T4	Protein 282 286	CD28
+T5	Protein 386 390	CD28
+T6	Protein 555 559	CD28
+T7	Protein 685 689	CD28
+T8	Protein 751 755	CD28
+T9	Protein 771 773	B7
+T10	Protein 879 883	IL-2
+T11	Protein 974 976	B7
+T12	Protein 1181 1185	CD28
+T13	Protein 1263 1267	IL-2
+T14	Protein 1363 1367	CD28
+T15	Protein 1496 1519	acidic sphingomyelinase
+T16	Protein 1747 1751	CD28
+T17	Protein 1881 1904	acidic sphingomyelinase
+T49	Exp 832 839	T cells

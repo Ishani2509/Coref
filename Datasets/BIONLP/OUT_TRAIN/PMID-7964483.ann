@@ -1,0 +1,36 @@
+T10	Exp 79 102	the autoantigen La/SS-B
+T11	Exp 290 306	The cDNA library
+T12	Exp 325 337	the patients
+T13	Exp 382 413	the nuclear autoantigen La/SS-B
+T14	Exp 469 473	that
+T15	Exp 488 505	the known La mRNA
+T16	Exp 528 538	the exon 1
+T17	Exp 606 610	that
+T18	Exp 554 572	the genomic region
+T19	Exp 581 590	the exons
+T20	Exp 611 628	the alternative 5
+T21	Exp 647 657	the intron
+T22	Exp 718 723	which
+T23	Exp 672 684	the presence
+T24	Exp 738 748	the intron
+T25	Exp 763 773	the exon 1
+T26	Exp 807 830	the alternative La mRNA
+T27	Exp 834 844	the result
+T28	Exp 1051 1055	that
+T29	Exp 921 931	the intron
+T30	Exp 1036 1050	the suggestion
+T31	Exp 1056 1070	the expression
+T32	Exp 1074 1082	the gene
+T33	Exp 1096 1127	the nuclear autoantigen La/SS-B
+R3	Coref Anaphora:T22 Antecedent:T34
+R4	Coref Anaphora:T28 Antecedent:T30
+T1	Protein 83 97	autoantigen La
+T2	Protein 98 102	SS-B
+T3	Protein 394 408	autoantigen La
+T4	Protein 409 413	SS-B
+T5	Protein 446 448	La
+T6	Protein 498 500	La
+T7	Protein 823 825	La
+T8	Protein 1108 1122	autoantigen La
+T9	Protein 1123 1127	SS-B
+T34	Exp 688 716	an alternative promoter site

@@ -1,0 +1,36 @@
+T15	Exp 104 127	the mouse perforin gene
+T16	Exp 167 193	the potential cis-elements
+T17	Exp 236 259	the mouse perforin gene
+T18	Exp 130 140	This study
+T19	Exp 312 316	that
+T20	Exp 317 335	the perforin locus
+T21	Exp 371 376	the 5
+T22	Exp 431 440	The six 5
+T23	Exp 729 753	the highest CAT activity
+T24	Exp 854 873	The proximal region
+T25	Exp 1023 1027	that
+T26	Exp 1028 1032	each
+T27	Exp 1036 1052	the cis-elements
+T28	Exp 1085 1089	When
+T29	Exp 1247 1261	the importance
+T30	Exp 1265 1294	the three cis-acting elements
+T31	Exp 1298 1326	the perforin gene expression
+T32	Exp 1415 1434	The point mutations
+T33	Exp 1511 1515	that
+T34	Exp 1491 1502	The results
+T35	Exp 1533 1571	the three proximal cis-acting elements
+R2	Coref Anaphora:T35 Antecedent:T30
+T1	Protein 19 22	Sp1
+T2	Protein 114 122	perforin
+T3	Protein 246 254	perforin
+T4	Protein 321 329	perforin
+T5	Protein 494 502	perforin
+T6	Protein 527 560	Chloramphenicol acetyltransferase
+T7	Protein 562 565	CAT
+T8	Protein 741 744	CAT
+T9	Protein 823 826	CAT
+T10	Protein 909 912	Sp1
+T11	Protein 1192 1195	CAT
+T12	Protein 1302 1310	perforin
+T13	Protein 1477 1480	CAT
+T14	Protein 1647 1655	perforin

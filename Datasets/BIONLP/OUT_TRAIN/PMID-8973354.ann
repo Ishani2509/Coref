@@ -1,0 +1,26 @@
+T10	Exp 20 69	the murine cyclin-dependent kinase inhibitor gene
+T11	Exp 80 125	The cyclin-dependent kinase inhibitor p27Kip1
+T12	Exp 214 236	the catalytic activity
+T13	Exp 368 388	the expression level
+T14	Exp 491 493	We
+T15	Exp 506 517	the cloning
+T16	Exp 562 585	the functional analysis
+T17	Exp 589 601	the promoter
+T18	Exp 605 621	the p27Kip1 gene
+T19	Exp 623 631	The gene
+T20	Exp 804 823	The promoter region
+T21	Exp 884 911	the transcriptional factors
+T22	Exp 1093 1095	we
+T23	Exp 1030 1055	the regulatory mechanisms
+T24	Exp 1110 1115	the 5
+T25	Exp 1156 1164	The -326
+R2	Coref Anaphora:T19 Antecedent:T18
+T1	Protein 70 77	p27Kip1
+T2	Protein 118 125	p27Kip1
+T3	Protein 188 195	p27Kip1
+T4	Protein 392 399	p27Kip1
+T5	Protein 521 528	p27Kip1
+T6	Protein 609 616	p27Kip1
+T7	Protein 926 929	Sp1
+T8	Protein 936 939	Myb
+T9	Protein 1068 1075	p27Kip1

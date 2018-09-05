@@ -1,0 +1,23 @@
+T1	Protein 0 5	Tcf-1
+T2	Protein 69 95	glycogen synthase kinase-3
+T3	Protein 125 137	Beta-catenin
+T4	Protein 409 421	beta-catenin
+T5	Protein 438 450	beta-catenin
+T6	Protein 507 512	Tcf-1
+T7	Protein 576 588	beta-catenin
+T8	Protein 789 819	glycogen synthase kinase-3beta
+T9	Protein 821 830	GSK-3beta
+T10	Protein 866 878	beta-catenin
+T11	Protein 919 928	GSK-3beta
+T12	Protein 1000 1009	GSK-3beta
+T13	Protein 1083 1101	phytohemagglutinin
+T14	Protein 1116 1125	GSK-3beta
+T15	Protein 1196 1205	GSK-3beta
+T16	Protein 1340 1349	GSK-3beta
+T17	Protein 1362 1365	Tcf
+T18	Exp 1041 1102	Tcf transcription and stimuli (lithium or phytohemagglutinin)
+T19	Exp 1103 1107	that
+T20	Exp 1400 1423	the first demonstration	1410 1423	demonstration
+T21	Exp 1424 1428	that
+R1	Coref Anaphora:T19 Antecedent:T18	[T13]
+R2	Coref Anaphora:T21 Antecedent:T20

@@ -1,0 +1,31 @@
+T19	Exp 63 66	its
+T20	Exp 210 212	We
+T21	Exp 254 287	the human leukemia cell line UT-7
+T22	Exp 540 542	we
+T23	Exp 552 555	how
+T24	Exp 628 644	the TPO receptor
+T25	Exp 653 686	the erythropoietin (EPO) receptor
+T26	Exp 785 789	that
+T27	Exp 762 776	These findings
+T28	Exp 912 916	that
+T29	Exp 1027 1035	our data
+T30	Exp 1044 1048	that
+R2	Coref Anaphora:T19 Antecedent:T31
+T1	Protein 0 14	Thrombopoietin
+T2	Protein 85 90	c-Mpl
+T3	Protein 123 137	Thrombopoietin
+T4	Protein 139 142	TPO
+T5	Protein 442 445	TPO
+T6	Protein 464 467	TPO
+T7	Protein 556 559	TPO
+T8	Protein 588 591	TPO
+T9	Protein 632 644	TPO receptor
+T10	Protein 657 686	erythropoietin (EPO) receptor
+T11	Protein 721 724	TPO
+T12	Protein 729 732	EPO
+T13	Protein 748 760	EPO receptor
+T14	Protein 790 793	TPO
+T15	Protein 917 920	TPO
+T16	Protein 967 970	EPO
+T17	Protein 1049 1052	TPO
+T31	Exp 33 58	erythroid differentiation

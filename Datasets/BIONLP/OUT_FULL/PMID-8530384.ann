@@ -1,0 +1,52 @@
+T30	Exp 31 49	the murine homolog
+T31	Exp 53 58	the B
+T32	Exp 161 178	the octamer motif
+T33	Exp 188 212	the Oct1 or Oct2 protein
+T34	Exp 257 274	One such cofactor
+T35	Exp 337 339	we
+T36	Exp 349 392	the isolation and detailed characterization
+T37	Exp 396 414	the murine homolog
+T38	Exp 472 490	the gene structure
+T39	Exp 610 642	The NH2-terminal 126 amino acids
+T40	Exp 713 728	the POU domains
+T41	Exp 920 924	that
+T42	Exp 803 827	the simultaneous binding
+T43	Exp 888 911	the Oct-DNA interaction
+T44	Exp 979 994	the interaction
+T45	Exp 753 785	This protein-protein interaction
+T46	Exp 1095 1097	it
+T47	Exp 1231 1235	that
+T48	Exp 1236 1240	both
+T49	Exp 1195 1222	the GAL4 DNA binding domain
+T50	Exp 1332 1356	the COOH-terminal domain
+T51	Exp 1378 1404	this transactivation assay
+T52	Exp 1422 1433	the failure
+T53	Exp 1526 1542	the GAL4 fusions
+T54	SPAN 951 963	Oct1 or Oct2
+R4	Coref Anaphora:T48 Antecedent:T54
+T1	Protein 85 90	BOB.1
+T2	Protein 91 96	OBF.1
+T3	Protein 192 196	Oct1
+T4	Protein 200 204	Oct2
+T5	Protein 276 281	BOB.1
+T6	Protein 282 287	OBF.1
+T7	Protein 597 602	BOB.1
+T8	Protein 603 608	OBF.1
+T9	Protein 646 651	BOB.1
+T10	Protein 652 657	OBF.1
+T11	Protein 739 743	Oct1
+T12	Protein 747 751	Oct2
+T13	Protein 936 941	BOB.1
+T14	Protein 942 947	OBF.1
+T15	Protein 951 955	Oct1
+T16	Protein 959 963	Oct2
+T17	Protein 1005 1010	BOB.1
+T18	Protein 1011 1016	OBF.1
+T19	Protein 1178 1183	BOB.1
+T20	Protein 1184 1189	OBF.1
+T21	Protein 1199 1203	GAL4
+T22	Protein 1275 1280	BOB.1
+T23	Protein 1281 1286	OBF.1
+T24	Protein 1449 1454	BOB.1
+T25	Protein 1455 1460	OBF.1
+T26	Protein 1530 1534	GAL4

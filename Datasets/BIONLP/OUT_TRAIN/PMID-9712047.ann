@@ -1,0 +1,22 @@
+T6	Exp 43 60	the IL-2 promoter
+T7	Exp 151 164	the IL-2 gene
+T8	Exp 219 226	the TCR
+T9	Exp 274 276	We
+T10	Exp 297 301	that
+T11	Exp 398 402	that
+T12	Exp 463 465	we
+T13	Exp 534 548	the expression
+T14	Exp 552 565	the IL-2 gene
+T15	Exp 451 461	this study
+T16	Exp 497 515	these phosphatases
+T17	Exp 570 574	both
+T18	Exp 692 717	the transcriptional level
+T19	Exp 735 767	The transcription factors active
+T20	Exp 771 788	the IL-2 promoter
+R2	Coref Anaphora:T11 Antecedent:T21
+T1	Protein 47 51	IL-2
+T2	Protein 155 159	IL-2
+T3	Protein 556 560	IL-2
+T4	Protein 656 660	IL-2
+T5	Protein 775 779	IL-2
+T21	Exp 362 397	a cyclosporin A-insensitive pathway

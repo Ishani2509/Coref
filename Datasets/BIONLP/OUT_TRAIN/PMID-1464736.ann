@@ -1,0 +1,19 @@
+T2	Exp 251 267	the HIV-1 genome
+T3	Exp 336 348	the response
+T4	Exp 403 405	We
+T5	Exp 518 523	which
+T6	Exp 552 583	the NF kappa B binding sequence
+T7	Exp 632 657	this transcription factor
+T8	Exp 677 679	we
+T9	Exp 665 675	this assay
+T10	Exp 853 879	the complete disappearance
+T11	Exp 965 1010	the mature monocytic leukemia cell line THP-1
+T12	Exp 1012 1049	The constitutive transcription factor
+T13	Exp 1089 1106	The disappearance
+T14	Exp 1126 1137	the nucleus
+T15	Exp 1701 1713	the increase
+T16	Exp 1845 1859	the importance
+T17	Exp 1659 1672	These results
+R2	Coref Anaphora:T5 Antecedent:T18
+T1	Protein 1050 1053	SP1
+T18	Exp 501 516	terminal repeat

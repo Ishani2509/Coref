@@ -1,0 +1,30 @@
+T1	Protein 293 296	XPA
+T2	Protein 305 308	XPG
+T3	Protein 324 327	XPB
+T4	Protein 332 335	XPD
+T5	Protein 554 557	XPB
+T6	Protein 561 564	XPD
+T7	Protein 739 743	XP-B
+T8	Protein 747 751	XP-D
+T9	Protein 854 858	XP-B
+T10	Protein 863 867	XP-D
+T11	Protein 910 914	XP-B
+T12	Protein 919 923	XP-D
+T13	Protein 989 993	XP-B
+T14	Protein 998 1002	XP-D
+T15	Protein 1185 1189	XP-B
+T16	Protein 1194 1198	XP-D
+T17	Protein 1377 1381	XP-B
+T18	Protein 1385 1389	XP-D
+T19	Exp 269 280	seven genes	275 280	genes
+T20	Exp 313 318	these
+T21	Exp 349 357	proteins
+T22	Exp 358 362	that
+T23	Exp 1034 1104	similar transcription activity from the adenovirus major late promoter	1056 1064	activity
+T24	Exp 1122 1126	that
+T25	Exp 1412 1437	a 'conditional phenotype'	1427 1436	phenotype
+T26	Exp 1438 1442	that
+R1	Coref Anaphora:T20 Antecedent:T19
+R2	Coref Anaphora:T22 Antecedent:T21
+R3	Coref Anaphora:T24 Antecedent:T23
+R4	Coref Anaphora:T26 Antecedent:T25

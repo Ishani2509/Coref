@@ -1,0 +1,42 @@
+T6	Exp 92 115	The molecular mechanism
+T7	Exp 272 274	we
+T8	Exp 345 359	the NF-AT site
+T9	Exp 376 392	the octamer site
+T10	Exp 464 478	its expression
+T11	Exp 479 483	when
+T12	Exp 409 423	This construct
+T13	Exp 777 781	that
+T14	Exp 825 829	that
+T15	Exp 609 617	the -176
+T16	Exp 637 663	the 4X NF-AT-Oct construct
+T17	Exp 679 690	the ability
+T18	Exp 733 741	the -236
+T19	Exp 840 852	the presence
+T20	Exp 856 882	the -150 AP-1 binding site
+T21	Exp 921 931	the effect
+T22	Exp 990 994	that
+T23	Exp 1011 1015	both
+T24	Exp 955 963	the -236
+T25	Exp 995 1007	the presence
+T26	Exp 1016 1039	the -130 AP-1-like site
+T27	Exp 1059 1086	the -150 proximal AP-1 site
+T28	Exp 1181 1183	it
+T29	Exp 1254 1258	that
+T30	Exp 1129 1142	the -180 site
+T31	Exp 1223 1253	the normal mouse IL-2 enhancer
+T32	Exp 1259 1268	this site
+T33	Exp 1362 1366	that
+T34	Exp 1433 1437	that
+T35	Exp 1315 1333	The simplest model
+T36	Exp 1496 1516	the trans-activation
+T37	Exp 1520 1533	the IL-2 gene
+T38	Exp 1345 1358	these results
+R4	Coref Anaphora:T10 Antecedent:T2
+R5	Coref Anaphora:T29 Antecedent:T31
+R6	Coref Anaphora:T34 Antecedent:T39
+T1	Protein 48 52	IL-2
+T2	Protein 127 131	IL-2
+T3	Protein 541 545	IL-2
+T4	Protein 1240 1244	IL-2
+T5	Protein 1524 1528	IL-2
+T39	Exp 1402 1432	multiple transcription factors

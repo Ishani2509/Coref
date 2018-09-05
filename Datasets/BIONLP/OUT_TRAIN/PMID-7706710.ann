@@ -1,0 +1,46 @@
+T21	Exp 135 159	the inflammatory process
+T22	Exp 174 208	the NFAT-1 transcriptional complex
+T23	Exp 212 229	the IL-2 promoter
+T24	Exp 392 394	we
+T25	Exp 285 289	that
+T26	Exp 329 358	the NFAT-1 regulatory element
+T27	Exp 529 544	These compounds
+T28	Exp 682 687	which
+T29	Exp 752 769	the reporter gene
+T30	Exp 794 798	both
+T31	Exp 851 888	the NFAT-1-linked lac-Z transfectants
+T32	Exp 941 970	the mixed lymphocyte reaction
+T33	Exp 976 991	this inhibition
+T34	Exp 916 930	Both compounds
+T35	Exp 1071 1096	the calcium-dependent PMA
+T36	Exp 1279 1300	its retarded mobility
+T37	Exp 1235 1269	the NFAT-1 transcriptional complex
+T38	Exp 1212 1226	Both compounds
+T39	Exp 1340 1342	we
+T40	Exp 1351 1353	we
+T41	Exp 1313 1338	these functional criteria
+R4	Coref Anaphora:T25 Antecedent:T42
+R5	Coref Anaphora:T28 Antecedent:T43
+R6	Coref Anaphora:T36 Antecedent:T37
+T1	Protein 37 41	IL-2
+T2	Protein 71 75	IL-2
+T3	Protein 178 184	NFAT-1
+T4	Protein 216 220	IL-2
+T5	Protein 247 251	IL-2
+T6	Protein 333 339	NFAT-1
+T7	Protein 371 376	lac-Z
+T8	Protein 422 428	NFAT-1
+T9	Protein 438 456	beta-galactosidase
+T10	Protein 560 578	beta-galactosidase
+T11	Protein 614 620	NFAT-1
+T12	Protein 715 721	NFAT-1
+T13	Protein 819 823	IL-2
+T14	Protein 855 861	NFAT-1
+T15	Protein 869 874	lac-Z
+T16	Protein 1018 1022	IL-2
+T17	Protein 1044 1048	IL-2
+T18	Protein 1181 1185	IL-2
+T19	Protein 1239 1245	NFAT-1
+T20	Protein 1417 1423	NFAT-1
+T42	Exp 273 284	a cell line
+T43	Exp 662 680	a second cell line

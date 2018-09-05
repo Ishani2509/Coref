@@ -1,0 +1,6 @@
+T3	Exp 520 525	where
+T4	Exp 501 519	the MF individuals
+T5	Exp 774 783	the VLA-4
+R2	Coref Anaphora:T3 Antecedent:T4
+T1	Protein 778 783	VLA-4
+T2	Protein 784 790	VCAM-1

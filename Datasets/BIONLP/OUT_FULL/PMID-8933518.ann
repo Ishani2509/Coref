@@ -1,0 +1,24 @@
+T9	Exp 44 71	the tuberous sclerosis gene
+T10	Exp 151 197	the autosomal dominant neurocutaneous disorder
+T11	Exp 336 338	we
+T12	Exp 277 292	the cloned TSC2
+T13	Exp 572 580	the body
+T14	Exp 697 699	It
+T15	Exp 740 766	the central nervous system
+T16	Exp 800 819	the cerebral cortex
+T17	Exp 1333 1335	it
+T18	Exp 1328 1332	that
+T19	Exp 1397 1401	that
+T20	Exp 1296 1309	the TSC2 gene
+T21	Exp 1319 1327	the view
+T22	Exp 1266 1292	This widespread expression
+R3	Coref Anaphora:T14 Antecedent:T5
+R4	Coref Anaphora:T18 Antecedent:T21
+T1	Protein 73 77	TSC2
+T2	Protein 98 102	TSC2
+T3	Protein 288 292	TSC2
+T4	Protein 408 412	TSC2
+T5	Protein 499 503	TSC2
+T6	Protein 897 901	TSC2
+T7	Protein 983 987	TSC2
+T8	Protein 1300 1304	TSC2

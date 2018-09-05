@@ -1,0 +1,24 @@
+T2	Exp 70 84	the activation
+T3	Exp 88 123	the NF-kappa B transcription factor
+T4	Exp 249 251	we
+T5	Exp 257 261	that
+T6	Exp 307 321	the expression
+T7	Exp 237 247	this study
+T8	Exp 508 537	its inactive cytoplasmic form
+T9	Exp 433 438	which
+T10	Exp 371 381	The effect
+T11	Exp 397 432	the NF-kappa B transcription factor
+T12	Exp 599 604	which
+T13	Exp 617 628	the effects
+T14	Exp 695 709	the activation
+T15	Exp 776 790	the activation
+T16	Exp 956 960	that
+T17	Exp 1093 1106	the synthesis
+T18	Exp 1182 1193	the release
+T19	Exp 1197 1229	the inhibitory subunit I kappa B
+R4	Coref Anaphora:T9 Antecedent:T11
+R5	Coref Anaphora:T8 Antecedent:T20
+R6	Coref Anaphora:T12 Antecedent:T21
+T1	Protein 863 872	TNF-alpha
+T20	Exp 476 493	an H2O2 treatment
+T21	Exp 566 598	a well characterized antioxidant

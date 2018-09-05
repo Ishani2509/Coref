@@ -1,0 +1,24 @@
+T3	Exp 145 152	its use
+T4	Exp 76 89	The NM23 gene
+T5	Exp 260 265	which
+T6	Exp 450 454	that
+T7	Exp 504 523	the primary tumours
+T8	Exp 600 605	which
+T9	Exp 525 550	The present paper studies
+T10	Exp 551 565	the expression
+T11	Exp 569 585	the NM23.H1 gene
+T12	Exp 894 898	that
+T13	Exp 811 820	The level
+T14	Exp 843 856	the NM23 gene
+T15	Exp 1136 1149	the NM23 gene
+R6	Coref Anaphora:T3 Antecedent:T4
+R7	Coref Anaphora:T5 Antecedent:T16
+R8	Coref Anaphora:T6 Antecedent:T17
+R9	Coref Anaphora:T8 Antecedent:T18
+R10	Coref Anaphora:T12 Antecedent:T19
+T1	Protein 6 13	NM23.H1
+T2	Protein 573 580	NM23.H1
+T16	Exp 229 255	murine melanoma cell lines
+T17	Exp 439 449	metastases
+T18	Exp 589 599	cell lines
+T19	Exp 883 893	cell lines

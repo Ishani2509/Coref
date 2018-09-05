@@ -1,0 +1,25 @@
+T11	Exp 71 91	the variable regions
+T12	Exp 150 170	the variable regions
+T13	Exp 174 201	the CD40-specific mAb G28-5
+T14	Exp 203 215	The molecule
+T15	Exp 338 342	that
+T16	Exp 371 387	the cell surface
+T17	Exp 710 714	that
+T18	Exp 715 738	the functional activity
+T19	Exp 761 777	the binding site
+T20	Exp 812 820	the size
+T21	Exp 848 860	the molecule
+T22	Exp 885 902	the cell surfaces
+T23	Exp 687 700	These results
+R3	Coref Anaphora:T15 Antecedent:T4
+R4	Coref Anaphora:T21 Antecedent:T10
+T1	Protein 24 28	CD40
+T2	Protein 178 182	CD40
+T3	Protein 222 226	CD40
+T4	Protein 325 329	CD40
+T5	Protein 363 367	CD40
+T6	Protein 410 414	CD40
+T7	Protein 508 512	CD40
+T8	Protein 555 558	IgG
+T9	Protein 606 610	CD40
+T10	Protein 661 665	gp39

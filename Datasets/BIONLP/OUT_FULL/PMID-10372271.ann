@@ -1,0 +1,38 @@
+T4	Exp 125 127	it
+T5	Exp 269 271	it
+T6	Exp 207 211	When
+T7	Exp 265 268	how
+T8	Exp 333 335	it
+T9	Exp 352 363	the benefit
+T10	Exp 442 458	the cell surface
+T11	Exp 486 510	the activated macrophage
+T12	Exp 512 516	When
+T13	Exp 888 893	which
+T14	Exp 659 684	The disappointing results
+T15	Exp 732 746	the prediction
+T16	Exp 798 810	the validity
+T17	Exp 838 851	the soundness
+T18	Exp 865 884	the clinical trials
+T19	Exp 814 826	those models
+T20	Exp 1067 1092	their murine counterparts
+T21	Exp 1002 1006	that
+T22	Exp 923 938	The variability
+T23	Exp 959 992	the most narrowly targeted agents
+T24	Exp 1007 1021	these diseases
+T25	Exp 1179 1181	it
+T26	Exp 1226 1235	the basis
+T27	Exp 1264 1274	the moment
+T28	Exp 1285 1294	the field
+T29	Exp 1443 1458	the definitions
+T30	Exp 1506 1524	the biologic level
+T31	Exp 1607 1612	which
+T32	Exp 1651 1656	which
+T33	Exp 1691 1708	the armamentarium
+R5	Coref Anaphora:T5 Antecedent:T34
+R6	Coref Anaphora:T8 Antecedent:T34
+R7	Coref Anaphora:T13 Antecedent:T18
+R8	Coref Anaphora:T20 Antecedent:T24
+T1	Protein 415 424	TNF-alpha
+T2	Protein 709 714	IL-10
+T3	Protein 906 911	IL-10
+T34	Exp 212 221	a therapy

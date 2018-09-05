@@ -1,0 +1,27 @@
+T1	Protein 54 60	NFAT-1
+T2	Protein 278 284	NFAT-1
+T3	Protein 459 465	NFAT-1
+T4	Protein 559 565	NFAT-1
+T5	Protein 779 785	NFAT-1
+T6	Protein 917 923	NFAT-1
+T7	Protein 996 1002	NFAT-1
+T8	Protein 1038 1044	NFAT-1
+T9	Protein 1281 1287	NFAT-1
+T10	Protein 1535 1541	NFAT-1
+T11	Protein 1775 1781	NFAT-1
+T12	Protein 1856 1862	NFAT-1
+T13	Exp 289 311	a transcription factor
+T14	Exp 312 317	which
+T15	Exp 543 579	an oligomerized NFAT-1 binding motif
+T16	Exp 580 584	that
+T17	Exp 668 691	the first demonstration
+T18	Exp 692 696	that
+T19	Exp 1154 1160	agents
+T20	Exp 1161 1165	that
+T21	Exp 1761 1769	the fact
+T22	Exp 1770 1774	that
+R1	Coref Anaphora:T14 Antecedent:T13
+R2	Coref Anaphora:T16 Antecedent:T15	[T4]
+R3	Coref Anaphora:T18 Antecedent:T17
+R4	Coref Anaphora:T20 Antecedent:T19
+R5	Coref Anaphora:T22 Antecedent:T21

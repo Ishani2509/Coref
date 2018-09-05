@@ -1,0 +1,34 @@
+T10	Exp 174 178	that
+T11	Exp 132 145	the treatment
+T12	Exp 239 241	it
+T13	Exp 375 377	it
+T14	Exp 267 274	the DNA
+T15	Exp 423 428	which
+T16	Exp 504 519	the interferons
+T17	Exp 565 576	the absence
+T18	Exp 633 644	the ability
+T19	Exp 580 592	this protein
+T20	Exp 679 681	we
+T21	Exp 687 691	that
+T22	Exp 713 749	the immunosuppressant cyclosporine A
+T23	Exp 760 791	the cytokine-induced activation
+T24	Exp 976 985	This loss
+T25	Exp 1143 1163	the prolonged period
+T26	Exp 1208 1216	the drug
+T27	Exp 1264 1279	the development
+R6	Coref Anaphora:T10 Antecedent:T28
+R7	Coref Anaphora:T12 Antecedent:T29
+R8	Coref Anaphora:T13 Antecedent:T30
+R9	Coref Anaphora:T15 Antecedent:T2
+R10	Coref Anaphora:T19 Antecedent:T2
+T1	Protein 71 76	STAT1
+T2	Protein 416 421	STAT1
+T3	Protein 795 800	STAT1
+T4	Protein 805 810	STAT1
+T5	Protein 927 932	STAT1
+T6	Protein 989 994	STAT1
+T7	Protein 1123 1128	STAT1
+T8	Protein 1232 1237	STAT1
+T28	Exp 149 173	hematologic malignancies
+T29	Exp 89 100	Fludarabine
+T30	Exp 294 305	fludarabine

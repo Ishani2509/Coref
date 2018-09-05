@@ -1,0 +1,42 @@
+T21	Exp 108 129	The adoptive transfer
+T22	Exp 238 252	the regression
+T23	Exp 256 297	the poorly immunogenic murine melanoma D5
+T24	Exp 351 355	when
+T25	Exp 430 434	that
+T26	Exp 299 311	The efficacy
+T27	Exp 315 337	the activated LN cells
+T28	Exp 356 377	the sensitizing tumor
+T29	Exp 787 807	the protein tyrosine
+T30	Exp 850 870	the NF-kappaB family
+T31	Exp 915 925	The levels
+T32	Exp 1370 1374	they
+T33	Exp 1347 1351	that
+T34	Exp 1239 1249	the levels
+T35	Exp 1418 1440	the cytoplasmic levels
+T36	Exp 1670 1695	the nuclear translocation
+T37	Exp 1734 1738	that
+T38	Exp 1739 1751	the recovery
+T39	Exp 1802 1833	the T cell receptor/CD3 complex
+T40	Exp 1886 1901	the acquisition
+T41	Exp 1710 1724	These findings
+R6	Coref Anaphora:T25 Antecedent:T42
+R7	Coref Anaphora:T33 Antecedent:T43
+R8	Coref Anaphora:T32 Antecedent:T44
+T1	Protein 208 221	interleukin 2
+T2	Protein 223 227	IL-2
+T3	Protein 444 492	granulocyte/macrophage-colony-stimulating factor
+T4	Protein 518 522	IL-2
+T5	Protein 816 822	p56lck
+T6	Protein 827 833	p59fyn
+T7	Protein 929 935	p56lck
+T8	Protein 940 946	p59fyn
+T9	Protein 1131 1135	IL-2
+T10	Protein 1158 1164	p56lck
+T11	Protein 1169 1175	p59fyn
+T12	Protein 1253 1259	p56lck
+T13	Protein 1261 1267	p59fyn
+T14	Protein 1444 1449	c-Rel
+T15	Protein 1454 1459	Rel A
+T42	Exp 424 428	D5G6
+T43	Exp 1344 1346	LN
+T44	Exp 1313 1330	activated T cells

@@ -1,0 +1,22 @@
+T1	Protein 25 52	tumor necrosis factor alpha
+T2	Protein 409 436	tumor necrosis factor alpha
+T3	Protein 438 447	TNF alpha
+T4	Protein 544 553	TNF alpha
+T5	Protein 727 736	TNF alpha
+T6	Protein 836 845	TNF alpha
+T7	Protein 953 962	TNF alpha
+T8	Protein 985 994	TNF alpha
+T9	Protein 1158 1167	TNF alpha
+T10	Protein 1443 1452	TNF alpha
+T11	Exp 557 571	a human T cell
+T12	Exp 590 593	its
+T13	Exp 590 607	its subclone JCT6
+T14	Exp 609 614	which
+T15	Exp 985 994	TNF alpha
+T16	Exp 1032 1035	its
+T17	Exp 1465 1476	a mechanism
+T18	Exp 1477 1481	that
+R1	Coref Anaphora:T12 Antecedent:T11
+R2	Coref Anaphora:T14 Antecedent:T13
+R3	Coref Anaphora:T16 Antecedent:T15	[T8]
+R4	Coref Anaphora:T18 Antecedent:T17

@@ -1,0 +1,51 @@
+T23	Exp 204 238	the cyto-differentiating treatment
+T24	Exp 340 377	the retinoic acid receptor type alpha
+T25	Exp 403 459	the leukemia-specific t(15;17) chromosomal translocation
+T26	Exp 461 463	We
+T27	Exp 474 478	that
+T28	Exp 989 993	that
+T29	Exp 809 821	the compound
+T30	Exp 887 897	the levels
+T31	Exp 1135 1149	the expression
+T32	Exp 1186 1205	the HL-60 cell line
+T33	Exp 1257 1277	the peripheral blood
+T34	Exp 1326 1342	the stable phase
+T35	Exp 1346 1357	the disease
+T36	Exp 1153 1182	these differentiation markers
+T37	Exp 1556 1560	that
+T38	Exp 1668 1673	which
+T39	Exp 1608 1622	the expression
+T40	Exp 1537 1550	These results
+T41	Exp 1801 1805	that
+T42	Exp 1774 1794	the normal RAR alpha
+T43	Exp 1847 1861	both receptors
+T44	Exp 1875 1887	the presence
+T45	Exp 1900 1922	the synthetic retinoid
+T46	Exp 2017 2037	the natural retinoid
+T47	Exp 2051 2063	the presence
+T48	Exp 2133 2174	the strong cyto-differentiating potential
+R4	Coref Anaphora:T28 Antecedent:T49
+R5	Coref Anaphora:T38 Antecedent:T50
+T51	SPAN 1762 1794	PML-RAR and the normal RAR alpha
+R6	Coref Anaphora:T43 Antecedent:T51
+T1	Protein 311 318	PML-RAR
+T2	Protein 344 377	retinoic acid receptor type alpha
+T3	Protein 379 388	RAR alpha
+T4	Protein 548 557	RAR alpha
+T5	Protein 762 799	granulocyte colony-stimulating factor
+T6	Protein 801 806	G-CSF
+T7	Protein 901 931	leukocyte alkaline phosphatase
+T8	Protein 933 938	CD11b
+T9	Protein 940 944	CD33
+T10	Protein 950 964	G-CSF receptor
+T11	Protein 1442 1445	LAP
+T12	Protein 1472 1480	RAR beta
+T13	Protein 1485 1494	RAR gamma
+T14	Protein 1674 1681	PML-RAR
+T15	Protein 1762 1769	PML-RAR
+T16	Protein 1785 1794	RAR alpha
+T17	Protein 1891 1898	PML-RAR
+T18	Protein 2067 2076	RAR alpha
+T19	Protein 2187 2194	PML-RAR
+T49	Exp 974 988	concentrations
+T50	Exp 1659 1664	cells

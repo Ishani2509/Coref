@@ -1,0 +1,40 @@
+T17	Exp 114 138	The HIV-1 accessory gene
+T18	Exp 269 271	We
+T19	Exp 350 352	it
+T20	Exp 345 349	that
+T21	Exp 290 301	the effects
+T22	Exp 397 399	we
+T23	Exp 416 420	that
+T24	Exp 601 613	its presence
+T25	Exp 528 539	the absence
+T26	Exp 630 652	the expected induction
+T27	Exp 752 765	the induction
+T28	Exp 667 682	This regulation
+T29	Exp 893 898	which
+T30	Exp 925 936	The effects
+T31	Exp 972 983	Our finding
+T32	Exp 984 988	that
+T33	Exp 1041 1045	that
+T34	Exp 1026 1040	the hypothesis
+T35	Exp 1085 1100	the consequence
+R5	Coref Anaphora:T19 Antecedent:T36
+R6	Coref Anaphora:T24 Antecedent:T37
+R7	Coref Anaphora:T32 Antecedent:T31
+R8	Coref Anaphora:T33 Antecedent:T34
+T1	Protein 6 9	Vpr
+T2	Protein 147 150	Vpr
+T3	Protein 305 308	Vpr
+T4	Protein 421 424	Vpr
+T5	Protein 568 571	Vpr
+T6	Protein 615 618	Vpr
+T7	Protein 709 712	Vpr
+T8	Protein 817 820	Vpr
+T9	Protein 846 850	IL-2
+T10	Protein 852 857	IL-10
+T11	Protein 866 875	TNF alpha
+T12	Protein 880 884	IL-4
+T13	Protein 940 943	Vpr
+T14	Protein 989 992	Vpr
+T15	Protein 1126 1129	Vpr
+T36	Exp 312 332	host cell activation
+T37	Exp 580 589	apoptosis

@@ -1,0 +1,35 @@
+T10	Exp 90 112	the promyelocyte stage
+T11	Exp 252 275	The pleiotropic effects
+T12	Exp 458 462	that
+T13	Exp 375 423	the steroid/thyroid hormone receptor superfamily
+T14	Exp 610 627	the proliferation
+T15	Exp 687 689	it
+T16	Exp 711 714	how
+T17	Exp 865 866	I
+T18	Exp 806 815	the roles
+T19	Exp 839 863	the normal hematopoiesis
+T20	Exp 883 896	the construct
+T21	Exp 1059 1079	the stroma cell line
+T22	Exp 1104 1116	the behavior
+T23	Exp 1305 1334	their myeloid differentiation
+T24	Exp 1278 1301	the promyelocytic stage
+T25	Exp 1349 1369	these immature cells
+T26	Exp 1539 1543	both
+T27	Exp 1608 1612	that
+T28	Exp 1742 1770	the terminal differentiation
+T29	Exp 1581 1599	These observations
+T30	Exp 1794 1804	The system
+T31	Exp 1858 1877	the essential genes
+R3	Coref Anaphora:T12 Antecedent:T32
+R4	Coref Anaphora:T23 Antecedent:T33
+T1	Protein 22 50	retinoic acid receptor alpha
+T2	Protein 577 586	RAR alpha
+T3	Protein 826 835	RAR alpha
+T4	Protein 906 915	RAR alpha
+T5	Protein 917 927	hRAR alpha
+T6	Protein 1198 1208	hRAR alpha
+T7	Protein 1451 1460	RAR alpha
+T8	Protein 1634 1643	RAR alpha
+T9	Protein 1708 1717	RAR alpha
+T32	Exp 436 457	a molecular structure
+T33	Exp 1173 1183	Most cells

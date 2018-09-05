@@ -1,0 +1,20 @@
+T2	Exp 202 216	the activation
+T3	Exp 287 298	the release
+T4	Exp 331 375	these G-protein-coupled serpentine receptors
+T5	Exp 560 569	the cells
+T6	Exp 736 750	the activation
+T7	Exp 688 703	these receptors
+T8	Exp 894 898	that
+T9	Exp 771 804	The underlying signaling pathways
+T10	Exp 907 924	the transcription
+T11	Exp 1070 1096	their respective receptors
+T12	Exp 1043 1048	which
+T13	Exp 978 992	the expression
+R5	Coref Anaphora:T7 Antecedent:T4
+R6	Coref Anaphora:T8 Antecedent:T14
+R7	Coref Anaphora:T12 Antecedent:T15
+R8	Coref Anaphora:T11 Antecedent:T16
+T1	Protein 851 860	TNF-alpha
+T14	Exp 885 893	cytokine
+T15	Exp 1031 1041	chemokines
+T16	Exp 996 1026	several inflammatory cytokines

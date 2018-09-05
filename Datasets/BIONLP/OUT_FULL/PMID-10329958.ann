@@ -1,0 +1,21 @@
+T8	Exp 84 86	We
+T9	Exp 105 109	that
+T10	Exp 247 265	the activated form
+T11	Exp 269 320	the transcriptional regulator nuclear factor-kappaB
+T12	Exp 339 341	we
+T13	Exp 369 373	that
+T14	Exp 569 573	that
+T15	Exp 354 368	the hypothesis
+T16	Exp 574 589	this activation
+T17	Exp 727 771	the antioxidants pyrrolidine dithiocarbamate
+T18	Exp 1197 1201	that
+T19	Exp 1272 1276	that
+T20	Exp 1178 1188	These data
+R2	Coref Anaphora:T13 Antecedent:T15
+T1	Protein 42 48	VCAM-1
+T2	Protein 458 489	vascular cell adhesion molecule
+T3	Protein 491 497	VCAM-1
+T4	Protein 890 896	VCAM-1
+T5	Protein 984 990	VCAM-1
+T6	Protein 1126 1132	VCAM-1
+T7	Protein 1250 1256	VCAM-1

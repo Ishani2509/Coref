@@ -1,0 +1,32 @@
+T11	Exp 201 206	which
+T12	Exp 107 132	The human interferon beta
+T13	Exp 281 293	the promoter
+T14	Exp 319 347	the protein-DNA interactions
+T15	Exp 885 889	that
+T16	Exp 906 917	the (AAGTGA
+T17	Exp 946 961	the PRDI domain
+T18	Exp 963 975	This protein
+T19	Exp 1183 1200	the PRDII element
+T20	Exp 1228 1249	the uninduced extract
+T21	Exp 1299 1311	the promoter
+T22	Exp 1465 1483	this induced level
+T23	Exp 1502 1506	When
+T24	Exp 1570 1589	the induced extract
+T25	Exp 1675 1677	it
+T26	Exp 1670 1674	that
+T27	Exp 1747 1751	that
+T28	Exp 1640 1657	These experiments
+R3	Coref Anaphora:T11 Antecedent:T29
+R4	Coref Anaphora:T15 Antecedent:T30
+T1	Protein 15 30	interferon beta
+T2	Protein 117 132	interferon beta
+T3	Protein 134 142	IFN-beta
+T4	Protein 358 366	IFN-beta
+T5	Protein 1009 1014	IRF-1
+T6	Protein 1015 1020	ISGF2
+T7	Protein 1132 1140	IFN beta
+T8	Protein 1336 1344	IFN-beta
+T9	Protein 1702 1710	IFN-beta
+T10	Protein 1806 1814	IFN-beta
+T29	Exp 175 200	multiple enhanson domains
+T30	Exp 874 884	HeLa cells

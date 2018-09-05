@@ -1,0 +1,53 @@
+T34	Exp 164 178	the transition
+T35	Exp 229 249	This differentiation
+T36	Exp 318 320	We
+T37	Exp 349 355	itself
+T38	Exp 334 338	that
+T39	Exp 846 850	when
+T40	Exp 757 773	The 6-h increase
+T41	Exp 851 877	the cytoskeletal integrity
+T42	Exp 913 945	The 6-h increase in PDGF(B) mRNA
+T43	Exp 976 988	the presence
+T44	Exp 992 1032	the monocyte stimulus lipopolysaccharide
+T45	Exp 1152 1173	The increased PDGF(B)
+T46	Exp 1251 1282	the early growth response genes
+T47	Exp 1347 1359	The increase
+T48	Exp 1464 1468	that
+T49	Exp 1437 1455	These observations
+T50	Exp 1554 1567	the increases
+T51	Exp 1712 1717	which
+T52	Exp 1668 1676	the time
+T53	Exp 1742 1751	the cells
+T54	Exp 1652 1664	these events
+R6	Coref Anaphora:T37 Antecedent:T55
+R7	Coref Anaphora:T51 Antecedent:T56
+T1	Protein 47 54	PDGF(B)
+T2	Protein 92 97	c-fos
+T3	Protein 99 104	c-jun
+T4	Protein 110 114	EGR2
+T5	Protein 505 545	platelet-derived growth factor B subunit
+T6	Protein 547 554	PDGF[B]
+T7	Protein 560 591	transforming growth factor-beta
+T8	Protein 593 601	TGF-beta
+T9	Protein 673 680	PDGF(B)
+T10	Protein 729 737	TGF-beta
+T11	Protein 777 784	PDGF(B)
+T12	Protein 933 940	PDGF(B)
+T13	Protein 1054 1065	fibronectin
+T14	Protein 1125 1132	PDGF(B)
+T15	Protein 1166 1173	PDGF(B)
+T16	Protein 1283 1288	c-fos
+T17	Protein 1310 1315	c-jun
+T18	Protein 1321 1325	EGR2
+T19	Protein 1363 1368	c-jun
+T20	Protein 1373 1377	EGR2
+T21	Protein 1387 1392	c-fos
+T22	Protein 1503 1508	c-fos
+T23	Protein 1510 1515	c-jun
+T24	Protein 1517 1521	EGR2
+T25	Protein 1527 1534	PDGF(B)
+T26	Protein 1571 1576	c-jun
+T27	Protein 1578 1582	EGR2
+T28	Protein 1588 1595	PDGF(B)
+T55	Exp 339 348	adherence
+T56	Exp 1697 1708	a mechanism

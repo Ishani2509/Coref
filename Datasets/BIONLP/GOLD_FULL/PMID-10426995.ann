@@ -1,0 +1,13 @@
+T1	Protein 192 206	interleukin-12
+T2	Protein 208 213	IL-12
+T3	Protein 309 314	IL-12
+T4	Protein 469 474	IL-12
+T5	Protein 643 664	nitric oxide synthase
+T6	Exp 283 296	the molecules
+T7	Exp 297 301	that
+T8	Exp 345 359	the mechanisms
+T9	Exp 363 368	which
+T10	Exp 369 373	they
+R1	Coref Anaphora:T7 Antecedent:T6
+R2	Coref Anaphora:T9 Antecedent:T8
+R3	Coref Anaphora:T10 Antecedent:T6

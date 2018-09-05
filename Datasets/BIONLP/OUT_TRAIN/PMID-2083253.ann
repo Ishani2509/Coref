@@ -1,0 +1,76 @@
+T29	Exp 68 72	that
+T30	Exp 83 110	the T-cell receptor C alpha
+T31	Exp 83 124	the T-cell receptor C alpha gene enhancer
+T32	Exp 351 355	that
+T33	Exp 157 176	The differentiation
+T34	Exp 338 350	the proteins
+T35	Exp 366 392	this developmental process
+T36	Exp 394 396	We
+T37	Exp 454 458	that
+T38	Exp 476 490	the activation
+T39	Exp 530 555	the human T-cell receptor
+T40	Exp 619 636	its binding sites
+T41	Exp 640 658	the HIV-1 promoter
+T42	Exp 681 703	the TCR alpha enhancer
+T43	Exp 808 826	the TCR alpha gene
+T44	Exp 878 907	the TCF-1 alpha binding motif
+T45	Exp 947 966	the human TCR delta
+T46	Exp 1100 1104	that
+T47	Exp 1176 1180	that
+T48	Exp 1053 1060	the use
+T49	Exp 1390 1394	that
+T50	Exp 1361 1389	the TCR alpha control region
+T51	Exp 1404 1432	the TCF-1 alpha binding site
+T52	Exp 1477 1495	the CRE or T alpha
+T53	Exp 1509 1525	the binding site
+T54	Exp 1652 1665	this enhancer
+T55	Exp 1804 1832	the TCF-1 alpha binding site
+T56	Exp 1876 1889	the synergism
+T57	Exp 2099 2103	that
+T58	Exp 1940 1968	The TCF-1 alpha binding site
+T59	Exp 2241 2265	its neighboring elements
+T60	Exp 2223 2227	when
+T61	Exp 2170 2201	the TCF-1 alpha binding element
+T62	Exp 2269 2291	the TCR alpha enhancer
+T63	Exp 2515 2531	its binding site
+T64	Exp 2372 2400	the transcriptional activity
+T65	Exp 2437 2452	the TCF-2 alpha
+T66	Exp 2500 2511	the context
+T67	Exp 2539 2561	the TCR alpha enhancer
+R9	Coref Anaphora:T29 Antecedent:T68
+R10	Coref Anaphora:T32 Antecedent:T34
+R11	Coref Anaphora:T37 Antecedent:T3
+R12	Coref Anaphora:T40 Antecedent:T4
+R13	Coref Anaphora:T47 Antecedent:T69
+R14	Coref Anaphora:T49 Antecedent:T50
+R15	Coref Anaphora:T59 Antecedent:T70
+R16	Coref Anaphora:T63 Antecedent:T65
+T1	Protein 16 27	TCF-1 alpha
+T2	Protein 87 110	T-cell receptor C alpha
+T3	Protein 441 452	TCF-1 alpha
+T4	Protein 563 574	TCF-1 alpha
+T5	Protein 685 694	TCR alpha
+T6	Protein 812 821	TCR alpha
+T7	Protein 834 840	p56lck
+T8	Protein 845 854	CD3 delta
+T9	Protein 882 893	TCF-1 alpha
+T10	Protein 957 966	TCR delta
+T11	Protein 981 989	TCR beta
+T12	Protein 1105 1116	TCF-1 alpha
+T13	Protein 1365 1374	TCR alpha
+T14	Protein 1408 1419	TCF-1 alpha
+T15	Protein 1568 1579	TCF-2 alpha
+T16	Protein 1808 1819	TCF-1 alpha
+T17	Protein 1944 1955	TCF-1 alpha
+T18	Protein 1991 2000	TCR alpha
+T19	Protein 2104 2115	TCF-1 alpha
+T20	Protein 2174 2185	TCF-1 alpha
+T21	Protein 2273 2282	TCR alpha
+T22	Protein 2404 2415	TCF-1 alpha
+T23	Protein 2441 2452	TCF-2 alpha
+T24	Protein 2457 2466	T alpha 1
+T25	Protein 2468 2472	CREB
+T26	Protein 2543 2552	TCR alpha
+T68	Exp 29 67	a T-cell-specific transcription factor
+T69	Exp 1161 1175	53-kD proteins
+T70	Exp 2215 2222	in vivo

@@ -1,0 +1,15 @@
+T5	Exp 177 189	its presence
+T6	Exp 255 257	we
+T7	Exp 243 253	this study
+T8	Exp 503 516	These effects
+T9	Exp 1065 1069	that
+T10	Exp 1138 1143	which
+R4	Coref Anaphora:T5 Antecedent:T11
+R5	Coref Anaphora:T9 Antecedent:T12
+R6	Coref Anaphora:T10 Antecedent:T13
+T1	Protein 960 970	E-selectin
+T2	Protein 972 978	ICAM-1
+T3	Protein 984 990	VCAM-1
+T11	Exp 108 117	Chlamydia
+T12	Exp 1058 1064	events
+T13	Exp 1126 1136	thrombosis

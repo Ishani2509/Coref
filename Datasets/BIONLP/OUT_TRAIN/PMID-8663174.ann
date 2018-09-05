@@ -1,0 +1,37 @@
+T12	Exp 100 120	The genetic elements
+T13	Exp 303 305	We
+T14	Exp 319 323	that
+T15	Exp 433 461	the luciferase reporter gene
+T16	Exp 502 507	the 5
+T17	Exp 528 541	the IL-9 gene
+T18	Exp 617 651	the basal and inducible expression
+T19	Exp 655 668	the IL-9 gene
+T20	Exp 742 756	the expression
+T21	Exp 760 773	the IL-9 gene
+T22	Exp 831 851	the minimum sequence
+T23	Exp 856 890	the basal and inducible expression
+T24	Exp 894 907	the IL-9 gene
+T25	Exp 980 1023	its adjacent 20-base pair upstream sequence
+T26	Exp 1070 1096	the IL-9 promoter activity
+T27	Exp 931 942	this region
+T28	Exp 1136 1140	that
+T29	Exp 1218 1241	this important sequence
+T30	Exp 1319 1340	the promoter activity
+T31	Exp 1352 1367	the DNA binding
+T32	Exp 1279 1308	this proximal promoter region
+T33	Exp 1407 1411	that
+T34	Exp 1412 1427	the cooperation
+T35	Exp 1385 1398	these results
+R2	Coref Anaphora:T25 Antecedent:T36
+T1	Protein 68 81	interleukin 9
+T2	Protein 169 182	interleukin 9
+T3	Protein 184 188	IL-9
+T4	Protein 324 328	IL-9
+T5	Protein 532 536	IL-9
+T6	Protein 659 663	IL-9
+T7	Protein 764 768	IL-9
+T8	Protein 898 902	IL-9
+T9	Protein 1074 1078	IL-9
+T10	Protein 1152 1157	c-Jun
+T11	Protein 1480 1484	IL-9
+T36	Exp 965 975	-59 to -50

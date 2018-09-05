@@ -1,0 +1,30 @@
+T1	Protein 0 4	IL-2
+T2	Protein 74 78	CD28
+T3	Protein 102 106	CD28
+T4	Protein 298 302	CD28
+T5	Protein 349 353	IL-2
+T6	Protein 407 411	CD28
+T7	Protein 460 464	CD80
+T8	Protein 510 514	IL-2
+T9	Protein 561 565	IL-2
+T10	Protein 613 617	CD28
+T11	Protein 695 699	IL-2
+T12	Protein 915 919	IL-2
+T13	Protein 992 996	CD28
+T14	Protein 1016 1020	IL-2
+T15	Protein 1089 1093	CD80
+T16	Protein 1151 1155	IL-2
+T17	Protein 1189 1193	CD28
+T18	Protein 1269 1273	IL-2
+T19	Exp 102 106	CD28
+T20	Exp 154 168	the mechanisms
+T21	Exp 172 177	which
+T22	Exp 178 180	it
+T23	Exp 188 191	its
+T24	Exp 396 464	a model of CD28 costimulation using PMA plus the natural ligand CD80	398 403	model
+T25	Exp 465 469	that
+T26	Exp 1275 1280	which
+R1	Coref Anaphora:T21 Antecedent:T20
+R2	Coref Anaphora:T22 Antecedent:T19	[T3]
+R3	Coref Anaphora:T23 Antecedent:T19	[T3]
+R4	Coref Anaphora:T25 Antecedent:T24	[T7, T6]

@@ -1,0 +1,25 @@
+T1	Exp 0 8	The role
+T2	Exp 112 116	that
+T3	Exp 255 259	that
+T4	Exp 276 292	the pathogenesis
+T5	Exp 500 504	that
+T6	Exp 529 542	the cytoplasm
+T7	Exp 737 739	it
+T8	Exp 731 736	where
+T9	Exp 718 729	the nucleus
+T10	Exp 901 905	that
+T11	Exp 807 821	The activation
+T12	Exp 934 958	the inflammatory cascade
+T13	Exp 1116 1130	the initiation
+T14	Exp 1281 1294	the induction
+T15	Exp 1430 1443	the treatment
+R6	Coref Anaphora:T2 Antecedent:T16
+R7	Coref Anaphora:T3 Antecedent:T17
+R8	Coref Anaphora:T5 Antecedent:T18
+R9	Coref Anaphora:T8 Antecedent:T9
+R10	Coref Anaphora:T7 Antecedent:T9
+R11	Coref Anaphora:T10 Antecedent:T19
+T16	Exp 91 111	DNA-binding proteins
+T17	Exp 240 254	many cytokines
+T18	Exp 489 498	I kappa B
+T19	Exp 883 900	regulatory events

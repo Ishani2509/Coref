@@ -1,0 +1,27 @@
+T17	Exp 112 136	The nuclear distribution
+T18	Exp 441 446	which
+T19	Exp 500 521	the nuclear periphery
+T20	Exp 614 634	the beta-globin loci
+T21	Exp 429 439	These foci
+T22	Exp 675 687	the presence
+T23	Exp 741 756	the GATA-1 foci
+T24	Exp 785 795	The GATA-1
+T25	Exp 1095 1118	the same nuclear bodies
+T26	Exp 1246 1276	the GATA transcription factors
+T27	Exp 1345 1363	the nuclear bodies
+T28	Exp 1368 1395	the GATA zinc finger domain
+T29	Exp 1193 1205	This pattern
+R4	Coref Anaphora:T18 Antecedent:T21
+T1	Protein 265 271	GATA-1
+T2	Protein 585 591	GATA-1
+T3	Protein 618 629	beta-globin
+T4	Protein 745 751	GATA-1
+T5	Protein 789 795	GATA-1
+T6	Protein 973 978	c-Jun
+T7	Protein 983 986	TBP
+T8	Protein 1050 1056	GATA-2
+T9	Protein 1061 1067	GATA-3
+T10	Protein 1147 1153	GATA-1
+T11	Protein 1158 1160	-2
+T12	Protein 1164 1170	GATA-1
+T13	Protein 1175 1177	-3

@@ -1,0 +1,11 @@
+T1	Exp 85 99	The expression
+T2	Exp 212 221	the level
+T3	Exp 340 344	that
+T4	Exp 527 531	that
+T5	Exp 435 447	the assembly
+T6	Exp 540 566	the functional specificity
+T7	Exp 410 426	These mechanisms
+R3	Coref Anaphora:T3 Antecedent:T8
+R4	Coref Anaphora:T4 Antecedent:T9
+T8	Exp 328 339	lymphocytes
+T9	Exp 492 526	other protein-protein interactions

@@ -1,0 +1,48 @@
+T15	Exp 170 174	that
+T16	Exp 287 294	the TCR
+T17	Exp 350 354	that
+T18	Exp 487 504	the CD95 receptor
+T19	Exp 523 538	this population
+T20	Exp 653 657	that
+T21	Exp 540 555	The experiments
+T22	Exp 604 624	the signaling events
+T23	Exp 568 578	this study
+T24	Exp 734 736	we
+T25	Exp 802 826	the CD95 ligand promoter
+T26	Exp 891 893	we
+T27	Exp 899 903	that
+T28	Exp 867 889	the Jurkat T cell line
+T29	Exp 943 955	the presence
+T30	Exp 959 988	the CD45 tyrosine phosphatase
+T31	Exp 1096 1100	that
+T32	Exp 1130 1155	the Ras signaling pathway
+T33	Exp 1308 1310	we
+T34	Exp 1270 1274	that
+T35	Exp 1420 1424	that
+T36	Exp 1387 1406	the promoter region
+T37	Exp 1410 1419	this gene
+T38	Exp 1571 1575	that
+T39	Exp 1548 1570	the biochemical events
+T40	Exp 1512 1525	these studies
+R6	Coref Anaphora:T15 Antecedent:T41
+R7	Coref Anaphora:T20 Antecedent:T42
+R8	Coref Anaphora:T34 Antecedent:T43
+R9	Coref Anaphora:T35 Antecedent:T37
+R10	Coref Anaphora:T38 Antecedent:T39
+T1	Protein 14 31	CD95 (Fas) ligand
+T2	Protein 403 414	CD95 ligand
+T3	Protein 471 482	CD95 ligand
+T4	Protein 491 495	CD95
+T5	Protein 687 698	CD95 ligand
+T6	Protein 749 759	luciferase
+T7	Protein 806 817	CD95 ligand
+T8	Protein 963 988	CD45 tyrosine phosphatase
+T9	Protein 1021 1032	CD95 ligand
+T10	Protein 1194 1205	CD95 ligand
+T11	Protein 1284 1295	CD95 ligand
+T12	Protein 1325 1338	cyclosporin A
+T13	Protein 1449 1460	CD95 ligand
+T14	Protein 1598 1609	CD95 ligand
+T41	Exp 162 169	signals
+T42	Exp 638 652	TCR engagement
+T43	Exp 1239 1269	critical transcription factors

@@ -1,0 +1,40 @@
+T1	Protein 35 38	CR1
+T2	Protein 40 44	CD35
+T3	Protein 55 60	CD11b
+T4	Protein 61 65	CD18
+T5	Protein 112 115	p50
+T6	Protein 116 119	p65
+T7	Protein 398 407	TNF-alpha
+T8	Protein 440 449	TNF-alpha
+T9	Protein 554 557	p50
+T10	Protein 558 561	p65
+T11	Protein 703 706	CR1
+T12	Protein 708 712	CD35
+T13	Protein 723 728	CD11b
+T14	Protein 729 733	CD18
+T15	Protein 974 977	CR1
+T16	Protein 1031 1034	CR1
+T17	Protein 1124 1127	p24
+T18	Protein 1265 1268	CR1
+T19	Protein 1324 1327	p50
+T20	Protein 1328 1331	p65
+T21	Protein 1379 1382	p50
+T22	Protein 1383 1386	p65
+T23	Protein 1430 1433	CR1
+T24	Protein 1621 1630	TNF-alpha
+T25	Protein 1679 1682	p50
+T26	Protein 1683 1686	p65
+T27	Exp 432 449	LPS and TNF-alpha
+T28	Exp 465 470	their
+T29	Exp 514 562	the DNA-binding heterodimer NF-kappa B (p50/p65)
+T30	Exp 564 569	which
+T31	Exp 1050 1147	a two- to fourfold increase in the amount of cell-associated and released p24 Ag in cell cultures	1069 1077	increase
+T32	Exp 1148 1152	that
+T33	Exp 1171 1175	that
+T34	Exp 1512 1546	The amount of protein translocated	1516 1522	amount
+T35	Exp 1562 1566	that
+R1	Coref Anaphora:T28 Antecedent:T27	[T8]
+R2	Coref Anaphora:T30 Antecedent:T29	[T9, T10]
+R3	Coref Anaphora:T32 Antecedent:T31	[T17]
+R4	Coref Anaphora:T33 Antecedent:T31	[T17]
+R5	Coref Anaphora:T35 Antecedent:T34

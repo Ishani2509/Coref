@@ -1,0 +1,20 @@
+T17	Exp 94 96	We
+T18	Exp 108 112	that
+T19	Exp 340 350	the levels
+T20	Exp 457 472	their induction
+T21	Exp 405 424	The three jun genes
+T22	Exp 564 568	that
+T23	Exp 542 555	These results
+R5	Coref Anaphora:T20 Antecedent:T21
+T1	Protein 14 19	c-jun
+T2	Protein 21 26	jun B
+T3	Protein 31 36	jun D
+T4	Protein 219 224	c-jun
+T5	Protein 226 231	jun B
+T6	Protein 236 241	jun D
+T7	Protein 354 359	c-jun
+T8	Protein 361 366	jun B
+T9	Protein 371 376	jun D
+T10	Protein 583 588	c-jun
+T11	Protein 590 595	jun B
+T12	Protein 600 605	jun D

@@ -1,0 +1,44 @@
+T27	Exp 120 124	that
+T28	Exp 101 119	the growth factors
+T29	Exp 134 151	the proliferation
+T30	Exp 304 306	we
+T31	Exp 315 323	the role
+T32	Exp 334 351	the proliferation
+T33	Exp 419 430	the effects
+T34	Exp 291 302	this report
+T35	Exp 622 643	the greatest increase
+T36	Exp 1012 1016	that
+T37	Exp 1076 1088	the decrease
+T38	Exp 1114 1122	The role
+T39	Exp 1567 1572	which
+T40	Exp 1442 1454	The increase
+T41	Exp 1770 1774	that
+T42	Exp 1831 1843	the increase
+R3	Coref Anaphora:T27 Antecedent:T28
+R4	Coref Anaphora:T39 Antecedent:T43
+T1	Protein 0 12	Steel factor
+T2	Protein 21 24	SCL
+T3	Protein 78 90	Steel factor
+T4	Protein 199 202	SCL
+T5	Protein 218 223	Tcl-5
+T6	Protein 227 232	Tal-1
+T7	Protein 327 330	SCL
+T8	Protein 434 446	Steel factor
+T9	Protein 450 453	SCL
+T10	Protein 715 718	SCL
+T11	Protein 875 878	SCL
+T12	Protein 922 925	SCL
+T13	Protein 1092 1095	SCL
+T14	Protein 1126 1129	SCL
+T15	Protein 1133 1145	Steel factor
+T16	Protein 1237 1249	Steel factor
+T17	Protein 1367 1379	Steel factor
+T18	Protein 1381 1384	SCL
+T19	Protein 1458 1461	SCL
+T20	Protein 1523 1535	Steel factor
+T21	Protein 1573 1585	Steel factor
+T22	Protein 1630 1633	SCL
+T23	Protein 1733 1745	Steel factor
+T24	Protein 1847 1850	SCL
+T25	Protein 1883 1888	Steel
+T43	Exp 1545 1558	one mechanism

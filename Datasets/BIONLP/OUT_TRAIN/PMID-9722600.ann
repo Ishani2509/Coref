@@ -1,0 +1,63 @@
+T22	Exp 130 161	The human T-cell leukemia virus
+T23	Exp 257 262	which
+T24	Exp 234 253	the exact mechanism
+T25	Exp 318 333	the Tax protein
+T26	Exp 369 381	this process
+T27	Exp 432 456	the tumor suppressor p16
+T28	Exp 383 406	This 40-kDa polypeptide
+T29	Exp 518 522	that
+T30	Exp 550 554	that
+T31	Exp 496 517	the signaling pathway
+T32	Exp 531 542	the release
+T33	Exp 645 647	we
+T34	Exp 660 664	that
+T35	Exp 633 643	this paper
+T36	Exp 864 866	it
+T37	Exp 751 755	when
+T38	Exp 827 832	which
+T39	Exp 780 810	the E2F-1 transcription factor
+T40	Exp 888 916	the E2F-dependent activation
+T41	Exp 1045 1066	the E2F-binding sites
+T42	Exp 992 1008	This stimulation
+T43	Exp 1137 1143	itself
+T44	Exp 1101 1118	the transcription
+T45	Exp 1122 1136	the E2F-1 gene
+T46	Exp 1289 1291	we
+T47	Exp 1163 1167	that
+T48	Exp 1297 1301	that
+T49	Exp 1185 1191	either
+T50	Exp 1269 1287	the E2F-1 promoter
+T51	Exp 1302 1343	the Tax-dependent transcriptional control
+T52	Exp 1347 1360	the E2F1 gene
+T53	Exp 1389 1409	the ATF binding site
+T54	Exp 1421 1439	the E2F-1 promoter
+R8	Coref Anaphora:T23 Antecedent:T24
+R9	Coref Anaphora:T29 Antecedent:T31
+R10	Coref Anaphora:T30 Antecedent:T55
+R11	Coref Anaphora:T38 Antecedent:T56
+R12	Coref Anaphora:T36 Antecedent:T11
+R13	Coref Anaphora:T43 Antecedent:T44
+R14	Coref Anaphora:T47 Antecedent:T17
+T1	Protein 79 82	Tax
+T2	Protein 96 99	p16
+T3	Protein 100 105	INK4A
+T4	Protein 322 325	Tax
+T5	Protein 453 456	p16
+T6	Protein 457 462	INK4A
+T7	Protein 479 482	Tax
+T8	Protein 665 668	Tax
+T9	Protein 731 734	p16
+T10	Protein 735 740	INK4A
+T11	Protein 756 759	Tax
+T12	Protein 784 789	E2F-1
+T13	Protein 852 855	p16
+T14	Protein 856 861	INK4A
+T15	Protein 1081 1084	Tax
+T16	Protein 1126 1131	E2F-1
+T17	Protein 1151 1154	Tax
+T18	Protein 1273 1278	E2F-1
+T19	Protein 1306 1309	Tax
+T20	Protein 1351 1355	E2F1
+T21	Protein 1425 1430	E2F-1
+T55	Exp 546 549	E2F
+T56	Exp 814 825	CEM T-cells

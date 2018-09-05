@@ -1,0 +1,24 @@
+T11	Exp 0 40	The human myelomonocytic cell line U-937
+T12	Exp 244 265	The active metabolite
+T13	Exp 549 561	the presence
+T14	Exp 603 619	the accumulation
+T15	Exp 729 743	the regulation
+T16	Exp 747 760	this response
+T17	Exp 1158 1160	we
+T18	Exp 1042 1053	their state
+T19	Exp 1144 1157	the cell line
+T20	Exp 1000 1010	these data
+T21	Exp 1408 1423	the time course
+T22	Exp 1540 1549	the level
+T23	Exp 1620 1637	the concentration
+T24	Exp 1756 1769	the hormone.2
+R2	Coref Anaphora:T18 Antecedent:T20
+T1	Protein 174 192	interleukin-1 beta
+T2	Protein 623 641	interleukin-1 beta
+T3	Protein 643 652	IL-1 beta
+T4	Protein 663 672	IL-1 beta
+T5	Protein 809 827	vitamin D receptor
+T6	Protein 856 865	IL-1 beta
+T7	Protein 942 951	IL-1 beta
+T8	Protein 1427 1436	IL-1 beta
+T9	Protein 1553 1562	IL-1 beta

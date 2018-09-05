@@ -1,0 +1,43 @@
+T3	Exp 49 86	the human immunodeficiency virus type
+T4	Exp 152 156	When
+T5	Exp 183 230	the human immunodeficiency virus (HIV) promoter
+T6	Exp 283 311	the promoter/enhancer region
+T7	Exp 368 396	the transcription start site
+T8	Exp 398 400	We
+T9	Exp 550 551	I
+T10	Exp 486 514	the transcription start site
+T11	Exp 666 668	we
+T12	Exp 674 678	that
+T13	Exp 750 754	that
+T14	Exp 679 691	the DBF site
+T15	Exp 755 770	the AP3-L motif
+T16	Exp 777 809	the T-cell-specific factor NF-AT
+T17	Exp 864 880	its cognate site
+T18	Exp 944 956	their effect
+T19	Exp 821 825	that
+T20	Exp 834 845	the binding
+T21	Exp 849 860	each factor
+T22	Exp 1020 1041	the DBF or AP3-L site
+T23	Exp 1053 1077	the double mutation AP-1
+T24	Exp 1142 1161	the wild-type virus
+T25	Exp 1209 1222	the Sp1 sites
+T26	Exp 1477 1478	I
+T27	Exp 1519 1520	I
+T28	Exp 1373 1381	the AP-1
+T29	Exp 1416 1425	the AP3-L
+T30	Exp 1468 1476	the AP-1
+T31	Exp 1510 1518	the AP-1
+T32	Exp 1680 1733	determined by quantification of their HIV genomic RNA
+T33	Exp 1658 1676	the mutant viruses
+T34	Exp 1750 1778	the transcriptional activity
+T35	Exp 1782 1800	the HIV-1 promoter
+T36	Exp 1833 1855	the HIV-1 provirus DNA
+T37	Exp 1943 1962	the transcriptional
+T38	Exp 1967 1990	the replication defects
+R5	Coref Anaphora:T19 Antecedent:T39
+R6	Coref Anaphora:T17 Antecedent:T20
+R7	Coref Anaphora:T18 Antecedent:T39
+R8	Coref Anaphora:T32 Antecedent:T33
+T1	Protein 649 652	Sp1
+T2	Protein 1213 1216	Sp1
+T39	Exp 811 820	Mutations

@@ -1,0 +1,17 @@
+T14	Exp 244 246	It
+T15	Exp 257 261	that
+T16	Exp 529 533	that
+T17	Exp 512 520	The data
+T18	Exp 684 695	the factors
+T19	SPAN 463 502	c-fos and had almost no effect on c-jun
+R4	Coref Anaphora:T18 Antecedent:T19
+T1	Protein 146 151	c-fos
+T2	Protein 156 161	c-jun
+T3	Protein 303 308	c-fos
+T4	Protein 313 318	c-jun
+T5	Protein 356 372	Interferon gamma
+T6	Protein 392 397	c-fos
+T7	Protein 409 414	c-jun
+T8	Protein 424 445	Tumor necrosis factor
+T9	Protein 463 468	c-fos
+T10	Protein 497 502	c-jun

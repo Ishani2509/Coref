@@ -1,0 +1,33 @@
+T8	Exp 21 35	the activation
+T9	Exp 231 239	its role
+T10	Exp 94 111	The first product
+T11	Exp 136 162	the ascorbate free radical
+T12	Exp 243 268	the plasma membrane redox
+T13	Exp 304 312	the cell
+T14	Exp 314 316	We
+T15	Exp 335 343	the role
+T16	Exp 392 406	the activation
+T17	Exp 410 444	the NF-kappaB transcription factor
+T18	Exp 524 526	we
+T19	Exp 575 579	that
+T20	Exp 600 611	the binding
+T21	Exp 785 797	its capacity
+T22	Exp 670 681	The ability
+T23	Exp 889 898	the HIV-1
+T24	Exp 1294 1310	its free radical
+T25	Exp 1207 1221	the activation
+T26	Exp 1225 1254	the electron-transport system
+T27	Exp 1258 1277	the plasma membrane
+T28	Exp 1136 1149	These results
+R5	Coref Anaphora:T9 Antecedent:T10
+R6	Coref Anaphora:T19 Antecedent:T29
+R7	Coref Anaphora:T21 Antecedent:T22
+R8	Coref Anaphora:T24 Antecedent:T27
+T1	Protein 52 80	tumour necrosis factor-alpha
+T2	Protein 477 505	tumour necrosis factor-alpha
+T3	Protein 507 516	TNF-alpha
+T4	Protein 635 644	TNF-alpha
+T5	Protein 729 737	IkBalpha
+T6	Protein 932 941	TNF-alpha
+T7	Protein 1095 1104	TNF-alpha
+T29	Exp 536 573	electrophoretic mobility shift assays

@@ -1,0 +1,15 @@
+T1	Protein 45 51	NF-IL6
+T2	Protein 86 89	SP1
+T3	Protein 128 134	NF-IL6
+T4	Protein 234 240	NF-IL6
+T5	Protein 424 430	NF-IL6
+T6	Protein 487 493	NF-IL6
+T7	Protein 607 613	NF-IL6
+T8	Protein 843 846	Sp1
+T9	Protein 972 978	NF-IL6
+T10	Exp 244 305	the only CCAAT/enhancer-binding protein (C/EBP) family member	299 305	member
+T11	Exp 306 311	whose
+T12	Exp 567 618	a 104-bp minimal promoter region of the NF-IL6 gene	593 599	region
+T13	Exp 619 623	that
+R1	Coref Anaphora:T11 Antecedent:T10
+R2	Coref Anaphora:T13 Antecedent:T12	[T7]

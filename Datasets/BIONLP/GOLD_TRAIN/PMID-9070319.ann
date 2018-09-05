@@ -1,0 +1,22 @@
+T1	Protein 363 376	interleukin-4
+T2	Protein 378 382	IL-4
+T3	Protein 392 396	CD40
+T4	Protein 563 567	IL-4
+T5	Protein 577 581	CD40
+T6	Protein 942 946	IL-4
+T7	Protein 953 957	CD40
+T8	Protein 1114 1118	IL-4
+T9	Protein 1128 1132	CD40
+T10	Protein 1167 1171	IL-4
+T11	Protein 1207 1211	IL-4
+T12	Protein 1228 1232	CD40
+T13	Exp 942 946	IL-4
+T14	Exp 948 961	anti-CD40 mAb
+T15	Exp 966 971	their
+T16	Exp 985 988	NAC
+T17	Exp 1061 1064	its
+T18	Exp 1087 1095	cultures
+T19	Exp 1145 1150	those
+R1	Coref Anaphora:T15 Antecedent:T13 Antecedent2:T14	[T6, T7]
+R2	Coref Anaphora:T17 Antecedent:T16
+R3	Coref Anaphora:T19 Antecedent:T18

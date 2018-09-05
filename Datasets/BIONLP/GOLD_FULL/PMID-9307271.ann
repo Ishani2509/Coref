@@ -1,0 +1,34 @@
+T1	Protein 172 175	GR6
+T2	Protein 321 324	GR6
+T3	Protein 499 531	ecotropic viral insertion site I
+T4	Protein 533 537	EVI1
+T5	Protein 556 559	GR6
+T6	Protein 572 576	EVI1
+T7	Protein 581 593	Ribophorin I
+T8	Protein 623 626	GR6
+T9	Protein 704 708	EVI1
+T10	Protein 777 781	MDS1
+T11	Protein 782 786	EVI1
+T12	Protein 870 898	acute myelogenous leukemia 1
+T13	Protein 899 903	EVI1
+T14	Protein 916 920	ETV6
+T15	Protein 921 925	EVI1
+T16	Protein 960 972	Ribophorin I
+T17	Protein 973 977	EVI1
+T18	Exp 158 170	a novel gene	166 170	gene
+T19	Exp 232 236	that
+T20	Exp 341 389	the UCSD-AML1 cell line and in a leukemic sample
+T21	Exp 399 404	which
+T22	Exp 581 593	Ribophorin I
+T23	Exp 594 598	that
+T24	Exp 715 723	an event
+T25	Exp 724 728	that
+T26	Exp 794 799	those
+T27	Exp 825 859	leukemias with t(3;21) and t(3;12)	825 834	leukemias
+T28	Exp 864 869	which
+R1	Coref Anaphora:T19 Antecedent:T18
+R2	Coref Anaphora:T21 Antecedent:T20
+R3	Coref Anaphora:T23 Antecedent:T22	[T7]
+R4	Coref Anaphora:T25 Antecedent:T24
+R5	Coref Anaphora:T26 Antecedent:T24
+R6	Coref Anaphora:T28 Antecedent:T27

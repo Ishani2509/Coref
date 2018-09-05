@@ -1,0 +1,45 @@
+T18	Exp 83 85	We
+T19	Exp 225 239	the expression
+T20	Exp 360 380	the Ah receptor gene
+T21	Exp 384 405	the monocyte fraction
+T22	Exp 213 223	this paper
+T23	Exp 243 252	this gene
+T24	Exp 412 433	the expression levels
+T25	Exp 703 705	it
+T26	Exp 1066 1080	The incubation
+T27	Exp 1277 1281	they
+T28	Exp 1272 1276	when
+T29	Exp 1411 1415	when
+T30	Exp 1204 1217	The HEL cells
+T31	Exp 1383 1397	the mRNA level
+T32	Exp 1416 1425	the cells
+T33	Exp 1337 1360	these combined inducers
+T34	Exp 1574 1588	the expression
+T35	Exp 1592 1608	the P450IA1 gene
+T36	Exp 1634 1638	that
+T37	Exp 1725 1729	that
+T38	Exp 1610 1623	These results
+T39	Exp 1787 1798	Our results
+T40	Exp 1807 1811	that
+T41	Exp 1846 1858	the function
+T42	Exp 1884 1907	the eventual activation
+R4	Coref Anaphora:T23 Antecedent:T4
+R5	Coref Anaphora:T25 Antecedent:T8
+R6	Coref Anaphora:T27 Antecedent:T30
+T1	Protein 14 25	Ah receptor
+T2	Protein 27 40	TCDD receptor
+T3	Protein 135 146	Ah receptor
+T4	Protein 148 161	TCDD receptor
+T5	Protein 364 375	Ah receptor
+T6	Protein 437 440	AhR
+T7	Protein 528 535	P450IA1
+T8	Protein 537 540	AhR
+T9	Protein 840 843	AhR
+T10	Protein 1056 1059	AhR
+T11	Protein 1086 1119	transforming growth factor beta 1
+T12	Protein 1194 1197	AhR
+T13	Protein 1256 1259	AhR
+T14	Protein 1561 1564	AhR
+T15	Protein 1596 1603	P450IA1
+T16	Protein 1653 1656	AhR
+T17	Protein 1812 1815	AhR

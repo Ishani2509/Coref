@@ -1,0 +1,50 @@
+T32	Exp 51 73	the human Fas promoter
+T33	Exp 255 271	the upregulation
+T34	Exp 294 309	the acquisition
+T35	Exp 393 409	the preservation
+T36	Exp 458 481	the molecular machinery
+T37	Exp 493 505	this process
+T38	Exp 582 584	we
+T39	Exp 522 532	the events
+T40	Exp 667 689	the Jurkat T-cell line
+T41	Exp 1013 1015	we
+T42	Exp 956 978	the human fas promoter
+T43	Exp 1080 1087	the ATG
+T44	Exp 1165 1177	the presence
+T45	Exp 1239 1246	the Sp1
+T46	Exp 1381 1392	this region
+T47	Exp 1704 1731	The functional contribution
+T48	Exp 1735 1764	the kappaB-Sp1 composite site
+T49	Exp 2029 2061	the critical guanine nucleotides
+T50	Exp 2065 2087	the kappaB-Sp1 element
+T51	Exp 2099 2117	the essential role
+T52	Exp 2121 2130	this site
+T1	Protein 61 64	Fas
+T2	Protein 93 96	p50
+T3	Protein 97 100	p65
+T4	Protein 115 118	Fas
+T5	Protein 120 124	CD95
+T6	Protein 130 140	Fas ligand
+T7	Protein 142 147	CD95L
+T8	Protein 275 278	Fas
+T9	Protein 328 332	FasL
+T10	Protein 362 365	Fas
+T11	Protein 564 567	Fas
+T12	Protein 618 621	fas
+T13	Protein 842 845	Fas
+T14	Protein 847 850	Fas
+T15	Protein 966 969	fas
+T16	Protein 1120 1123	fas
+T17	Protein 1243 1246	Sp1
+T18	Protein 1428 1431	Sp1
+T19	Protein 1489 1492	p50
+T20	Protein 1493 1496	p65
+T21	Protein 1542 1545	Sp1
+T22	Protein 1679 1682	Sp1
+T23	Protein 1699 1702	p50
+T24	Protein 1746 1749	Sp1
+T25	Protein 1782 1785	fas
+T26	Protein 1835 1838	Sp1
+T27	Protein 1985 1998	IkappaB-alpha
+T28	Protein 2076 2079	Sp1
+T29	Protein 2155 2158	fas

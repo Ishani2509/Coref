@@ -1,0 +1,47 @@
+T22	Exp 117 132	its involvement
+T23	Exp 32 48	the beta subunit
+T24	Exp 423 442	their transcription
+T25	Exp 281 286	which
+T26	Exp 209 238	The proximal sequence element
+T27	Exp 293 300	the PSE
+T28	Exp 444 446	We
+T29	Exp 467 483	the purification
+T30	Exp 530 551	the molecular cloning
+T31	Exp 611 613	we
+T32	Exp 623 636	the isolation
+T33	Exp 925 929	that
+T34	Exp 972 976	both
+T35	Exp 1064 1068	that
+T36	Exp 1208 1224	this association
+T37	Exp 1289 1315	our previous demonstration
+T38	Exp 1506 1510	that
+T39	Exp 1386 1401	the involvement
+T40	Exp 1417 1434	the transcription
+T41	Exp 1495 1505	the notion
+T42	Exp 1570 1587	the transcription
+T43	Exp 1653 1673	the four-subunit PTF
+T44	Exp 1461 1474	these results
+R5	Coref Anaphora:T22 Antecedent:T23
+R6	Coref Anaphora:T25 Antecedent:T45
+R7	Coref Anaphora:T24 Antecedent:T2
+R8	Coref Anaphora:T38 Antecedent:T41
+T1	Protein 153 170	small nuclear RNA
+T2	Protein 373 390	small nuclear RNA
+T3	Protein 392 397	snRNA
+T4	Protein 671 679	PTF beta
+T5	Protein 722 730	PTF beta
+T6	Protein 750 758	PTF beta
+T7	Protein 886 894	PTF beta
+T8	Protein 930 938	PTF beta
+T9	Protein 988 993	snRNA
+T10	Protein 1110 1130	TATA-binding protein
+T11	Protein 1132 1135	TBP
+T12	Protein 1141 1149	TFIIIB90
+T13	Protein 1354 1363	PTF gamma
+T14	Protein 1364 1373	PTF delta
+T15	Protein 1378 1381	TBP
+T16	Protein 1405 1413	TFIIIB90
+T17	Protein 1448 1453	snRNA
+T18	Protein 1513 1516	TBP
+T19	Protein 1601 1606	snRNA
+T45	Exp 275 278	PTF

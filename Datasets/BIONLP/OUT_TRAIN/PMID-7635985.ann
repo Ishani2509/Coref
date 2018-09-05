@@ -1,0 +1,57 @@
+T26	Exp 90 95	which
+T27	Exp 173 191	the I epsilon exon
+T28	Exp 229 244	the involvement
+T29	Exp 338 359	the human B cell line
+T30	Exp 471 473	we
+T31	Exp 516 520	that
+T32	Exp 451 469	the I epsilon exon
+T33	Exp 556 567	the cytosol
+T34	Exp 722 727	which
+T35	Exp 746 757	the cytosol
+T36	Exp 761 772	the nucleus
+T37	Exp 595 606	This factor
+T38	Exp 902 904	we
+T39	Exp 1001 1005	that
+T40	Exp 812 831	the characteristics
+T41	Exp 1110 1123	the formation
+T42	Exp 1127 1147	the IL-4 NAF complex
+T43	Exp 1164 1179	the involvement
+T44	Exp 1355 1360	which
+T45	Exp 1367 1415	the same IFN-gamma activation site-like sequence
+T46	Exp 1505 1509	that
+T47	Exp 1533 1538	which
+T48	Exp 1486 1499	These results
+R7	Coref Anaphora:T26 Antecedent:T49
+R8	Coref Anaphora:T31 Antecedent:T50
+R9	Coref Anaphora:T37 Antecedent:T7
+R10	Coref Anaphora:T34 Antecedent:T51
+R11	Coref Anaphora:T44 Antecedent:T52
+R12	Coref Anaphora:T47 Antecedent:T22
+T1	Protein 0 13	Interleukin 4
+T2	Protein 114 130	interferon-gamma
+T3	Protein 248 262	Janus kinase 3
+T4	Protein 267 280	interleukin-4
+T5	Protein 330 334	IL-4
+T6	Protein 379 388	IFN-gamma
+T7	Protein 521 525	IL-4
+T8	Protein 622 626	IL-4
+T9	Protein 632 636	IL-4
+T10	Protein 778 782	IL-4
+T11	Protein 1020 1029	IL-4 Stat
+T12	Protein 1045 1050	Stat6
+T13	Protein 1131 1135	IL-4
+T14	Protein 1199 1203	IL-4
+T15	Protein 1219 1233	Janus kinase 3
+T16	Protein 1235 1239	JAK3
+T17	Protein 1283 1287	JAK3
+T18	Protein 1293 1297	IL-4
+T19	Protein 1376 1385	IFN-gamma
+T20	Protein 1436 1440	IL-4
+T21	Protein 1510 1514	IL-4
+T22	Protein 1522 1526	IL-4
+T23	Protein 1555 1559	JAK3
+T24	Protein 1575 1579	IL-4
+T49	Exp 82 89	protein
+T50	Exp 490 515	gel mobility shift assays
+T51	Exp 695 720	a tyrosine phosphoprotein
+T52	Exp 1329 1354	an intracellular activity

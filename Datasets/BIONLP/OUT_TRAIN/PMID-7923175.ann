@@ -1,0 +1,33 @@
+T5	Exp 156 160	that
+T6	Exp 161 179	the poor induction
+T7	Exp 300 302	We
+T8	Exp 310 314	that
+T9	Exp 529 534	which
+T10	Exp 410 430	The first alteration
+T11	Exp 440 467	the constitutive expression
+T12	Exp 551 591	the electrophoretic mobility shift assay
+T13	Exp 723 727	that
+T14	Exp 593 606	The magnitude
+T15	Exp 760 769	the basis
+T16	Exp 851 879	the kappa B-binding activity
+T17	Exp 956 985	the NF-kappa B1 (p50) subunit
+T18	Exp 1072 1076	that
+T19	Exp 1119 1124	which
+T20	Exp 987 1009	The second abnormality
+T21	Exp 1095 1118	the Rel homology family
+T22	Exp 1136 1165	the normal NF-kappa B complex
+T23	Exp 1186 1218	the nucleus following activation
+T24	Exp 1054 1068	these patients
+T25	Exp 1414 1428	their capacity
+T26	Exp 1337 1373	The altered kappa B-binding activity
+R5	Coref Anaphora:T9 Antecedent:T27
+R6	Coref Anaphora:T13 Antecedent:T28
+R7	Coref Anaphora:T19 Antecedent:T21
+R8	Coref Anaphora:T25 Antecedent:T29
+T1	Protein 960 971	NF-kappa B1
+T2	Protein 973 976	p50
+T3	Protein 1077 1081	RelA
+T4	Protein 1265 1269	RelA
+T27	Exp 511 527	nuclear extracts
+T28	Exp 704 722	normal individuals
+T29	Exp 1377 1384	T cells

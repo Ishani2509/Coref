@@ -1,0 +1,36 @@
+T9	Exp 46 50	that
+T10	Exp 66 91	the regulatory P sequence
+T11	Exp 115 143	the human interleukin-4 gene
+T12	Exp 239 244	which
+T13	Exp 184 198	The P sequence
+T14	Exp 202 225	the human interleukin-4
+T15	Exp 399 413	the NF-kappa B
+T16	Exp 418 435	the NF-AT binding
+T17	Exp 443 445	We
+T18	Exp 500 514	the P sequence
+T19	Exp 715 719	when
+T20	Exp 601 615	the P sequence
+T21	Exp 700 714	the P sequence
+T22	Exp 976 980	that
+T23	Exp 860 892	the unlabeled NF-AT binding site
+T24	Exp 904 934	the unlabeled AP1 binding site
+T25	Exp 990 1004	the P sequence
+T26	Exp 1194 1198	that
+T27	Exp 1199 1212	the component
+T28	Exp 1229 1261	the potential to reconstitute NF
+T29	Exp 1171 1184	These results
+T30	Exp 1378 1403	its DNA binding component
+R5	Coref Anaphora:T9 Antecedent:T31
+R6	Coref Anaphora:T12 Antecedent:T32
+R7	Coref Anaphora:T22 Antecedent:T33
+R8	Coref Anaphora:T30 Antecedent:T7
+T1	Protein 125 138	interleukin-4
+T2	Protein 212 225	interleukin-4
+T3	Protein 227 231	IL-4
+T4	Protein 564 567	P65
+T5	Protein 571 574	P65
+T6	Protein 575 578	P50
+T7	Protein 1118 1121	P65
+T31	Exp 39 45	factor
+T32	Exp 233 237	gene
+T33	Exp 964 975	an activity

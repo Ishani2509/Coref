@@ -1,0 +1,45 @@
+T16	Exp 20 84	the human platelet/endothelial cell adhesion molecule-1 promoter
+T17	Exp 279 283	that
+T18	Exp 255 278	the Ig gene superfamily
+T19	Exp 437 439	we
+T20	Exp 503 531	its transcriptional activity
+T21	Exp 372 383	the factors
+T22	Exp 447 452	the 5
+T23	Exp 473 489	the PECAM-1 gene
+T24	Exp 595 599	that
+T25	Exp 720 746	the translation start site
+T26	Exp 760 772	the sequence
+T27	Exp 799 832	the transcription initiation site
+T28	Exp 961 968	the TIS
+T29	Exp 1082 1086	both
+T30	Exp 1376 1380	that
+T31	Exp 1494 1498	that
+T32	Exp 1423 1440	the GATA sequence
+T33	Exp 1499 1530	the GATA-2 transcription factor
+T34	Exp 1572 1592	the PECAM-1 promoter
+T35	Exp 1557 1568	this region
+T36	Exp 1713 1730	our understanding
+T37	Exp 1641 1645	that
+T38	Exp 1752 1757	which
+T39	Exp 1608 1615	the cis
+T40	Exp 1655 1685	the tissue-specific expression
+T41	Exp 1734 1748	the mechanisms
+R5	Coref Anaphora:T17 Antecedent:T18
+R6	Coref Anaphora:T20 Antecedent:T23
+R7	Coref Anaphora:T37 Antecedent:T42
+R8	Coref Anaphora:T38 Antecedent:T41
+T1	Protein 30 75	platelet/endothelial cell adhesion molecule-1
+T2	Protein 106 112	GATA-2
+T3	Protein 177 222	Platelet/endothelial cell adhesion molecule-1
+T4	Protein 224 231	PECAM-1
+T5	Protein 428 435	PECAM-1
+T6	Protein 477 484	PECAM-1
+T7	Protein 992 999	PECAM-1
+T8	Protein 1219 1222	ets
+T9	Protein 1233 1236	Sp1
+T10	Protein 1303 1307	AP-2
+T11	Protein 1503 1509	GATA-2
+T12	Protein 1540 1546	GATA-1
+T13	Protein 1576 1583	PECAM-1
+T14	Protein 1689 1696	PECAM-1
+T42	Exp 1633 1640	factors

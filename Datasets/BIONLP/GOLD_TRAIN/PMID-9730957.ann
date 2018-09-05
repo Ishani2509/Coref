@@ -1,0 +1,26 @@
+T1	Protein 13 19	Mn SOD
+T2	Protein 143 166	Mn superoxide dismutase
+T3	Protein 201 210	Cu,Zn SOD
+T4	Protein 212 220	catalase
+T5	Protein 361 367	Mn SOD
+T6	Protein 743 749	Mn SOD
+T7	Protein 871 898	tumor necrosis factor-alpha
+T8	Protein 903 941	macrophage inflammatory protein-1alpha
+T9	Protein 1254 1260	Mn SOD
+T10	Protein 1297 1303	Mn SOD
+T11	Protein 1461 1488	tumor necrosis factor-alpha
+T12	Exp 320 333	the mechanism
+T13	Exp 337 342	which
+T14	Exp 404 530	a mutant Escherichia coli endotoxin lacking myristoyl fatty acid at the 3' R-3-hydroxymyristate position of the lipid A moiety	430 439	endotoxin
+T15	Exp 540 543	its
+T16	Exp 825 827	it
+T17	Exp 1087 1115	lipid A myristoyl fatty acid	1111 1115	acid
+T18	Exp 1126 1128	it
+T19	Exp 1430 1450	the mutant endotoxin	1441 1450	endotoxin
+T20	Exp 1529 1532	its
+R1	Coref Anaphora:T13 Antecedent:T12
+R2	Coref Anaphora:T15 Antecedent:T14
+R3	Coref Anaphora:T16 Antecedent:T14
+R4	Coref Anaphora:T18 Antecedent:T17
+R5	Coref Anaphora:T19 Antecedent:T14
+R6	Coref Anaphora:T20 Antecedent:T19

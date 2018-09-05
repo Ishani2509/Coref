@@ -1,0 +1,25 @@
+T2	Exp 340 361	its enhancer sequence
+T3	Exp 491 520	their T-cell receptor complex
+T4	Exp 182 196	The expression
+T5	Exp 249 260	the control
+T6	Exp 264 288	the long terminal repeat
+T7	Exp 298 330	the human immunodeficiency virus
+T8	Exp 366 383	the translocation
+T9	Exp 387 394	the HIV
+T10	Exp 585 587	We
+T11	Exp 668 679	the HIV LTR
+T12	Exp 683 699	the HIV enhancer
+T13	Exp 948 970	The two latter signals
+T14	Exp 1047 1085	the band-shift assay indistinguishable
+T15	Exp 1126 1137	Our finding
+T16	Exp 1138 1142	that
+T17	Exp 1376 1380	that
+T18	Exp 1492 1503	our results
+T19	Exp 1512 1516	that
+T20	Exp 1635 1657	the NF-kappa B complex
+T21	Exp 1663 1679	the HIV enhancer
+R4	Coref Anaphora:T2 Antecedent:T5
+R5	Coref Anaphora:T3 Antecedent:T22
+R6	Coref Anaphora:T16 Antecedent:T15
+T1	Protein 701 714	Interleukin 2
+T22	Exp 448 471	two human T-cell clones

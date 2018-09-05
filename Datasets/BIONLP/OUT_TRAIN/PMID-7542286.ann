@@ -1,0 +1,36 @@
+T20	Exp 251 253	we
+T21	Exp 357 370	their effects
+T22	Exp 197 201	that
+T23	Exp 182 196	the hypothesis
+T24	Exp 374 398	the inducible expression
+T25	Exp 823 829	either
+T26	Exp 630 645	This inhibition
+T27	Exp 945 971	the endothelial expression
+T28	Exp 1202 1216	the expression
+T29	Exp 1436 1440	that
+T30	Exp 1516 1518	We
+T31	Exp 1633 1636	its
+T32	Exp 1527 1531	that
+T33	Exp 1692 1707	the vessel wall
+R4	Coref Anaphora:T22 Antecedent:T23
+R5	Coref Anaphora:T21 Antecedent:T34
+R6	Coref Anaphora:T31 Antecedent:T35
+T1	Protein 402 435	vascular cell adhesion molecule-1
+T2	Protein 437 443	VCAM-1
+T3	Protein 496 520	interleukin (IL)-1 alpha
+T4	Protein 532 538	VCAM-1
+T5	Protein 830 840	IL-1 alpha
+T6	Protein 842 851	IL-1 beta
+T7	Protein 853 857	IL-4
+T8	Protein 859 880	tumor necrosis factor
+T9	Protein 882 891	TNF alpha
+T10	Protein 1011 1021	E-selectin
+T11	Protein 1046 1079	intercellular adhesion molecule-1
+T12	Protein 1107 1111	IL-6
+T13	Protein 1116 1120	IL-8
+T14	Protein 1220 1226	VCAM-1
+T15	Protein 1265 1271	VCAM-1
+T16	Protein 1342 1348	VCAM-1
+T17	Protein 1454 1460	VCAM-1
+T34	Exp 262 320	cytokine-stimulated human saphenous vein endothelial cells
+T35	Exp 1532 1544	NO's ability

@@ -1,0 +1,31 @@
+T2	Exp 37 64	the adenovirus early region
+T3	Exp 261 265	that
+T4	Exp 209 235	the viral control elements
+T5	Exp 240 260	the cellular factors
+T6	Exp 503 532	their cell surface expression
+T7	Exp 340 367	The adenovirus early region
+T8	Exp 405 420	the maintenance
+T9	Exp 461 485	the class I MHC antigens
+T10	Exp 763 778	the E3 promoter
+T11	Exp 782 797	both cell types
+T12	Exp 814 827	These studies
+T13	Exp 930 934	Each
+T14	Exp 1013 1041	the cellular factor NF-kappa
+T15	Exp 938 951	these domains
+T16	Exp 1138 1142	that
+T17	Exp 1086 1128	the chloramphenicol acetyltransferase gene
+T18	Exp 1158 1185	the distal NF-kappa B motif
+T19	Exp 1542 1546	when
+T20	Exp 1558 1573	the L2 mutation
+T21	Exp 1714 1728	their position
+T22	Exp 1660 1664	that
+T23	Exp 1585 1624	the position and subsequent mutagenesis
+T24	Exp 1628 1649	the L1 and L2 domains
+T25	Exp 1665 1685	the primary sequence
+T26	Exp 1732 1747	the E3 promoter
+T27	Exp 1689 1701	these motifs
+R4	Coref Anaphora:T3 Antecedent:T5
+R5	Coref Anaphora:T6 Antecedent:T28
+R6	Coref Anaphora:T21 Antecedent:T27
+T1	Protein 1090 1123	chloramphenicol acetyltransferase
+T28	Exp 375 388	gene products

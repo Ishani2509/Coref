@@ -1,0 +1,73 @@
+T28	Exp 22 53	the nuclear localization signal
+T29	Exp 85 111	the transactivation domain
+T30	Exp 299 303	both
+T31	Exp 152 175	The active nuclear form
+T32	Exp 179 222	the NF-kappa B transcription factor complex
+T33	Exp 363 389	the v-rel oncogene product
+T34	Exp 391 417	The NF-kappa B p65 subunit
+T35	Exp 427 455	the transactivation activity
+T36	Exp 459 471	this complex
+T37	Exp 906 910	that
+T38	Exp 750 769	the molecular basis
+T39	Exp 774 809	the critical regulatory interaction
+T40	Exp 1022 1047	this transcription factor
+T41	Exp 1499 1641	the functional nuclear localization signal present in the Rel homology domain of NF-kappa B p65 disrupts its ability to engage I kappa B/MAD-3
+T42	Exp 1701 1729	its own nuclear localization
+T43	Exp 1753 1757	that
+T44	Exp 1142 1155	the following
+T45	Exp 1265 1321	the human immunodeficiency virus type 1 kappa B enhancer
+T46	Exp 1349 1360	the binding
+T47	Exp 1444 1455	the nucleus
+T48	Exp 1459 1472	the cytoplasm
+T49	Exp 1650 1671	the unique C-terminus
+T50	Exp 1104 1132	these NF-kappa B p65 mutants
+T51	Exp 1878 1882	that
+T52	Exp 1990 1994	that
+T53	Exp 1883 1914	the nuclear localization signal
+T54	Exp 2021 2044	the inhibitory function
+T55	Exp 1855 1869	these findings
+T56	Exp 2079 2082	our
+T57	Exp 2116 2120	that
+T58	Exp 2205 2207	it
+T59	Exp 2252 2263	the nucleus
+T60	Exp 2267 2280	the cytoplasm
+T61	Exp 2171 2187	This interaction
+T62	Exp 2387 2391	that
+T63	Exp 2358 2386	the unique C-terminal domain
+T64	Exp 2409 2439	that present in NF-kappa B p65
+T67	SPAN 275 297	p65 and NF-kappa B p50
+R8	Coref Anaphora:T30 Antecedent:T67
+R9	Coref Anaphora:T41 Antecedent:T16
+R10	Coref Anaphora:T42 Antecedent:T19
+R11	Coref Anaphora:T43 Antecedent:T65
+R12	Coref Anaphora:T52 Antecedent:T66
+R13	Coref Anaphora:T58 Antecedent:T61
+R14	Coref Anaphora:T62 Antecedent:T63
+T1	Protein 10 15	MAD-3
+T2	Protein 68 71	p65
+T3	Protein 134 137	p65
+T4	Protein 275 278	p65
+T5	Protein 294 297	p50
+T6	Protein 367 372	v-rel
+T7	Protein 406 409	p65
+T8	Protein 597 600	p50
+T9	Protein 843 848	MAD-3
+T10	Protein 879 882	p65
+T11	Protein 1121 1124	p65
+T12	Protein 1170 1175	MAD-3
+T13	Protein 1207 1210	p65
+T14	Protein 1374 1379	MAD-3
+T15	Protein 1394 1397	p65
+T16	Protein 1435 1438	p65
+T17	Protein 1591 1594	p65
+T18	Protein 1636 1641	MAD-3
+T19	Protein 1686 1689	p65
+T20	Protein 1819 1822	p65
+T21	Protein 1956 1959	p65
+T22	Protein 2058 2063	MAD-3
+T23	Protein 2131 2136	MAD-3
+T24	Protein 2166 2169	p50
+T25	Protein 2243 2246	p50
+T26	Protein 2436 2439	p65
+T65	Exp 1743 1752	sequences
+T66	Exp 1971 1989	a bipartite system

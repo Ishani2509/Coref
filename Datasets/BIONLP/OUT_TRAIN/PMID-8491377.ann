@@ -1,0 +1,36 @@
+T14	Exp 245 249	that
+T15	Exp 266 280	the regulation
+T16	Exp 284 329	the pre-B and B lymphocyte-specific mb-1 gene
+T17	Exp 421 426	which
+T18	Exp 460 487	The recombinant polypeptide
+T19	Exp 528 548	the EBF-binding site
+T20	Exp 552 569	the mb-1 promoter
+T21	Exp 571 579	The cDNA
+T22	Exp 1208 1216	its site
+T23	Exp 1176 1180	that
+T24	Exp 1181 1192	the protein
+T25	Exp 1334 1338	that
+T26	Exp 1360 1384	the dimerization domains
+T27	Exp 1450 1454	that
+T28	Exp 1431 1441	these data
+R5	Coref Anaphora:T14 Antecedent:T29
+R6	Coref Anaphora:T17 Antecedent:T30
+R7	Coref Anaphora:T24 Antecedent:T12
+R8	Coref Anaphora:T22 Antecedent:T12
+R9	Coref Anaphora:T25 Antecedent:T31
+T1	Protein 43 62	early B-cell factor
+T2	Protein 117 136	Early B-cell factor
+T3	Protein 138 141	EBF
+T4	Protein 320 324	mb-1
+T5	Protein 383 386	EBF
+T6	Protein 455 458	EBF
+T7	Protein 532 535	EBF
+T8	Protein 556 560	mb-1
+T9	Protein 777 780	EBF
+T10	Protein 892 895	EBF
+T11	Protein 958 961	EBF
+T12	Protein 1162 1165	EBF
+T13	Protein 1455 1458	EBF
+T29	Exp 194 244	differentiation stage-specific DNA-binding protein
+T30	Exp 408 419	cDNA clones
+T31	Exp 1319 1333	15 amino acids

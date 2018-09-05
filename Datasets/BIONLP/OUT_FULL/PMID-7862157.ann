@@ -1,0 +1,50 @@
+T15	Exp 14 56	the Runt domain-encoding PEBP2 alpha genes
+T16	Exp 210 215	which
+T17	Exp 96 113	The PEBP2 alpha A
+T18	Exp 145 168	the DNA-binding subunit
+T19	Exp 308 343	the evolutionarily conserved region
+T20	Exp 353 368	the Runt domain
+T21	Exp 278 301	These two related genes
+T22	Exp 425 430	which
+T23	Exp 387 409	the murine counterpart
+T24	Exp 445 460	the breakpoints
+T25	Exp 464 469	the 8
+T26	Exp 609 613	that
+T27	Exp 614 624	the levels
+T28	Exp 676 686	the thymus
+T29	Exp 642 652	both genes
+T30	Exp 793 805	the thymuses
+T31	Exp 900 914	The expression
+T32	Exp 918 927	the genes
+T33	Exp 979 994	The transcripts
+T34	Exp 1016 1023	the CD4
+T35	Exp 1159 1176	their development
+T36	Exp 1107 1111	that
+T37	Exp 1200 1204	that
+T38	Exp 1085 1096	The results
+T39	Exp 1189 1199	the notion
+T40	Exp 1112 1122	both genes
+T41	Exp 1356 1371	the bone marrow
+T42	Exp 1395 1410	The implication
+R7	Coref Anaphora:T16 Antecedent:T43
+T45	SPAN 100 131	PEBP2 alpha A and PEBP2 alpha B
+R8	Coref Anaphora:T21 Antecedent:T45
+R9	Coref Anaphora:T22 Antecedent:T4
+T46	SPAN 716 758	PEBP2 alpha A and mouse AML1/PEBP2 alpha B
+R10	Coref Anaphora:T32 Antecedent:T46
+R11	Coref Anaphora:T35 Antecedent:T44
+R12	Coref Anaphora:T37 Antecedent:T39
+T1	Protein 100 113	PEBP2 alpha A
+T2	Protein 118 131	PEBP2 alpha B
+T3	Protein 370 383	PEBP2 alpha B
+T4	Protein 419 423	AML1
+T5	Protein 716 729	PEBP2 alpha A
+T6	Protein 740 758	AML1/PEBP2 alpha B
+T7	Protein 1020 1023	CD4
+T8	Protein 1031 1034	CD4
+T9	Protein 1042 1045	CD4
+T10	Protein 1057 1060	CD4
+T11	Protein 1275 1293	AML1/PEBP2 alpha B
+T12	Protein 1420 1438	AML1/PEBP2 alpha B
+T43	Exp 203 208	PEBP2
+T44	Exp 1140 1147	T cells

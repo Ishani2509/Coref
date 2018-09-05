@@ -1,0 +1,38 @@
+T13	Exp 209 224	The JAK kinases
+T14	Exp 229 251	the signal transducers
+T15	Exp 359 361	we
+T16	Exp 371 383	the presence
+T17	Exp 346 357	this report
+T18	Exp 486 488	We
+T19	Exp 522 537	the beta-casein
+T20	Exp 567 581	the ISRE probe
+T21	Exp 833 837	when
+T22	Exp 730 740	the probes
+T23	Exp 746 761	the beta-casein
+T24	Exp 801 831	the ISRE oligonucleotide probe
+T25	Exp 944 946	We
+T26	Exp 1007 1022	the specificity
+T27	Exp 1026 1047	the complex formation
+T28	Exp 1086 1114	the individual STAT proteins
+T29	Exp 1393 1395	we
+T30	Exp 1405 1409	that
+T31	Exp 1307 1316	the cells
+T32	Exp 1356 1376	the nuclear proteins
+T33	Exp 1410 1423	these factors
+T34	Exp 1462 1464	It
+T35	Exp 1475 1479	that
+T36	Exp 1480 1507	the constitutive activation
+T37	Exp 1538 1548	the events
+T38	SPAN 1210 1235	STAT1-, STAT3-, and STAT5
+R4	Coref Anaphora:T32 Antecedent:T38
+T39	SPAN 1210 1235	STAT1-, STAT3-, and STAT5
+R5	Coref Anaphora:T33 Antecedent:T39
+T1	Protein 526 537	beta-casein
+T2	Protein 542 547	IRF-1
+T3	Protein 750 761	beta-casein
+T4	Protein 766 771	IRF-1
+T5	Protein 1152 1157	STAT5
+T6	Protein 1163 1168	STAT1
+T7	Protein 1210 1215	STAT1
+T8	Protein 1218 1223	STAT3
+T9	Protein 1230 1235	STAT5

@@ -1,0 +1,22 @@
+T5	Exp 43 51	the gene
+T6	Exp 61 74	the cell-type
+T7	Exp 199 201	it
+T8	Exp 193 198	where
+T9	Exp 114 138	The transcription factor
+T10	Exp 211 244	the cell-type specific expression
+T11	Exp 263 265	We
+T12	Exp 278 287	the mouse
+T13	Exp 333 347	the first exon
+T14	Exp 466 476	the GATA-1
+T15	Exp 483 500	the SV40 promoter
+T16	Exp 502 514	The activity
+T17	Exp 518 530	the enhancer
+T18	Exp 565 578	the integrity
+R3	Coref Anaphora:T8 Antecedent:T19
+R4	Coref Anaphora:T7 Antecedent:T20
+T1	Protein 105 111	GATA-1
+T2	Protein 139 145	GATA-1
+T3	Protein 470 476	GATA-1
+T4	Protein 592 598	GATA-1
+T19	Exp 174 191	hemopoietic cells
+T20	Exp 162 170	a subset

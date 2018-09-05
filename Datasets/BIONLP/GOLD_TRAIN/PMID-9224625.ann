@@ -1,0 +1,16 @@
+T1	Protein 52 80	tumour necrosis factor-alpha
+T2	Protein 477 505	tumour necrosis factor-alpha
+T3	Protein 507 516	TNF-alpha
+T4	Protein 635 644	TNF-alpha
+T5	Protein 729 737	IkBalpha
+T6	Protein 932 941	TNF-alpha
+T7	Protein 1095 1104	TNF-alpha
+T8	Exp 94 134	The first product of ascorbate oxidation	104 111	product
+T9	Exp 231 234	its
+T10	Exp 685 694	ascorbate
+T11	Exp 785 788	its
+T12	Exp 1281 1290	ascorbate
+T13	Exp 1294 1297	its
+R1	Coref Anaphora:T9 Antecedent:T8
+R2	Coref Anaphora:T11 Antecedent:T10
+R3	Coref Anaphora:T13 Antecedent:T12

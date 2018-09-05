@@ -1,0 +1,38 @@
+T8	Exp 51 65	the activation
+T9	Exp 211 222	its ability
+T10	Exp 298 309	its ability
+T11	Exp 335 347	its presence
+T12	Exp 262 275	the depletion
+T13	Exp 351 378	the atherosclerotic plaques
+T14	Exp 435 437	we
+T15	Exp 522 527	which
+T16	Exp 416 433	the present study
+T17	Exp 451 474	the induction mechanism
+T18	Exp 552 567	the development
+T19	Exp 622 624	We
+T20	Exp 647 651	that
+T21	Exp 761 763	we
+T22	Exp 769 773	that
+T23	Exp 774 799	the SAA promoter sequence
+T24	Exp 938 949	these cells
+T25	Exp 1108 1110	it
+T26	Exp 1103 1107	that
+T27	Exp 990 1013	the DNA-binding protein
+T28	Exp 1203 1207	that
+T29	Exp 1289 1302	the induction
+T30	Exp 1176 1189	These results
+R5	Coref Anaphora:T9 Antecedent:T31
+R6	Coref Anaphora:T10 Antecedent:T12
+R7	Coref Anaphora:T11 Antecedent:T12
+R8	Coref Anaphora:T15 Antecedent:T32
+R9	Coref Anaphora:T25 Antecedent:T33
+T1	Protein 69 84	serum amyloid A
+T2	Protein 143 158	Serum amyloid A
+T3	Protein 160 163	SAA
+T4	Protein 478 481	SAA
+T5	Protein 652 655	SAA
+T6	Protein 778 781	SAA
+T7	Protein 1221 1224	SAA
+T31	Exp 184 199	atherosclerosis
+T32	Exp 490 521	THP-1 monocyte/macrophage cells
+T33	Exp 970 986	Characterization

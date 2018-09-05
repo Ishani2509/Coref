@@ -1,0 +1,12 @@
+T2	Exp 190 197	the IkB
+T3	Exp 316 341	the subsequent expression
+T4	Exp 380 382	we
+T5	Exp 392 406	the activation
+T6	Exp 452 454	We
+T7	Exp 674 678	they
+T8	Exp 576 587	our results
+T9	Exp 598 602	that
+T10	Exp 669 673	that
+R2	Coref Anaphora:T7 Antecedent:T11
+T1	Protein 265 274	TNF alpha
+T11	Exp 603 613	thymocytes

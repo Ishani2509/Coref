@@ -1,0 +1,22 @@
+T2	Exp 126 128	We
+T3	Exp 156 160	that
+T4	Exp 446 448	we
+T5	Exp 471 475	that
+T6	Exp 354 371	the transcription
+T7	Exp 456 470	the hypothesis
+T8	Exp 569 580	the cytosol
+T9	Exp 586 597	the nucleus
+T10	Exp 408 444	those responsible for ROS generation
+T11	Exp 743 756	the injection
+T12	Exp 791 804	the injection
+T13	Exp 1188 1213	The total protein content
+T14	Exp 1315 1328	This decrease
+T15	Exp 1475 1486	the nucleus
+T16	Exp 1488 1490	It
+T17	Exp 1609 1617	Our data
+T18	Exp 1630 1634	that
+T19	Exp 1746 1763	the translocation
+T20	Exp 1782 1793	the nucleus
+T21	Exp 1810 1824	the expression
+R2	Coref Anaphora:T5 Antecedent:T7
+T1	Protein 1236 1239	P65

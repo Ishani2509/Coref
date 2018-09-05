@@ -1,0 +1,54 @@
+T27	Exp 28 32	that
+T28	Exp 42 56	the expression
+T29	Exp 363 367	when
+T30	Exp 495 499	that
+T31	Exp 566 583	the IL-5 promoter
+T32	Exp 631 659	the PMA-dependent activation
+T33	Exp 663 687	the endogenous IL-2 gene
+T34	Exp 754 758	that
+T35	Exp 759 772	the IL-5 gene
+T36	Exp 838 851	the IL-2 gene
+T37	Exp 731 744	These results
+T38	Exp 886 890	that
+T39	Exp 860 879	the nuclear factors
+T40	Exp 901 913	the response
+T41	Exp 917 934	the IL-5 promoter
+T42	Exp 1002 1016	The P sequence
+T43	Exp 1020 1033	the IL-4 gene
+T44	Exp 1139 1153	the NF kappa B
+T45	Exp 1158 1195	the NF-activated T cell binding sites
+T46	Exp 1197 1199	We
+T47	Exp 1268 1282	the P sequence
+T48	Exp 1454 1468	the P sequence
+T49	Exp 1621 1625	that
+T50	Exp 1666 1778	the potential to reconstitute NF(P), whereas NF-kappa B alone does not account for NF(P) in Jurkat crude extract
+T51	Exp 1598 1611	These results
+T52	Exp 1818 1822	that
+T53	Exp 1858 1872	the regulation
+T54	Exp 1796 1809	these results
+R5	Coref Anaphora:T27 Antecedent:T55
+R6	Coref Anaphora:T38 Antecedent:T56
+T1	Protein 60 73	interleukin-4
+T2	Protein 78 91	interleukin-5
+T3	Protein 174 192	interleukin (IL)-2
+T4	Protein 194 198	IL-3
+T5	Protein 200 204	IL-4
+T6	Protein 206 211	IL-10
+T7	Protein 217 265	granulocyte-macrophage colony-stimulating factor
+T8	Protein 358 362	IL-5
+T9	Protein 438 442	IL-5
+T10	Protein 570 574	IL-5
+T11	Protein 678 682	IL-2
+T12	Protein 716 720	IL-2
+T13	Protein 763 767	IL-5
+T14	Protein 842 846	IL-2
+T15	Protein 921 925	IL-5
+T16	Protein 1024 1028	IL-4
+T17	Protein 1407 1410	P65
+T18	Protein 1414 1417	P65
+T19	Protein 1418 1421	P50
+T20	Protein 1571 1574	P65
+T21	Protein 1876 1880	IL-4
+T22	Protein 1885 1889	IL-5
+T55	Exp 12 27	nuclear factors
+T56	Exp 881 884	NFs

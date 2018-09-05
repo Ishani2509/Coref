@@ -1,0 +1,47 @@
+T18	Exp 150 161	the complex
+T19	Exp 226 257	the monocyte/macrophage lineage
+T20	Exp 259 261	We
+T21	Exp 276 290	the regulation
+T22	Exp 451 453	we
+T23	Exp 466 470	that
+T24	Exp 601 605	that
+T25	Exp 471 488	the up-regulation
+T26	Exp 564 573	the level
+T27	Exp 660 662	We
+T28	Exp 731 768	its tissue-specific promoter activity
+T29	Exp 684 694	the CD14 5
+T30	Exp 934 936	we
+T31	Exp 942 946	that
+T32	Exp 799 828	the monocytoid U937 cell line
+T33	Exp 866 876	the CD14 5
+T34	Exp 965 984	the critical region
+T35	Exp 989 1002	the induction
+T36	Exp 1066 1094	the Sp1 transcription factor
+T37	Exp 1023 1034	This region
+T38	Exp 1115 1142	the distal Sp1-binding site
+T39	Exp 1207 1226	the VitD3 induction
+T40	Exp 1393 1404	its partner
+T41	Exp 1365 1388	the vitamin D3 receptor
+T42	Exp 1406 1429	the retinoid X receptor
+T43	Exp 1454 1458	that
+T44	Exp 1431 1441	These data
+T45	Exp 1562 1574	this process
+R3	Coref Anaphora:T28 Antecedent:T29
+R4	Coref Anaphora:T40 Antecedent:T41
+T1	Protein 14 18	CD14
+T2	Protein 109 113	CD14
+T3	Protein 294 298	CD14
+T4	Protein 492 496	CD14
+T5	Protein 644 648	CD14
+T6	Protein 688 692	CD14
+T7	Protein 870 874	CD14
+T8	Protein 1006 1010	CD14
+T9	Protein 1070 1073	Sp1
+T10	Protein 1126 1129	Sp1
+T11	Protein 1163 1166	Sp1
+T12	Protein 1230 1234	CD14
+T13	Protein 1331 1335	CD14
+T14	Protein 1343 1346	Sp1
+T15	Protein 1369 1388	vitamin D3 receptor
+T16	Protein 1473 1477	CD14
+T17	Protein 1555 1558	Sp1

@@ -1,0 +1,48 @@
+T22	Exp 14 57	the megakaryocytic glycoprotein IX promoter
+T23	Exp 61 99	the oncogenic Ets transcription factor
+T24	Exp 185 190	which
+T25	Exp 145 172	the von Willebrand receptor
+T26	Exp 225 243	the subendothelium
+T27	Exp 350 354	that
+T28	Exp 356 360	when
+T29	Exp 299 316	the GPIX promoter
+T30	Exp 427 431	that
+T31	Exp 408 423	the Ets protein
+T32	Exp 631 635	that
+T33	Exp 700 704	when
+T34	Exp 636 657	the oncogenic protein
+T35	Exp 682 699	the GPIX promoter
+T36	Exp 483 493	this study
+T37	Exp 771 788	the GPIX Ets site
+T38	Exp 942 946	that
+T39	Exp 984 997	the GPIbalpha
+T40	Exp 1023 1041	the GPIIb promoter
+T41	Exp 1251 1284	the megakaryocyte differentiation
+T42	Exp 1349 1353	that
+T43	Exp 1327 1340	These results
+R4	Coref Anaphora:T24 Antecedent:T44
+R5	Coref Anaphora:T27 Antecedent:T45
+R6	Coref Anaphora:T30 Antecedent:T46
+T1	Protein 33 48	glycoprotein IX
+T2	Protein 100 105	Fli-1
+T3	Protein 108 128	Glycoprotein (GP) IX
+T4	Protein 303 307	GPIX
+T5	Protein 442 446	GPIX
+T6	Protein 531 535	GPIX
+T7	Protein 601 606	Fli-1
+T8	Protein 658 663	Fli-1
+T9	Protein 686 690	GPIX
+T10	Protein 715 719	GPIX
+T11	Protein 754 759	Fli-1
+T12	Protein 775 779	GPIX
+T13	Protein 947 952	Fli-1
+T14	Protein 988 997	GPIbalpha
+T15	Protein 1027 1032	GPIIb
+T16	Protein 1074 1079	Fli-1
+T17	Protein 1150 1155	Fli-1
+T18	Protein 1224 1228	CD34
+T19	Protein 1311 1325	thrombopoietin
+T20	Protein 1354 1359	Fli-1
+T44	Exp 174 183	GPIb-V-IX
+T45	Exp 328 349	a functional Ets site
+T46	Exp 424 425	s

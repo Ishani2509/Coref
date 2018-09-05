@@ -1,0 +1,72 @@
+T27	Exp 145 174	the ubiquitin-carrier protein
+T28	Exp 359 364	which
+T29	Exp 263 300	the transcriptional factor NF-kappa B
+T30	Exp 402 416	the Rel family
+T31	Exp 463 484	The C-terminal domain
+T32	Exp 488 501	the precursor
+T33	Exp 531 553	the mature p50 subunit
+T34	Exp 567 588	the N-terminal region
+T35	Exp 592 604	the molecule
+T36	Exp 606 619	The mechanism
+T37	Exp 655 657	It
+T38	Exp 677 681	that
+T39	Exp 826 831	which
+T40	Exp 682 713	the ubiquitin-proteasome system
+T41	Exp 729 740	the process
+T42	Exp 751 771	the specific enzymes
+T43	Exp 785 798	the mechanism
+T44	Exp 840 852	the molecule
+T45	Exp 1009 1013	that
+T46	Exp 1040 1054	the processing
+T47	Exp 1137 1141	They
+T48	Exp 1158 1162	that
+T49	Exp 1206 1210	both
+T50	Exp 1191 1205	the processing
+T51	Exp 1248 1250	we
+T52	Exp 1336 1340	that
+T53	Exp 1616 1620	that
+T54	Exp 1346 1377	the ubiquitin-proteasome system
+T55	Exp 1407 1432	the intact p105 precursor
+T56	Exp 1466 1479	the precursor
+T57	Exp 1517 1531	the processing
+T58	Exp 1578 1607	the ubiquitin-carrier protein
+T59	Exp 1636 1651	the conjugation
+T60	Exp 1697 1719	the limited processing
+T61	Exp 1723 1741	the p105 precursor
+T62	Exp 1834 1845	the process
+T63	Exp 1236 1246	this study
+T64	Exp 1889 1915	the p53-conjugating ligase
+T65	Exp 1936 1959	the "N-end rule" ligase
+T66	Exp 1847 1864	This novel enzyme
+T69	SPAN 346 357	p50 and p65
+R7	Coref Anaphora:T28 Antecedent:T69
+R8	Coref Anaphora:T35 Antecedent:T10
+R9	Coref Anaphora:T39 Antecedent:T67
+R10	Coref Anaphora:T44 Antecedent:T11
+R11	Coref Anaphora:T47 Antecedent:T68
+R12	Coref Anaphora:T53 Antecedent:T17
+T1	Protein 0 9	Ubiquitin
+T2	Protein 80 84	p105
+T3	Protein 149 158	ubiquitin
+T4	Protein 176 178	E2
+T5	Protein 192 201	ubiquitin
+T6	Protein 218 220	E3
+T7	Protein 346 349	p50
+T8	Protein 354 357	p65
+T9	Protein 418 421	p50
+T10	Protein 542 545	p50
+T11	Protein 637 640	p50
+T12	Protein 686 695	ubiquitin
+T13	Protein 1014 1023	ubiquitin
+T14	Protein 1350 1359	ubiquitin
+T15	Protein 1418 1422	p105
+T16	Protein 1582 1591	ubiquitin
+T17	Protein 1609 1614	E2-F1
+T18	Protein 1671 1674	p53
+T19	Protein 1727 1731	p105
+T20	Protein 1793 1802	ubiquitin
+T21	Protein 1882 1887	E6-AP
+T22	Protein 1893 1896	p53
+T23	Protein 1926 1934	E3 alpha
+T67	Exp 802 821	limited proteolysis
+T68	Exp 898 908	colleagues

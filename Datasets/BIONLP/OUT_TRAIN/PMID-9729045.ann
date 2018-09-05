@@ -1,0 +1,28 @@
+T17	Exp 34 38	that
+T18	Exp 145 147	We
+T19	Exp 153 173	our monoclonal model
+T20	Exp 235 243	the role
+T21	Exp 349 353	when
+T22	Exp 460 524	the CD40-mediated NF-kappaB-dependent transcriptional activation
+T23	Exp 551 578	The physiological relevance
+T24	Exp 582 597	this phenomenon
+T25	Exp 685 696	these cells
+T26	Exp 801 809	Our data
+T27	Exp 818 822	that
+T28	Exp 849 882	the CD40-mediated differentiation
+R2	Coref Anaphora:T17 Antecedent:T2
+T1	Protein 0 4	CD30
+T2	Protein 10 14	CD40
+T3	Protein 60 64	CD40
+T4	Protein 247 251	CD30
+T5	Protein 311 315	CD30
+T6	Protein 365 370	CD40L
+T7	Protein 375 379	IL-4
+T8	Protein 406 410	CD30
+T9	Protein 464 468	CD40
+T10	Protein 623 627	CD30
+T11	Protein 677 681	CD30
+T12	Protein 711 716	CD40L
+T13	Protein 785 789	IL-6
+T14	Protein 823 827	CD30
+T15	Protein 853 857	CD40

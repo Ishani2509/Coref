@@ -1,0 +1,32 @@
+T7	Exp 73 99	The nuclear factor kappa B
+T8	Exp 178 180	it
+T9	Exp 464 466	we
+T10	Exp 478 482	that
+T11	Exp 525 536	the cytosol
+T12	Exp 602 625	The TNF alpha-activated
+T13	Exp 882 887	which
+T14	Exp 825 874	the phorbol ester phorbol 12-myristate 13-acetate
+T15	Exp 927 962	the SH-SY5Y neuroblastoma cell line
+T16	Exp 998 1023	that particular cell line
+T17	Exp 1185 1193	the lack
+T18	Exp 1250 1258	the lack
+T19	Exp 1285 1287	We
+T20	Exp 1305 1309	that
+T21	Exp 1433 1437	that
+T22	Exp 1438 1468	the low PKC enzymatic activity
+T23	Exp 1555 1560	which
+T24	Exp 1606 1623	the neuroblastoma
+T25	Exp 1643 1660	the present study
+T26	Exp 1803 1807	that
+T27	Exp 1760 1771	the results
+R4	Coref Anaphora:T8 Antecedent:T7
+R5	Coref Anaphora:T13 Antecedent:T28
+R6	Coref Anaphora:T23 Antecedent:T29
+T1	Protein 336 363	tumor necrosis factor alpha
+T2	Protein 365 374	TNF alpha
+T3	Protein 581 590	TNF alpha
+T4	Protein 606 615	TNF alpha
+T5	Protein 696 705	TNF alpha
+T6	Protein 1786 1795	TNF alpha
+T28	Exp 876 879	PMA
+T29	Exp 1540 1553	retinoic acid

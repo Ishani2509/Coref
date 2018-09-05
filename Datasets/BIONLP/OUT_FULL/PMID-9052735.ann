@@ -1,0 +1,33 @@
+T14	Exp 89 121	the human interleukin-1beta gene
+T15	Exp 164 205	the most important inflammatory mediators
+T16	Exp 256 270	The regulation
+T17	Exp 395 414	the promoter region
+T18	Exp 520 525	which
+T19	Exp 493 518	the transcriptional level
+T20	Exp 605 607	We
+T21	Exp 665 675	the region
+T22	Exp 706 717	this region
+T23	Exp 991 1005	this footprint
+T24	Exp 1074 1078	when
+T25	Exp 1118 1150	the reporter constructs IL-1beta
+T26	Exp 1079 1102	this 19-bp binding site
+T27	Exp 1283 1305	the wild-type fragment
+T28	Exp 1343 1357	the 19-bp site
+T29	Exp 1385 1389	that
+T30	Exp 1399 1432	this negative regulatory sequence
+T31	Exp 1477 1498	the first description
+R3	Coref Anaphora:T18 Antecedent:T19
+R4	Coref Anaphora:T29 Antecedent:T32
+T1	Protein 99 116	interleukin-1beta
+T2	Protein 124 142	Interleukin-1 beta
+T3	Protein 144 152	IL-1beta
+T4	Protein 280 288	IL-1beta
+T5	Protein 470 478	IL-1beta
+T6	Protein 926 959	transcription activator protein-2
+T7	Protein 1142 1150	IL-1beta
+T8	Protein 1151 1154	CAT
+T9	Protein 1159 1167	IL-1beta
+T10	Protein 1182 1185	CAT
+T11	Protein 1222 1255	chloramphenicol acetyltransferase
+T12	Protein 1257 1260	CAT
+T32	Exp 1378 1384	150 kD

@@ -1,0 +1,30 @@
+T9	Exp 130 169	the CDR2-loop in extracellular domain 1
+T10	Exp 298 300	We
+T11	Exp 319 323	that
+T12	Exp 324 341	the cross-linking
+T13	Exp 528 530	we
+T14	Exp 543 547	that
+T15	Exp 650 668	the concentrations
+T16	Exp 516 526	this study
+T17	Exp 724 726	we
+T18	Exp 748 773	the physiologic relevance
+T19	Exp 777 795	these observations
+T20	Exp 797 801	When
+T21	Exp 920 943	This viral reactivation
+T22	Exp 1156 1181	the CDR2-loop in domain 1
+T23	Exp 1340 1344	that
+T24	Exp 1382 1398	the D1/CDR3-loop
+T25	Exp 1482 1493	Our results
+T26	Exp 1503 1507	that
+T27	Exp 1508 1528	the signaling events
+T28	Exp 1577 1593	the D1/CDR2-loop
+R2	Coref Anaphora:T23 Antecedent:T29
+T1	Protein 98 101	CD4
+T2	Protein 358 361	CD4
+T3	Protein 827 830	CD4
+T4	Protein 1190 1193	CD4
+T5	Protein 1219 1222	CD4
+T6	Protein 1306 1309	CD4
+T7	Protein 1417 1420	CD4
+T8	Protein 1570 1573	CD4
+T29	Exp 1329 1339	antibodies

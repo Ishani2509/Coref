@@ -1,0 +1,65 @@
+T22	Exp 230 234	when
+T23	Exp 251 288	the extracellular matrix glycoprotein
+T24	Exp 416 421	which
+T25	Exp 393 412	the metabolic steps
+T26	Exp 447 479	the FN-induced IL-1beta response
+T27	Exp 370 382	this process
+T28	Exp 496 498	We
+T29	Exp 542 547	which
+T30	Exp 524 538	the mechanisms
+T31	Exp 608 640	the FN-induced IL-1beta response
+T32	Exp 666 679	the secretion
+T33	Exp 705 714	the media
+T34	Exp 642 657	Both inhibitors
+T35	Exp 961 974	its secretion
+T36	Exp 806 810	that
+T37	Exp 861 875	the production
+T38	Exp 817 836	these circumstances
+T39	Exp 1039 1041	we
+T40	Exp 989 1003	the mechanisms
+T41	Exp 1020 1037	these differences
+T42	Exp 1111 1150	the human full-length IL-1beta promoter
+T43	Exp 1324 1328	that
+T44	Exp 1433 1438	which
+T45	Exp 1352 1377	the nuclear translocation
+T46	Exp 1381 1425	the transcription factor activator protein-1
+T47	Exp 1526 1543	the transcription
+T48	Exp 1547 1564	the IL-1beta gene
+T49	Exp 1301 1314	These studies
+T50	Exp 1645 1653	the gene
+T51	Exp 1664 1672	our data
+T52	Exp 1682 1686	that
+T53	Exp 1709 1726	the transcription
+T54	Exp 1730 1747	the IL-1beta gene
+T55	Exp 1842 1844	we
+T56	Exp 1854 1858	that
+T57	Exp 1795 1815	the high specificity
+T58	Exp 1819 1832	this compound
+R6	Coref Anaphora:T24 Antecedent:T25
+R7	Coref Anaphora:T29 Antecedent:T30
+R8	Coref Anaphora:T35 Antecedent:T59
+R9	Coref Anaphora:T44 Antecedent:T60
+R10	Coref Anaphora:T50 Antecedent:T48
+T1	Protein 55 66	fibronectin
+T2	Protein 75 91	interleukin-beta
+T3	Protein 201 218	interleukin-1beta
+T4	Protein 220 228	IL-1beta
+T5	Protein 290 301	fibronectin
+T6	Protein 303 305	FN
+T7	Protein 451 453	FN
+T8	Protein 462 470	IL-1beta
+T9	Protein 612 614	FN
+T10	Protein 623 631	IL-1beta
+T11	Protein 683 691	IL-1beta
+T12	Protein 764 766	FN
+T13	Protein 879 887	IL-1beta
+T14	Protein 1133 1141	IL-1beta
+T15	Protein 1467 1469	FN
+T16	Protein 1483 1491	IL-1beta
+T17	Protein 1551 1559	IL-1beta
+T18	Protein 1734 1742	IL-1beta
+T19	Protein 1880 1882	FN
+T20	Protein 1891 1899	IL-1beta
+T21	Protein 1970 1978	IL-1beta
+T59	Exp 768 796	Immunoprecipitation analysis
+T60	Exp 1427 1431	AP-1

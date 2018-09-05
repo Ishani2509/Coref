@@ -1,0 +1,50 @@
+T21	Exp 165 179	the c-rel gene
+T22	Exp 288 292	that
+T23	Exp 182 202	The tax gene product
+T24	Exp 444 454	the action
+T25	Exp 515 540	the NF-kappa B/Rel family
+T26	Exp 647 660	the cytoplasm
+T27	Exp 591 627	many of these NF-kappa B/Rel factors
+T28	Exp 764 799	the constitutive nuclear expression
+T29	Exp 864 889	the biochemical mechanism
+T30	Exp 904 917	this response
+T31	Exp 960 962	we
+T32	Exp 975 979	that
+T33	Exp 1105 1124	the phosphorylation
+T34	Exp 948 958	this study
+T35	Exp 1241 1264	the phosphorylated form
+T36	Exp 1319 1341	the NF-kappa B complex
+T37	Exp 1405 1430	the nuclear translocation
+T38	Exp 1434 1463	the active NF-kappa B complex
+T39	Exp 1465 1467	We
+T40	Exp 1488 1492	that
+T41	Exp 1589 1594	which
+T42	Exp 1551 1573	the RelA (p65) subunit
+T43	Exp 1622 1636	the c-rel gene
+T44	Exp 1762 1790	its own continued production
+T45	Exp 1701 1728	the subsequent accumulation
+T46	Exp 1803 1815	the presence
+R4	Coref Anaphora:T22 Antecedent:T47
+R5	Coref Anaphora:T41 Antecedent:T48
+R6	Coref Anaphora:T44 Antecedent:T45
+T1	Protein 35 38	Tax
+T2	Protein 112 127	I kappa B alpha
+T3	Protein 132 136	RelA
+T4	Protein 138 141	p65
+T5	Protein 186 189	tax
+T6	Protein 399 402	Tax
+T7	Protein 716 731	I kappa B alpha
+T8	Protein 740 743	Tax
+T9	Protein 838 843	c-Rel
+T10	Protein 980 983	Tax
+T11	Protein 1056 1059	Tax
+T12	Protein 1162 1177	I kappa B alpha
+T13	Protein 1268 1283	I kappa B alpha
+T14	Protein 1493 1496	Tax
+T15	Protein 1518 1523	c-Rel
+T16	Protein 1555 1559	RelA
+T17	Protein 1561 1564	p65
+T18	Protein 1626 1631	c-rel
+T19	Protein 1740 1745	c-Rel
+T47	Exp 253 287	a potent transcriptional activator
+T48	Exp 1577 1587	NF-kappa B

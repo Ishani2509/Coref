@@ -1,0 +1,44 @@
+T10	Exp 78 90	the E2A gene
+T11	Exp 167 171	that
+T12	Exp 249 253	that
+T13	Exp 93 105	The E2A gene
+T14	Exp 139 166	the helix-loop-helix family
+T15	Exp 293 295	It
+T16	Exp 322 326	that
+T17	Exp 342 354	the E2A gene
+T18	Exp 402 404	We
+T19	Exp 437 455	the mouse E2A gene
+T20	Exp 459 476	the protein level
+T21	Exp 541 556	the E2A protein
+T22	Exp 629 642	this analysis
+T23	Exp 644 656	this protein
+T24	Exp 770 783	The detection
+T25	Exp 858 870	the presence
+T26	Exp 874 910	the E box-binding activity LEF1/BCF1
+T27	Exp 787 799	this protein
+T28	Exp 914 925	these cells
+T29	Exp 927 948	this binding activity
+T30	Exp 1145 1163	the 73 kDa protein
+T31	Exp 1251 1262	Our results
+T32	Exp 1292 1296	that
+T33	Exp 1283 1291	the view
+T34	Exp 1297 1331	the DNA-binding activity LEF1/BCF1
+T35	Exp 1364 1388	the selective appearance
+T36	Exp 1508 1547	the elevated E2A protein concentrations
+T37	Exp 1392 1440	this putative cell-specific transcription factor
+T38	Exp 1551 1562	these cells
+R5	Coref Anaphora:T11 Antecedent:T14
+R6	Coref Anaphora:T12 Antecedent:T39
+R7	Coref Anaphora:T23 Antecedent:T21
+R8	Coref Anaphora:T27 Antecedent:T21
+R9	Coref Anaphora:T32 Antecedent:T33
+T1	Protein 82 85	E2A
+T2	Protein 97 100	E2A
+T3	Protein 346 349	E2A
+T4	Protein 447 450	E2A
+T5	Protein 545 548	E2A
+T6	Protein 1029 1032	E2A
+T7	Protein 1087 1090	E2A
+T8	Protein 1350 1353	E2A
+T9	Protein 1521 1524	E2A
+T39	Exp 231 248	dimeric complexes

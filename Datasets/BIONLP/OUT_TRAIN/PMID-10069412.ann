@@ -1,0 +1,23 @@
+T4	Exp 296 323	the latently infected cells
+T5	Exp 387 400	the treatment
+T6	Exp 426 428	We
+T7	Exp 449 453	that
+T8	Exp 546 561	the DNA-binding
+T9	Exp 600 602	we
+T10	Exp 617 629	the efficacy
+T11	Exp 633 655	the gold compound AuTG
+T12	Exp 588 599	this report
+T13	Exp 953 982	the counter-anion thioglucose
+T14	Exp 1058 1068	The effect
+T15	Exp 1284 1307	our previous hypothesis
+T16	Exp 1308 1312	that
+T17	Exp 1228 1244	the accumulation
+T18	Exp 1262 1271	the cells
+T19	Exp 1407 1411	that
+T20	Exp 1412 1445	the monovalent gold compound AuTG
+T21	Exp 1479 1492	the treatment
+T22	Exp 1379 1397	These observations
+R2	Coref Anaphora:T16 Antecedent:T15
+T1	Protein 49 76	tumor necrosis factor-alpha
+T2	Protein 735 768	Tumor necrosis factor (TNF)-alpha
+T3	Protein 1145 1148	CAT

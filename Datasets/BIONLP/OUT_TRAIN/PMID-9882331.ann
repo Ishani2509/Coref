@@ -1,0 +1,41 @@
+T18	Exp 154 173	the etiologic agent
+T19	Exp 290 292	it
+T20	Exp 205 222	the viral protein
+T21	Exp 252 267	the development
+T22	Exp 271 282	the disease
+T23	Exp 371 373	We
+T24	Exp 383 393	the effect
+T25	Exp 413 423	the growth
+T26	Exp 427 444	the interleukin-2
+T27	Exp 639 686	the cyclic AMP-responsive element-like sequence
+T28	Exp 690 709	the HTLV-1 promoter
+T29	Exp 779 783	that
+T30	Exp 711 722	The finding
+T31	Exp 784 805	the NF-kappaB pathway
+T32	Exp 870 885	the CRE pathway
+T33	Exp 750 768	these two pathways
+T34	Exp 912 925	both pathways
+T35	Exp 1032 1043	Our results
+T36	Exp 1225 1274	its well-known IL-2-dependent cell transformation
+T37	Exp 1049 1053	that
+T38	Exp 1119 1123	that
+R3	Coref Anaphora:T19 Antecedent:T21
+R4	Coref Anaphora:T36 Antecedent:T39
+T1	Protein 35 38	tax
+T2	Protein 57 70	interleukin-2
+T3	Protein 200 203	Tax
+T4	Protein 397 400	Tax
+T5	Protein 431 444	interleukin-2
+T6	Protein 446 450	IL-2
+T7	Protein 503 506	Tax
+T8	Protein 552 556	IL-2
+T9	Protein 570 574	IL-2
+T10	Protein 588 591	Tax
+T11	Protein 726 729	Tax
+T12	Protein 824 828	IL-2
+T13	Protein 1027 1030	Tax
+T14	Protein 1054 1057	Tax
+T15	Protein 1124 1127	Tax
+T16	Protein 1152 1156	IL-2
+T17	Protein 1240 1244	IL-2
+T39	Exp 1213 1221	addition

@@ -1,0 +1,37 @@
+T28	Exp 27 40	the IL-5 gene
+T29	Exp 259 273	the management
+T30	Exp 307 309	We
+T31	Exp 355 359	that
+T32	Exp 324 354	the transcriptional mechanisms
+T33	Exp 369 382	the IL-5 gene
+T34	Exp 507 539	the peripheral blood lymphocytes
+T35	Exp 569 599	the transcriptional regulation
+T36	Exp 603 616	the IL-5 gene
+T37	Exp 1448 1473	the transcriptional level
+T38	Exp 1541 1563	the IL-2 or IL-4 genes
+T39	Exp 1581 1594	the IL-5 gene
+R4	Coref Anaphora:T31 Antecedent:T32
+T1	Protein 31 35	IL-5
+T2	Protein 66 70	IL-5
+T3	Protein 113 117	IL-2
+T4	Protein 121 125	IL-4
+T5	Protein 150 154	IL-5
+T6	Protein 222 226	IL-5
+T7	Protein 373 377	IL-5
+T8	Protein 406 410	IL-5
+T9	Protein 607 611	IL-5
+T10	Protein 724 728	IL-5
+T11	Protein 747 757	luciferase
+T12	Protein 823 827	IL-5
+T13	Protein 861 865	IL-5
+T14	Protein 967 971	IL-5
+T15	Protein 1003 1007	IL-5
+T16	Protein 1075 1079	IL-5
+T17	Protein 1108 1112	IL-5
+T18	Protein 1187 1191	IL-2
+T19	Protein 1363 1367	IL-2
+T20	Protein 1393 1397	IL-5
+T21	Protein 1545 1549	IL-2
+T22	Protein 1553 1557	IL-4
+T23	Protein 1585 1589	IL-5
+T24	Protein 1620 1624	IL-5

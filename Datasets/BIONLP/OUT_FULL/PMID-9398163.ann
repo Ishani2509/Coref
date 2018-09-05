@@ -1,0 +1,40 @@
+T13	Exp 137 155	the ATF/CREB class
+T14	Exp 424 429	which
+T15	Exp 301 322	The promoter activity
+T16	Exp 500 514	the cell cycle
+T17	Exp 553 555	we
+T18	Exp 561 565	that
+T19	Exp 623 628	which
+T20	Exp 566 581	the H4 promoter
+T21	Exp 721 740	the distal promoter
+T22	Exp 744 778	the nuclear matrix-associated Site
+T23	Exp 787 803	the second motif
+T24	Exp 818 839	the proximal promoter
+T25	Exp 947 952	which
+T26	Exp 901 945	the multifunctional YY1 transcription factor
+T27	Exp 851 870	Both ATF/CRE motifs
+T28	Exp 1045 1049	that
+T29	Exp 1078 1083	which
+T30	Exp 1231 1239	the role
+T31	Exp 1243 1261	the nuclear matrix
+T32	Exp 1338 1342	that
+T33	Exp 1422 1437	the H4 promoter
+T34	Exp 1445 1453	our data
+T35	Exp 1464 1468	that
+R5	Coref Anaphora:T14 Antecedent:T36
+R6	Coref Anaphora:T19 Antecedent:T37
+R7	Coref Anaphora:T25 Antecedent:T26
+R8	Coref Anaphora:T29 Antecedent:T8
+T1	Protein 0 4	ATF1
+T2	Protein 52 62	histone H4
+T3	Protein 347 357	histone H4
+T4	Protein 649 653	ATF1
+T5	Protein 659 663	ATF2
+T6	Protein 677 681	ATF4
+T7	Protein 682 687	CREB2
+T8	Protein 1064 1068	ATF1
+T9	Protein 1379 1383	ATF1
+T10	Protein 1426 1428	H4
+T11	Protein 1508 1518	histone H4
+T36	Exp 389 423	four principal cis-acting elements
+T37	Exp 591 622	two ATF/CREB recognition motifs

@@ -1,0 +1,39 @@
+T16	Exp 131 167	the T-cell transcription factor NFAT
+T17	Exp 280 285	athat
+T18	Exp 296 310	the activation
+T19	Exp 352 380	the immunoregulatory effects
+T20	Exp 408 410	we
+T21	Exp 474 476	we
+T22	Exp 420 424	that
+T23	Exp 484 515	the antiinflammatory properties
+T24	Exp 742 746	that
+T25	Exp 586 599	the induction
+T26	Exp 643 655	the activity
+T27	Exp 1010 1033	the E-selectin promoter
+T28	Exp 1218 1230	the presence
+T29	Exp 1126 1158	this leukocyte adhesion molecule
+T30	Exp 1304 1315	The effects
+T31	Exp 1366 1395	the chromatin structure level
+T32	Exp 1440 1459	the GM-CSF enhancer
+T33	Exp 1464 1487	the E-selectin promoter
+T34	Exp 1601 1606	which
+T35	Exp 1528 1544	the first report
+R4	Coref Anaphora:T17 Antecedent:T36
+R5	Coref Anaphora:T24 Antecedent:T37
+R6	Coref Anaphora:T34 Antecedent:T38
+T1	Protein 14 62	granulocyte-macrophage colony-stimulating factor
+T2	Protein 67 77	E-selectin
+T3	Protein 659 707	granulocyte-macrophage colony-stimulating factor
+T4	Protein 709 715	GM-CSF
+T5	Protein 815 821	GM-CSF
+T6	Protein 902 912	E-selectin
+T7	Protein 922 955	vascular cell adhesion molecule-1
+T8	Protein 957 963	VCAM-1
+T9	Protein 1014 1024	E-selectin
+T10	Protein 1162 1195	tumor necrosis factor (TNF)-alpha
+T11	Protein 1400 1406	DNasel
+T12	Protein 1444 1450	GM-CSF
+T13	Protein 1468 1478	E-selectin
+T36	Exp 241 279	a T-cell-specific transcription factor
+T37	Exp 717 741	gene regulatory elements
+T38	Exp 1587 1597	mechanisms

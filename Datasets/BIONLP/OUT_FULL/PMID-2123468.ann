@@ -1,0 +1,42 @@
+T8	Exp 117 144	the T-cell antigen receptor
+T9	Exp 184 206	their antigen receptor
+T10	Exp 297 302	which
+T11	Exp 216 230	the appearance
+T12	Exp 462 464	we
+T13	Exp 487 491	that
+T14	Exp 388 400	the activity
+T15	Exp 497 535	the fluorescence-activated cell sorter
+T16	Exp 581 583	We
+T17	Exp 709 714	which
+T18	Exp 598 614	the distribution
+T19	Exp 738 760	the NF-AT-binding site
+T20	Exp 786 799	the lacZ gene
+T21	Exp 924 929	which
+T22	Exp 993 1016	This expression pattern
+T23	Exp 1108 1113	which
+T24	Exp 1184 1188	that
+T25	Exp 1189 1206	the concentration
+T26	Exp 1312 1354	the NF-AT concentration-dependent assembly
+T27	Exp 1385 1397	the promoter
+T28	Exp 1281 1295	This threshold
+T29	Exp 1542 1546	that
+T30	Exp 1446 1479	the entire interleukin-2 enhancer
+T31	Exp 1565 1582	the concentration
+R7	Coref Anaphora:T9 Antecedent:T32
+R8	Coref Anaphora:T10 Antecedent:T33
+R9	Coref Anaphora:T13 Antecedent:T34
+R10	Coref Anaphora:T17 Antecedent:T35
+R11	Coref Anaphora:T21 Antecedent:T4
+R12	Coref Anaphora:T23 Antecedent:T36
+T1	Protein 550 568	beta-galactosidase
+T2	Protein 570 578	beta-gal
+T3	Protein 790 794	lacZ
+T4	Protein 901 909	beta-gal
+T5	Protein 952 960	beta-gal
+T6	Protein 1114 1122	beta-gal
+T7	Protein 1457 1470	interleukin-2
+T32	Exp 162 175	T lymphocytes
+T33	Exp 294 295	B
+T34	Exp 478 486	an assay
+T35	Exp 694 705	a construct
+T36	Exp 1088 1103	Further results

@@ -1,0 +1,24 @@
+T4	Exp 51 77	the erythroblastic progeny
+T5	Exp 382 384	We
+T6	Exp 417 422	which
+T7	Exp 423 454	the constitutive viral enhancer
+T8	Exp 458 471	the U3 region
+T9	Exp 475 485	the 3' LTR
+T10	Exp 531 586	the erythroid-specific GATA-1 transcription factor gene
+T11	Exp 588 609	The replaced enhancer
+T12	Exp 627 637	the 5' LTR
+T13	Exp 660 682	the target cell genome
+T14	Exp 684 704	The modified vectors
+T15	Exp 858 872	The expression
+T16	Exp 1132 1166	The GATA-1 autoregulatory enhancer
+T17	Exp 1189 1203	the expression
+T18	Exp 1207 1249	the LTR-driven proviral transcription unit
+T19	Exp 1253 1279	the erythroblastic progeny
+T20	Exp 1388 1405	the target genome
+T21	Exp 1424 1447	the integrated provirus
+T22	Exp 1468 1488	the LTR modification
+R2	Coref Anaphora:T6 Antecedent:T23
+T1	Protein 554 560	GATA-1
+T2	Protein 922 926	EGFP
+T3	Protein 1136 1142	GATA-1
+T23	Exp 395 413	retroviral vectors

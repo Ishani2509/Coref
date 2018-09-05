@@ -1,0 +1,40 @@
+T13	Exp 0 38	The hematopoietic transcription factor
+T14	Exp 158 172	the Ets-family
+T15	Exp 174 176	It
+T16	Exp 213 218	which
+T17	Exp 193 211	the Spi-1 oncogene
+T18	Exp 384 398	its expression
+T19	Exp 454 512	the B-cell-and monocyte/macrophage-differentiation lineage
+T20	Exp 514 516	It
+T21	Exp 523 543	the so-called Pu box
+T22	Exp 639 658	these cell lineages
+T23	Exp 660 662	We
+T24	Exp 677 691	the expression
+T25	Exp 1094 1096	We
+T26	Exp 1195 1211	these cell lines
+T27	Exp 1483 1488	which
+T28	Exp 1789 1794	which
+T29	Exp 1597 1609	The findings
+T30	Exp 1613 1650	the human multiple myeloma cell lines
+T31	Exp 1661 1679	the first examples
+T32	Exp 1768 1785	the murine system
+T33	Exp 1864 1866	it
+T34	Exp 1886 1894	the lack
+T35	Exp 2009 2020	these cells
+R6	Coref Anaphora:T15 Antecedent:T2
+R7	Coref Anaphora:T16 Antecedent:T17
+R8	Coref Anaphora:T18 Antecedent:T4
+R9	Coref Anaphora:T27 Antecedent:T36
+R10	Coref Anaphora:T28 Antecedent:T32
+T1	Protein 39 43	PU.1
+T2	Protein 100 104	PU.1
+T3	Protein 197 202	Spi-1
+T4	Protein 296 300	PU.1
+T5	Protein 708 712	PU.1
+T6	Protein 874 878	PU.1
+T7	Protein 899 903	PU.1
+T8	Protein 1325 1329	PU.1
+T9	Protein 1710 1714	PU.1
+T10	Protein 1795 1799	PU.1
+T11	Protein 1898 1902	PU.1
+T36	Exp 1456 1481	lymphoblastoid cell lines

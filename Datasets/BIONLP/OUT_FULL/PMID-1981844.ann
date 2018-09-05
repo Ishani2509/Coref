@@ -1,0 +1,37 @@
+T1	Exp 71 87	their activation
+T2	Exp 225 235	their host
+T3	Exp 111 145	The human immunodeficiency viruses
+T4	Exp 388 415	their long terminal repeats
+T5	Exp 321 332	the viruses
+T6	Exp 363 384	the sequence elements
+T7	Exp 466 489	the regulatory elements
+T8	Exp 493 506	the HIV-2 LTR
+T9	Exp 424 434	this study
+T10	Exp 508 521	The HIV-2 LTR
+T11	Exp 607 625	the HIV-1 enhancer
+T12	Exp 565 580	these enhancers
+T13	Exp 712 714	it
+T14	Exp 738 742	that
+T15	Exp 653 691	the T-cell activation response element
+T16	Exp 718 737	the second enhancer
+T17	Exp 627 640	This enhancer
+T18	Exp 905 909	that
+T19	Exp 814 833	The second enhancer
+T20	Exp 1031 1035	that
+T21	Exp 1116 1120	that
+T22	Exp 1015 1030	the speculation
+T23	Exp 1071 1085	the regulation
+T24	Exp 1140 1167	the possible longer latency
+R9	Coref Anaphora:T1 Antecedent:T25
+R10	Coref Anaphora:T2 Antecedent:T26
+R11	Coref Anaphora:T4 Antecedent:T6
+R12	Coref Anaphora:T7 Antecedent:T6
+R13	Coref Anaphora:T13 Antecedent:T17
+R14	Coref Anaphora:T14 Antecedent:T16
+R15	Coref Anaphora:T18 Antecedent:T27
+R16	Coref Anaphora:T20 Antecedent:T22
+R17	Coref Anaphora:T21 Antecedent:T28
+T25	Exp 53 66	two enhancers
+T26	Exp 179 191	retroviruses
+T27	Exp 889 903	27 kD mobility
+T28	Exp 1105 1115	expression

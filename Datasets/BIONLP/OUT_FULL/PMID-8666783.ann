@@ -1,0 +1,41 @@
+T14	Exp 14 28	the expression
+T15	Exp 32 65	the IFN-gamma receptor beta-chain
+T16	Exp 211 215	that
+T17	Exp 316 320	that
+T18	Exp 442 444	we
+T19	Exp 450 454	that
+T20	Exp 486 490	that
+T21	Exp 514 521	the TCR
+T22	Exp 633 657	the transcription factor
+T23	Exp 431 440	this work
+T24	Exp 790 798	the beta
+T25	Exp 828 850	the IFN-gamma receptor
+T26	Exp 861 874	the same time
+T27	Exp 725 747	This nonresponsiveness
+T28	Exp 944 958	the beta-chain
+T29	Exp 1083 1087	When
+T30	Exp 1180 1191	these cells
+T31	Exp 1377 1397	their responsiveness
+T32	Exp 1439 1452	their ability
+R5	Coref Anaphora:T16 Antecedent:T33
+R6	Coref Anaphora:T17 Antecedent:T34
+R7	Coref Anaphora:T20 Antecedent:T35
+R8	Coref Anaphora:T31 Antecedent:T36
+R9	Coref Anaphora:T32 Antecedent:T36
+T1	Protein 36 65	IFN-gamma receptor beta-chain
+T2	Protein 93 102	IFN-gamma
+T3	Protein 139 148	IFN-gamma
+T4	Protein 366 376	IFN- gamma
+T5	Protein 540 544	IL-2
+T6	Protein 565 574	IFN-gamma
+T7	Protein 659 671	STAT1(alpha)
+T8	Protein 887 917	IFN-gamma receptor alpha-chain
+T9	Protein 1072 1081	IFN-gamma
+T10	Protein 1154 1163	IFN-gamma
+T11	Protein 1207 1216	IFN-gamma
+T12	Protein 1308 1312	IL-2
+T13	Protein 1401 1410	IFN-gamma
+T33	Exp 203 210	T cells
+T34	Exp 306 315	any event
+T35	Exp 455 485	human peripheral blood T cells
+T36	Exp 1255 1262	T cells

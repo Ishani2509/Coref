@@ -1,0 +1,5 @@
+T1	Protein 18 29	beta-globin
+T2	Protein 65 76	beta-globin
+T3	Exp 103 132	upstream regulatory sequences	123 132	sequences
+T4	Exp 134 139	which
+R1	Coref Anaphora:T4 Antecedent:T3

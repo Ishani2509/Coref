@@ -1,0 +1,38 @@
+T4	Exp 36 56	the kappa B elements
+T5	Exp 60 101	the human immunodeficiency virus enhancer
+T6	Exp 361 365	them
+T7	Exp 216 245	its immunosuppressive effects
+T8	Exp 313 318	which
+T9	Exp 260 274	the expression
+T10	Exp 366 374	the gene
+T11	Exp 414 428	the activation
+T12	Exp 432 464	the human immunodeficiency virus
+T13	Exp 573 575	we
+T14	Exp 517 541	the molecular mechanisms
+T15	Exp 594 605	the effects
+T16	Exp 609 618	this drug
+T17	Exp 661 663	we
+T18	Exp 671 675	that
+T19	Exp 676 689	the formation
+T20	Exp 747 766	the kappa B complex
+T21	Exp 774 790	the HIV enhancer
+T22	Exp 795 813	the NFAT-1 complex
+T23	Exp 821 847	the interleukin-2 enhancer
+T24	Exp 865 877	the presence
+T25	Exp 958 960	it
+T26	Exp 886 914	The kappa B-binding activity
+T27	Exp 920 936	the HIV enhancer
+T28	Exp 978 1008	the mitogen phytohemagglutinin
+T29	Exp 1092 1100	the drug
+T30	Exp 1127 1132	which
+R6	Coref Anaphora:T7 Antecedent:T31
+R7	Coref Anaphora:T8 Antecedent:T32
+R8	Coref Anaphora:T6 Antecedent:T4
+R9	Coref Anaphora:T25 Antecedent:T26
+R10	Coref Anaphora:T30 Antecedent:T33
+T1	Protein 386 399	interleukin-2
+T2	Protein 799 805	NFAT-1
+T3	Protein 825 838	interleukin-2
+T31	Exp 176 189	Cyclosporin A
+T32	Exp 296 312	lymphokine genes
+T33	Exp 1116 1123	a model

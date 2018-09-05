@@ -1,0 +1,18 @@
+T1	Exp 74 117	the human T cell receptor alpha/delta locus
+T2	Exp 462 472	this locus
+T3	Exp 559 563	when
+T4	Exp 489 500	the ability
+T5	Exp 504 526	the TCR delta enhancer
+T6	Exp 580 587	the two
+T7	Exp 625 627	We
+T8	Exp 804 806	it
+T9	Exp 636 640	that
+T10	Exp 672 676	that
+T11	Exp 799 803	that
+T12	Exp 687 712	the TCR alpha/delta locus
+T13	Exp 771 793	the TCR alpha enhancer
+T14	Exp 836 849	the chromatin
+T15	Exp 853 860	the TCR
+R3	Coref Anaphora:T10 Antecedent:T16
+R4	Coref Anaphora:T8 Antecedent:T16
+T16	Exp 661 671	a boundary

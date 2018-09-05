@@ -1,0 +1,61 @@
+T43	Exp 114 116	We
+T44	Exp 212 216	that
+T45	Exp 260 264	that
+T46	Exp 181 211	the Fas ligand (fasL) promoter
+T47	Exp 589 591	us
+T48	Exp 427 432	which
+T49	Exp 362 378	The aberrant CD4
+T50	Exp 451 460	the genes
+T51	Exp 616 624	the FLRE
+T52	Exp 657 681	this aberrant expression
+T53	Exp 806 810	that
+T54	Exp 820 828	the FLRE
+T55	Exp 859 873	these proteins
+T56	Exp 1275 1279	both
+T57	Exp 1499 1538	the critical Egr family binding element
+T58	Exp 1448 1461	this activity
+R5	Coref Anaphora:T44 Antecedent:T46
+R6	Coref Anaphora:T48 Antecedent:T59
+R7	Coref Anaphora:T53 Antecedent:T60
+T61	SPAN 470 689	Fas and FasL, respectively, have an activated phenotype and constitutively express high levels of fasL mRNA, prompting us to ask what role if any the FLRE and Egr family proteins have in this aberrant expression of fasL
+R8	Coref Anaphora:T55 Antecedent:T61
+T1	Protein 8 13	Egr-2
+T2	Protein 34 44	Fas ligand
+T3	Protein 141 151	Fas ligand
+T4	Protein 185 195	Fas ligand
+T5	Protein 197 201	fasL
+T6	Protein 265 270	Egr-3
+T7	Protein 272 277	PILOT
+T8	Protein 287 292	Egr-1
+T9	Protein 294 300	NGFI-A
+T10	Protein 302 309	Krox-24
+T11	Protein 311 316	Tis-8
+T12	Protein 322 329	Zif-268
+T13	Protein 356 360	fasL
+T14	Protein 375 378	CD4
+T15	Protein 470 473	Fas
+T16	Protein 478 482	FasL
+T17	Protein 568 572	fasL
+T18	Protein 685 689	fasL
+T19	Protein 732 735	CD4
+T20	Protein 880 885	Egr-1
+T21	Protein 890 895	Egr-2
+T22	Protein 897 904	Krox-20
+T23	Protein 907 912	Egr-3
+T24	Protein 1032 1037	egr-3
+T25	Protein 1053 1058	egr-2
+T26	Protein 1112 1117	Egr-1
+T27	Protein 1149 1154	Egr-2
+T28	Protein 1172 1177	Egr-3
+T29	Protein 1190 1194	fasL
+T30	Protein 1304 1308	fasL
+T31	Protein 1329 1333	FasL
+T32	Protein 1395 1398	CD4
+T33	Protein 1546 1551	Egr-2
+T34	Protein 1568 1573	Egr-3
+T35	Protein 1585 1589	FasL
+T36	Protein 1634 1639	Egr-2
+T37	Protein 1684 1688	fasL
+T38	Protein 1726 1729	CD4
+T59	Exp 421 425	mice
+T60	Exp 793 805	two proteins

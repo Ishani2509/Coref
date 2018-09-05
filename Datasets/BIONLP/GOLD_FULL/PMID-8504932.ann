@@ -1,0 +1,25 @@
+T1	Protein 36 42	GATA-2
+T2	Protein 43 60	estrogen receptor
+T3	Protein 546 552	GATA-1
+T4	Protein 554 560	GATA-2
+T5	Protein 566 572	GATA-3
+T6	Protein 660 677	estrogen receptor
+T7	Protein 679 681	ER
+T8	Protein 695 697	ER
+T9	Protein 928 934	GATA-2
+T10	Protein 935 937	ER
+T11	Protein 1127 1133	GATA-2
+T12	Protein 1134 1136	ER
+T13	Protein 1180 1186	GATA-2
+T14	Protein 1290 1292	ER
+T15	Protein 1296 1302	GATA-3
+T16	Protein 1303 1305	ER
+T17	Protein 1378 1384	GATA-2
+T18	Exp 168 217	transcriptional regulatory proteins in eukaryotes
+T19	Exp 218 222	that
+T20	Exp 251 256	their
+T21	Exp 333 354	several GATA proteins
+T22	Exp 356 361	which
+R1	Coref Anaphora:T19 Antecedent:T18
+R2	Coref Anaphora:T20 Antecedent:T18
+R3	Coref Anaphora:T22 Antecedent:T21

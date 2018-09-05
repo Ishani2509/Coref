@@ -1,0 +1,30 @@
+T15	Exp 73 111	The B cell-associated surface molecule
+T16	Exp 368 381	this receptor
+T17	Exp 405 408	how
+T18	Exp 409 430	the very early events
+T19	Exp 504 506	we
+T20	Exp 519 523	that
+T21	Exp 492 502	this study
+T22	Exp 689 703	The activation
+T23	Exp 774 787	The complexes
+T24	Exp 944 946	we
+T25	Exp 953 957	that
+T26	Exp 1024 1035	Our results
+T27	Exp 1120 1124	that
+T28	Exp 1043 1064	the NF-kappa B system
+T29	Exp 1125 1141	the CD40 pathway
+T30	Exp 1156 1170	the expression
+R2	Coref Anaphora:T16 Antecedent:T3
+T1	Protein 14 18	CD40
+T2	Protein 112 116	CD40
+T3	Protein 171 175	CD40
+T4	Protein 224 228	IL-6
+T5	Protein 442 446	CD40
+T6	Protein 628 632	CD40
+T7	Protein 846 849	p50
+T8	Protein 851 854	p65
+T9	Protein 856 860	RelA
+T10	Protein 863 868	c-Rel
+T11	Protein 972 976	CD40
+T12	Protein 1093 1097	CD40
+T13	Protein 1129 1133	CD40

@@ -1,0 +1,29 @@
+T1	Protein 48 67	G0/G1 switch gene 2
+T2	Protein 69 73	G0S2
+T3	Protein 442 455	interleukin-2
+T4	Protein 457 460	IL2
+T5	Protein 548 551	IL2
+T6	Protein 667 684	G0/G1 switch gene
+T7	Protein 686 690	G0S2
+T8	Protein 896 900	G0S2
+T9	Protein 1009 1013	G0S2
+T10	Protein 1103 1106	G0S
+T11	Protein 1272 1276	G0S2
+T12	Protein 1496 1500	G0S2
+T13	Protein 1655 1659	G0S2
+T14	Protein 1727 1731	G0S2
+T15	Exp 119 138	Cyclosporin A (CsA)
+T16	Exp 151 154	its
+T17	Exp 195 256	the calcium- and calmodulin-dependent phosphatase calcineurin	245 256	calcineurin
+T18	Exp 257 262	which
+T19	Exp 1009 1018	G0S2 mRNA	1014 1018	mRNA
+T20	Exp 1019 1024	which
+T21	Exp 1183 1188	cells
+T22	Exp 1189 1193	that
+T23	Exp 1727 1731	G0S2
+T24	Exp 1816 1819	its
+R1	Coref Anaphora:T16 Antecedent:T15
+R2	Coref Anaphora:T18 Antecedent:T17
+R3	Coref Anaphora:T20 Antecedent:T19	[T9]
+R4	Coref Anaphora:T22 Antecedent:T21
+R5	Coref Anaphora:T24 Antecedent:T23	[T14]

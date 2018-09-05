@@ -1,0 +1,22 @@
+T1	Exp 19 60	the human immunodeficiency virus promoter
+T2	Exp 249 281	the human immunodeficiency virus
+T3	Exp 382 393	the regions
+T4	Exp 397 413	the HIV promoter
+T5	Exp 362 372	This study
+T6	Exp 608 624	the HIV promoter
+T7	Exp 671 675	both
+T8	Exp 626 639	The GS strain
+T9	Exp 655 667	the promoter
+T10	Exp 714 728	the Z29 strain
+T11	Exp 860 876	the HIV promoter
+T12	Exp 939 974	the highest transactivating ability
+T13	Exp 1106 1132	the HIV promoter construct
+T14	Exp 1158 1177	the NF kappa B site
+T15	Exp 1074 1086	these clones
+T16	Exp 1388 1448	essential for its transactivation during HHV-6(GS) infection
+T17	Exp 1338 1342	that
+T18	Exp 1343 1363	the NF kappa B sites
+T19	Exp 1367 1383	the HIV promoter
+T20	Exp 1318 1328	These data
+T21	Exp 1587 1608	the cytopathic effect
+R2	Coref Anaphora:T16 Antecedent:T19

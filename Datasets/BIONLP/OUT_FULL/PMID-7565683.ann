@@ -1,0 +1,45 @@
+T11	Exp 121 148	The proteolytic degradation
+T12	Exp 152 174	the inhibitory protein
+T13	Exp 263 277	the activation
+T14	Exp 281 317	the transcription factor NF-kappa B.
+T15	Exp 429 433	that
+T16	Exp 330 344	the expression
+T17	Exp 442 471	the endogenous murine protein
+T18	Exp 645 654	the cells
+T19	Exp 660 709	the proteasome inhibitor N-Ac-Leu-Leu-norleucinal
+T20	Exp 833 866	the human I kappa B alpha protein
+T21	Exp 719 750	this ligand-induced degradation
+T22	Exp 935 937	we
+T23	Exp 996 1000	both
+T24	Exp 898 915	the human protein
+T25	Exp 966 979	the sequences
+T26	Exp 1001 1035	the ligand-induced phosphorylation
+T27	Exp 1040 1055	the degradation
+T28	Exp 919 933	this cell line
+T29	Exp 1076 1087	Our results
+T30	Exp 1093 1097	that
+T31	Exp 1110 1124	the C terminus
+T32	Exp 1128 1156	the I kappa B alpha molecule
+T33	Exp 1310 1314	that
+T34	Exp 1442 1446	that
+T35	Exp 1315 1344	the inducible phosphorylation
+T36	Exp 1387 1401	the N terminus
+T37	Exp 1405 1416	the protein
+T38	Exp 1447 1459	the mutation
+T39	Exp 1609 1620	the protein
+T40	Exp 1463 1477	either residue
+T41	Exp 1539 1552	both residues
+R4	Coref Anaphora:T17 Antecedent:T5
+R5	Coref Anaphora:T24 Antecedent:T20
+R6	Coref Anaphora:T37 Antecedent:T10
+R7	Coref Anaphora:T39 Antecedent:T10
+T1	Protein 51 55	MAD3
+T2	Protein 56 71	I kappa B alpha
+T3	Protein 175 179	MAD3
+T4	Protein 180 195	I kappa B alpha
+T5	Protein 354 369	I kappa B alpha
+T6	Protein 483 498	I kappa B alpha
+T7	Protein 843 858	I kappa B alpha
+T8	Protein 1059 1074	I kappa B alpha
+T9	Protein 1132 1147	I kappa B alpha
+T10	Protein 1348 1363	I kappa B alpha

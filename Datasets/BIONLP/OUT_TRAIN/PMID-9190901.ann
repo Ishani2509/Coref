@@ -1,0 +1,45 @@
+T14	Exp 53 78	the human GM-CSF promoter
+T15	Exp 229 254	the haematopoietic system
+T16	Exp 336 341	whose
+T17	Exp 317 334	one such cytokine
+T18	Exp 502 521	the promoter region
+T19	Exp 525 540	the GM-CSF gene
+T20	Exp 680 684	that
+T21	Exp 665 679	the ETS family
+T22	Exp 710 712	We
+T23	Exp 735 739	that
+T24	Exp 879 883	that
+T25	Exp 804 813	the cells
+T26	Exp 914 916	we
+T27	Exp 926 930	that
+T28	Exp 937 942	which
+T29	Exp 1050 1052	we
+T30	Exp 1058 1062	that
+T31	Exp 1154 1158	that
+T32	Exp 1237 1239	We
+T33	Exp 1248 1252	that
+T34	Exp 1460 1464	that
+T35	Exp 1423 1451	the individual binding sites
+T36	Exp 1465 1495	the transcriptional activities
+T37	Exp 1499 1512	these factors
+T38	Exp 1533 1544	Our results
+T39	Exp 1553 1557	that
+R5	Coref Anaphora:T17 Antecedent:T1
+R6	Coref Anaphora:T16 Antecedent:T1
+R7	Coref Anaphora:T20 Antecedent:T21
+R8	Coref Anaphora:T24 Antecedent:T40
+R9	Coref Anaphora:T28 Antecedent:T9
+T1	Protein 0 4	ETS1
+T2	Protein 63 69	GM-CSF
+T3	Protein 256 304	Granulocyte-macrophage colony stimulating factor
+T4	Protein 306 312	GM-CSF
+T5	Protein 529 535	GM-CSF
+T6	Protein 631 635	ETS1
+T7	Protein 740 744	ETS1
+T8	Protein 763 769	GM-CSF
+T9	Protein 931 935	ETS1
+T10	Protein 1063 1067	ETS1
+T11	Protein 1088 1094	GM-CSF
+T12	Protein 1368 1372	ETS1
+T13	Protein 1571 1575	ETS1
+T40	Exp 872 878	agents

@@ -1,0 +1,37 @@
+T16	Exp 85 109	the cellular redox state
+T17	Exp 136 140	that
+T18	Exp 263 267	that
+T19	Exp 207 219	the activity
+T20	Exp 112 122	This study
+T21	Exp 369 387	the HIV-1 tat gene
+T22	Exp 420 435	the Tat protein
+T23	Exp 700 727	the intracellular formation
+T24	Exp 797 821	the cellular redox state
+T25	Exp 974 978	that
+T26	Exp 889 903	the expression
+T27	Exp 990 1017	the cellular defense system
+T28	Exp 1114 1126	the presence
+T29	Exp 1400 1424	the cellular redox state
+T30	Exp 1461 1476	our experiments
+T31	Exp 1489 1493	that
+T32	Exp 1494 1515	the C-terminal region
+T33	Exp 1663 1670	the GSH
+R3	Coref Anaphora:T18 Antecedent:T34
+R4	Coref Anaphora:T25 Antecedent:T35
+T1	Protein 6 9	Tat
+T2	Protein 185 188	Tat
+T3	Protein 424 427	Tat
+T4	Protein 623 626	Tat
+T5	Protein 773 776	Tat
+T6	Protein 874 877	Tat
+T7	Protein 907 940	Mn-dependent superoxide dismutase
+T8	Protein 942 948	Mn-SOD
+T9	Protein 1050 1056	Mn-SOD
+T10	Protein 1130 1133	Tat
+T11	Protein 1145 1151	Mn-SOD
+T12	Protein 1278 1281	Tat
+T13	Protein 1381 1387	Mn-SOD
+T14	Protein 1525 1528	Tat
+T15	Protein 1553 1559	Mn-SOD
+T34	Exp 252 262	a cytokine
+T35	Exp 951 973	a mitochondrial enzyme

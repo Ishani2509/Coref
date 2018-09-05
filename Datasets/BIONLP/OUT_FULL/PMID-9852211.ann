@@ -1,0 +1,38 @@
+T1	Exp 0 11	The control
+T2	Exp 120 125	which
+T3	Exp 140 148	the host
+T4	Exp 176 185	the virus
+T5	Exp 220 249	the various immune mechanisms
+T6	Exp 275 285	the course
+T7	Exp 316 324	the time
+T8	Exp 371 384	these viruses
+T9	Exp 421 438	the Herpesviruses
+T10	Exp 442 462	the papillomaviruses
+T11	Exp 566 574	the host
+T12	Exp 588 605	the immune system
+T13	Exp 642 655	the same time
+T14	Exp 710 731	the lytic replication
+T15	Exp 820 830	the result
+T16	Exp 657 670	This strategy
+T17	Exp 861 865	Both
+T18	Exp 879 901	the Epstein-Barr virus
+T19	Exp 961 975	the life cycle
+T20	Exp 979 988	the virus
+T21	Exp 990 1000	The former
+T22	Exp 1052 1071	the virus reservoir
+T23	Exp 1089 1099	the latter
+T24	Exp 1257 1261	that
+T25	Exp 1306 1316	the result
+T26	Exp 1522 1532	each other
+T27	Exp 1385 1397	the activity
+T28	Exp 1401 1437	the regulatory immediate-early genes
+T29	Exp 1363 1376	These factors
+T30	Exp 1609 1613	both
+T31	Exp 1614 1637	the immune surveillance
+R6	Coref Anaphora:T2 Antecedent:T32
+R7	Coref Anaphora:T21 Antecedent:T20
+R8	Coref Anaphora:T23 Antecedent:T22
+R9	Coref Anaphora:T24 Antecedent:T33
+R10	Coref Anaphora:T28 Antecedent:T29
+T32	Exp 111 118	a virus
+T33	Exp 1251 1256	cells

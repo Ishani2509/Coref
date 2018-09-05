@@ -1,0 +1,20 @@
+T6	Exp 80 91	The problem
+T7	Exp 95 124	the neuro-immuno interactions
+T8	Exp 128 137	the level
+T9	Exp 141 166	the protein trans-factors
+T10	Exp 232 278	The physico-chemical and functional parameters
+T11	Exp 282 316	the low molecular nuclear proteins
+T12	Exp 415 426	The binding
+T13	Exp 448 469	the regulatory region
+T14	Exp 511 533	the IL-2mRNA synthesis
+T15	Exp 430 444	these proteins
+T16	Exp 600 621	The protective effect
+T17	Exp 638 660	the IL-2mRNA synthesis
+T18	Exp 692 713	the T-cells treatment
+T19	Exp 719 726	the CsA
+R2	Coref Anaphora:T15 Antecedent:T11
+T1	Protein 180 193	interleukin-2
+T2	Protein 195 199	IL-2
+T3	Protein 473 477	IL-2
+T4	Protein 515 519	IL-2
+T5	Protein 642 646	IL-2

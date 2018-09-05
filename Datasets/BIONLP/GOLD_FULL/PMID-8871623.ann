@@ -1,0 +1,32 @@
+T1	Protein 67 71	CD28
+T2	Protein 132 155	acidic sphingomyelinase
+T3	Protein 233 237	CD28
+T4	Protein 282 286	CD28
+T5	Protein 386 390	CD28
+T6	Protein 555 559	CD28
+T7	Protein 685 689	CD28
+T8	Protein 751 755	CD28
+T9	Protein 771 773	B7
+T10	Protein 879 883	IL-2
+T11	Protein 974 976	B7
+T12	Protein 1181 1185	CD28
+T13	Protein 1263 1267	IL-2
+T14	Protein 1363 1367	CD28
+T15	Protein 1496 1519	acidic sphingomyelinase
+T16	Protein 1747 1751	CD28
+T17	Protein 1881 1904	acidic sphingomyelinase
+T18	Exp 200 220	the signaling events	214 220	events
+T19	Exp 221 225	that
+T20	Exp 268 276	the fact	272 276	fact
+T21	Exp 277 281	that
+T22	Exp 357 382	the relative contribution	370 382	contribution
+T23	Exp 416 421	those
+T24	Exp 478 493	the observation	482 493	observation
+T25	Exp 494 498	that
+T26	Exp 804 839	a proliferative response in T cells	820 828	response
+T27	Exp 840 844	that
+R1	Coref Anaphora:T19 Antecedent:T18
+R2	Coref Anaphora:T21 Antecedent:T20
+R3	Coref Anaphora:T23 Antecedent:T22
+R4	Coref Anaphora:T25 Antecedent:T24
+R5	Coref Anaphora:T27 Antecedent:T26

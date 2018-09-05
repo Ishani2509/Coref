@@ -1,0 +1,15 @@
+T1	Exp 26 34	the role
+T2	Exp 120 124	that
+T3	Exp 140 155	the acquisition
+T4	Exp 305 329	the vitamin A derivative
+T5	Exp 413 434	its nuclear receptors
+T6	Exp 436 441	which
+T7	Exp 601 603	we
+T8	Exp 702 706	that
+T9	Exp 624 637	the mechanism
+T10	Exp 675 693	the major evidence
+R3	Coref Anaphora:T2 Antecedent:T11
+R4	Coref Anaphora:T5 Antecedent:T12
+R5	Coref Anaphora:T6 Antecedent:T12
+T11	Exp 99 119	morphological stages
+T12	Exp 382 397	gene expression

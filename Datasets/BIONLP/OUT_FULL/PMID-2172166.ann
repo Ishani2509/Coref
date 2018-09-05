@@ -1,0 +1,67 @@
+T27	Exp 80 106	the phoP virulence regulon
+T28	Exp 135 161	The defensin sensitivities
+T29	Exp 214 259	the phoP/phoQ two-component virulence regulon
+T30	Exp 341 347	either
+T31	Exp 356 375	the regulatory pair
+T32	Exp 341 352	either gene
+T33	Exp 574 578	that
+T34	Exp 485 517	The predicted periplasmic domain
+T35	Exp 521 537	the PhoQ protein
+T36	Exp 730 732	we
+T37	Exp 753 757	that
+T38	Exp 768 784	the PhoQ protein
+T39	Exp 788 799	the absence
+T40	Exp 861 882	the phoQ gene product
+T41	Exp 884 886	We
+T42	Exp 893 897	that
+T43	Exp 946 950	both
+T44	Exp 930 942	the function
+T45	Exp 965 987	this regulatory system
+T46	Exp 1091 1095	that
+T47	Exp 1172 1174	We
+T48	Exp 1275 1279	that
+T49	Exp 1191 1202	the ability
+T50	Exp 1280 1294	these peptides
+T51	Exp 1583 1587	they
+T52	Exp 1469 1473	that
+T53	Exp 1338 1371	the only virulence characteristic
+T54	Exp 1386 1407	the PhoP-PhoQ regulon
+T55	Exp 1454 1468	the phoP locus
+T56	Exp 1597 1609	the organism
+T57	Exp 1666 1686	The virulence defect
+T58	Exp 1713 1758	the phoP-phoQ two-component regulatory system
+T59	Exp 1850 1861	the control
+T63	SPAN 300 313	NP-1 and NP-2
+R6	Coref Anaphora:T30 Antecedent:T63
+T64	SPAN 300 313	NP-1 and NP-2
+R7	Coref Anaphora:T32 Antecedent:T64
+R8	Coref Anaphora:T33 Antecedent:T60
+R9	Coref Anaphora:T37 Antecedent:T61
+R10	Coref Anaphora:T52 Antecedent:T55
+R11	Coref Anaphora:T51 Antecedent:T62
+T1	Protein 218 222	phoP
+T2	Protein 223 227	phoQ
+T3	Protein 300 304	NP-1
+T4	Protein 309 313	NP-2
+T5	Protein 377 381	phoP
+T6	Protein 413 417	phoQ
+T7	Protein 525 529	PhoQ
+T8	Protein 706 710	phoP
+T9	Protein 724 728	phoQ
+T10	Protein 772 776	PhoQ
+T11	Protein 803 807	PhoP
+T12	Protein 865 869	phoQ
+T13	Protein 1016 1020	PhoQ
+T14	Protein 1029 1033	PhoP
+T15	Protein 1216 1220	NP-1
+T16	Protein 1222 1226	NP-5
+T17	Protein 1232 1237	HNP-1
+T18	Protein 1390 1394	PhoP
+T19	Protein 1395 1399	PhoQ
+T20	Protein 1429 1433	pagC
+T21	Protein 1458 1462	phoP
+T22	Protein 1717 1721	phoP
+T23	Protein 1722 1726	phoQ
+T60	Exp 548 573	a markedly anionic domain
+T61	Exp 745 752	strains
+T62	Exp 1446 1450	ones

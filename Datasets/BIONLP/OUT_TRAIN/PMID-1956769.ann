@@ -1,0 +1,23 @@
+T1	Exp 54 58	that
+T2	Exp 67 98	the negative regulatory element
+T3	Exp 102 139	the human immunodeficiency virus type
+T4	Exp 167 172	which
+T5	Exp 225 299	the negative regulatory element (NRE) of human immunodeficiency virus type
+T6	Exp 327 346	the nuclear extract
+T7	Exp 393 404	the factors
+T8	Exp 543 562	the promoter region
+T9	Exp 566 595	the human retinoblastoma gene
+T10	Exp 449 462	This sequence
+T11	Exp 746 808	The other factor bound to a putative AP-1 recognition sequence
+T12	Exp 823 836	the HIV-1 NRE
+T13	Exp 847 858	this factor
+T14	Exp 896 909	The insertion
+T15	Exp 932 948	the binding site
+T16	Exp 953 980	the former or latter factor
+T17	Exp 1018 1039	the promoter activity
+T18	Exp 1087 1098	each factor
+R4	Coref Anaphora:T1 Antecedent:T19
+R5	Coref Anaphora:T4 Antecedent:T20
+R6	Coref Anaphora:T16 Antecedent:T13
+T19	Exp 18 53	transcriptional suppressor proteins
+T20	Exp 144 166	Two different proteins

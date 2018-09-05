@@ -1,0 +1,22 @@
+T12	Exp 107 109	We
+T13	Exp 516 520	that
+T14	Exp 547 568	the adhesion response
+T15	Exp 725 756	the proteasome inhibitor MG-132
+T16	Exp 820 832	These agents
+T17	Exp 969 973	that
+T18	Exp 1316 1327	the pattern
+T19	Exp 1494 1505	the effects
+T20	Exp 1557 1568	the ability
+T21	Exp 1406 1419	These studies
+R2	Coref Anaphora:T17 Antecedent:T22
+T1	Protein 355 395	vascular cell adhesion molecule (VCAM)-1
+T2	Protein 572 578	VCAM-1
+T3	Protein 641 647	VCAM-1
+T4	Protein 913 919	VCAM-1
+T5	Protein 935 941	VCAM-1
+T6	Protein 1056 1062	VCAM-1
+T7	Protein 1119 1152	intercellular adhesion molecule-1
+T8	Protein 1157 1167	E-selectin
+T9	Protein 1199 1232	intercellular adhesion molecule-1
+T10	Protein 1619 1625	VCAM-1
+T22	Exp 962 968	HUVECs

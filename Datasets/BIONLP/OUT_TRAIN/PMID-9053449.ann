@@ -1,0 +1,51 @@
+T23	Exp 302 306	that
+T24	Exp 256 276	The NF-kappa B1 gene
+T25	Exp 310 323	the precursor
+T26	Exp 327 344	the p50 component
+T27	Exp 372 374	we
+T28	Exp 404 408	that
+T29	Exp 430 450	the NF-kappa B1 gene
+T30	Exp 471 473	we
+T31	Exp 520 525	which
+T32	Exp 765 769	that
+T33	Exp 492 516	the molecular mechanisms
+T34	Exp 756 764	the fact
+T35	Exp 455 470	this manuscript
+T36	Exp 874 879	which
+T37	Exp 910 914	both
+T38	Exp 824 848	the NF-kappa B1 promoter
+T39	Exp 915 945	the PMA/PHA-mediated induction
+T40	Exp 957 983	the synergistic activation
+T41	Exp 999 1013	the expression
+T42	Exp 1017 1033	the RelA subunit
+T43	Exp 1232 1245	their ability
+T44	Exp 1287 1298	Our studies
+T45	Exp 1308 1312	that
+R6	Coref Anaphora:T23 Antecedent:T46
+R7	Coref Anaphora:T31 Antecedent:T33
+R8	Coref Anaphora:T32 Antecedent:T34
+R9	Coref Anaphora:T36 Antecedent:T12
+R10	Coref Anaphora:T43 Antecedent:T18
+T1	Protein 15 20	Egr-1
+T2	Protein 21 25	RelA
+T3	Protein 75 102	tumor necrosis factor-alpha
+T4	Protein 111 122	NF-kappa B1
+T5	Protein 331 334	p50
+T6	Protein 434 445	NF-kappa B1
+T7	Protein 597 613	phytohemagglutin
+T8	Protein 615 618	PHA
+T9	Protein 659 670	NF-kappa B1
+T10	Protein 719 746	tumor necrosis factor-alpha
+T11	Protein 828 839	NF-kappa B1
+T12	Protein 863 868	Egr-1
+T13	Protein 923 926	PHA
+T14	Protein 1021 1025	RelA
+T15	Protein 1052 1057	Egr-1
+T16	Protein 1072 1077	Egr-1
+T17	Protein 1116 1127	NF-kappa B1
+T18	Protein 1155 1158	PHA
+T19	Protein 1204 1209	Egr-1
+T20	Protein 1260 1271	NF-kappa B1
+T21	Protein 1368 1373	Egr-1
+T22	Protein 1460 1471	NF-kappa B1
+T46	Exp 285 301	a 105-kD protein

@@ -1,0 +1,33 @@
+T1	Protein 13 18	bcl-2
+T2	Protein 233 238	bcl-2
+T3	Protein 379 384	bcl-2
+T4	Protein 903 908	bcl-2
+T5	Protein 994 999	bcl-2
+T6	Protein 1040 1045	bcl-2
+T7	Protein 1248 1253	bcl-2
+T8	Protein 1422 1427	bcl-2
+T9	Protein 1786 1791	bcl-2
+T10	Protein 1983 1988	bcl-2
+T11	Protein 2047 2052	bcl-2
+T12	Protein 2227 2232	bcl-2
+T13	Exp 806 818	the CRE site	814 818	site
+T14	Exp 819 823	that
+T15	Exp 1248 1264	bcl-2 expression
+T16	Exp 1265 1269	that
+T17	Exp 1632 1636	CREB
+T18	Exp 1637 1641	that
+T19	Exp 1829 1860	the upstream regulatory element	1853 1860	element
+T20	Exp 1897 1901	CREB
+T21	Exp 1909 1912	its
+T22	Exp 1930 1961	the upstream regulatory element	1954 1961	element
+T23	Exp 2247 2263	other cell types	2258 2263	types
+T24	Exp 2278 2283	those
+T25	Exp 2287 2292	which
+R1	Coref Anaphora:T14 Antecedent:T13
+R2	Coref Anaphora:T16 Antecedent:T15	[T7]
+R3	Coref Anaphora:T18 Antecedent:T17
+R4	Coref Anaphora:T20 Antecedent:T17
+R5	Coref Anaphora:T21 Antecedent:T20
+R6	Coref Anaphora:T22 Antecedent:T19
+R7	Coref Anaphora:T24 Antecedent:T23
+R8	Coref Anaphora:T25 Antecedent:T24

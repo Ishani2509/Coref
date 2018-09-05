@@ -1,0 +1,14 @@
+T1	Exp 39 43	that
+T2	Exp 70 101	the MCF13 murine leukemia virus
+T3	Exp 146 167	The region downstream
+T4	Exp 171 183	the enhancer
+T5	Exp 193 217	the long terminal repeat
+T6	Exp 221 234	the mink cell
+T7	Exp 401 403	we
+T8	Exp 346 357	its control
+T9	Exp 420 424	that
+T10	Exp 459 472	this activity
+R3	Coref Anaphora:T1 Antecedent:T11
+R4	Coref Anaphora:T8 Antecedent:T12
+T11	Exp 18 38	nucleotide sequences
+T12	Exp 309 335	Another important activity

@@ -1,0 +1,71 @@
+T20	Exp 31 51	the human proteasome
+T21	Exp 93 124	The human T-cell leukemia virus
+T22	Exp 180 195	the development
+T23	Exp 199 224	the adult T-cell leukemia
+T24	Exp 376 380	that
+T25	Exp 418 429	the process
+T26	Exp 539 541	it
+T27	Exp 487 492	which
+T28	Exp 555 559	that
+T29	Exp 469 483	the mechanisms
+T30	Exp 560 571	the ability
+T31	Exp 588 602	the expression
+T32	Exp 653 665	this process
+T33	Exp 724 736	the activity
+T34	Exp 939 953	their assembly
+T35	Exp 1015 1019	that
+T36	Exp 1039 1067	the NF-kappa B/Rel complexes
+T37	Exp 1071 1084	the cytoplasm
+T38	Exp 871 898	These transcription factors
+T39	Exp 1182 1196	the proteasome
+T40	Exp 1301 1303	it
+T41	Exp 1254 1277	its rapid translocation
+T42	Exp 1313 1342	its cognate enhancer elements
+T43	Exp 1295 1300	where
+T44	Exp 1283 1294	the nucleus
+T45	Exp 1198 1220	This proteolytic event
+T46	Exp 1355 1373	the p105 precursor
+T47	Exp 1377 1403	the NF-kappa B p50 subunit
+T48	Exp 1446 1460	the proteasome
+T49	Exp 1480 1485	which
+T50	Exp 1462 1476	The mechanisms
+T51	Exp 1553 1567	the literature
+T52	Exp 1593 1595	We
+T53	Exp 1646 1662	the HsN3 subunit
+T54	Exp 1666 1686	the human proteasome
+T55	Exp 1727 1731	that
+T56	Exp 1700 1726	the intriguing possibility
+T57	Exp 1756 1783	the HsN3 proteasome subunit
+T58	Exp 1813 1840	the independent interaction
+T59	Exp 1942 1956	the proteasome
+T60	Exp 1896 1938	these cytoplasmic NF-kappa B/Rel complexes
+R9	Coref Anaphora:T24 Antecedent:T2
+R10	Coref Anaphora:T27 Antecedent:T29
+R11	Coref Anaphora:T34 Antecedent:T38
+R12	Coref Anaphora:T35 Antecedent:T61
+R13	Coref Anaphora:T41 Antecedent:T62
+R14	Coref Anaphora:T43 Antecedent:T44
+R15	Coref Anaphora:T40 Antecedent:T44
+R16	Coref Anaphora:T42 Antecedent:T44
+R17	Coref Anaphora:T49 Antecedent:T50
+R18	Coref Anaphora:T55 Antecedent:T56
+T1	Protein 22 25	Tax
+T2	Protein 372 375	Tax
+T3	Protein 493 496	Tax
+T4	Protein 575 578	Tax
+T5	Protein 667 670	Tax
+T6	Protein 842 845	Tax
+T7	Protein 1112 1127	I kappa B alpha
+T8	Protein 1359 1363	p105
+T9	Protein 1392 1395	p50
+T10	Protein 1486 1489	Tax
+T11	Protein 1638 1641	Tax
+T12	Protein 1650 1654	HsN3
+T13	Protein 1760 1764	HsN3
+T14	Protein 1796 1799	Tax
+T15	Protein 1844 1847	Tax
+T16	Protein 1860 1864	p100
+T17	Protein 1868 1871	p65
+T18	Protein 1872 1887	I kappa B alpha
+T61	Exp 1005 1014	I kappa B
+T62	Exp 1231 1241	NF-kappa B

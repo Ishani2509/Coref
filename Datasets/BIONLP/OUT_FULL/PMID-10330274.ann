@@ -1,0 +1,49 @@
+T26	Exp 146 148	we
+T27	Exp 189 194	which
+T28	Exp 459 471	the presence
+T29	Exp 650 654	When
+T30	Exp 701 713	the presence
+T31	Exp 848 860	the presence
+T32	Exp 944 948	when
+T33	Exp 935 943	the case
+T34	Exp 998 1010	the presence
+T35	Exp 1070 1074	when
+T36	Exp 1168 1172	when
+T37	Exp 1075 1092	the pre-treatment
+T38	Exp 1159 1167	the case
+T39	Exp 1447 1459	the presence
+T40	Exp 1487 1513	the pre-culture conditions
+T41	Exp 1517 1525	the PBMC
+T42	Exp 1562 1566	that
+T43	Exp 1567 1598	the IL-10-induced up-regulation
+T44	Exp 1633 1647	the prevention
+T45	Exp 1686 1708	the whole blood assays
+T46	Exp 1539 1552	these results
+T47	Exp 1756 1779	the adherence parameter
+T48	Exp 1797 1825	the IL-10-induced modulation
+R2	Coref Anaphora:T27 Antecedent:T49
+T1	Protein 31 36	IL-10
+T2	Protein 62 67	IL-10
+T3	Protein 195 200	IL-10
+T4	Protein 256 277	tumor necrosis factor
+T5	Protein 279 282	TNF
+T6	Protein 493 498	IL-10
+T7	Protein 535 538	TNF
+T8	Protein 574 577	TNF
+T9	Protein 591 595	IL-6
+T10	Protein 612 618	IL-1ra
+T11	Protein 717 722	IL-10
+T12	Protein 772 777	IL-10
+T13	Protein 871 879	IL-1beta
+T14	Protein 904 907	TNF
+T15	Protein 1014 1019	IL-10
+T16	Protein 1106 1111	IL-10
+T17	Protein 1202 1207	IL-10
+T18	Protein 1297 1302	IL-10
+T19	Protein 1384 1388	CD16
+T20	Protein 1393 1397	CD68
+T21	Protein 1417 1421	CD14
+T22	Protein 1463 1468	IL-10
+T23	Protein 1571 1576	IL-10
+T24	Protein 1801 1806	IL-10
+T49	Exp 165 185	experimental studies

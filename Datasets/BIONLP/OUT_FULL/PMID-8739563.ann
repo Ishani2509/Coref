@@ -1,0 +1,25 @@
+T12	Exp 132 144	the cytokine
+T13	Exp 305 321	the upregulation
+T14	Exp 414 416	We
+T15	Exp 429 433	that
+T16	Exp 434 465	the PTK inhibitors herbimycin A
+T17	Exp 650 654	that
+T18	Exp 729 745	the mobilization
+T19	Exp 749 773	the transcription factor
+T20	Exp 888 892	that
+T21	Exp 901 917	the upregulation
+T22	Exp 921 936	these molecules
+R3	Coref Anaphora:T20 Antecedent:T23
+T24	SPAN 524 809	E-selectin, as well as subsequent monocytic cell adhesion to endothelial cells stimulated by TNF. Inhibition studies indicate that specific tyrosine phosphorylation following PTK activation is involved in the mobilization of the transcription factor, nuclear factor kappa B, and VCAM-1
+R4	Coref Anaphora:T22 Antecedent:T24
+T1	Protein 145 172	tumor necrosis factor-alpha
+T2	Protein 174 177	TNF
+T3	Protein 325 358	vascular cell adhesion molecule 1
+T4	Protein 360 366	VCAM-1
+T5	Protein 371 384	interleukin-4
+T6	Protein 386 390	IL-4
+T7	Protein 513 519	VCAM-1
+T8	Protein 524 534	E-selectin
+T9	Protein 617 620	TNF
+T10	Protein 803 809	VCAM-1
+T23	Exp 858 887	pathophysiological conditions

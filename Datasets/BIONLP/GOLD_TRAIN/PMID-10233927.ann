@@ -1,0 +1,20 @@
+T1	Protein 459 468	cyclin D2
+T2	Protein 537 542	E2F-4
+T3	Protein 704 708	CD21
+T4	Protein 988 993	BCL-2
+T5	Protein 998 1001	A20
+T6	Protein 1003 1006	A20
+T7	Protein 1105 1110	LMP-1
+T8	Protein 1192 1197	LMP-1
+T9	Exp 219 233	the mechanisms
+T10	Exp 237 242	which
+T11	Exp 671 680	the virus
+T12	Exp 690 693	its
+T13	Exp 741 768	genes controlling apoptosis	741 746	genes
+T14	Exp 780 785	those
+T15	Exp 1027 1061	the NF-kappaB transcription factor
+T16	Exp 1063 1068	which
+R1	Coref Anaphora:T10 Antecedent:T9
+R2	Coref Anaphora:T12 Antecedent:T11
+R3	Coref Anaphora:T14 Antecedent:T13
+R4	Coref Anaphora:T16 Antecedent:T15

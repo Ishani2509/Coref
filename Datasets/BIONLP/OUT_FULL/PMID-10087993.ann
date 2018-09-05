@@ -1,0 +1,66 @@
+T38	Exp 47 51	that
+T39	Exp 142 160	Our investigations
+T40	Exp 217 236	the down regulation
+T41	Exp 240 272	the adult beta-like globin genes
+T42	Exp 335 337	We
+T43	Exp 346 360	their activity
+T44	Exp 718 723	which
+T45	Exp 897 921	the beta globin promoter
+T46	Exp 954 972	the delta promoter
+T47	Exp 988 1012	the beta globin promoter
+T48	Exp 1087 1107	the upstream portion
+T49	Exp 1111 1129	the delta promoter
+T50	Exp 1183 1216	the upstream beta globin sequence
+T51	Exp 1447 1467	the upstream portion
+T52	Exp 1471 1489	the delta promoter
+T53	Exp 1632 1644	the presence
+T54	Exp 1689 1714	the upstream delta globin
+T55	Exp 1781 1803	the repressor proteins
+T56	Exp 1819 1839	the upstream portion
+T57	Exp 1843 1863	the beta globin gene
+T58	Exp 1953 1985	the upstream delta-globin region
+T59	Exp 2189 2220	its factor-mediated suppression
+T60	Exp 2264 2278	its expression
+T61	Exp 2098 2102	that
+T62	Exp 2116 2144	the upstream promoter region
+T63	Exp 2148 2174	the adult beta globin gene
+T64	Exp 2076 2089	These results
+R7	Coref Anaphora:T38 Antecedent:T65
+T67	SPAN 274 288	delta and beta
+R8	Coref Anaphora:T43 Antecedent:T67
+R9	Coref Anaphora:T44 Antecedent:T66
+R10	Coref Anaphora:T59 Antecedent:T62
+R11	Coref Anaphora:T60 Antecedent:T63
+T1	Protein 274 279	delta
+T2	Protein 284 288	beta
+T3	Protein 493 498	delta
+T4	Protein 503 507	beta
+T5	Protein 601 606	delta
+T6	Protein 611 615	beta
+T7	Protein 746 751	delta
+T8	Protein 755 759	beta
+T9	Protein 789 793	beta
+T10	Protein 797 802	delta
+T11	Protein 816 819	CAT
+T12	Protein 867 870	CAT
+T13	Protein 901 912	beta globin
+T14	Protein 958 963	delta
+T15	Protein 992 1003	beta globin
+T16	Protein 1115 1120	delta
+T17	Protein 1196 1207	beta globin
+T18	Protein 1269 1274	delta
+T19	Protein 1399 1410	beta globin
+T20	Protein 1475 1480	delta
+T21	Protein 1507 1518	beta globin
+T22	Protein 1601 1605	beta
+T23	Protein 1702 1713	delta globi
+T24	Protein 1804 1807	BP1
+T25	Protein 1812 1815	BP2
+T26	Protein 1847 1858	beta globin
+T27	Protein 1929 1936	DNase I
+T28	Protein 1966 1978	delta-globin
+T29	Protein 2060 2066	GATA-1
+T30	Protein 2071 2074	BP2
+T31	Protein 2158 2169	beta globin
+T65	Exp 18 46	upstream regulatory elements
+T66	Exp 685 716	chimeric promoter constructions

@@ -1,0 +1,49 @@
+T21	Exp 30 54	the ecto-5'-nucleotidase
+T22	Exp 73 103	the camp response element site
+T23	Exp 131 161	the upstream regulatory region
+T24	Exp 164 166	We
+T25	Exp 261 265	that
+T26	Exp 352 356	that
+T27	Exp 181 194	the 5' region
+T28	Exp 373 387	the expression
+T29	Exp 507 511	that
+T30	Exp 771 802	the 201-bp core promoter region
+T31	Exp 864 894	the upstream regulatory region
+T32	Exp 904 916	the CRE site
+T33	Exp 944 965	the negative activity
+T34	Exp 969 999	the upstream regulatory region
+T35	Exp 1045 1062	the Sp1/AP-2 site
+T36	Exp 1094 1109	both cell lines
+T37	Exp 1180 1192	the CRE site
+T38	Exp 1293 1305	the activity
+T39	Exp 1314 1322	the core
+T40	Exp 1327 1356	the 969-bp promoter fragments
+T41	Exp 1406 1418	the CRE site
+T42	Exp 1362 1375	this increase
+T43	Exp 1432 1434	we
+T44	Exp 1604 1628	its suppressive activity
+T45	Exp 1522 1526	that
+T46	Exp 1493 1507	the ecto-5'-NT
+T47	Exp 1536 1548	the presence
+T48	Exp 1581 1599	the basal promoter
+R4	Coref Anaphora:T26 Antecedent:T4
+R5	Coref Anaphora:T45 Antecedent:T49
+R6	Coref Anaphora:T44 Antecedent:T46
+T1	Protein 34 54	ecto-5'-nucleotidase
+T2	Protein 202 222	ecto-5'-nucleotidase
+T3	Protein 233 238	5'-NT
+T4	Protein 334 337	CAT
+T5	Protein 402 412	ecto-5'-NT
+T6	Protein 637 644	DNase I
+T7	Protein 703 706	Sp1
+T8	Protein 708 711	Sp1
+T9	Protein 807 810	Sp1
+T10	Protein 812 818	NRE-2a
+T11	Protein 820 825	TCF-1
+T12	Protein 826 831	LEF-1
+T13	Protein 837 840	Sp1
+T14	Protein 1049 1052	Sp1
+T15	Protein 1209 1214	ATF-1
+T16	Protein 1219 1224	ATF-2
+T17	Protein 1497 1507	ecto-5'-NT
+T49	Exp 1508 1521	core promoter

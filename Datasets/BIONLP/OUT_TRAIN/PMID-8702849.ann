@@ -1,0 +1,35 @@
+T13	Exp 37 45	the NFAT
+T14	Exp 179 194	The cyclosporin
+T15	Exp 282 306	the inducible expression
+T16	Exp 422 450	the NFAT gene family members
+T17	Exp 629 631	we
+T18	Exp 644 657	the isolation
+T19	Exp 700 720	the Raji B cell line
+T20	Exp 722 736	The cDNA clone
+T21	Exp 775 808	the NFAT gene family member NFATc
+T22	Exp 840 863	The amino acid sequence
+T23	Exp 914 948	the first NH2-terminal 29 residues
+T24	Exp 1002 1019	the COOH terminus
+T25	Exp 1230 1235	which
+T26	Exp 1203 1229	the 4.5-kilobase pair mRNA
+T27	Exp 1268 1278	the spleen
+T28	Exp 1085 1098	both isoforms
+T29	Exp 1458 1465	neither
+T30	Exp 1475 1493	the kappa3 element
+T31	Exp 1522 1562	the tumor necrosis factor-alpha promoter
+T32	Exp 1577 1617	the tumor necrosis factor-alpha promoter
+T33	Exp 1663 1667	that
+T34	Exp 1644 1654	These data
+R2	Coref Anaphora:T25 Antecedent:T26
+T1	Protein 103 108	NFATc
+T2	Protein 760 770	NFATc.beta
+T3	Protein 803 808	NFATc
+T4	Protein 826 837	NFATc.alpha
+T5	Protein 867 877	NFATc.beta
+T6	Protein 899 910	NFATc.alpha
+T7	Protein 1163 1173	NFATc.beta
+T8	Protein 1304 1314	NFATc.beta
+T9	Protein 1344 1357	interleukin-2
+T10	Protein 1447 1457	NFATc.beta
+T11	Protein 1526 1553	tumor necrosis factor-alpha
+T12	Protein 1581 1608	tumor necrosis factor-alpha

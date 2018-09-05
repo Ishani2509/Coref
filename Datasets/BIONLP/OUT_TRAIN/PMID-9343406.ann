@@ -1,0 +1,44 @@
+T11	Exp 263 271	the role
+T12	Exp 304 318	the regulation
+T13	Exp 341 366	the inflammatory response
+T14	Exp 275 300	this transcription factor
+T15	Exp 467 469	We
+T16	Exp 480 484	that
+T17	Exp 572 577	which
+T18	Exp 633 638	which
+T19	Exp 771 794	the IL-2 promoter level
+T20	Exp 818 832	the inhibition
+T21	Exp 616 631	This inhibition
+T22	Exp 1003 1007	that
+T23	Exp 1179 1210	the CD3-T-cell receptor complex
+T24	Exp 1240 1251	the binding
+T25	Exp 1351 1380	the transactivation functions
+T26	Exp 1575 1599	their accelerated export
+T27	Exp 1493 1497	that
+T28	Exp 1605 1616	the nucleus
+T29	Exp 1639 1641	We
+T30	Exp 1650 1654	that
+T31	Exp 1846 1850	that
+T32	Exp 1897 1901	that
+T33	Exp 1655 1669	the activation
+T34	Exp 1721 1740	the rapid shuttling
+T35	Exp 1744 1752	the NFAT
+T36	Exp 1787 1816	the sustained transactivation
+T37	Exp 1820 1845	this transcription factor
+T38	Exp 1990 2021	the combined inhibitory effects
+R5	Coref Anaphora:T17 Antecedent:T39
+R6	Coref Anaphora:T18 Antecedent:T21
+R7	Coref Anaphora:T26 Antecedent:T40
+R8	Coref Anaphora:T31 Antecedent:T37
+T1	Protein 505 518	interleukin 2
+T2	Protein 520 524	IL-2
+T3	Protein 678 683	c-Jun
+T4	Protein 775 779	IL-2
+T5	Protein 1308 1313	NFATp
+T6	Protein 1384 1389	NFATp
+T7	Protein 1547 1552	NFATp
+T8	Protein 1902 1927	c-Jun NH2-terminal kinase
+T9	Protein 1929 1932	JNK
+T10	Protein 1970 1975	NFATp
+T39	Exp 563 571	antigens
+T40	Exp 1452 1482	immunocytochemical experiments

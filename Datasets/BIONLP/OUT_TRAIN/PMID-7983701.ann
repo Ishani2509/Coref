@@ -1,0 +1,37 @@
+T14	Exp 186 188	We
+T15	Exp 203 218	the feasibility
+T16	Exp 342 352	this study
+T17	Exp 430 459	the new approved nomenclature
+T18	Exp 522 546	the HIV-1-infected cells
+T19	Exp 493 505	this article
+T20	Exp 584 607	the NF-kappa B elements
+T21	Exp 611 624	the HIV-1 LTR
+T22	Exp 747 770	the NF-kappa B elements
+T23	Exp 774 787	the HIV-1 LTR
+T24	Exp 819 824	the 5
+T25	Exp 888 923	the IFN-stimulated response element
+T26	Exp 1071 1091	the human IFNA2 gene
+T27	Exp 1011 1067	Insertion of this chimeric promoter (ISG15 LTR) upstream
+T28	Exp 1161 1174	this promoter
+T29	Exp 1286 1307	the retrovirus vector
+T30	Exp 1435 1450	their abilities
+T31	Exp 1805 1819	the U937 cells
+T32	Exp 1884 1897	the IFNA gene
+T33	Exp 1921 1925	that
+T34	Exp 2000 2004	that
+T35	Exp 1899 1912	These results
+R2	Coref Anaphora:T30 Antecedent:T36
+T1	Protein 67 70	Tat
+T2	Protein 649 652	Tat
+T3	Protein 944 947	Tat
+T4	Protein 1081 1086	IFNA2
+T5	Protein 1133 1136	Tat
+T6	Protein 1197 1224	tumor necrosis factor alpha
+T7	Protein 1402 1407	IFN A
+T8	Protein 1409 1413	IFNA
+T9	Protein 1462 1475	interleukin-2
+T10	Protein 1525 1543	phytohemagglutinin
+T11	Protein 1604 1608	IFNA
+T12	Protein 1759 1763	IFNA
+T13	Protein 1888 1892	IFNA
+T36	Exp 1372 1378	clones

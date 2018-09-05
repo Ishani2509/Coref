@@ -1,0 +1,35 @@
+T19	Exp 391 393	we
+T20	Exp 343 356	their ability
+T21	Exp 275 294	the pathophysiology
+T22	Exp 586 588	We
+T23	Exp 1244 1248	when
+T24	Exp 1180 1192	the presence
+T25	Exp 1563 1568	which
+T26	Exp 1527 1561	the NF-kappaB transcription factor
+T27	Exp 1595 1608	the induction
+T28	Exp 1612 1627	the TF promotor
+T29	Exp 1685 1689	that
+T30	Exp 1661 1671	This study
+T31	Exp 1867 1885	its successful use
+R4	Coref Anaphora:T20 Antecedent:T32
+R5	Coref Anaphora:T25 Antecedent:T26
+R6	Coref Anaphora:T31 Antecedent:T33
+T1	Protein 32 45	tissue factor
+T2	Protein 371 384	tissue factor
+T3	Protein 386 388	TF
+T4	Protein 421 423	TF
+T5	Protein 500 502	TF
+T6	Protein 608 610	TF
+T7	Protein 783 785	TF
+T8	Protein 960 962	TF
+T9	Protein 1057 1059	TF
+T10	Protein 1164 1166	TF
+T11	Protein 1289 1305	interferon-gamma
+T12	Protein 1309 1326	interleukin-1beta
+T13	Protein 1482 1484	TF
+T14	Protein 1616 1618	TF
+T15	Protein 1690 1692	TF
+T16	Protein 1829 1831	TF
+T17	Protein 2010 2012	TF
+T32	Exp 242 251	monocytes
+T33	Exp 1806 1816	Inhibition

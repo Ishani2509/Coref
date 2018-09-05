@@ -1,0 +1,42 @@
+T1	Protein 15 20	BHRF1
+T2	Protein 181 184	Fas
+T3	Protein 405 410	BHRF1
+T4	Protein 491 496	Bcl-2
+T5	Protein 542 547	BHRF1
+T6	Protein 620 623	Fas
+T7	Protein 674 679	BHRF1
+T8	Protein 835 840	BHRF1
+T9	Protein 933 938	Bcl-2
+T10	Protein 943 949	Bcl-xL
+T11	Protein 988 993	BHRF1
+T12	Protein 1012 1017	Bcl-2
+T13	Protein 1022 1028	Bcl-xL
+T14	Protein 1059 1062	Fas
+T15	Protein 1137 1163	cytosolic phospholipase A2
+T16	Protein 1168 1177	caspase-3
+T17	Protein 1178 1183	CPP32
+T18	Protein 1291 1296	BHRF1
+T19	Protein 1391 1394	Fas
+T20	Protein 1490 1495	BHRF1
+T21	Protein 1500 1505	Bcl-2
+T22	Protein 1560 1563	Fas
+T23	Protein 1676 1681	BHRF1
+T24	Protein 1718 1723	Bcl-2
+T25	Exp 310 315	genes
+T26	Exp 316 320	that
+T27	Exp 690 701	these cells	696 701	cells
+T28	Exp 755 759	them
+T29	Exp 820 831	The ability
+T30	Exp 925 929	that
+T31	Exp 961 984	the mechanism of action	965 974	mechanism
+T32	Exp 961 993	the mechanism of action of BHRF1	965 974	mechanism
+T33	Exp 1004 1008	that
+T34	Exp 1032 1034	it
+T35	Exp 1653 1672	the protective role	1668 1672	role
+T36	Exp 1710 1714	that
+R1	Coref Anaphora:T26 Antecedent:T25
+R2	Coref Anaphora:T28 Antecedent:T27
+R3	Coref Anaphora:T30 Antecedent:T29
+R4	Coref Anaphora:T33 Antecedent:T31
+R5	Coref Anaphora:T34 Antecedent:T32	[T11]
+R6	Coref Anaphora:T36 Antecedent:T35

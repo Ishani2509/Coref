@@ -1,0 +1,24 @@
+T13	Exp 89 91	we
+T14	Exp 97 101	that
+T15	Exp 102 142	the lymphoid lineage-determining factors
+T16	Exp 291 311	the promoter context
+T17	Exp 212 225	This function
+T18	Exp 519 541	its repression domains
+T19	Exp 615 620	which
+T20	Exp 581 597	the mSin3 family
+T21	Exp 492 506	these findings
+T22	Exp 736 738	we
+T23	Exp 670 689	our recent findings
+T24	Exp 747 751	that
+R4	Coref Anaphora:T18 Antecedent:T6
+R5	Coref Anaphora:T19 Antecedent:T25
+T1	Protein 14 20	Ikaros
+T2	Protein 25 31	Aiolos
+T3	Protein 143 149	Ikaros
+T4	Protein 154 160	Aiolos
+T5	Protein 341 347	Ikaros
+T6	Protein 508 514	Ikaros
+T7	Protein 714 720	Ikaros
+T8	Protein 725 734	Mi-2-HDAC
+T9	Protein 752 758	Ikaros
+T25	Exp 601 614	co-repressors

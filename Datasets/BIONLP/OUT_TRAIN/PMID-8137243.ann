@@ -1,0 +1,33 @@
+T10	Exp 15 29	the activation
+T11	Exp 64 83	the phosphorylation
+T12	Exp 126 138	The response
+T13	Exp 331 333	we
+T14	Exp 339 343	that
+T15	Exp 318 329	this report
+T16	Exp 627 655	the dominant negative allele
+T17	Exp 922 924	we
+T18	Exp 1015 1050	its tyrosine phosphorylation status
+T19	Exp 1010 1014	that
+T20	Exp 847 874	the phosphorylation pattern
+T21	Exp 1100 1112	the transfer
+T22	Exp 1334 1336	we
+T23	Exp 1443 1449	either
+T24	Exp 1363 1398	the tyrosine phosphorylation status
+T25	Exp 1453 1465	these agents
+T26	Exp 1598 1614	its dissociation
+T27	Exp 1489 1493	that
+T28	Exp 1583 1588	which
+T29	Exp 1467 1480	These results
+R4	Coref Anaphora:T18 Antecedent:T5
+R5	Coref Anaphora:T28 Antecedent:T30
+R6	Coref Anaphora:T26 Antecedent:T30
+T1	Protein 87 102	I kappa B alpha
+T2	Protein 395 410	I kappa B alpha
+T3	Protein 687 702	I kappa B alpha
+T4	Protein 878 893	I kappa B alpha
+T5	Protein 944 959	I kappa B alpha
+T6	Protein 1148 1163	I kappa B alpha
+T7	Protein 1174 1189	I kappa B alpha
+T8	Protein 1402 1417	I kappa B alpha
+T9	Protein 1522 1537	I kappa B alpha
+T30	Exp 1556 1582	an important proximal step

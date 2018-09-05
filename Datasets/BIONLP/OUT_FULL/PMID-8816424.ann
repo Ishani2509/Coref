@@ -1,0 +1,54 @@
+T32	Exp 227 231	that
+T33	Exp 208 226	the Ig superfamily
+T34	Exp 283 285	It
+T35	Exp 417 419	We
+T36	Exp 493 497	that
+T37	Exp 433 447	the regulation
+T38	Exp 590 621	the rat macrophage cell line R2
+T39	Exp 726 736	themselves
+T40	Exp 623 636	The cytokines
+T41	Exp 927 931	that
+T42	Exp 969 983	the mRNA level
+T43	Exp 999 1025	the different combinations
+T44	Exp 1074 1083	the level
+T45	Exp 1215 1226	the effects
+T46	Exp 1344 1358	The regulation
+T47	Exp 1402 1417	the GC receptor
+T48	Exp 1529 1531	it
+T49	Exp 1548 1552	that
+T50	Exp 1568 1585	the adrenal gland
+T51	Exp 1587 1601	the major site
+T52	Exp 1677 1681	that
+T53	Exp 1761 1765	that
+T54	Exp 1766 1778	the response
+T55	Exp 1653 1663	This study
+R6	Coref Anaphora:T32 Antecedent:T33
+R7	Coref Anaphora:T34 Antecedent:T5
+T56	SPAN 647 662	IFN-gamma, IL-4
+R8	Coref Anaphora:T39 Antecedent:T56
+T1	Protein 14 26	sialoadhesin
+T2	Protein 106 114	IFN-beta
+T3	Protein 116 125	IFN-gamma
+T4	Protein 127 131	IL-4
+T5	Protein 158 170	Sialoadhesin
+T6	Protein 451 463	sialoadhesin
+T7	Protein 526 538	sialoadhesin
+T8	Protein 637 645	IFN-beta
+T9	Protein 647 656	IFN-gamma
+T10	Protein 658 662	IL-4
+T11	Protein 699 711	sialoadhesin
+T12	Protein 784 796	sialoadhesin
+T13	Protein 798 810	Sialoadhesin
+T14	Protein 1115 1127	sialoadhesin
+T15	Protein 1145 1153	IFN-beta
+T16	Protein 1158 1162	IL-4
+T17	Protein 1186 1195	IFN-gamma
+T18	Protein 1230 1239	IFN-gamma
+T19	Protein 1288 1296	IFN-beta
+T20	Protein 1301 1305	IL-4
+T21	Protein 1362 1374	sialoadhesin
+T22	Protein 1406 1417	GC receptor
+T23	Protein 1430 1456	mineralocorticoid receptor
+T24	Protein 1639 1651	sialoadhesin
+T25	Protein 1713 1725	sialoadhesin
+T26	Protein 1798 1806	IFN-beta

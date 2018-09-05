@@ -1,0 +1,24 @@
+T6	Exp 53 113	the human immunodeficiency virus type 1 long terminal repeat
+T7	Exp 181 205	the normal vaginal flora
+T8	Exp 220 252	the human immunodeficiency virus
+T9	Exp 291 314	the Jurkat T lymphocyte
+T10	Exp 362 369	the LTR
+T11	Exp 516 527	the absence
+T12	Exp 572 591	The active material
+T13	Exp 609 625	the phenol layer
+T14	Exp 937 960	their bacterial content
+T15	Exp 915 920	which
+T16	Exp 1060 1064	that
+T17	Exp 985 997	the presence
+T18	Exp 1078 1091	the HIV-1 LTR
+T19	Exp 962 976	These findings
+R4	Coref Anaphora:T15 Antecedent:T20
+R5	Coref Anaphora:T14 Antecedent:T20
+R6	Coref Anaphora:T16 Antecedent:T21
+T1	Protein 437 445	catalase
+T2	Protein 562 570	catalase
+T3	Protein 688 715	tumor necrosis factor-alpha
+T4	Protein 719 736	interleukin-1beta
+T5	Protein 800 827	tumor necrosis factor-alpha
+T20	Exp 892 913	comparable properties
+T21	Exp 1040 1059	indigenous bacteria

@@ -1,0 +1,55 @@
+T22	Exp 164 166	we
+T23	Exp 395 416	particular their role
+T24	Exp 146 163	the present study
+T25	Exp 180 204	the possible involvement
+T26	Exp 208 259	the mitogen-activated protein kinase family members
+T27	Exp 576 581	which
+T28	Exp 491 537	the protein phosphatase inhibitor okadaic acid
+T29	Exp 687 714	the ERK1/2 and JNK proteins
+T30	Exp 716 723	The ERK
+T31	Exp 876 880	that
+T32	Exp 881 894	both pathways
+T33	Exp 972 974	we
+T34	Exp 988 992	that
+T35	Exp 993 1011	the Raf1/MEK1/ERK1
+T36	Exp 1037 1052	the DNA binding
+T37	Exp 1089 1098	the level
+T38	Exp 1157 1159	it
+T39	Exp 1270 1277	its own
+T40	Exp 1170 1174	that
+T41	Exp 1215 1219	both
+T42	Exp 1223 1234	the context
+T43	Exp 1238 1255	the IL-6 promoter
+T44	Exp 1360 1362	We
+T45	Exp 1372 1376	that
+T46	Exp 1455 1465	the ERK1/2
+T47	Exp 1543 1554	Our results
+T48	Exp 1644 1663	its phosphorylation
+T49	Exp 1563 1567	that
+T50	Exp 1568 1583	the JNK pathway
+R6	Coref Anaphora:T23 Antecedent:T26
+R7	Coref Anaphora:T27 Antecedent:T7
+T52	SPAN 855 868	Raf-1 or JNK1
+R8	Coref Anaphora:T41 Antecedent:T52
+R9	Coref Anaphora:T39 Antecedent:T51
+R10	Coref Anaphora:T48 Antecedent:T50
+T1	Protein 36 57	Jun N-terminal kinase
+T2	Protein 63 68	c-Jun
+T3	Protein 106 110	IL-6
+T4	Protein 308 331	c-Jun N-terminal kinase
+T5	Protein 333 336	JNK
+T6	Protein 351 355	IL-6
+T7	Protein 562 566	IL-6
+T8	Protein 702 705	JNK
+T9	Protein 769 773	IL-6
+T10	Protein 855 860	Raf-1
+T11	Protein 864 868	JNK1
+T12	Protein 930 934	IL-6
+T13	Protein 997 1001	Raf1
+T14	Protein 1002 1006	MEK1
+T15	Protein 1242 1246	IL-6
+T16	Protein 1345 1350	c-Jun
+T17	Protein 1398 1402	IL-6
+T18	Protein 1572 1575	JNK
+T19	Protein 1682 1687	c-Jun
+T51	Exp 1175 1183	NF-kappa

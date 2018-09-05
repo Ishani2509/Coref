@@ -1,0 +1,57 @@
+T29	Exp 75 97	their physical linkage
+T30	Exp 16 58	the interleukin-13 and interleukin-4 genes
+T31	Exp 101 126	the cytokine gene cluster
+T32	Exp 223 227	that
+T33	Exp 243 260	the q23-31 region
+T34	Exp 351 353	we
+T35	Exp 408 413	its 5
+T36	Exp 495 509	its expression
+T37	Exp 299 313	the regulation
+T38	Exp 377 397	the human IL-13 gene
+T39	Exp 556 576	The human IL-13 gene
+T40	Exp 609 622	the IL-4 gene
+T41	Exp 660 674	The IL-13 gene
+T42	Exp 750 767	the IL-4 promoter
+T43	Exp 831 855	the IL-13 P element site
+T44	Exp 1110 1114	when
+T45	Exp 964 973	the IL-13
+T46	Exp 1017 1054	the transcriptional activator protein
+T47	Exp 1271 1275	that
+T48	Exp 1335 1339	that
+T49	Exp 1358 1372	the expression
+T50	Exp 1376 1400	the IL-13 and IL-4 genes
+T51	Exp 1433 1451	the primed T cells
+T52	Exp 1529 1557	the IL-4 and IL-13 promoters
+T53	Exp 1593 1621	the NF-AT-binding P elements
+T54	Exp 1659 1684	the coordinate expression
+T55	Exp 1688 1712	these two cytokine genes
+R6	Coref Anaphora:T29 Antecedent:T30
+R7	Coref Anaphora:T32 Antecedent:T56
+R8	Coref Anaphora:T35 Antecedent:T38
+R9	Coref Anaphora:T36 Antecedent:T38
+R10	Coref Anaphora:T47 Antecedent:T57
+T1	Protein 20 34	interleukin-13
+T2	Protein 39 52	interleukin-4
+T3	Protein 157 171	Interleukin-13
+T4	Protein 173 178	IL-13
+T5	Protein 184 188	IL-4
+T6	Protein 317 322	IL-13
+T7	Protein 387 392	IL-13
+T8	Protein 566 571	IL-13
+T9	Protein 613 617	IL-4
+T10	Protein 664 669	IL-13
+T11	Protein 754 758	IL-4
+T12	Protein 835 840	IL-13
+T13	Protein 878 883	IL-13
+T14	Protein 968 973	IL-13
+T15	Protein 977 981	IL-4
+T16	Protein 1101 1107	NF-ATp
+T17	Protein 1190 1194	IL-4
+T18	Protein 1196 1201	IL-13
+T19	Protein 1380 1385	IL-13
+T20	Protein 1390 1394	IL-4
+T21	Protein 1485 1491	NF-ATp
+T22	Protein 1533 1537	IL-4
+T23	Protein 1542 1547	IL-13
+T56	Exp 215 222	T cells
+T57	Exp 1265 1270	cells

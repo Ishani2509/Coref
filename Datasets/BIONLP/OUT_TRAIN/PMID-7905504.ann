@@ -1,0 +1,38 @@
+T11	Exp 106 118	the HIV type
+T12	Exp 140 154	the activation
+T13	Exp 183 190	the TCR
+T14	Exp 230 243	these effects
+T15	Exp 295 297	we
+T16	Exp 283 293	this study
+T17	Exp 358 360	We
+T18	Exp 512 526	their surfaces
+T19	Exp 411 415	that
+T20	Exp 474 478	that
+T21	Exp 381 394	the HIV-1 LTR
+T22	Exp 486 500	the expression
+T23	Exp 627 640	the HIV-1 LTR
+T24	Exp 659 664	which
+T25	Exp 697 704	the TCR
+T26	Exp 788 800	the presence
+T27	Exp 835 846	the nucleus
+T28	Exp 930 944	their surfaces
+T29	Exp 981 995	the physiology
+T30	Exp 1014 1029	the replication
+R5	Coref Anaphora:T19 Antecedent:T31
+R6	Coref Anaphora:T18 Antecedent:T32
+R7	Coref Anaphora:T24 Antecedent:T33
+R8	Coref Anaphora:T28 Antecedent:T34
+T1	Protein 11 15	CD45
+T2	Protein 206 210	CD45
+T3	Protein 334 338	CD45
+T4	Protein 456 460	CD45
+T5	Protein 504 508	CD45
+T6	Protein 540 544	CD45
+T7	Protein 670 674	CD45
+T8	Protein 850 854	CD45
+T9	Protein 922 926	CD45
+T10	Protein 952 956	CD45
+T31	Exp 398 410	T cell lines
+T32	Exp 370 377	effects
+T33	Exp 650 657	T cells
+T34	Exp 879 895	infected T cells

@@ -1,0 +1,17 @@
+T5	Exp 0 9	The Oct-2
+T6	Exp 33 63	The Oct-2 transcription factor
+T7	Exp 79 107	the POU (Pit-Oct-Unc) family
+T8	Exp 325 330	which
+T9	Exp 223 249	The primary RNA transcript
+T10	Exp 253 261	the gene
+T11	Exp 379 388	The forms
+T12	Exp 420 681	a predominantly activating effect on gene expression whereas those produced in neuronal cells have a predominantly inhibitory effect and can repress the expression of both the herpes simplex virus immediate-early genes and the cellular tyrosine hydroxylase gene
+T13	Exp 721 735	the regulation
+T14	Exp 813 824	the control
+R3	Coref Anaphora:T10 Antecedent:T6
+R4	Coref Anaphora:T8 Antecedent:T15
+T1	Protein 4 9	Oct-2
+T2	Protein 37 42	Oct-2
+T3	Protein 656 676	tyrosine hydroxylase
+T4	Protein 688 693	Oct-2
+T15	Exp 306 324	different variants

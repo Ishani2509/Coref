@@ -1,0 +1,27 @@
+T6	Exp 63 82	the mouse IL-4 gene
+T7	Exp 195 197	We
+T8	Exp 220 234	the P sequence
+T9	Exp 271 294	the human IL-4 promoter
+T10	Exp 299 322	the mouse IL-4 promoter
+T11	Exp 362 382	the human P sequence
+T12	Exp 551 553	we
+T13	Exp 505 526	their binding factors
+T14	Exp 467 475	the role
+T15	Exp 530 549	the native promoter
+T16	Exp 479 500	these P-like elements
+T17	Exp 741 745	that
+T18	Exp 663 700	the IL-4 promoter-reporter constructs
+T19	Exp 840 857	the IL-4 promoter
+T20	Exp 871 875	that
+T21	Exp 1332 1351	the P-like elements
+T22	Exp 1422 1435	the P element
+T23	Exp 1446 1463	the SV40 promoter
+T24	Exp 1548 1550	It
+T25	Exp 1569 1573	that
+T26	Exp 1588 1625	each P-like element-binding complexes
+R2	Coref Anaphora:T13 Antecedent:T16
+T1	Protein 73 77	IL-4
+T2	Protein 281 285	IL-4
+T3	Protein 309 313	IL-4
+T4	Protein 667 671	IL-4
+T5	Protein 844 848	IL-4

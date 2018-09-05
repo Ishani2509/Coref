@@ -1,0 +1,23 @@
+T1	Protein 0 5	c-Maf
+T2	Protein 327 332	c-Maf
+T3	Protein 337 342	c-Myb
+T4	Protein 462 467	c-Myb
+T5	Protein 977 982	c-Maf
+T6	Protein 1033 1038	c-Maf
+T7	Protein 1109 1114	c-Maf
+T8	Protein 1342 1347	c-Maf
+T9	Protein 1455 1460	c-Myb
+T10	Protein 1488 1493	Bcl-2
+T11	Protein 1498 1502	CD13
+T12	Protein 1503 1506	APN
+T13	Exp 88 118	The transcriptional mechanisms	108 118	mechanisms
+T14	Exp 119 123	that
+T15	Exp 410 430	inhibitory complexes	421 430	complexes
+T16	Exp 431 435	that
+T17	Exp 528 543	These complexes	534 543	complexes
+T18	Exp 1275 1282	targets
+T19	Exp 1283 1287	that
+R1	Coref Anaphora:T14 Antecedent:T13
+R2	Coref Anaphora:T16 Antecedent:T15
+R3	Coref Anaphora:T17 Antecedent:T15
+R4	Coref Anaphora:T19 Antecedent:T18

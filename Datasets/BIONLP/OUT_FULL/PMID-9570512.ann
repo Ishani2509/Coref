@@ -1,0 +1,39 @@
+T3	Exp 170 184	The generation
+T4	Exp 213 223	the course
+T5	Exp 241 254	the potential
+T6	Exp 323 342	the proviral genome
+T7	Exp 534 536	we
+T8	Exp 378 388	the impact
+T9	Exp 482 508	the central nervous system
+T10	Exp 759 771	the sequence
+T11	Exp 775 786	the LAI LTR
+T12	Exp 795 815	the 455-bp U3 region
+T13	Exp 906 910	that
+T14	Exp 945 950	which
+T15	Exp 977 988	the LAI LTR
+T16	Exp 919 929	these LTRs
+T17	Exp 1111 1116	which
+T18	Exp 1269 1273	when
+T19	Exp 1130 1152	the highest activities
+T20	Exp 1217 1225	the LTRs
+T21	Exp 1286 1297	the LAI LTR
+T22	Exp 1419 1432	the U3 region
+T23	Exp 1436 1443	the LTR
+T24	Exp 1776 1778	we
+T25	Exp 1771 1775	that
+T26	Exp 1704 1713	the LEF-1
+T27	Exp 1813 1826	the HIV-1 LTR
+T28	Exp 1851 1855	that
+T29	Exp 1959 1964	which
+T30	Exp 1985 1995	the course
+T31	Exp 1828 1842	These findings
+R5	Coref Anaphora:T14 Antecedent:T32
+R6	Coref Anaphora:T17 Antecedent:T33
+R7	Coref Anaphora:T25 Antecedent:T34
+R8	Coref Anaphora:T29 Antecedent:T35
+T1	Protein 1064 1067	CD4
+T2	Protein 1708 1713	LEF-1
+T32	Exp 934 944	activities
+T33	Exp 1106 1110	LTRs
+T34	Exp 1764 1769	sites
+T35	Exp 1925 1957	transcription factor recruitment

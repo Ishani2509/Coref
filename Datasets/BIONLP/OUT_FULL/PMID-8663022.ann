@@ -1,0 +1,48 @@
+T21	Exp 28 45	their coactivator
+T22	Exp 59 74	the murine PU.1
+T23	Exp 284 288	both
+T24	Exp 120 155	the Ets transcription factor family
+T25	Exp 292 306	these lineages
+T26	Exp 308 328	Our previous studies
+T27	Exp 620 636	its own promoter
+T28	Exp 498 502	that
+T29	Exp 600 604	that
+T30	Exp 503 520	the PU.1 promoter
+T31	Exp 669 671	we
+T32	Exp 677 681	that
+T33	Exp 682 706	the murine PU.1 promoter
+T34	Exp 854 863	this site
+T35	Exp 910 912	We
+T36	Exp 930 934	that
+T37	Exp 1027 1043	the octamer site
+T38	Exp 1049 1057	the PU.1
+T39	Exp 1088 1090	we
+T40	Exp 1096 1100	that
+T41	Exp 1200 1204	that
+T42	Exp 1101 1106	the B
+T43	Exp 1240 1257	the PU.1 promoter
+T44	Exp 1343 1373	the B cell specific expression
+T45	Exp 1394 1410	the octamer site
+T46	Exp 1285 1296	This B cell
+R3	Coref Anaphora:T21 Antecedent:T47
+R4	Coref Anaphora:T27 Antecedent:T6
+T1	Protein 70 74	PU.1
+T2	Protein 76 81	spi-1
+T3	Protein 94 98	PU.1
+T4	Protein 100 105	spi-1
+T5	Protein 507 511	PU.1
+T6	Protein 605 609	PU.1
+T7	Protein 693 697	PU.1
+T8	Protein 775 780	Oct-1
+T9	Protein 785 790	Oct-2
+T10	Protein 998 1001	Sp1
+T11	Protein 1053 1057	PU.1
+T12	Protein 1124 1129	OBF-1
+T13	Protein 1130 1134	Bob1
+T14	Protein 1135 1140	OCA-B
+T15	Protein 1205 1210	OBF-1
+T16	Protein 1211 1215	Bob1
+T17	Protein 1216 1221	OCA-B
+T18	Protein 1244 1248	PU.1
+T19	Protein 1377 1381	PU.1
+T47	Exp 0 23	Octamer binding factors

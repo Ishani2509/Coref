@@ -1,0 +1,33 @@
+T17	Exp 123 149	the human Raji B cell line
+T18	Exp 152 166	The expression
+T19	Exp 350 362	the majority
+T20	Exp 366 391	the non professional APCs
+T21	Exp 412 414	We
+T22	Exp 466 471	which
+T23	Exp 564 566	we
+T24	Exp 651 663	this protein
+T25	Exp 781 808	The class II transactivator
+T26	Exp 1056 1060	that
+T27	Exp 1153 1157	that
+T28	Exp 1061 1075	the IK protein
+T29	Exp 1096 1123	the constitutive expression
+T30	Exp 1030 1043	these results
+T31	Exp 1207 1230	this regulatory pathway
+R3	Coref Anaphora:T22 Antecedent:T5
+R4	Coref Anaphora:T24 Antecedent:T7
+T1	Protein 11 13	IK
+T2	Protein 18 27	IFN-gamma
+T3	Protein 318 334	interferon-gamma
+T4	Protein 336 345	IFN-gamma
+T5	Protein 463 465	IK
+T6	Protein 501 510	IFN-gamma
+T7	Protein 596 598	IK
+T8	Protein 785 808	class II transactivator
+T9	Protein 810 815	CIITA
+T10	Protein 856 865	IFN-gamma
+T11	Protein 915 920	CIITA
+T12	Protein 929 931	IK
+T13	Protein 989 994	CIITA
+T14	Protein 1065 1067	IK
+T15	Protein 1180 1182	IK
+T16	Protein 1198 1203	CIITA

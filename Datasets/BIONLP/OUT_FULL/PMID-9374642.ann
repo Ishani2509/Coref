@@ -1,0 +1,24 @@
+T12	Exp 324 326	we
+T13	Exp 340 344	that
+T14	Exp 507 519	the presence
+T15	Exp 661 676	the combination
+T16	Exp 835 849	such increases
+T17	Exp 1141 1201	the nuclear transcription factor-kappa B p65 (Rel A) subunit
+T18	Exp 1274 1278	both
+T19	Exp 1203 1229	Such proteasome activation
+T20	Exp 1274 1314	both extracellular and intracellular pH.
+T21	Exp 1315 1317	We
+T22	Exp 1346 1350	that
+T23	Exp 1332 1345	these studies
+R2	Coref Anaphora:T22 Antecedent:T23
+T1	Protein 42 48	ICAM-1
+T2	Protein 96 129	Intercellular adhesion molecule 1
+T3	Protein 131 137	ICAM-1
+T4	Protein 448 454	ICAM-1
+T5	Protein 607 613	ICAM-1
+T6	Protein 653 659	ICAM-1
+T7	Protein 736 742	ICAM-1
+T8	Protein 885 891	ICAM-1
+T9	Protein 1182 1185	p65
+T10	Protein 1187 1192	Rel A
+T11	Protein 1423 1429	ICAM-1

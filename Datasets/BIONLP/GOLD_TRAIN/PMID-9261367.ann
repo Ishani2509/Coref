@@ -1,0 +1,15 @@
+T1	Protein 102 105	Tat
+T2	Protein 204 207	Tat
+T3	Protein 508 511	Tat
+T4	Protein 598 625	tumor necrosis factor alpha
+T5	Protein 715 718	Tat
+T6	Protein 767 770	Tat
+T7	Protein 963 966	Tat
+T8	Protein 1306 1309	Tat
+T9	Protein 1566 1569	Tat
+T10	Exp 160 207	Human immunodeficiency virus type 1 (HIV-1) Tat
+T11	Exp 209 236	an early regulatory protein	229 236	protein
+T12	Exp 237 241	that
+T13	Exp 353 356	its
+R1	Coref Anaphora:T12 Antecedent:T11
+R2	Coref Anaphora:T13 Antecedent:T10	[T2]

@@ -1,0 +1,24 @@
+T1	Protein 49 62	interleukin-8
+T2	Protein 152 165	interleukin-8
+T3	Protein 167 171	IL-8
+T4	Protein 303 307	IL-8
+T5	Protein 390 394	IL-8
+T6	Protein 440 444	IL-8
+T7	Protein 556 563	NF-IL-6
+T8	Protein 739 743	IL-8
+T9	Protein 809 813	IL-8
+T10	Protein 934 946	IkappaBalpha
+T11	Protein 951 955	IL-8
+T12	Protein 1115 1127	IkappaBalpha
+T13	Protein 1262 1274	C5a receptor
+T14	Protein 1319 1323	IL-8
+T15	Protein 1488 1492	IL-8
+T16	Exp 291 318	C5a-induced IL-8 production	308 318	production
+T17	Exp 320 325	which
+T18	Exp 543 584	AP-1 but not NF-IL-6 DNA binding activity	576 584	activity
+T19	Exp 636 639	its
+T20	Exp 1184 1199	Pertussis toxin	1194 1199	toxin
+T21	Exp 1201 1206	which
+R1	Coref Anaphora:T17 Antecedent:T16	[T4]
+R2	Coref Anaphora:T19 Antecedent:T18	[T7]
+R3	Coref Anaphora:T21 Antecedent:T20

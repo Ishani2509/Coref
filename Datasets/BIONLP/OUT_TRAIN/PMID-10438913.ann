@@ -1,0 +1,49 @@
+T19	Exp 178 180	it
+T20	Exp 188 213	its costimulatory actions
+T21	Exp 172 177	which
+T22	Exp 90 98	the role
+T23	Exp 154 168	the mechanisms
+T24	Exp 252 254	it
+T25	Exp 283 294	the effects
+T26	Exp 386 388	we
+T27	Exp 465 469	that
+T28	Exp 441 464	the natural ligand CD80
+T29	Exp 639 643	both
+T30	Exp 684 708	the intact IL-2 promoter
+T31	Exp 772 783	the actions
+T32	Exp 787 822	the immunosuppressant cyclosporin A
+T33	Exp 957 961	that
+T34	Exp 878 890	the addition
+T35	Exp 924 941	the IL-2 receptor
+T36	Exp 962 971	this form
+T37	Exp 1022 1024	We
+T38	Exp 1110 1114	that
+T39	Exp 1043 1054	the effects
+T40	Exp 1159 1170	this system
+T41	Exp 1172 1174	We
+T42	Exp 1184 1188	that
+T43	Exp 1275 1280	which
+T44	Exp 1254 1265	the absence
+R5	Coref Anaphora:T21 Antecedent:T23
+R6	Coref Anaphora:T19 Antecedent:T22
+R7	Coref Anaphora:T20 Antecedent:T22
+R8	Coref Anaphora:T27 Antecedent:T28
+R9	Coref Anaphora:T43 Antecedent:T18
+T1	Protein 0 4	IL-2
+T2	Protein 74 78	CD28
+T3	Protein 102 106	CD28
+T4	Protein 298 302	CD28
+T5	Protein 349 353	IL-2
+T6	Protein 407 411	CD28
+T7	Protein 460 464	CD80
+T8	Protein 510 514	IL-2
+T9	Protein 561 565	IL-2
+T10	Protein 613 617	CD28
+T11	Protein 695 699	IL-2
+T12	Protein 915 919	IL-2
+T13	Protein 992 996	CD28
+T14	Protein 1016 1020	IL-2
+T15	Protein 1089 1093	CD80
+T16	Protein 1151 1155	IL-2
+T17	Protein 1189 1193	CD28
+T18	Protein 1269 1273	IL-2

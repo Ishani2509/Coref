@@ -1,0 +1,31 @@
+T8	Exp 72 76	that
+T9	Exp 202 217	The Tat protein
+T10	Exp 405 442	the unusual transcription element TAR
+T11	Exp 596 614	the viral enhancer
+T12	Exp 538 562	This alternative pathway
+T13	Exp 823 841	the kappa B domain
+T14	Exp 1035 1039	that
+T15	Exp 920 937	The present study
+T16	Exp 951 964	the existence
+T17	Exp 1077 1129	The novel astrocyte-derived kappa B-binding activity
+T18	Exp 1276 1280	that
+T19	Exp 1384 1388	that
+T20	Exp 1421 1439	the kappa B domain
+T21	Exp 1389 1404	this activation
+T22	Exp 1569 1574	which
+T23	Exp 1617 1631	The importance
+T24	Exp 1635 1699	the central nervous system-enriched kappa B transcription factor
+T25	Exp 1703 1717	the regulation
+R4	Coref Anaphora:T8 Antecedent:T26
+R5	Coref Anaphora:T14 Antecedent:T27
+R6	Coref Anaphora:T22 Antecedent:T28
+T1	Protein 196 199	Tat
+T2	Protein 206 209	Tat
+T3	Protein 396 399	Tat
+T4	Protein 533 536	Tat
+T5	Protein 566 569	Tat
+T6	Protein 791 794	Tat
+T7	Protein 1154 1157	Tat
+T26	Exp 45 71	a kappa B-binding activity
+T27	Exp 1012 1034	human glial astrocytes
+T28	Exp 1532 1568	an astrocyte factor-dependent manner

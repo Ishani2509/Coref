@@ -1,0 +1,27 @@
+T1	Protein 14 25	Ah receptor
+T2	Protein 27 40	TCDD receptor
+T3	Protein 135 146	Ah receptor
+T4	Protein 148 161	TCDD receptor
+T5	Protein 364 375	Ah receptor
+T6	Protein 437 440	AhR
+T7	Protein 528 535	P450IA1
+T8	Protein 537 540	AhR
+T9	Protein 840 843	AhR
+T10	Protein 1056 1059	AhR
+T11	Protein 1086 1119	transforming growth factor beta 1
+T12	Protein 1194 1197	AhR
+T13	Protein 1256 1259	AhR
+T14	Protein 1561 1564	AhR
+T15	Protein 1596 1603	P450IA1
+T16	Protein 1653 1656	AhR
+T17	Protein 1812 1815	AhR
+T18	Exp 243 252	this gene	248 252	gene
+T19	Exp 412 433	the expression levels	427 433	levels
+T20	Exp 510 515	those
+T21	Exp 537 540	AhR
+T22	Exp 703 705	it
+T23	Exp 1204 1217	The HEL cells	1212 1217	cells
+T24	Exp 1277 1281	they
+R1	Coref Anaphora:T20 Antecedent:T19
+R2	Coref Anaphora:T22 Antecedent:T21	[T8]
+R3	Coref Anaphora:T24 Antecedent:T23

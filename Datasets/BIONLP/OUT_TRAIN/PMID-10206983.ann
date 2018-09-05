@@ -1,0 +1,35 @@
+T11	Exp 363 376	their targets
+T12	Exp 276 281	which
+T13	Exp 186 204	the counterbalance
+T14	Exp 591 606	the 5' promoter
+T15	Exp 610 632	the interleukin-2 gene
+T16	Exp 876 902	their catalytic activation
+T17	Exp 738 742	that
+T18	Exp 654 668	the exact site
+T19	Exp 707 728	the signaling cascade
+T20	Exp 766 814	the mitogen-activated protein (MAP) kinases Erk1
+T21	Exp 846 859	the magnitude
+T22	Exp 1008 1023	the MAP kinases
+T23	Exp 1066 1090	its physical association
+T24	Exp 1099 1126	its noncatalytic N terminus
+T25	Exp 1025 1040	The specificity
+T26	Exp 1196 1198	We
+T27	Exp 1207 1211	that
+T28	Exp 1312 1323	the cytosol
+T29	Exp 1377 1410	the activation-induced expression
+R4	Coref Anaphora:T11 Antecedent:T30
+R5	Coref Anaphora:T16 Antecedent:T31
+R6	Coref Anaphora:T23 Antecedent:T25
+R7	Coref Anaphora:T24 Antecedent:T25
+T1	Protein 76 110	hematopoietic tyrosine phosphatase
+T2	Protein 112 117	HePTP
+T3	Protein 396 438	hematopoietic protein-tyrosine phosphatase
+T4	Protein 440 445	HePTP
+T5	Protein 614 627	interleukin-2
+T6	Protein 698 703	HePTP
+T7	Protein 743 748	HePTP
+T8	Protein 935 940	HePTP
+T9	Protein 1044 1049	HePTP
+T10	Protein 1212 1217	HePTP
+T30	Exp 208 232	protein-tyrosine kinases
+T31	Exp 634 641	Efforts

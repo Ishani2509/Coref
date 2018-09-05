@@ -1,0 +1,10 @@
+T1	Protein 962 965	Sp1
+T2	Protein 970 974	IRBP
+T3	Protein 1130 1133	Sp1
+T4	Protein 1138 1142	IRBP
+T5	Exp 650 688	the carboxylesterase upstream sequence	680 688	sequence
+T6	Exp 700 703	its
+T7	Exp 809 859	the promoter region spanning base pairs -1 to -275	822 828	region
+T8	Exp 861 866	which
+R1	Coref Anaphora:T6 Antecedent:T5
+R2	Coref Anaphora:T8 Antecedent:T7

@@ -1,0 +1,8 @@
+T1	Protein 385 388	Sp1
+T2	Protein 658 661	Sp1
+T3	Protein 776 779	Sp1
+T4	Protein 1039 1042	Sp1
+T5	Protein 1071 1074	Sp1
+T6	Exp 1226 1242	virus production
+T7	Exp 1280 1284	that
+R1	Coref Anaphora:T7 Antecedent:T6

@@ -1,0 +1,21 @@
+T9	Exp 81 90	the level
+T10	Exp 617 630	the induction
+T11	Exp 658 706	the purine-box/antigen receptor response element
+T12	Exp 785 803	the NF-kappaB site
+T13	Exp 864 889	the purine-box/ARRE/NF-AT
+T14	Exp 1089 1094	which
+T15	Exp 1095 1136	the C-terminal TA1 transactivation domain
+T16	Exp 1166 1188	the DNA binding domain
+T17	Exp 1373 1386	The mechanism
+T18	Exp 1541 1575	the purine-box regulator operating
+T19	Exp 1579 1598	the ARRE/NF-AT site
+R2	Coref Anaphora:T14 Antecedent:T20
+T1	Protein 53 66	interleukin-2
+T2	Protein 307 324	interleukin(IL)-2
+T3	Protein 582 586	IL-2
+T4	Protein 975 1002	tumor necrosis factor-alpha
+T5	Protein 1150 1153	p65
+T6	Protein 1192 1196	GAL4
+T7	Protein 1241 1245	IL-8
+T8	Protein 1367 1371	IL-8
+T20	Exp 1054 1085	a chimeric transcription factor

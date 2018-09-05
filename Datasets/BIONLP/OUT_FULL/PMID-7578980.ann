@@ -1,0 +1,26 @@
+T10	Exp 121 134	The induction
+T11	Exp 283 299	The augmentation
+T12	Exp 424 429	which
+T13	Exp 404 417	the mechanism
+T14	Exp 568 586	the priming effect
+T15	Exp 590 606	the LPS response
+T16	Exp 676 685	the level
+T17	Exp 745 758	the magnitude
+T18	Exp 771 786	the sensitivity
+T19	Exp 790 806	the LPS response
+T20	Exp 863 879	the primed state
+T21	Exp 1051 1085	The increased transcriptional rate
+T22	Exp 1158 1169	these cells
+T23	Exp 1433 1461	the increased mRNA stability
+T24	Exp 1463 1475	the duration
+T25	Exp 1673 1698	the kinase inhibitor H-89
+R2	Coref Anaphora:T12 Antecedent:T26
+T1	Protein 0 9	IFN-gamma
+T2	Protein 320 336	interferon gamma
+T3	Protein 338 347	IFN-gamma
+T4	Protein 638 647	IFN-gamma
+T5	Protein 712 721	IFN-gamma
+T6	Protein 902 911	IFN-gamma
+T7	Protein 915 921	GM-CSF
+T8	Protein 931 936	M-CSF
+T26	Exp 418 419	s

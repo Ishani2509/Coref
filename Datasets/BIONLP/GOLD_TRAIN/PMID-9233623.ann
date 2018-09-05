@@ -1,0 +1,30 @@
+T1	Protein 0 3	RP1
+T2	Protein 162 166	CD28
+T3	Protein 482 486	CD28
+T4	Protein 604 608	CD28
+T5	Protein 790 794	CD28
+T6	Protein 873 876	RP1
+T7	Protein 937 977	adenomatous polyposis coli (APC) protein
+T8	Protein 986 989	EB1
+T9	Protein 1065 1068	RP1
+T10	Protein 1135 1138	APC
+T11	Protein 1175 1178	RP1
+T12	Protein 1388 1391	RP1
+T13	Exp 150 176	the CD3 and CD28 molecules	167 176	molecules
+T14	Exp 285 290	their
+T15	Exp 332 337	genes
+T16	Exp 338 342	that
+T17	Exp 387 410	mRNA from T lymphocytes	387 391	mRNA
+T18	Exp 411 415	that
+T19	Exp 907 1001	members of the recently found adenomatous polyposis coli (APC) protein-binding EB1 gene family
+T20	Exp 1003 1008	which
+T21	Exp 1175 1183	RP1 mRNA	1179 1183	mRNA
+T22	Exp 1228 1237	this gene	1233 1237	gene
+T23	Exp 1254 1285	the immediate/early gene family	1279 1285	family
+T24	Exp 1287 1292	which
+R1	Coref Anaphora:T14 Antecedent:T13	[T2]
+R2	Coref Anaphora:T16 Antecedent:T15
+R3	Coref Anaphora:T18 Antecedent:T17
+R4	Coref Anaphora:T20 Antecedent:T19	[T7, T8]
+R5	Coref Anaphora:T22 Antecedent:T21	[T11]
+R6	Coref Anaphora:T24 Antecedent:T23

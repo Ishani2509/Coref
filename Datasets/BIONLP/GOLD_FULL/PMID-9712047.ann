@@ -1,0 +1,8 @@
+T1	Protein 47 51	IL-2
+T2	Protein 155 159	IL-2
+T3	Protein 556 560	IL-2
+T4	Protein 656 660	IL-2
+T5	Protein 775 779	IL-2
+T6	Exp 362 397	a cyclosporin A-insensitive pathway	390 397	pathway
+T7	Exp 398 402	that
+R1	Coref Anaphora:T7 Antecedent:T6

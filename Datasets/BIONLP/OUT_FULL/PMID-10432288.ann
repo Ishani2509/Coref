@@ -1,0 +1,53 @@
+T25	Exp 260 262	It
+T26	Exp 303 328	its antiapoptotic effects
+T27	Exp 285 289	that
+T28	Exp 379 395	the Bcl-2 family
+T29	Exp 426 439	the mechanism
+T30	Exp 443 468	the antiapoptotic effects
+T31	Exp 508 512	that
+T32	Exp 654 656	We
+T33	Exp 668 672	that
+T34	Exp 703 717	the prevention
+T35	Exp 847 851	that
+T36	Exp 1074 1078	that
+T37	Exp 815 828	The mechanism
+T38	Exp 867 892	the nuclear translocation
+T39	Exp 1116 1127	the nucleus
+T40	Exp 832 843	this effect
+T41	Exp 1165 1178	the FasL gene
+T42	Exp 1205 1207	it
+T43	Exp 1216 1220	that
+T44	Exp 1248 1252	that
+T45	Exp 1318 1331	the induction
+T46	Exp 1502 1513	The effects
+R6	Coref Anaphora:T26 Antecedent:T4
+R7	Coref Anaphora:T31 Antecedent:T47
+R8	Coref Anaphora:T36 Antecedent:T48
+R9	Coref Anaphora:T42 Antecedent:T41
+R10	Coref Anaphora:T44 Antecedent:T49
+T1	Protein 0 5	Bcl-2
+T2	Protein 125 135	Fas ligand
+T3	Protein 152 157	Bcl-2
+T4	Protein 290 295	Bcl-2
+T5	Protein 404 407	Bax
+T6	Protein 412 415	Bad
+T7	Protein 558 561	Fas
+T8	Protein 562 572	Fas ligand
+T9	Protein 574 578	FasL
+T10	Protein 610 614	FasL
+T11	Protein 673 678	Bcl-2
+T12	Protein 769 773	FasL
+T13	Protein 852 857	Bcl-2
+T14	Protein 1169 1173	FasL
+T15	Protein 1335 1339	FasL
+T16	Protein 1354 1359	Bcl-2
+T17	Protein 1485 1489	FasL
+T18	Protein 1517 1522	Bcl-2
+T19	Protein 1587 1592	Bcl-2
+T20	Protein 1609 1614	Bcl-2
+T21	Protein 1627 1638	calcineurin
+T22	Protein 1661 1665	FasL
+T23	Protein 1708 1713	Bcl-2
+T47	Exp 502 507	drugs
+T48	Exp 1042 1073	a calcium-dependent phosphatase
+T49	Exp 1242 1247	drugs

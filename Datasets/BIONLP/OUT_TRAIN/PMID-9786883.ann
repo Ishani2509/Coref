@@ -1,0 +1,35 @@
+T19	Exp 98 117	the homing receptor
+T20	Exp 143 165	The chemokine receptor
+T21	Exp 197 226	the microenvironmental homing
+T22	Exp 345 349	that
+T23	Exp 312 344	the TATA-less blr1 core promoter
+T24	Exp 411 422	the B cells
+T25	Exp 498 526	the transcription start site
+T26	Exp 693 699	either
+T27	Exp 595 609	The importance
+T28	Exp 613 624	these sites
+T29	Exp 693 705	either Oct-2
+T30	Exp 778 792	the expression
+T31	Exp 763 776	these animals
+T32	Exp 902 910	our data
+T33	Exp 923 927	that
+T34	Exp 982 1006	the NF-kappaB/Rel family
+T35	Exp 1030 1077	the impaired B cell functions in mice deficient
+T36	Exp 1082 1095	these factors
+R4	Coref Anaphora:T22 Antecedent:T23
+R5	Coref Anaphora:T36 Antecedent:T34
+T1	Protein 49 54	Oct-2
+T2	Protein 56 60	Bob1
+T3	Protein 118 122	BLR1
+T4	Protein 167 171	BLR1
+T5	Protein 326 330	blr1
+T6	Protein 700 705	Oct-2
+T7	Protein 707 711	Bob1
+T8	Protein 740 743	p50
+T9	Protein 748 751	p52
+T10	Protein 796 800	BLR1
+T11	Protein 850 853	p52
+T12	Protein 865 869	BLR1
+T13	Protein 928 932	BLR1
+T14	Protein 954 959	Oct-2
+T15	Protein 961 965	Bob1

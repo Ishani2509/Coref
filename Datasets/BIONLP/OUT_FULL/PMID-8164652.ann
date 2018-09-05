@@ -1,0 +1,43 @@
+T17	Exp 44 105	the major histocompatibility complex class II invariant chain
+T18	Exp 192 204	The promoter
+T19	Exp 208 286	the human major histocompatibility complex class II-associated invariant-chain
+T20	Exp 415 443	the transcription start site
+T21	Exp 445 447	We
+T22	Exp 460 464	that
+T23	Exp 494 498	each
+T24	Exp 465 490	the differential function
+T25	Exp 502 528	these NF-kappa B/Rel sites
+T26	Exp 703 732	the Ii-expressing T-cell line
+T27	Exp 896 901	which
+T28	Exp 902 911	this site
+T29	Exp 1023 1027	that
+T30	Exp 1125 1129	that
+T31	Exp 1152 1156	that
+T32	Exp 1039 1064	the NF-kappa B/Rel family
+T33	Exp 1232 1244	the presence
+T34	Exp 1102 1111	this site
+T35	Exp 1489 1507	the H9 T-cell line
+T36	Exp 1459 1468	this site
+T37	Exp 1553 1557	that
+T38	Exp 1558 1570	the presence
+T39	Exp 1640 1652	the presence
+T40	Exp 1791 1814	the disparate functions
+T41	Exp 1708 1733	This differential binding
+T42	Exp 1818 1842	these two NF-kappa B/Rel
+R4	Coref Anaphora:T27 Antecedent:T43
+R5	Coref Anaphora:T31 Antecedent:T44
+T1	Protein 48 105	major histocompatibility complex class II invariant chain
+T2	Protein 224 286	histocompatibility complex class II-associated invariant-chain
+T3	Protein 1165 1168	p50
+T4	Protein 1170 1173	p52
+T5	Protein 1175 1178	p65
+T6	Protein 1184 1188	cRel
+T7	Protein 1248 1251	p50
+T8	Protein 1574 1577	p50
+T9	Protein 1579 1582	p52
+T10	Protein 1584 1587	p65
+T11	Protein 1593 1597	cRel
+T12	Protein 1661 1664	p50
+T13	Protein 1669 1672	p52
+T43	Exp 882 892	cell lines
+T44	Exp 1130 1151	DNA-binding complexes

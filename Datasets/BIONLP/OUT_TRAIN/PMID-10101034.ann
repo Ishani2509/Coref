@@ -1,0 +1,47 @@
+T11	Exp 105 108	its
+T12	Exp 211 215	that
+T13	Exp 176 201	The therapeutic potential
+T14	Exp 222 235	the induction
+T15	Exp 549 551	we
+T16	Exp 385 452	its deacetylated metabolite 2-hydroxy-4-trifluoromethylbenzoic acid
+T17	Exp 277 281	When
+T18	Exp 561 565	that
+T19	Exp 894 896	we
+T20	Exp 906 910	that
+T21	Exp 934 941	neither
+T22	Exp 867 892	this apparent discrepancy
+T23	Exp 934 949	neither aspirin
+T24	Exp 1155 1160	which
+T25	Exp 1079 1095	This observation
+T26	Exp 1393 1404	the ability
+T27	Exp 1435 1449	the activation
+T28	Exp 1453 1477	the transcription factor
+T29	Exp 1336 1359	This different behavior
+T30	Exp 1672 1690	its metabolite HTB
+T31	Exp 1587 1605	the COX-2 activity
+T32	Exp 1691 1705	the expression
+T33	Exp 1731 1745	the resumption
+T34	Exp 1828 1833	which
+T35	Exp 1926 1931	which
+R7	Coref Anaphora:T11 Antecedent:T36
+R8	Coref Anaphora:T12 Antecedent:T37
+R9	Coref Anaphora:T16 Antecedent:T38
+R10	Coref Anaphora:T30 Antecedent:T39
+R11	Coref Anaphora:T34 Antecedent:T40
+R12	Coref Anaphora:T35 Antecedent:T41
+T1	Protein 14 30	cyclooxygenase-2
+T2	Protein 239 255	cyclooxygenase-2
+T3	Protein 512 528	cyclooxygenase-2
+T4	Protein 530 535	COX-2
+T5	Protein 687 692	COX-2
+T6	Protein 845 850	COX-2
+T7	Protein 1015 1020	COX-2
+T8	Protein 1318 1323	COX-2
+T9	Protein 1591 1596	COX-2
+T10	Protein 1842 1847	COX-2
+T36	Exp 78 88	salicylate
+T37	Exp 205 210	drugs
+T38	Exp 328 368	2-acetoxy-4-trifluoromethyl-benzoic acid
+T39	Exp 1637 1646	triflusal
+T40	Exp 1815 1824	processes
+T41	Exp 1899 1922	pathological situations

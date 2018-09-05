@@ -1,0 +1,25 @@
+T7	Exp 133 154	the human CBFA2 locus
+T8	Exp 274 278	that
+T9	Exp 249 268	the Drosophila gene
+T10	Exp 191 200	This gene
+T11	Exp 408 410	we
+T12	Exp 424 437	their pattern
+T13	Exp 334 342	the role
+T14	Exp 486 495	the adult
+T15	Exp 576 578	we
+T16	Exp 553 574	the adult bone marrow
+T17	Exp 679 700	the erythroid lineage
+T18	Exp 750 767	the erythroblasts
+T19	Exp 798 813	the fetal liver
+T20	Exp 829 838	the adult
+T21	Exp 971 975	them
+R4	Coref Anaphora:T8 Antecedent:T4
+R5	Coref Anaphora:T12 Antecedent:T5
+R6	Coref Anaphora:T21 Antecedent:T22
+T1	Protein 42 46	runt
+T2	Protein 143 148	CBFA2
+T3	Protein 219 223	AML1
+T4	Protein 269 273	runt
+T5	Protein 356 360	runt
+T6	Protein 702 706	runt
+T22	Exp 932 953	several runt isoforms

@@ -1,0 +1,38 @@
+T8	Exp 246 248	we
+T9	Exp 452 491	its inactive analog methylthiogliotoxin
+T10	Exp 254 258	that
+T11	Exp 259 267	the rate
+T12	Exp 408 439	the fungal metabolite gliotoxin
+T13	Exp 538 568	the caspase inhibitor zVAD-fmk
+T14	Exp 586 600	the inhibition
+T15	Exp 791 815	the proteasome inhibitor
+T16	Exp 493 507	This induction
+T17	Exp 863 872	the early
+T18	Exp 974 985	the ability
+T19	Exp 1242 1266	its early killing effect
+T20	Exp 1145 1149	that
+T21	Exp 1163 1174	the ability
+T22	Exp 1394 1398	when
+T23	Exp 1459 1463	that
+T24	Exp 1516 1521	which
+T25	Exp 1487 1501	the production
+T26	Exp 1547 1568	the cytotoxic effects
+T27	Exp 1717 1721	that
+T28	Exp 1608 1648	the biochemical and molecular mechanisms
+T29	Exp 1722 1756	the transcription factor NF-kappaB
+T30	Exp 1792 1828	the physiological cell death pathway
+T31	Exp 1583 1593	These data
+R5	Coref Anaphora:T9 Antecedent:T12
+R6	Coref Anaphora:T20 Antecedent:T32
+R7	Coref Anaphora:T19 Antecedent:T33
+R8	Coref Anaphora:T24 Antecedent:T34
+T1	Protein 906 933	tumor necrosis factor-alpha
+T2	Protein 935 944	TNF-alpha
+T3	Protein 989 998	TNF-alpha
+T4	Protein 1047 1056	TNF-alpha
+T5	Protein 1178 1187	TNF-alpha
+T6	Protein 1335 1344	TNF-alpha
+T7	Protein 1572 1581	TNF-alpha
+T32	Exp 1134 1144	a response
+T33	Exp 1197 1206	apoptosis
+T34	Exp 1513 1514	s

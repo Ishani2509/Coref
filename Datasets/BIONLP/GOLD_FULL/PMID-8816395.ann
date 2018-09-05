@@ -1,0 +1,16 @@
+T1	Protein 203 222	vitamin D receptors
+T2	Protein 224 227	VDR
+T3	Protein 347 350	VDR
+T4	Protein 454 458	IL-4
+T5	Protein 460 464	IL-4
+T6	Protein 535 538	VDR
+T7	Protein 687 722	25-hydroxyvitamin D3 24-hydroxylase
+T8	Protein 775 782	CD40 Ag
+T9	Protein 1274 1277	VDR
+T10	Protein 1381 1395	24-hydroxylase
+T11	Exp 1022 1055	these cellular activation signals	1048 1055	signals
+T12	Exp 1057 1062	which
+T13	Exp 1579 1596	1 alpha,25(OH)2D3
+T14	Exp 1667 1670	its
+R1	Coref Anaphora:T12 Antecedent:T11
+R2	Coref Anaphora:T14 Antecedent:T13

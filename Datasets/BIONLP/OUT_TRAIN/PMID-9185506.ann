@@ -1,0 +1,40 @@
+T14	Exp 153 157	that
+T15	Exp 366 368	It
+T16	Exp 394 397	how
+T17	Exp 468 471	why
+T18	Exp 421 433	the function
+T19	Exp 437 464	the inflammatory infiltrate
+T20	Exp 472 483	the disease
+T21	Exp 624 629	which
+T22	Exp 630 644	the mechanisms
+T23	Exp 876 909	the reduced tissue concentrations
+T24	Exp 951 976	the diminished expression
+T25	Exp 1162 1183	the IkappaBalpha gene
+T26	Exp 1200 1225	the nuclear translocation
+T27	Exp 1241 1268	the xenotransplanted tissue
+T28	Exp 1117 1131	These findings
+T29	Exp 1306 1310	that
+T30	Exp 1431 1455	the inflammatory lesions
+T31	Exp 1501 1511	the T cell
+T32	Exp 1549 1563	the activation
+T33	Exp 1727 1742	The persistence
+T34	Exp 1851 1865	the chronicity
+T35	Exp 1869 1880	the disease
+T36	Exp 1929 1959	this inflammatory vasculopathy
+R4	Coref Anaphora:T14 Antecedent:T37
+R5	Coref Anaphora:T15 Antecedent:T38
+R6	Coref Anaphora:T21 Antecedent:T39
+T1	Protein 913 917	IL-2
+T2	Protein 919 927	IL-1beta
+T3	Protein 933 937	IL-6
+T4	Protein 1029 1038	IFN-gamma
+T5	Protein 1091 1100	TGF-beta1
+T6	Protein 1166 1178	IkappaBalpha
+T7	Protein 1521 1525	IL-2
+T8	Protein 1530 1539	IFN-gamma
+T9	Protein 1628 1636	IL-1beta
+T10	Protein 1679 1688	TGF-beta1
+T11	Protein 1746 1755	TGF-beta1
+T37	Exp 131 152	a vasculitic syndrome
+T38	Exp 214 236	Glucocorticoid therapy
+T39	Exp 613 620	a model

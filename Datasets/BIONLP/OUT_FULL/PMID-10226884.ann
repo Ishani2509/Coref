@@ -1,0 +1,22 @@
+T11	Exp 56 75	the immune response
+T12	Exp 148 162	the regulation
+T13	Exp 166 185	the immune response
+T14	Exp 350 375	their distinct expression
+T15	Exp 551 562	the balance
+T16	Exp 611 622	the outcome
+T17	Exp 744 763	the molecular basis
+T18	Exp 768 798	the tissue-specific expression
+T19	Exp 862 864	we
+T20	Exp 874 899	the possible in vivo role
+T21	Exp 996 1015	the immune response
+T22	Exp 850 861	this review
+R3	Coref Anaphora:T14 Antecedent:T23
+T1	Protein 226 229	CD4
+T2	Protein 436 440	IL-2
+T3	Protein 445 454	IFN-gamma
+T4	Protein 482 486	IL-4
+T5	Protein 488 492	IL-5
+T6	Protein 494 498	IL-6
+T7	Protein 500 505	IL-10
+T8	Protein 511 516	IL-13
+T23	Exp 318 332	effector cells

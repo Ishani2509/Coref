@@ -1,0 +1,46 @@
+T34	Exp 0 9	The state
+T35	Exp 65 76	the effects
+T36	Exp 213 217	they
+T37	Exp 116 140	The molecular mechanisms
+T38	Exp 144 155	the effects
+T39	Exp 370 384	the expression
+T40	Exp 809 834	the transcriptional level
+T41	Exp 894 909	these cytokines
+T42	Exp 952 964	The reversal
+T43	Exp 1109 1119	The effect
+T44	Exp 1141 1180	the monocyte maturation/differentiation
+T45	Exp 1123 1137	both cytokines
+T46	Exp 1525 1529	that
+T47	Exp 1413 1428	these cytokines
+R9	Coref Anaphora:T36 Antecedent:T38
+T49	SPAN 738 752	IL-4 and IL-13
+R10	Coref Anaphora:T41 Antecedent:T49
+T50	SPAN 1367 1381	CD11b and CD13
+R11	Coref Anaphora:T47 Antecedent:T50
+R12	Coref Anaphora:T46 Antecedent:T48
+T1	Protein 80 84	IL-4
+T2	Protein 89 94	IL-13
+T3	Protein 159 163	IL-4
+T4	Protein 168 173	IL-13
+T5	Protein 342 346	IL-4
+T6	Protein 351 356	IL-13
+T7	Protein 494 500	p24 Ag
+T8	Protein 538 542	IL-4
+T9	Protein 612 616	IL-4
+T10	Protein 738 742	IL-4
+T11	Protein 747 752	IL-13
+T12	Protein 1048 1052	IL-4
+T13	Protein 1182 1187	CD11b
+T14	Protein 1189 1193	CD13
+T15	Protein 1199 1203	CD26
+T16	Protein 1235 1239	CD14
+T17	Protein 1244 1248	CD68
+T18	Protein 1264 1268	IL-4
+T19	Protein 1278 1283	CD11b
+T20	Protein 1299 1303	CD26
+T21	Protein 1327 1331	CD13
+T22	Protein 1338 1343	IL-13
+T23	Protein 1367 1372	CD11b
+T24	Protein 1377 1381	CD13
+T25	Protein 1400 1404	CD26
+T48	Exp 1507 1524	divergent effects

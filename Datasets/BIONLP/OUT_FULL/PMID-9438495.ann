@@ -1,0 +1,31 @@
+T16	Exp 87 110	the autocrine secretion
+T17	Exp 144 155	the control
+T18	Exp 373 375	we
+T19	Exp 394 402	its role
+T20	Exp 895 910	this inhibition
+T21	Exp 983 995	the cultures
+T22	Exp 1096 1110	the inhibition
+T23	Exp 1166 1183	the same cultures
+T24	Exp 1339 1345	either
+T25	Exp 1349 1361	the presence
+T26	Exp 1365 1376	the absence
+T27	Exp 1391 1402	Our results
+T28	Exp 1524 1535	its ability
+T29	Exp 1571 1582	the nucleus
+R3	Coref Anaphora:T19 Antecedent:T1
+R4	Coref Anaphora:T28 Antecedent:T30
+T1	Protein 195 228	Tumor necrosis factor (TNF)-alpha
+T2	Protein 486 495	TNF-alpha
+T3	Protein 510 519	TNF-alpha
+T4	Protein 560 569	TNF-alpha
+T5	Protein 664 673	TNF-alpha
+T6	Protein 705 708	p24
+T7	Protein 739 742	CD4
+T8	Protein 791 800	TNF-alpha
+T9	Protein 1015 1019	IL-2
+T10	Protein 1034 1043	TNF-alpha
+T11	Protein 1118 1121	p24
+T12	Protein 1200 1209	TNF-alpha
+T13	Protein 1386 1389	Tat
+T14	Protein 1443 1452	TNF-alpha
+T30	Exp 1478 1493	HIV replication

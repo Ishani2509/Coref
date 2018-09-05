@@ -1,0 +1,16 @@
+T1	Protein 11 14	Myc
+T2	Protein 15 18	Max
+T3	Protein 369 374	c-Myc
+T4	Protein 448 453	c-Myc
+T5	Protein 564 567	Max
+T6	Protein 674 677	Myc
+T7	Protein 745 748	Max
+T8	Protein 866 869	Myc
+T9	Protein 946 949	Max
+T10	Exp 448 453	c-Myc
+T11	Exp 529 532	its
+T12	Exp 529 562	its heterodimeric binding partner	555 562	partner
+T13	Exp 564 567	Max
+T14	Exp 569 574	which
+R1	Coref Anaphora:T11 Antecedent:T10	[T4]
+R2	Coref Anaphora:T14 Antecedent:T12

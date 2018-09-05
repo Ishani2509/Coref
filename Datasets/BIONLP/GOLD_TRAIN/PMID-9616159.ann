@@ -1,0 +1,16 @@
+T1	Protein 137 164	tumor necrosis factor alpha
+T2	Protein 166 174	TNFalpha
+T3	Protein 364 369	TRAIL
+T4	Protein 371 408	TNF-related apoptosis-inducing ligand
+T5	Protein 509 517	TNFalpha
+T6	Protein 557 561	FADD
+T7	Protein 667 672	TRAIL
+T8	Protein 674 678	CD95
+T9	Protein 680 688	TNFalpha
+T10	Protein 854 866	IkappaBalpha
+T11	Exp 238 290	a nuclear factor kappaB (NFkappaB)-dependent program	283 290	program
+T12	Exp 291 295	that
+T13	Exp 995 1043	both in cell lines and in primary leukemia cells
+T14	Exp 1044 1048	that
+R1	Coref Anaphora:T12 Antecedent:T11
+R2	Coref Anaphora:T14 Antecedent:T13

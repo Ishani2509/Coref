@@ -1,0 +1,22 @@
+T5	Exp 45 71	the initial viral promoter
+T6	Exp 214 241	the CR2 complement receptor
+T7	Exp 269 273	that
+T8	Exp 384 389	which
+T9	Exp 498 503	which
+T10	Exp 254 268	the mechanisms
+T11	Exp 462 496	the NF-kappaB transcription factor
+T12	Exp 570 608	the initial viral latent gene promoter
+T13	Exp 631 652	its cellular receptor
+T14	Exp 736 741	which
+R6	Coref Anaphora:T7 Antecedent:T10
+R7	Coref Anaphora:T8 Antecedent:T15
+R8	Coref Anaphora:T9 Antecedent:T11
+R9	Coref Anaphora:T13 Antecedent:T16
+R10	Coref Anaphora:T14 Antecedent:T17
+T1	Protein 30 34	CD21
+T2	Protein 208 212	CD21
+T3	Protein 218 221	CR2
+T4	Protein 405 409	CD21
+T15	Exp 374 380	events
+T16	Exp 616 627	EBV binding
+T17	Exp 681 735	an NF-kappaB-dependent intracellular signaling pathway

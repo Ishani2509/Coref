@@ -1,0 +1,19 @@
+T8	Exp 212 226	the modulation
+T9	Exp 267 282	The interaction
+T10	Exp 286 311	the transcription factors
+T11	Exp 915 919	that
+T12	Exp 1035 1059	the nuclear localization
+T13	Exp 1093 1124	the other transcription factors
+T14	Exp 989 1009	These latter effects
+T15	Exp 1140 1144	that
+T16	Exp 1170 1181	the nucleus
+T17	Exp 1242 1253	the process
+T18	Exp 1148 1159	these cells
+R2	Coref Anaphora:T11 Antecedent:T19
+T1	Protein 442 466	glucocorticoid receptors
+T2	Protein 468 470	GR
+T3	Protein 559 568	TNF-alpha
+T4	Protein 570 579	IL-1 beta
+T5	Protein 1063 1065	GR
+T6	Protein 1160 1162	GR
+T19	Exp 898 914	CREB DNA binding

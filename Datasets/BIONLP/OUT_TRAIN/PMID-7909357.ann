@@ -1,0 +1,52 @@
+T15	Exp 21 68	the ets transcription factor/oncoprotein family
+T16	Exp 207 212	which
+T17	Exp 159 178	The ets gene family
+T18	Exp 343 345	We
+T19	Exp 467 472	which
+T20	Exp 398 435	the murine immunoglobulin heavy-chain
+T21	Exp 683 685	we
+T22	Exp 626 630	that
+T23	Exp 656 662	the pi
+T24	Exp 666 681	the microB site
+T25	Exp 791 805	the ets family
+T26	Exp 807 809	We
+T27	Exp 822 830	the gene
+T28	Exp 907 942	the murine pre-B cell line BASC 6C2
+T29	Exp 971 986	The ERP protein
+T30	Exp 1027 1053	the ETS DNA-binding domain
+T31	Exp 1239 1243	that
+T32	Exp 1178 1203	the ELK-1 and SAP-1 genes
+T33	Exp 1219 1238	the ets gene family
+T34	Exp 1259 1284	the serum response factor
+T35	Exp 1352 1358	itself
+T36	Exp 1371 1391	the carboxy terminus
+T37	Exp 1462 1474	the E74 site
+T38	Exp 1476 1500	the IgH enhancer pi site
+T39	Exp 1506 1531	the lck promoter ets site
+T40	Exp 1685 1703	the B-cell lineage
+T41	Exp 1861 1882	the enhancer activity
+T42	Exp 1886 1901	the IgH pi site
+T43	Exp 1922 1926	that
+T44	Exp 1903 1913	These data
+R6	Coref Anaphora:T16 Antecedent:T45
+R7	Coref Anaphora:T19 Antecedent:T46
+R8	Coref Anaphora:T22 Antecedent:T47
+R9	Coref Anaphora:T31 Antecedent:T33
+R10	Coref Anaphora:T35 Antecedent:T48
+T1	Protein 0 3	ERP
+T2	Protein 875 878	ERP
+T3	Protein 880 899	ets-related protein
+T4	Protein 975 978	ERP
+T5	Protein 1182 1187	ELK-1
+T6	Protein 1192 1197	SAP-1
+T7	Protein 1263 1284	serum response factor
+T8	Protein 1298 1301	ERP
+T9	Protein 1400 1403	ERP
+T10	Protein 1510 1513	lck
+T11	Protein 1606 1609	ERP
+T12	Protein 1705 1708	ERP
+T13	Protein 1927 1930	ERP
+T45	Exp 198 206	proteins
+T46	Exp 459 465	microB
+T47	Exp 608 625	pre-B lymphocytes
+T48	Exp 1317 1348	negligible DNA-binding activity

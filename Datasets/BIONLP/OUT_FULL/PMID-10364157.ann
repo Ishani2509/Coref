@@ -1,0 +1,42 @@
+T20	Exp 194 216	the precise mechanisms
+T21	Exp 311 315	that
+T22	Exp 436 450	its expression
+T23	Exp 679 683	that
+T24	Exp 649 658	the level
+T25	Exp 731 733	we
+T26	Exp 763 768	which
+T27	Exp 746 759	the mechanism
+T28	Exp 817 819	We
+T29	Exp 825 829	that
+T30	Exp 1017 1030	both proteins
+T31	Exp 1096 1111	the DNA binding
+T32	Exp 1180 1192	both domains
+T33	Exp 1257 1259	We
+T34	Exp 1270 1274	that
+T35	Exp 1492 1501	the block
+T36	Exp 1548 1559	Our results
+T37	Exp 1569 1573	that
+T38	Exp 1574 1591	the stoichiometry
+R5	Coref Anaphora:T21 Antecedent:T39
+R6	Coref Anaphora:T22 Antecedent:T4
+R7	Coref Anaphora:T26 Antecedent:T27
+T40	SPAN 962 977	PU.1 and GATA-1
+R8	Coref Anaphora:T30 Antecedent:T40
+T1	Protein 58 62	PU.1
+T2	Protein 67 73	GATA-1
+T3	Protein 246 250	PU.1
+T4	Protein 383 387	PU.1
+T5	Protein 662 666	PU.1
+T6	Protein 684 688	PU.1
+T7	Protein 769 773	PU.1
+T8	Protein 830 834	PU.1
+T9	Protein 859 865	GATA-1
+T10	Protein 962 966	PU.1
+T11	Protein 971 977	GATA-1
+T12	Protein 1032 1036	PU.1
+T13	Protein 1047 1053	GATA-1
+T14	Protein 1143 1147	PU.1
+T15	Protein 1297 1301	PU.1
+T16	Protein 1425 1431	GATA-1
+T17	Protein 1542 1546	PU.1
+T39	Exp 254 310	a hematopoietic-specific Ets family transcription factor

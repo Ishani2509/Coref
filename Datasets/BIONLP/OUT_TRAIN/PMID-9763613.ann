@@ -1,0 +1,32 @@
+T13	Exp 19 57	the p75 tumor necrosis factor receptor
+T14	Exp 133 145	the p55TNF-R
+T15	Exp 178 182	that
+T16	Exp 206 244	the p75 tumor necrosis factor receptor
+T17	Exp 448 460	the function
+T18	Exp 464 477	this receptor
+T19	Exp 510 512	We
+T20	Exp 523 527	that
+T21	Exp 579 597	the human p75TNF-R
+T22	Exp 676 688	the pancreas
+T23	Exp 783 832	the peripheral blood mononuclear cell compartment
+T24	Exp 883 895	the presence
+T25	Exp 926 938	the p55TNF-R
+T26	Exp 834 846	This process
+T27	Exp 1090 1106	the pathogenesis
+T28	Exp 1145 1167	the direct involvement
+T29	Exp 1010 1023	These results
+T30	Exp 1171 1184	this receptor
+R4	Coref Anaphora:T15 Antecedent:T31
+R5	Coref Anaphora:T18 Antecedent:T6
+R6	Coref Anaphora:T30 Antecedent:T25
+T1	Protein 23 57	p75 tumor necrosis factor receptor
+T2	Protein 59 67	p75TNF-R
+T3	Protein 111 128	lymphotoxin alpha
+T4	Protein 137 145	p55TNF-R
+T5	Protein 210 244	p75 tumor necrosis factor receptor
+T6	Protein 246 254	p75TNF-R
+T7	Protein 589 597	p75TNF-R
+T8	Protein 904 921	lymphotoxin alpha
+T9	Protein 930 938	p55TNF-R
+T10	Protein 1067 1075	p75TNF-R
+T31	Exp 156 177	overwhelming evidence

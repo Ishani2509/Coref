@@ -1,0 +1,42 @@
+T9	Exp 178 189	The cascade
+T10	Exp 207 228	the first few minutes
+T11	Exp 411 433	the rate-limiting step
+T12	Exp 569 571	we
+T13	Exp 610 623	their ability
+T14	Exp 818 825	its own
+T15	Exp 595 599	that
+T16	Exp 661 666	which
+T17	Exp 777 782	which
+T18	Exp 827 829	We
+T19	Exp 836 840	that
+T20	Exp 882 891	both mAbs
+T21	Exp 925 956	the inositol phosphate response
+T22	Exp 1034 1036	we
+T23	Exp 1079 1090	the nucleus
+T24	Exp 1001 1013	these events
+T25	Exp 1140 1154	the appearance
+T26	Exp 1158 1170	the NF-kappa
+T27	Exp 1266 1277	the nucleus
+T28	Exp 1119 1131	Both stimuli
+T29	Exp 1345 1356	its ability
+T30	Exp 1315 1326	the nucleus
+T31	Exp 1440 1450	the levels
+T32	Exp 1558 1570	the response
+T33	Exp 1575 1589	the other hand
+T34	Exp 1660 1697	the smaller second messenger response
+R6	Coref Anaphora:T15 Antecedent:T35
+R7	Coref Anaphora:T13 Antecedent:T35
+R8	Coref Anaphora:T16 Antecedent:T36
+R9	Coref Anaphora:T14 Antecedent:T37
+R10	Coref Anaphora:T29 Antecedent:T38
+T1	Protein 88 92	IL-2
+T2	Protein 1185 1190	c-Rel
+T3	Protein 1192 1195	p65
+T4	Protein 1197 1201	RelA
+T5	Protein 1208 1211	p50
+T6	Protein 1213 1224	NF-kappa B1
+T7	Protein 1404 1408	IL-2
+T35	Exp 577 594	two anti-CD3 mAbs
+T36	Exp 655 659	OKT3
+T37	Exp 794 814	T cell proliferation
+T38	Exp 1306 1311	NF-AT

@@ -1,0 +1,54 @@
+T26	Exp 128 132	that
+T27	Exp 186 236	the glucocorticoid receptor (GR) N-terminal domain
+T28	Exp 355 359	that
+T29	Exp 435 439	that
+T30	Exp 360 381	the N-terminal domain
+T31	Exp 475 502	the more critical mechanism
+T32	Exp 627 629	we
+T33	Exp 525 541	the contribution
+T34	Exp 545 585	the GR N-terminal transactivation domain
+T35	Exp 670 691	the androgen receptor
+T36	Exp 813 834	the apoptotic pathway
+T37	Exp 1137 1141	that
+T38	Exp 1044 1059	the potent VP16
+T39	Exp 1110 1127	the GR N terminus
+T40	Exp 1171 1186	these receptors
+T41	Exp 1323 1325	we
+T42	Exp 1434 1456	its relative inability
+T43	Exp 1332 1336	that
+T44	Exp 1527 1529	we
+T45	Exp 1539 1571	the steroid-regulated expression
+T46	Exp 1627 1629	We
+T47	Exp 1636 1640	that
+T48	Exp 1721 1725	that
+T49	Exp 1808 1812	that
+T50	Exp 1935 1949	our conclusion
+T51	Exp 1950 1954	that
+T52	Exp 1913 1926	these results
+T54	SPAN 1055 1067	VP16 and E1A
+R4	Coref Anaphora:T40 Antecedent:T54
+R5	Coref Anaphora:T42 Antecedent:T53
+R6	Coref Anaphora:T51 Antecedent:T50
+T1	Protein 190 213	glucocorticoid receptor
+T2	Protein 215 217	GR
+T3	Protein 440 442	GR
+T4	Protein 549 551	GR
+T5	Protein 649 651	GR
+T6	Protein 653 655	GR
+T7	Protein 674 691	androgen receptor
+T8	Protein 693 695	AR
+T9	Protein 746 748	GR
+T10	Protein 895 897	GR
+T11	Protein 1011 1013	GR
+T12	Protein 1055 1059	VP16
+T13	Protein 1064 1067	E1A
+T14	Protein 1114 1116	GR
+T15	Protein 1337 1339	AR
+T16	Protein 1620 1625	GIG18
+T17	Protein 1641 1646	GIG18
+T18	Protein 1696 1698	AR
+T19	Protein 1703 1705	GR
+T20	Protein 1726 1728	AR
+T21	Protein 1813 1818	GIG18
+T22	Protein 2077 2079	GR
+T53	Exp 1353 1362	apoptosis

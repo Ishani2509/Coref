@@ -1,0 +1,35 @@
+T9	Exp 127 131	that
+T10	Exp 369 371	we
+T11	Exp 275 279	that
+T12	Exp 299 323	the DNA-binding activity
+T13	Exp 516 541	the lac operator sequence
+T14	Exp 623 637	the expression
+T15	Exp 641 658	the reporter gene
+T16	Exp 671 684	the phenotype
+T17	Exp 688 696	the cell
+T18	Exp 594 612	this tester strain
+T19	Exp 796 829	the Oct-2-harboring tester strain
+T20	Exp 907 911	them
+T21	Exp 1013 1046	the Oct-2-harboring tester strain
+T22	Exp 1050 1075	the transcriptional level
+T23	Exp 1123 1136	the intensity
+T24	Exp 1140 1157	the retarded band
+T25	Exp 1170 1187	the octamer probe
+T26	Exp 1240 1264	the DNA-binding activity
+T27	Exp 1369 1373	that
+T28	Exp 1275 1287	The strategy
+T29	Exp 1381 1403	the complex regulation
+R4	Coref Anaphora:T11 Antecedent:T30
+R5	Coref Anaphora:T20 Antecedent:T31
+R6	Coref Anaphora:T27 Antecedent:T32
+T1	Protein 90 95	Oct-2
+T2	Protein 327 332	Oct-2
+T3	Protein 575 580	Oct-2
+T4	Protein 800 805	Oct-2
+T5	Protein 982 1000	beta-galactosidase
+T6	Protein 1017 1022	Oct-2
+T7	Protein 1192 1197	Oct-2
+T8	Protein 1268 1273	Oct-2
+T30	Exp 263 274	cDNA clones
+T31	Exp 885 898	transformants
+T32	Exp 1340 1368	protein-protein interactions

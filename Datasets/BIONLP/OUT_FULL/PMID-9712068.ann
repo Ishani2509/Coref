@@ -1,0 +1,29 @@
+T14	Exp 216 224	its role
+T15	Exp 228 252	the inflammatory process
+T16	Exp 282 284	we
+T17	Exp 290 294	that
+T18	Exp 270 280	this study
+T19	Exp 359 361	We
+T20	Exp 367 371	that
+T21	Exp 1000 1028	the endothelial cell surface
+T22	Exp 1115 1119	that
+T23	Exp 1360 1364	that
+T24	Exp 1302 1324	the RelA (p65) subunit
+T25	Exp 1379 1393	the activation
+T26	Exp 1444 1448	that
+T27	Exp 1560 1564	that
+T28	Exp 1421 1434	These studies
+R2	Coref Anaphora:T14 Antecedent:T29
+T1	Protein 585 591	VCAM-1
+T2	Protein 670 679	IFN-gamma
+T3	Protein 695 707	iNO synthase
+T4	Protein 709 713	iNOS
+T5	Protein 827 836	IFN-gamma
+T6	Protein 889 895	VCAM-1
+T7	Protein 900 904	iNOS
+T8	Protein 1075 1081	VCAM-1
+T9	Protein 1149 1155	VCAM-1
+T10	Protein 1306 1310	RelA
+T11	Protein 1312 1315	p65
+T12	Protein 1464 1468	iNOS
+T29	Exp 88 110	Inducible nitric oxide

@@ -1,0 +1,52 @@
+T5	Exp 129 235	The transcriptional enhancer located in the first intron of the immunoglobulin heavy chain constant region
+T6	Exp 403 407	that
+T7	Exp 336 342	the Ig
+T8	Exp 478 498	the overall activity
+T9	Exp 502 514	the enhancer
+T10	Exp 445 462	Each binding site
+T11	Exp 652 654	we
+T12	Exp 612 650	the Ig heavy chain enhancer components
+T13	Exp 710 712	We
+T14	Exp 718 722	that
+T15	Exp 734 738	that
+T16	Exp 723 733	the factor
+T17	Exp 748 769	the E3 enhancer motif
+T18	Exp 819 821	It
+T19	Exp 890 892	it
+T20	Exp 884 889	where
+T21	Exp 971 982	its ability
+T22	Exp 1041 1051	the factor
+T23	Exp 1084 1101	the endogenous Ig
+T24	Exp 1181 1199	the characteristic
+T25	Exp 1221 1232	this factor
+T26	Exp 1351 1355	that
+T27	Exp 1403 1408	which
+T28	Exp 1520 1524	that
+T29	Exp 1611 1615	that
+T30	Exp 1331 1342	the picture
+T31	Exp 1757 1772	the one binding
+T32	Exp 1776 1797	the E3 sequence motif
+T33	Exp 1903 1941	the endogenous Ig heavy chain enhancer
+T34	Exp 2013 2037	the Ig heavy chain locus
+T35	Exp 1799 1810	This factor
+R9	Coref Anaphora:T6 Antecedent:T36
+R10	Coref Anaphora:T15 Antecedent:T16
+R11	Coref Anaphora:T22 Antecedent:T16
+R12	Coref Anaphora:T25 Antecedent:T16
+R13	Coref Anaphora:T18 Antecedent:T37
+R14	Coref Anaphora:T19 Antecedent:T37
+R15	Coref Anaphora:T21 Antecedent:T37
+R16	Coref Anaphora:T20 Antecedent:T38
+R17	Coref Anaphora:T27 Antecedent:T39
+T41	SPAN 1502 1519	Oct-2A and Oct-2B
+R18	Coref Anaphora:T28 Antecedent:T41
+R19	Coref Anaphora:T29 Antecedent:T40
+R20	Coref Anaphora:T35 Antecedent:T3
+T1	Protein 1245 1252	NF-muE3
+T2	Protein 1502 1508	Oct-2A
+T3	Protein 1513 1519	Oct-2B
+T36	Exp 373 402	several short sequence motifs
+T37	Exp 586 608	a better understanding
+T38	Exp 871 882	non-B cells
+T39	Exp 1395 1402	factors
+T40	Exp 1600 1610	NF-kappa B

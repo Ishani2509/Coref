@@ -1,0 +1,60 @@
+T21	Exp 246 248	it
+T22	Exp 240 245	where
+T23	Exp 172 197	the Wnt signaling pathway
+T24	Exp 227 238	the nucleus
+T25	Exp 391 396	which
+T26	Exp 373 387	The mechanisms
+T27	Exp 420 430	this shift
+T28	Exp 509 511	We
+T29	Exp 618 620	it
+T30	Exp 529 533	that
+T31	Exp 568 579	the nucleus
+T32	Exp 655 657	We
+T33	Exp 721 725	that
+T34	Exp 853 855	it
+T35	Exp 833 844	the nucleus
+T36	Exp 894 907	the cytoplasm
+T37	Exp 787 819	This Delta19 beta-catenin mutant
+T38	Exp 971 975	that
+T39	Exp 994 999	which
+T40	Exp 909 933	The nuclear localization
+T41	Exp 976 990	the mechanisms
+T42	Exp 1026 1037	the nucleus
+T43	Exp 1250 1262	both factors
+T44	Exp 1314 1325	the nucleus
+T45	Exp 1298 1310	both factors
+T46	Exp 1490 1514	the transcription factor
+T47	Exp 1556 1560	that
+T48	Exp 1616 1620	that
+T49	Exp 1537 1547	these data
+T50	Exp 1621 1641	this third component
+R9	Coref Anaphora:T22 Antecedent:T24
+R10	Coref Anaphora:T21 Antecedent:T24
+R11	Coref Anaphora:T25 Antecedent:T26
+R12	Coref Anaphora:T29 Antecedent:T5
+R13	Coref Anaphora:T33 Antecedent:T51
+R14	Coref Anaphora:T34 Antecedent:T35
+R15	Coref Anaphora:T39 Antecedent:T41
+T52	SPAN 1085 1107	beta-Catenin and LEF-1
+R16	Coref Anaphora:T43 Antecedent:T52
+T53	SPAN 1085 1107	beta-Catenin and LEF-1
+R17	Coref Anaphora:T45 Antecedent:T53
+T1	Protein 38 50	beta-catenin
+T2	Protein 51 77	lymphoid enhancer factor 1
+T3	Protein 199 211	beta-catenin
+T4	Protein 397 409	beta-catenin
+T5	Protein 534 546	beta-catenin
+T6	Protein 698 710	beta-catenin
+T7	Protein 746 751	LEF-1
+T8	Protein 753 763	E-cadherin
+T9	Protein 769 772	APC
+T10	Protein 781 785	axin
+T11	Protein 800 812	beta-catenin
+T12	Protein 1000 1012	beta-catenin
+T13	Protein 1085 1097	beta-Catenin
+T14	Protein 1102 1107	LEF-1
+T15	Protein 1386 1398	beta-catenin
+T16	Protein 1439 1444	LEF-1
+T17	Protein 1445 1457	beta-catenin
+T18	Protein 1515 1519	VP16
+T51	Exp 712 719	Delta19

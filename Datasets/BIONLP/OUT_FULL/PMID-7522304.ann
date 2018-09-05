@@ -1,0 +1,26 @@
+T8	Exp 184 188	that
+T9	Exp 78 118	The immunosuppressant drug cyclosporin A
+T10	Exp 158 177	the T-cell receptor
+T11	Exp 226 230	When
+T12	Exp 289 332	the key signalling intermediate calcineurin
+T13	Exp 433 435	we
+T14	Exp 393 397	that
+T15	Exp 506 533	the yeast two-hybrid system
+T16	Exp 553 557	when
+T17	Exp 631 657	the interleukin-2 enhancer
+T18	Exp 673 720	the T-cell-specific transcription factors NF-AT
+T19	Exp 827 834	the TCR
+T20	Exp 734 746	This protein
+T21	Exp 936 975	the calcium-signal transduction pathway
+T22	Exp 1034 1045	the absence
+R3	Coref Anaphora:T8 Antecedent:T23
+R4	Coref Anaphora:T14 Antecedent:T24
+T1	Protein 46 59	cyclophilin B
+T2	Protein 469 482	cyclophilin B
+T3	Protein 635 648	interleukin-2
+T4	Protein 755 799	calcium-signal modulating cyclophilin ligand
+T5	Protein 801 805	CAML
+T6	Protein 896 900	CAML
+T7	Protein 989 1002	cyclophilin B
+T23	Exp 179 182	TCR
+T24	Exp 379 392	cyclosporin A

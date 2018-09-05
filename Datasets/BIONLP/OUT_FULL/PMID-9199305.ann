@@ -1,0 +1,54 @@
+T28	Exp 0 38	The immediate-early gene product Egr-1
+T29	Exp 49 101	the human interleukin-2 receptor beta-chain promoter
+T30	Exp 151 193	The interleukin-2 IL-2 receptor beta-chain
+T31	Exp 235 248	the receptors
+T32	Exp 332 346	its expression
+T33	Exp 443 445	We
+T34	Exp 477 481	that
+T35	Exp 554 582	the human IL-2Rbeta promoter
+T36	Exp 694 708	its 3' portion
+T37	Exp 610 624	the 5' portion
+T38	Exp 722 743	the Sp binding motifs
+T39	Exp 628 639	this region
+T40	Exp 1045 1047	we
+T41	Exp 1087 1102	its recognition
+T42	Exp 1060 1064	that
+T43	Exp 1168 1199	the IL-2Rbeta DNA binding motif
+T44	Exp 1228 1260	the canonical Egr-1 binding site
+T45	Exp 1033 1043	this paper
+T46	Exp 1290 1309	the Sp binding site
+T47	Exp 1328 1338	both sites
+T48	Exp 1493 1503	both sites
+T49	Exp 1564 1568	that
+T50	Exp 1585 1599	the production
+R6	Coref Anaphora:T32 Antecedent:T7
+R7	Coref Anaphora:T34 Antecedent:T51
+R8	Coref Anaphora:T36 Antecedent:T52
+R9	Coref Anaphora:T41 Antecedent:T11
+R10	Coref Anaphora:T49 Antecedent:T53
+T1	Protein 33 38	Egr-1
+T2	Protein 59 92	interleukin-2 receptor beta-chain
+T3	Protein 155 193	interleukin-2 IL-2 receptor beta-chain
+T4	Protein 195 204	IL-2Rbeta
+T5	Protein 253 257	IL-2
+T6	Protein 262 267	IL-15
+T7	Protein 278 287	IL-2Rbeta
+T8	Protein 564 573	IL-2Rbeta
+T9	Protein 589 592	Sp1
+T10	Protein 597 600	Sp3
+T11	Protein 1072 1077	Egr-1
+T12	Protein 1111 1116	Egr-1
+T13	Protein 1172 1181	IL-2Rbeta
+T14	Protein 1242 1247	Egr-1
+T15	Protein 1275 1280	Egr-1
+T16	Protein 1365 1374	IL-2Rbeta
+T17	Protein 1431 1436	Egr-1
+T18	Protein 1515 1518	Sp1
+T19	Protein 1523 1528	Egr-1
+T20	Protein 1603 1608	Egr-1
+T21	Protein 1653 1656	Sp1
+T22	Protein 1661 1666	Egr-1
+T23	Protein 1724 1733	IL-2Rbeta
+T51	Exp 469 476	factors
+T52	Exp 649 671	a PMA-inducible factor
+T53	Exp 1555 1563	kinetics

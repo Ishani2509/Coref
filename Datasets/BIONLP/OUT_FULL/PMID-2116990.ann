@@ -1,0 +1,21 @@
+T5	Exp 33 78	the human beta-globin dominant control region
+T6	Exp 214 243	the human epsilon-globin gene
+T7	Exp 251 271	the dominant control
+T8	Exp 300 313	This enhancer
+T9	Exp 547 552	which
+T10	Exp 557 561	both
+T11	Exp 475 487	The enhancer
+T12	Exp 705 717	the enhancer
+T13	Exp 719 732	The formation
+T14	Exp 736 748	this complex
+T15	Exp 913 917	that
+T16	Exp 839 851	the enhancer
+T17	Exp 871 883	the increase
+T18	Exp 998 1009	the binding
+T19	Exp 1040 1064	the jun and fos families
+R2	Coref Anaphora:T15 Antecedent:T20
+T1	Protein 43 54	beta-globin
+T2	Protein 224 238	epsilon-globin
+T3	Protein 382 394	gamma-globin
+T4	Protein 404 414	luciferase
+T20	Exp 887 912	globin gene transcription

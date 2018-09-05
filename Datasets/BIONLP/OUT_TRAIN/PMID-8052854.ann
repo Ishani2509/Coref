@@ -1,0 +1,17 @@
+T3	Exp 74 121	The transcription factor nuclear factor-kappa B
+T4	Exp 151 175	the inducible expression
+T5	Exp 412 417	which
+T6	Exp 314 359	The anti-inflammatory drugs sodium salicylate
+T7	Exp 382 396	the activation
+T8	Exp 435 448	the mechanism
+T9	Exp 462 473	these drugs
+T10	Exp 501 516	the degradation
+T11	Exp 520 544	the NF-kappa B inhibitor
+T12	Exp 598 609	the cytosol
+T13	Exp 475 490	This inhibition
+T14	Exp 696 717	the Ig kappa enhancer
+T15	Exp 722 754	the human immunodeficiency virus
+R2	Coref Anaphora:T5 Antecedent:T16
+T1	Protein 284 288	IL-6
+T2	Protein 700 708	Ig kappa
+T16	Exp 400 410	NF-kappa B

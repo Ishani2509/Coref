@@ -1,0 +1,30 @@
+T23	Exp 79 109	The fluoroquinolone antibiotic
+T24	Exp 362 366	both
+T25	Exp 480 492	the presence
+T26	Exp 268 286	this investigation
+T27	Exp 882 899	the IL-2 promoter
+T28	Exp 930 967	the chloramphenicol acetyltransferase
+T29	Exp 1023 1027	that
+T30	Exp 1273 1311	the nuclear transcription factors AP-1
+T31	SPAN 313 326	IL-2 and IL-2
+R3	Coref Anaphora:T24 Antecedent:T31
+T1	Protein 10 23	interleukin 2
+T2	Protein 161 174	interleukin 2
+T3	Protein 176 180	IL-2
+T4	Protein 186 202	interferon-gamma
+T5	Protein 204 213	IFN-gamma
+T6	Protein 313 317	IL-2
+T7	Protein 322 326	IL-2
+T8	Protein 624 633	IFN-gamma
+T9	Protein 663 672	IFN-gamma
+T10	Protein 886 890	IL-2
+T11	Protein 934 967	chloramphenicol acetyltransferase
+T12	Protein 969 972	CAT
+T13	Protein 1001 1004	CAT
+T14	Protein 1043 1047	IL-2
+T15	Protein 1194 1200	NFAT-1
+T16	Protein 1315 1322	NFIL-2A
+T17	Protein 1356 1365	IFN-gamma
+T18	Protein 1390 1394	IL-2
+T19	Protein 1452 1458	NFAT-1
+T20	Protein 1484 1488	IL-2

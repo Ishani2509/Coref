@@ -1,0 +1,23 @@
+T8	Exp 172 186	the activation
+T9	Exp 420 422	We
+T10	Exp 437 445	the role
+T11	Exp 475 490	these responses
+T12	Exp 741 757	these cell types
+T13	Exp 829 839	The T cell
+T14	Exp 1027 1039	the response
+T15	Exp 1126 1140	the importance
+T16	Exp 1144 1171	such cell surface molecules
+T17	Exp 1225 1261	the epidermal growth factor receptor
+T18	Exp 1363 1367	that
+T19	Exp 1438 1442	that
+T20	Exp 1341 1354	These results
+T21	Exp 1528 1544	this requirement
+R2	Coref Anaphora:T19 Antecedent:T22
+T1	Protein 0 6	ZAP-70
+T2	Protein 24 28	CD45
+T3	Protein 679 683	CD45
+T4	Protein 856 862	ZAP-70
+T5	Protein 923 929	ZAP-70
+T6	Protein 987 991	CD45
+T7	Protein 1229 1261	epidermal growth factor receptor
+T22	Exp 1415 1437	cell surface receptors

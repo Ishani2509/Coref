@@ -1,0 +1,14 @@
+T4	Exp 336 349	the synthesis
+T5	Exp 422 424	We
+T6	Exp 482 496	the activation
+T7	Exp 500 527	the HS transcription factor
+T8	Exp 591 593	we
+T9	Exp 610 621	the effects
+T10	Exp 731 767	the respective transcription factors
+T11	Exp 872 877	which
+T12	Exp 985 1013	The altered cytokine profile
+R2	Coref Anaphora:T11 Antecedent:T13
+T1	Protein 109 117	TNFalpha
+T2	Protein 808 816	TNFalpha
+T3	Protein 967 975	TNFalpha
+T13	Exp 867 870	HSF

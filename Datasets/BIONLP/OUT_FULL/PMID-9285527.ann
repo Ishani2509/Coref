@@ -1,0 +1,33 @@
+T13	Exp 0 40	The carboxyl-terminal cytoplasmic domain
+T14	Exp 164 175	The binding
+T15	Exp 372 411	The integral membrane glycoprotein CD36
+T16	Exp 515 535	the molecular events
+T17	Exp 613 615	we
+T18	Exp 682 686	them
+T19	Exp 724 736	the activity
+T20	Exp 740 774	the transcription factor NF-kappaB
+T21	Exp 601 611	this issue
+T22	Exp 776 778	We
+T23	Exp 791 795	that
+T24	Exp 932 960	the proinflammatory cytokine
+T25	Exp 1098 1135	the human CD36-specific antibody OKM5
+T26	Exp 1137 1139	We
+T27	Exp 1156 1160	that
+T28	Exp 1272 1283	Our results
+T29	Exp 1301 1305	that
+T30	Exp 1292 1300	the idea
+R3	Coref Anaphora:T18 Antecedent:T31
+R4	Coref Anaphora:T29 Antecedent:T30
+T1	Protein 44 48	CD36
+T2	Protein 134 161	tumor necrosis factor-alpha
+T3	Protein 407 411	CD36
+T4	Protein 552 556	CD36
+T5	Protein 621 625	CD36
+T6	Protein 902 906	CD36
+T7	Protein 961 988	tumor necrosis factor-alpha
+T8	Protein 990 999	TNF-alpha
+T9	Protein 1070 1074	CD36
+T10	Protein 1108 1112	CD36
+T11	Protein 1266 1270	CD36
+T12	Protein 1312 1316	CD36
+T31	Exp 667 672	cells

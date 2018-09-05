@@ -1,0 +1,4 @@
+T1	Protein 265 274	TNF alpha
+T2	Exp 603 613	thymocytes
+T3	Exp 674 678	they
+R1	Coref Anaphora:T3 Antecedent:T2

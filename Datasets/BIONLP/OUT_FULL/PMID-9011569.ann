@@ -1,0 +1,42 @@
+T16	Exp 69 103	the insulin gene promoter activity
+T17	Exp 306 325	the insulin content
+T18	Exp 329 338	the cells
+T19	Exp 463 465	we
+T20	Exp 369 402	the pathophysiological background
+T21	Exp 406 436	the so-called glucose toxicity
+T22	Exp 572 583	the effects
+T23	Exp 662 666	that
+T24	Exp 839 843	when
+T25	Exp 615 626	The results
+T26	Exp 667 692	the insulin gene promoter
+T27	Exp 729 765	the control beta-actin gene promoter
+T28	Exp 795 829	the insulin gene promoter activity
+T29	Exp 844 853	the cells
+T30	Exp 875 887	the presence
+T31	Exp 964 980	the insulin mRNA
+T32	Exp 1017 1044	the glycation-induced cells
+T33	Exp 1126 1150	the DNA-binding activity
+T34	Exp 1364 1368	that
+T35	Exp 1426 1448	the glycation reaction
+T36	Exp 1472 1485	the phenomena
+T37	Exp 1210 1223	These effects
+T38	Exp 1514 1518	that
+T39	Exp 1563 1568	which
+T40	Exp 1680 1710	the beta cell glucose toxicity
+T41	Exp 1487 1505	These observations
+R2	Coref Anaphora:T39 Antecedent:T42
+T1	Protein 73 80	insulin
+T2	Protein 158 165	insulin
+T3	Protein 231 238	insulin
+T4	Protein 587 594	insulin
+T5	Protein 671 678	insulin
+T6	Protein 741 751	beta-actin
+T7	Protein 799 806	insulin
+T8	Protein 968 975	insulin
+T9	Protein 985 992	insulin
+T10	Protein 1157 1190	insulin gene transcription factor
+T11	Protein 1192 1197	PDX-1
+T12	Protein 1198 1202	IPF1
+T13	Protein 1203 1208	STF-1
+T14	Protein 1624 1631	insulin
+T42	Exp 1540 1561	pancreatic beta cells

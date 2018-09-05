@@ -1,0 +1,31 @@
+T2	Exp 158 160	We
+T3	Exp 188 192	that
+T4	Exp 173 187	the hypothesis
+T5	Exp 299 334	the transcription factor NF-kappa B
+T6	Exp 354 383	the constitutive redox status
+T7	Exp 387 398	these cells
+T8	Exp 400 402	We
+T9	Exp 560 564	that
+T10	Exp 648 661	the functions
+T11	Exp 1019 1030	the product
+T12	Exp 1286 1292	itself
+T13	Exp 1120 1145	The anti-oxidative effect
+T14	Exp 1309 1333	the cellular thiol level
+T15	Exp 1444 1450	itself
+T16	Exp 1364 1376	the addition
+T17	Exp 1388 1406	the culture medium
+T18	Exp 1508 1512	that
+T19	Exp 1594 1615	the cell redox status
+T20	Exp 1481 1499	These observations
+T21	Exp 1647 1659	their effect
+T22	Exp 1782 1797	this activation
+T23	Exp 1799 1801	It
+T24	Exp 1810 1814	that
+T25	Exp 1940 1952	the activity
+R5	Coref Anaphora:T3 Antecedent:T4
+R6	Coref Anaphora:T12 Antecedent:T26
+R7	Coref Anaphora:T15 Antecedent:T27
+R8	Coref Anaphora:T21 Antecedent:T20
+T1	Protein 954 957	p50
+T26	Exp 1270 1285	TNF stimulation
+T27	Exp 1335 1351	Oxidative stress

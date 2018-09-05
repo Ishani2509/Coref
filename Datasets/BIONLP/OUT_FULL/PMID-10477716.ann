@@ -1,0 +1,39 @@
+T20	Exp 402 419	the CXC chemokine
+T21	Exp 332 347	This phenomenon
+T22	Exp 458 460	we
+T23	Exp 473 481	the role
+T24	Exp 446 456	this study
+T25	Exp 763 773	the effect
+T26	Exp 795 807	the presence
+T27	Exp 882 899	the IL-8 promoter
+T28	Exp 953 1006	the 65 kD transcriptional activator NF-kappaB subunit
+T29	Exp 1032 1043	the nucleus
+T30	Exp 1163 1197	the antioxidant dimethyl sulfoxide
+T31	Exp 1406 1455	the unrelated antioxidants, N-acetylcysteine (NAC
+T32	Exp 1655 1680	its nuclear translocation
+T33	Exp 1492 1496	that
+T34	Exp 1557 1561	that
+T35	Exp 1472 1482	These data
+T36	Exp 1704 1716	this pathway
+R3	Coref Anaphora:T34 Antecedent:T37
+R4	Coref Anaphora:T32 Antecedent:T18
+T1	Protein 45 58	interleukin-8
+T2	Protein 78 105	tumor necrosis factor alpha
+T3	Protein 202 229	Tumor necrosis factor alpha
+T4	Protein 231 239	TNFalpha
+T5	Protein 421 434	interleukin-8
+T6	Protein 436 440	IL-8
+T7	Protein 485 493	TNFalpha
+T8	Protein 537 541	IL-8
+T9	Protein 605 613	TNFalpha
+T10	Protein 638 642	IL-8
+T11	Protein 777 785	TNFalpha
+T12	Protein 859 864	Rel A
+T13	Protein 886 890	IL-8
+T14	Protein 901 909	TNFalpha
+T15	Protein 1008 1013	Rel A
+T16	Protein 1149 1157	TNFalpha
+T17	Protein 1324 1329	Rel A
+T18	Protein 1497 1505	TNFalpha
+T19	Protein 1772 1780	TNFalpha
+T37	Exp 1514 1556	a delayed ROS-dependent signalling pathway

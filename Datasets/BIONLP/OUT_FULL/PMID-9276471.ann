@@ -1,0 +1,21 @@
+T5	Exp 154 178	the inducible expression
+T6	Exp 224 226	we
+T7	Exp 234 238	that
+T8	Exp 286 322	the classical NF-kappa B heterodimer
+T9	Exp 381 397	these conditions
+T10	Exp 808 826	our gel shift data
+T11	Exp 574 590	the phagocytosis
+T12	Exp 612 621	the onset
+T13	Exp 729 762	the cellular I kappa B-alpha pool
+T14	Exp 828 830	We
+T15	Exp 840 844	that
+T16	Exp 891 905	the mechanisms
+T17	Exp 914 928	the expression
+T18	Exp 1002 1015	our knowledge
+T19	Exp 1057 1061	that
+T20	Exp 1033 1056	the first demonstration
+R2	Coref Anaphora:T19 Antecedent:T20
+T1	Protein 324 327	p50
+T2	Protein 328 332	RelA
+T3	Protein 693 708	I kappa B-alpha
+T4	Protein 742 757	I kappa B-alpha

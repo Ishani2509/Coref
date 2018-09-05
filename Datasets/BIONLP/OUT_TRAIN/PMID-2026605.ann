@@ -1,0 +1,56 @@
+T9	Exp 30 53	the platelet GPIIb gene
+T10	Exp 149 154	which
+T11	Exp 63 83	the major objectives
+T12	Exp 87 96	the study
+T13	Exp 131 145	the mechanisms
+T14	Exp 212 238	the megakaryocytic lineage
+T15	Exp 338 342	that
+T16	Exp 447 451	that
+T17	Exp 307 328	the molecular cloning
+T18	Exp 378 393	the possibility
+T19	Exp 424 446	the genetic mechanisms
+T20	Exp 359 371	this lineage
+T21	Exp 506 539	the glycoprotein IIb (GPIIb) gene
+T22	Exp 548 565	the alpha subunit
+T23	Exp 569 604	the platelet cytoadhesin GPIIb-IIIa
+T24	Exp 657 676	the differentiation
+T25	Exp 686 703	the other subunit
+T26	Exp 707 719	this complex
+T27	Exp 851 855	that
+T28	Exp 777 799	the 5'-flanking region
+T29	Exp 803 817	the GPIIb gene
+T30	Exp 839 850	the regions
+T31	Exp 762 775	these reasons
+T32	Exp 963 993	the tissue-specific expression
+T33	Exp 997 1009	the CAT gene
+T34	Exp 1059 1061	we
+T35	Exp 1162 1163	I
+T36	Exp 1096 1100	that
+T37	Exp 1046 1057	this region
+T38	Exp 1422 1426	that
+T39	Exp 1580 1584	that
+T40	Exp 1652 1662	the region
+T41	Exp 1729 1750	the promoter activity
+T42	Exp 1674 1691	these two domains
+T43	Exp 1752 1754	It
+T44	Exp 1770 1774	that
+T45	Exp 1775 1788	these domains
+R8	Coref Anaphora:T10 Antecedent:T13
+R9	Coref Anaphora:T15 Antecedent:T46
+R10	Coref Anaphora:T16 Antecedent:T19
+R11	Coref Anaphora:T27 Antecedent:T30
+R12	Coref Anaphora:T36 Antecedent:T47
+R13	Coref Anaphora:T38 Antecedent:T48
+R14	Coref Anaphora:T39 Antecedent:T49
+T1	Protein 43 48	GPIIb
+T2	Protein 510 526	glycoprotein IIb
+T3	Protein 528 533	GPIIb
+T4	Protein 541 546	GPIIb
+T5	Protein 721 727	GPIIIa
+T6	Protein 807 812	GPIIb
+T7	Protein 1001 1004	CAT
+T8	Protein 1251 1268	nuclear factor E1
+T46	Exp 332 337	genes
+T47	Exp 1078 1095	several sequences
+T48	Exp 1413 1421	proteins
+T49	Exp 1571 1579	proteins

@@ -1,0 +1,28 @@
+T1	Protein 17 21	CD44
+T2	Protein 64 70	VCAM-1
+T3	Protein 73 77	CD44
+T4	Protein 320 324	CD44
+T5	Protein 409 413	CD44
+T6	Protein 464 470	VCAM-1
+T7	Protein 499 505	VCAM-1
+T8	Protein 599 603	CD44
+T9	Protein 625 629	CD44
+T10	Protein 665 671	VCAM-1
+T11	Protein 729 737	IL-1beta
+T12	Protein 742 751	TNF-alpha
+T13	Protein 814 820	VCAM-1
+T14	Protein 825 829	CD44
+T15	Protein 865 869	AP-1
+T16	Protein 973 977	CD44
+T17	Protein 1099 1103	CD44
+T18	Protein 1122 1128	VCAM-1
+T19	Protein 1144 1150	VCAM-1
+T20	Exp 73 77	CD44
+T21	Exp 189 192	its
+T22	Exp 625 629	CD44
+T23	Exp 687 690	its
+T24	Exp 1122 1179	VCAM-1 expression and VCAM-1-mediated adhesion to T cells
+T25	Exp 1181 1186	which
+R1	Coref Anaphora:T21 Antecedent:T20	[T3]
+R2	Coref Anaphora:T23 Antecedent:T22	[T9]
+R3	Coref Anaphora:T25 Antecedent:T24	[T19, T18]

@@ -1,0 +1,26 @@
+T12	Exp 87 101	The expression
+T13	Exp 125 148	the principal initiator
+T14	Exp 219 234	Both conditions
+T15	Exp 285 287	We
+T16	Exp 318 322	that
+T17	Exp 300 317	the present study
+T18	Exp 699 717	the lysoPC content
+T19	Exp 721 734	the monocytes
+T20	Exp 760 780	the lysophospholipid
+T21	Exp 799 814	the TF activity
+T22	Exp 861 874	the monocytes
+T23	Exp 1186 1206	the lysophospholipid
+T24	Exp 1374 1388	the inhibition
+T25	Exp 1512 1522	the effect
+R2	Coref Anaphora:T16 Antecedent:T17
+T1	Protein 0 13	Tissue factor
+T2	Protein 105 118	tissue factor
+T3	Protein 120 122	TF
+T4	Protein 376 378	TF
+T5	Protein 542 544	TF
+T6	Protein 574 576	TF
+T7	Protein 803 805	TF
+T8	Protein 1064 1066	TF
+T9	Protein 1126 1128	TF
+T10	Protein 1392 1394	TF
+T11	Protein 1478 1480	TF

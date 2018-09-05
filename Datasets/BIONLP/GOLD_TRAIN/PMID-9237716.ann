@@ -1,0 +1,5 @@
+T1	Protein 675 684	TNF-alpha
+T2	Protein 968 977	TNF-alpha
+T3	Exp 793 821	the HIV long terminal repeat	815 821	repeat
+T4	Exp 822 826	that
+R1	Coref Anaphora:T4 Antecedent:T3

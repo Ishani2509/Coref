@@ -1,0 +1,28 @@
+T11	Exp 153 185	the immunoglobulin switch region
+T12	Exp 215 244	the appropriate switch region
+T13	Exp 324 357	the appropriate germline promoter
+T14	Exp 476 494	the immunoglobulin
+T15	Exp 547 561	the regulation
+T16	Exp 611 613	We
+T17	Exp 656 686	the transcriptional regulation
+T18	Exp 690 719	the epsilon germline promoter
+T19	Exp 738 749	Our results
+T20	Exp 757 761	that
+T21	Exp 983 985	it
+T22	Exp 932 936	that
+T23	Exp 1061 1065	that
+T24	Exp 906 931	the transcription factors
+T25	Exp 1016 1033	the merging point
+R4	Coref Anaphora:T22 Antecedent:T24
+R5	Coref Anaphora:T21 Antecedent:T9
+R6	Coref Anaphora:T23 Antecedent:T26
+T1	Protein 60 93	B-cell-specific activator protein
+T2	Protein 385 418	B-cell-specific activator protein
+T3	Protein 420 424	BSAP
+T4	Protein 521 525	BSAP
+T5	Protein 635 639	BSAP
+T6	Protein 762 766	BSAP
+T7	Protein 788 792	IL-4
+T8	Protein 817 821	CD40
+T9	Protein 885 889	BSAP
+T26	Exp 1037 1060	two signalling pathways

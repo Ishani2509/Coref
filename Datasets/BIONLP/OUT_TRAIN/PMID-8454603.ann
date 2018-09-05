@@ -1,0 +1,35 @@
+T21	Exp 161 163	We
+T22	Exp 182 217	the molecular and biochemical basis
+T23	Exp 608 610	we
+T24	Exp 733 750	their interaction
+T25	Exp 617 621	that
+T26	Exp 716 728	the IL3 gene
+T27	Exp 794 803	the IL3 5
+T28	Exp 838 848	the region
+T29	Exp 879 895	the IL3 promoter
+T30	Exp 992 1004	the IL3 gene
+T31	Exp 1029 1033	that
+T32	Exp 1006 1014	The data
+T33	Exp 1173 1185	the same cis
+T34	Exp 1278 1292	the regulation
+T35	Exp 1217 1230	These results
+T36	SPAN 622 634	c-Jun, c-Fos
+R3	Coref Anaphora:T24 Antecedent:T36
+T1	Protein 30 43	interleukin 3
+T2	Protein 45 48	IL3
+T3	Protein 139 142	IL3
+T4	Protein 236 249	interleukin 3
+T5	Protein 251 254	IL3
+T6	Protein 321 324	CD2
+T7	Protein 363 381	phytohemagglutinin
+T8	Protein 622 627	c-Jun
+T9	Protein 629 634	c-Fos
+T10	Protein 720 723	IL3
+T11	Protein 798 801	IL3
+T12	Protein 883 886	IL3
+T13	Protein 925 928	Sp1
+T14	Protein 996 999	IL3
+T15	Protein 1034 1037	CD2
+T16	Protein 1062 1080	phytohemagglutinin
+T17	Protein 1145 1148	IL3
+T18	Protein 1296 1299	IL3

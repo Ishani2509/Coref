@@ -1,0 +1,10 @@
+T3	Exp 54 72	the alpha TCR gene
+T4	Exp 96 110	The regulation
+T5	Exp 331 366	the archetypal T-cell-specific gene
+T6	Exp 287 299	this article
+T7	Exp 492 496	that
+T8	Exp 430 448	the identification
+R2	Coref Anaphora:T7 Antecedent:T9
+T1	Protein 58 67	alpha TCR
+T2	Protein 368 377	alpha TCR
+T9	Exp 470 491	transcription factors

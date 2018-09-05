@@ -1,0 +1,46 @@
+T18	Exp 49 75	the PRE-I enhancer element
+T19	Exp 79 102	the human IL-4 promoter
+T20	Exp 133 162	The immunomodulatory cytokine
+T21	Exp 290 309	the immune response
+T22	Exp 324 343	the differentiation
+T23	Exp 369 386	the Th2 phenotype
+T24	Exp 388 390	We
+T25	Exp 446 450	that
+T26	Exp 468 480	the function
+T27	Exp 484 507	the human IL-4 promoter
+T28	Exp 600 602	we
+T29	Exp 524 538	the mechanisms
+T30	Exp 585 598	the IL-4 gene
+T31	Exp 639 653	the PRE-I site
+T32	Exp 667 689	the binding activities
+T33	Exp 710 727	the IL-4 promoter
+T34	Exp 693 706	these factors
+T35	Exp 750 752	We
+T36	Exp 758 762	that
+T37	Exp 973 975	we
+T38	Exp 988 992	that
+T39	Exp 993 1024	the previously identified PRE-I
+T40	Exp 1126 1166	the IL-4-producing Th0-like human Jurkat
+T41	Exp 1247 1260	the mouse Th2
+T42	Exp 1278 1291	the human Th2
+T43	Exp 1463 1467	that
+T44	Exp 1493 1520	the differential regulation
+T45	Exp 1440 1454	These findings
+R2	Coref Anaphora:T25 Antecedent:T46
+T1	Protein 89 93	IL-4
+T2	Protein 163 167	IL-4
+T3	Protein 212 216	IL-4
+T4	Protein 494 498	IL-4
+T5	Protein 589 593	IL-4
+T6	Protein 714 718	IL-4
+T7	Protein 870 879	C/EBPbeta
+T8	Protein 881 887	NF-IL6
+T9	Protein 895 905	C/EBPdelta
+T10	Protein 907 917	NF-IL6beta
+T11	Protein 925 931	NF-ATc
+T12	Protein 938 944	NF-ATp
+T13	Protein 1130 1134	IL-4
+T14	Protein 1224 1234	NF-IL6beta
+T15	Protein 1335 1345	NF-IL6beta
+T16	Protein 1524 1528	IL-4
+T46	Exp 439 444	PRE-I

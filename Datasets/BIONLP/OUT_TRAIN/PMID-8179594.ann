@@ -1,0 +1,26 @@
+T11	Exp 92 121	The transcription factor AP-1
+T12	Exp 156 177	the cellular response
+T13	Exp 276 292	The AP-1 complex
+T14	Exp 346 370	the proto-oncogene c-fos
+T15	Exp 531 542	the pathway
+T16	Exp 669 671	we
+T17	Exp 633 641	the role
+T18	Exp 680 691	the effects
+T19	Exp 768 782	the expression
+T20	Exp 822 826	When
+T21	Exp 884 898	the expression
+T22	Exp 987 995	the case
+T23	Exp 1048 1062	the expression
+T24	Exp 1118 1122	that
+T25	Exp 1109 1117	the idea
+T26	Exp 1164 1178	the expression
+T27	Exp 1087 1100	These studies
+R3	Coref Anaphora:T24 Antecedent:T25
+T1	Protein 84 89	c-fos
+T2	Protein 365 370	c-fos
+T3	Protein 375 380	c-jun
+T4	Protein 596 601	c-fos
+T5	Protein 606 611	c-jun
+T6	Protein 786 791	c-fos
+T7	Protein 902 907	c-fos
+T8	Protein 1182 1187	c-fos

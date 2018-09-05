@@ -1,0 +1,18 @@
+T1	Protein 87 102	I kappa B alpha
+T2	Protein 395 410	I kappa B alpha
+T3	Protein 687 702	I kappa B alpha
+T4	Protein 878 893	I kappa B alpha
+T5	Protein 944 959	I kappa B alpha
+T6	Protein 1148 1163	I kappa B alpha
+T7	Protein 1174 1189	I kappa B alpha
+T8	Protein 1402 1417	I kappa B alpha
+T9	Protein 1522 1537	I kappa B alpha
+T10	Exp 944 959	I kappa B alpha
+T11	Exp 1015 1018	its
+T12	Exp 1522 1537	I kappa B alpha
+T13	Exp 1556 1582	an important proximal step
+T14	Exp 1583 1588	which
+T15	Exp 1598 1601	its
+R1	Coref Anaphora:T11 Antecedent:T10	[T5]
+R2	Coref Anaphora:T14 Antecedent:T13
+R3	Coref Anaphora:T15 Antecedent:T12	[T9]

@@ -1,0 +1,39 @@
+T6	Exp 83 96	the mechanism
+T7	Exp 118 139	the activation signal
+T8	Exp 282 304	the gene transcription
+T9	Exp 328 365	the preformed interleukin-1 beta mRNA
+T10	Exp 371 373	we
+T11	Exp 388 398	the effect
+T12	Exp 402 412	the nature
+T13	Exp 416 446	the monocyte activating signal
+T14	Exp 450 480	these two inhibitory mechanims
+T15	Exp 634 636	it
+T16	Exp 482 486	When
+T17	Exp 647 651	that
+T18	Exp 571 577	either
+T19	Exp 676 744	the lipopolysaccharide-induced interleukin-1 beta protein production
+T20	Exp 750 790	the phorbol myristate-induced production
+T21	Exp 849 863	the mRNA level
+T22	Exp 816 831	This difference
+T23	Exp 941 943	it
+T24	Exp 865 869	When
+T25	Exp 897 909	the cultures
+T26	Exp 924 939	the stimulators
+T27	Exp 962 989	the interleukin-1 beta mRNA
+T28	Exp 1011 1025	the stimulator
+T29	Exp 1041 1051	the effect
+T30	Exp 1074 1094	the PMA-induced mRNA
+T31	Exp 1267 1269	it
+T32	Exp 1121 1125	that
+T33	Exp 1126 1162	the phorbol myristate-induced signal
+T34	Exp 1284 1300	the induced mRNA
+T35	Exp 1305 1327	the degradative action
+T36	Exp 1102 1112	these data
+R3	Coref Anaphora:T23 Antecedent:T37
+R4	Coref Anaphora:T31 Antecedent:T33
+T1	Protein 14 32	interleukin-1 beta
+T2	Protein 184 202	interleukin-1 beta
+T3	Protein 342 360	interleukin-1 beta
+T4	Protein 707 725	interleukin-1 beta
+T5	Protein 966 984	interleukin-1 beta
+T37	Exp 870 883	dexamethasone

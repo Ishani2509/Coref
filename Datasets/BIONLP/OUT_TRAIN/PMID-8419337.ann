@@ -1,0 +1,41 @@
+T6	Exp 32 60	the cell-specific regulation
+T7	Exp 81 96	the gamma chain
+T8	Exp 213 217	they
+T9	Exp 207 212	where
+T10	Exp 126 156	The Fc epsilon RI-gamma chains
+T11	Exp 263 267	They
+T12	Exp 280 310	the high affinity IgE receptor
+T13	Exp 396 421	the low affinity receptor
+T14	Exp 508 535	the T cell antigen receptor
+T15	Exp 564 566	we
+T16	Exp 585 615	the transcriptional regulation
+T17	Exp 619 639	the gamma chain gene
+T18	Exp 653 678	the 2.5-kilobase sequence
+T19	Exp 691 719	the transcription start site
+T20	Exp 721 734	This sequence
+T21	Exp 872 874	it
+T22	Exp 954 958	they
+T23	Exp 808 830	the tissue specificity
+T24	Exp 895 918	the hematopoietic cells
+T25	Exp 834 847	this promoter
+T26	Exp 1022 1024	We
+T27	Exp 1094 1099	which
+T28	Exp 1086 1090	both
+T29	Exp 1127 1136	The first
+T30	Exp 1258 1263	which
+T31	Exp 1209 1219	The second
+T32	Exp 1478 1482	both
+T33	Exp 1397 1412	this Alu repeat
+R7	Coref Anaphora:T9 Antecedent:T34
+R8	Coref Anaphora:T8 Antecedent:T10
+R9	Coref Anaphora:T11 Antecedent:T10
+R10	Coref Anaphora:T21 Antecedent:T23
+R11	Coref Anaphora:T22 Antecedent:T24
+R12	Coref Anaphora:T27 Antecedent:T28
+R13	Coref Anaphora:T30 Antecedent:T35
+T1	Protein 130 156	Fc epsilon RI-gamma chains
+T2	Protein 431 445	Fc gamma RIIIA
+T3	Protein 449 453	CD16
+T4	Protein 982 1008	Fc epsilon RI- gamma chain
+T34	Exp 187 206	hematopoietic cells
+T35	Exp 1241 1256	nuclear factors

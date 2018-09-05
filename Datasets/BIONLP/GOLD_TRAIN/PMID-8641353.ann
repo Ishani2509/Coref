@@ -1,0 +1,37 @@
+T1	Protein 14 19	c-fos
+T2	Protein 24 29	c-jun
+T3	Protein 113 131	phytohemagglutinin
+T4	Protein 185 190	c-fos
+T5	Protein 192 200	p62c-fos
+T6	Protein 206 211	c-jun
+T7	Protein 213 221	p39c-jun
+T8	Protein 833 853	phyto- hemagglutinin
+T9	Protein 855 858	PHA
+T10	Protein 1087 1095	p62c-fos
+T11	Protein 1097 1105	p39c-jun
+T12	Protein 1185 1188	PHA
+T13	Protein 1429 1437	p62c-fos
+T14	Protein 1443 1451	p39c-jun
+T15	Protein 1613 1621	p62c-fos
+T16	Protein 1626 1634	p39c-jun
+T17	Protein 1709 1717	p62c-fos
+T18	Protein 1722 1730	p39c-jun
+T19	Protein 1796 1799	PHA
+T20	Protein 1898 1906	p39c-jun
+T21	Protein 1953 1961	p62c-fos
+T22	Protein 1966 1974	p39c-jun
+T23	Protein 2006 2009	PHA
+T24	Protein 2050 2058	p62c-fos
+T25	Protein 2128 2136	p39c-jun
+T26	Exp 157 228	The protein products of the c-fos (p62c-fos) and c-jun (p39c-jun) genes	161 177	protein products
+T27	Exp 415 429	these proteins
+T28	Exp 566 578	the proteins
+T29	Exp 663 677	these proteins
+T30	Exp 944 969	transcription factor AP-1
+T31	Exp 971 976	which
+T32	Exp 1227 1241	these proteins
+R1	Coref Anaphora:T27 Antecedent:T26	[T7, T6, T5, T4]
+R2	Coref Anaphora:T28 Antecedent:T27
+R3	Coref Anaphora:T29 Antecedent:T27
+R4	Coref Anaphora:T31 Antecedent:T30
+R5	Coref Anaphora:T32 Antecedent:T29

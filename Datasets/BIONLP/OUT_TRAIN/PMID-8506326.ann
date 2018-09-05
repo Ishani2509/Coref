@@ -1,0 +1,50 @@
+T17	Exp 105 107	We
+T18	Exp 133 137	that
+T19	Exp 268 272	that
+T20	Exp 305 310	which
+T21	Exp 138 155	the T lymphocytes
+T22	Exp 222 239	the transcription
+T23	Exp 505 507	we
+T24	Exp 391 401	the defect
+T25	Exp 405 416	the patient
+T26	Exp 474 503	the affected lymphokine genes
+T27	Exp 517 528	the ability
+T28	Exp 553 564	the patient
+T29	Exp 618 639	the regulatory region
+T30	Exp 799 914	activated T cells (NF-AT) to its response element in the IL2 enhancer and to an NF-AT-like response element present
+T31	Exp 762 773	the binding
+T32	Exp 777 795	the nuclear factor
+T33	Exp 918 934	the IL4 enhancer
+T34	Exp 1043 1045	we
+T35	Exp 970 1005	the abnormal NF-AT binding activity
+T36	Exp 1119 1136	the reporter gene
+T37	Exp 1193 1204	the control
+T38	Exp 1208 1240	the entire IL2 regulatory region
+T39	Exp 1318 1343	the IL2 regulatory region
+T40	Exp 1364 1386	the NF-AT-binding site
+T41	Exp 1409 1420	the patient
+T42	Exp 1502 1520	the OCT-1 proximal
+T43	Exp 1606 1610	that
+T44	Exp 1663 1697	the multiple lymphokine deficiency
+T45	Exp 1583 1596	These results
+T46	Exp 1701 1713	this patient
+R4	Coref Anaphora:T19 Antecedent:T47
+T48	SPAN 281 303	IL2, IL3, IL4, and IL5
+R5	Coref Anaphora:T20 Antecedent:T48
+R6	Coref Anaphora:T30 Antecedent:T32
+T1	Protein 281 284	IL2
+T2	Protein 286 289	IL3
+T3	Protein 291 294	IL4
+T4	Protein 300 303	IL5
+T5	Protein 643 646	IL2
+T6	Protein 699 704	OCT-1
+T7	Protein 856 859	IL2
+T8	Protein 922 925	IL4
+T9	Protein 1146 1180	chloramphenicol acetyl transferase
+T10	Protein 1182 1185	CAT
+T11	Protein 1219 1222	IL2
+T12	Protein 1291 1294	CAT
+T13	Protein 1322 1325	IL2
+T14	Protein 1456 1459	CAT
+T15	Protein 1506 1511	OCT-1
+T47	Exp 243 267	several lymphokine genes

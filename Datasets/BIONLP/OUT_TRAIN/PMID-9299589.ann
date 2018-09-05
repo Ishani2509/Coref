@@ -1,0 +1,7 @@
+T1	Exp 41 52	the control
+T2	Exp 68 79	The process
+T3	Exp 354 358	that
+T4	Exp 522 526	that
+T5	Exp 606 619	these factors
+R2	Coref Anaphora:T4 Antecedent:T6
+T6	Exp 505 521	survival signals

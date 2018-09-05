@@ -1,0 +1,51 @@
+T17	Exp 174 178	both
+T18	Exp 359 363	that
+T19	Exp 246 256	These EKLF
+T20	Exp 444 452	the EKLF
+T21	Exp 523 537	these colonies
+T22	Exp 646 650	that
+T23	Exp 752 757	which
+T24	Exp 719 732	the exception
+T25	Exp 805 814	The ratio
+T26	Exp 857 876	the mutant ES cells
+T27	Exp 972 976	they
+T28	Exp 917 921	When
+T29	Exp 1165 1169	that
+T30	Exp 922 930	the EKLF
+T31	Exp 1021 1055	the mature erythrocyte compartment
+T32	Exp 1059 1079	the chimeric animals
+T33	Exp 1365 1369	that
+T34	Exp 1329 1354	the same chimeric animals
+T35	Exp 1370 1403	the ES cell-derived reticulocytes
+T36	Exp 1456 1460	that
+T37	Exp 1461 1469	the EKLF
+T38	Exp 1542 1555	the imbalance
+T39	Exp 1604 1621	the precipitation
+T40	Exp 1707 1726	the short life span
+T41	Exp 1764 1772	the EKLF
+T42	Exp 1835 1847	the presence
+T43	Exp 1915 1924	the blood
+T44	Exp 1928 1948	the chimeric animals
+T45	Exp 1690 1705	this hypothesis
+R5	Coref Anaphora:T18 Antecedent:T46
+R6	Coref Anaphora:T23 Antecedent:T7
+R7	Coref Anaphora:T27 Antecedent:T10
+R8	Coref Anaphora:T29 Antecedent:T47
+T1	Protein 25 29	EKLF
+T2	Protein 76 87	beta-globin
+T3	Protein 120 132	gamma-globin
+T4	Protein 179 191	EKLF alleles
+T5	Protein 252 256	EKLF
+T6	Protein 448 452	EKLF
+T7	Protein 736 750	beta h1-globin
+T8	Protein 824 835	beta-globin
+T9	Protein 836 848	alpha-globin
+T10	Protein 926 930	EKLF
+T11	Protein 1102 1131	glucose phosphate isomerase-1
+T12	Protein 1133 1138	GPI-1
+T13	Protein 1465 1469	EKLF
+T14	Protein 1632 1644	alpha-globin
+T15	Protein 1768 1772	EKLF
+T16	Protein 1800 1812	gamma-globin
+T46	Exp 340 358	erythroid colonies
+T47	Exp 1153 1164	hemoglobins

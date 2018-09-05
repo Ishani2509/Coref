@@ -1,0 +1,27 @@
+T14	Exp 140 144	that
+T15	Exp 203 211	the Oct1
+T16	Exp 450 454	both
+T17	Exp 481 498	this modification
+T18	Exp 621 625	that
+T19	Exp 657 661	that
+T20	Exp 626 656	the activating phosphorylation
+T21	Exp 775 779	that
+R5	Coref Anaphora:T14 Antecedent:T22
+T24	SPAN 207 220	Oct1 and Oct2
+R6	Coref Anaphora:T16 Antecedent:T24
+R7	Coref Anaphora:T19 Antecedent:T20
+R8	Coref Anaphora:T21 Antecedent:T23
+T1	Protein 56 61	BOB.1
+T2	Protein 62 67	OBF.1
+T3	Protein 95 100	BOB.1
+T4	Protein 101 106	OBF.1
+T5	Protein 207 211	Oct1
+T6	Protein 216 220	Oct2
+T7	Protein 343 348	BOB.1
+T8	Protein 349 354	OBF.1
+T9	Protein 409 414	BOB.1
+T10	Protein 415 420	OBF.1
+T11	Protein 730 735	BOB.1
+T12	Protein 736 741	OBF.1
+T22	Exp 110 139	a transcriptional coactivator
+T23	Exp 745 774	a transcriptional coactivator

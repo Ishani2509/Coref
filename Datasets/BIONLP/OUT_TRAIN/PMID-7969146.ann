@@ -1,0 +1,47 @@
+T12	Exp 27 32	which
+T13	Exp 41 63	the monocytic activity
+T14	Exp 67 146	the colony-stimulating factor 1 (macrophage colony-stimulating factor) receptor
+T15	Exp 185 197	The receptor
+T16	Exp 202 242	the macrophage colony-stimulating factor
+T17	Exp 369 371	We
+T18	Exp 390 394	that
+T19	Exp 395 427	the monocyte-specific expression
+T20	Exp 431 449	the CSF-1 receptor
+T21	Exp 466 475	the level
+T22	Exp 555 604	the monocyte/B-cell-specific transcription factor
+T23	Exp 706 708	we
+T24	Exp 716 720	that
+T25	Exp 824 829	which
+T26	Exp 721 743	the tissue specificity
+T27	Exp 855 876	the PU.1-binding site
+T28	Exp 747 760	this promoter
+T29	Exp 878 882	When
+T30	Exp 1022 1026	that
+T31	Exp 1199 1210	this region
+T32	Exp 1260 1264	that
+T33	Exp 1377 1382	which
+T34	Exp 1293 1334	the polyomavirus enhancer-binding protein
+T35	Exp 1392 1413	the AML1 gene product
+T36	Exp 1533 1556	these sequence elements
+T37	Exp 1672 1684	the activity
+T38	Exp 1804 1808	that
+T39	Exp 1809 1858	the monocyte/B-cell-specific transcription factor
+T40	Exp 1868 1878	the Mono A
+T41	Exp 1970 1988	the CSF-1 receptor
+T42	Exp 1781 1794	These results
+R4	Coref Anaphora:T12 Antecedent:T43
+R5	Coref Anaphora:T15 Antecedent:T2
+R6	Coref Anaphora:T33 Antecedent:T44
+T1	Protein 71 146	colony-stimulating factor 1 (macrophage colony-stimulating factor) receptor
+T2	Protein 177 181	AML1
+T3	Protein 206 242	macrophage colony-stimulating factor
+T4	Protein 247 274	colony-stimulating factor 1
+T5	Protein 276 281	CSF-1
+T6	Protein 435 449	CSF-1 receptor
+T7	Protein 605 609	PU.1
+T8	Protein 859 863	PU.1
+T9	Protein 1396 1400	AML1
+T10	Protein 1859 1863	PU.1
+T11	Protein 1974 1988	CSF-1 receptor
+T43	Exp 18 26	a region
+T44	Exp 1335 1375	2/core-binding factor (PEBP2/CBF) family

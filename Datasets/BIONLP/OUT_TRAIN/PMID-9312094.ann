@@ -1,0 +1,46 @@
+T10	Exp 76 104	its B cell-specific activity
+T11	Exp 0 22	The DNA binding domain
+T12	Exp 26 56	the A-MYB transcription factor
+T13	Exp 231 235	that
+T14	Exp 183 190	the use
+T15	Exp 236 266	the A-MYB transcription factor
+T16	Exp 302 316	the regulation
+T17	Exp 385 387	it
+T18	Exp 459 475	the pathogenesis
+T19	Exp 479 491	this disease
+T20	Exp 493 495	We
+T21	Exp 566 580	its regulation
+T22	Exp 656 660	that
+T23	Exp 524 552	the transcriptional activity
+T24	Exp 702 707	the B
+T25	Exp 762 780	the best responder
+T26	Exp 795 806	the Burkitt
+T27	Exp 884 888	when
+T28	Exp 828 840	The activity
+T29	Exp 923 941	the c-MYC promoter
+T30	Exp 979 1013	the functional domains responsible
+T31	Exp 1171 1181	The region
+T32	Exp 1254 1284	the N-terminal 218 amino acids
+T33	Exp 1296 1318	the DNA binding domain
+T34	Exp 1417 1421	that
+T35	Exp 1370 1380	the nuclei
+T36	Exp 1388 1393	the B
+T37	Exp 1444 1472	this A-MYB N-terminal domain
+T38	Exp 1474 1476	We
+T39	Exp 1489 1493	that
+T40	Exp 1494 1514	this 110-kDa protein
+R6	Coref Anaphora:T10 Antecedent:T12
+R7	Coref Anaphora:T17 Antecedent:T14
+R8	Coref Anaphora:T21 Antecedent:T3
+R9	Coref Anaphora:T34 Antecedent:T41
+R10	Coref Anaphora:T40 Antecedent:T8
+T1	Protein 30 35	A-MYB
+T2	Protein 240 245	A-MYB
+T3	Protein 556 561	A-MYB
+T4	Protein 661 666	A-MYB
+T5	Protein 844 849	A-MYB
+T6	Protein 927 932	c-MYC
+T7	Protein 1185 1190	A-MYB
+T8	Protein 1449 1454	A-MYB
+T9	Protein 1579 1584	A-MYB
+T41	Exp 1406 1416	cell lines

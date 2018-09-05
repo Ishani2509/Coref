@@ -1,0 +1,17 @@
+T4	Exp 96 121	the ORF 50 transactivator
+T5	Exp 136 153	the EBV R protein
+T6	Exp 308 329	The primary reservoir
+T7	Exp 473 496	this lymphoid reservoir
+T8	Exp 572 574	we
+T9	Exp 580 584	that
+T10	Exp 640 645	which
+T11	Exp 768 790	the lytic gene cascade
+T12	Exp 821 839	The identification
+T13	Exp 859 866	the way
+T14	Exp 881 907	the physiologic mechanisms
+T15	Exp 843 852	this gene
+R3	Coref Anaphora:T10 Antecedent:T3
+R4	Coref Anaphora:T15 Antecedent:T3
+T1	Protein 100 121	ORF 50 transactivator
+T2	Protein 140 145	EBV R
+T3	Protein 632 638	ORF 50

@@ -1,0 +1,42 @@
+T2	Exp 206 256	the transcriptional and posttranscriptional levels
+T3	Exp 355 360	which
+T4	Exp 474 478	they
+T5	Exp 560 562	it
+T6	Exp 405 436	their antiproliferative effects
+T7	Exp 484 510	their cytoplasmic receptor
+T8	Exp 468 473	where
+T9	Exp 512 517	which
+T10	Exp 554 559	where
+T11	Exp 674 679	which
+T12	Exp 542 553	the nucleus
+T13	Exp 630 666	the glucocorticoid response elements
+T14	Exp 695 714	the promoter region
+T15	Exp 774 784	the action
+T16	Exp 874 898	their inhibitory effects
+T17	Exp 968 972	that
+T18	Exp 1048 1050	we
+T19	Exp 1180 1185	which
+T20	Exp 1061 1078	the current state
+T21	Exp 1095 1108	the mechanism
+T22	Exp 1137 1151	the phenomenon
+T23	Exp 1035 1046	this review
+R10	Coref Anaphora:T3 Antecedent:T24
+R11	Coref Anaphora:T6 Antecedent:T25
+R12	Coref Anaphora:T8 Antecedent:T26
+R13	Coref Anaphora:T4 Antecedent:T27
+R14	Coref Anaphora:T7 Antecedent:T27
+R15	Coref Anaphora:T9 Antecedent:T27
+R16	Coref Anaphora:T10 Antecedent:T12
+R17	Coref Anaphora:T5 Antecedent:T12
+R18	Coref Anaphora:T11 Antecedent:T28
+R19	Coref Anaphora:T16 Antecedent:T27
+R20	Coref Anaphora:T17 Antecedent:T29
+R21	Coref Anaphora:T19 Antecedent:T30
+T1	Protein 311 342	transforming growth factor-beta
+T24	Exp 343 353	expression
+T25	Exp 258 261	GCS
+T26	Exp 455 467	target cells
+T27	Exp 438 441	GCS
+T28	Exp 668 671	GRE
+T29	Exp 939 967	cytokine receptor expression
+T30	Exp 1155 1178	steroid-induced rebound

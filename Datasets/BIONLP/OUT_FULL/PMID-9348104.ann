@@ -1,0 +1,39 @@
+T5	Exp 182 201	the collective name
+T6	Exp 488 511	their ester derivatives
+T7	Exp 327 349	The active ingredients
+T8	Exp 360 386	the pharmacological effect
+T9	Exp 637 667	their anti-inflammatory effect
+T10	Exp 604 607	how
+T11	Exp 519 534	these compounds
+T12	Exp 669 671	We
+T13	Exp 682 686	that
+T14	Exp 858 863	which
+T15	Exp 880 893	the compounds
+T16	Exp 829 844	This difference
+T17	Exp 1128 1150	its inhibitory subunit
+T18	Exp 1004 1009	which
+T19	Exp 1358 1370	the activity
+T20	Exp 1325 1340	This inhibition
+T21	Exp 1453 1455	We
+T22	Exp 1461 1465	that
+T23	Exp 1516 1548	the active NF-kappaB heterodimer
+T24	Exp 1577 1606	the NF-kappaB/IkappaB complex
+T25	Exp 1619 1630	the release
+T26	Exp 1744 1749	which
+T27	Exp 1688 1716	the anti-inflammatory effect
+T28	Exp 1643 1653	These data
+R7	Coref Anaphora:T6 Antecedent:T29
+R8	Coref Anaphora:T9 Antecedent:T30
+R9	Coref Anaphora:T14 Antecedent:T31
+R10	Coref Anaphora:T18 Antecedent:T32
+R11	Coref Anaphora:T17 Antecedent:T33
+R12	Coref Anaphora:T26 Antecedent:T34
+T1	Protein 1408 1413	Oct-1
+T2	Protein 1415 1418	TBP
+T3	Protein 1420 1423	Sp1
+T29	Exp 398 420	sesquiterpene lactones
+T30	Exp 608 630	sesquiterpene lactones
+T31	Exp 848 856	efficacy
+T32	Exp 993 1002	NF-kappaB
+T33	Exp 1093 1108	phosphorylation
+T34	Exp 1720 1742	sesquiterpene lactones

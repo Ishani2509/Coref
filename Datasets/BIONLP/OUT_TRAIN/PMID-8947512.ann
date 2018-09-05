@@ -1,0 +1,32 @@
+T10	Exp 350 384	the cholesterol feedback mechanism
+T11	Exp 386 429	The deranged cholesterol feedback mechanism
+T12	Exp 787 798	its absence
+T13	Exp 579 596	the present study
+T14	Exp 654 667	the existence
+T15	Exp 625 640	this phenomenon
+T16	Exp 722 739	this SRE sequence
+T17	Exp 873 877	when
+T18	Exp 878 894	the CML patients
+T19	Exp 852 863	this factor
+T20	Exp 1090 1110	the binding affinity
+T21	Exp 1136 1152	the SRE sequence
+T22	Exp 1114 1132	this 47 kDa factor
+T23	Exp 1179 1181	we
+T24	Exp 1220 1232	its receptor
+T25	Exp 1190 1194	that
+T26	Exp 1282 1287	which
+T27	Exp 1306 1318	the affinity
+T28	Exp 1165 1178	these results
+R4	Coref Anaphora:T12 Antecedent:T29
+R5	Coref Anaphora:T24 Antecedent:T7
+R6	Coref Anaphora:T26 Antecedent:T30
+T1	Protein 17 29	LDL-receptor
+T2	Protein 199 237	low density lipoprotein (LDL)-receptor
+T3	Protein 239 296	3-hydroxy-3-methylglutaryl coenzyme A (HMG-CoA) reductase
+T4	Protein 301 317	HMG-CoA synthase
+T5	Protein 952 968	alpha-interferon
+T6	Protein 1054 1066	LDL-receptor
+T7	Protein 1195 1211	alpha-interferon
+T8	Protein 1381 1393	LDL-receptor
+T29	Exp 709 717	affinity
+T30	Exp 1243 1281	phosphatidic acid dependent signalling

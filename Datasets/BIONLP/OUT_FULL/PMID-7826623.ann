@@ -1,0 +1,40 @@
+T13	Exp 29 61	the human IL-3 proximal promoter
+T14	Exp 64 99	The human interleukin-3 (IL-3) gene
+T15	Exp 154 168	Its expression
+T16	Exp 242 244	We
+T17	Exp 267 271	that
+T18	Exp 333 350	the phorbol ester
+T19	Exp 397 410	the IL-3 gene
+T20	Exp 485 487	we
+T21	Exp 422 433	the regions
+T22	Exp 437 445	the gene
+T23	Exp 562 575	the IL-3 gene
+T24	Exp 672 686	the proximal 5
+T25	Exp 707 720	the IL-3 gene
+T26	Exp 722 741	The promoter region
+T27	Exp 773 806	the strongest activating elements
+T28	Exp 808 837	The transcription factor AP-1
+T29	Exp 886 898	the promoter
+T30	Exp 852 882	this positive activator region
+T31	Exp 900 902	We
+T32	Exp 1016 1020	they
+T33	Exp 961 965	that
+T34	Exp 1011 1015	that
+T35	Exp 1068 1072	when
+T36	Exp 917 929	the function
+T37	Exp 933 946	the IL-3 CK-1
+R4	Coref Anaphora:T15 Antecedent:T14
+R5	Coref Anaphora:T33 Antecedent:T11
+R6	Coref Anaphora:T32 Antecedent:T11
+T1	Protein 39 43	IL-3
+T2	Protein 74 87	interleukin-3
+T3	Protein 89 93	IL-3
+T4	Protein 305 322	phytohemaglutinin
+T5	Protein 324 327	PHA
+T6	Protein 401 405	IL-3
+T7	Protein 566 570	IL-3
+T8	Protein 711 715	IL-3
+T9	Protein 937 941	IL-3
+T10	Protein 942 946	CK-1
+T11	Protein 947 951	CK-2
+T12	Protein 1147 1150	PHA

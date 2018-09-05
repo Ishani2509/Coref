@@ -1,0 +1,16 @@
+T1	Protein 66 82	interferon-gamma
+T2	Protein 563 572	IFN gamma
+T3	Protein 842 846	RelA
+T4	Protein 851 854	p50
+T5	Protein 937 941	RelA
+T6	Protein 946 949	p50
+T7	Protein 1041 1050	IFN gamma
+T8	Protein 1480 1484	RelA
+T9	Protein 1485 1488	p50
+T10	Protein 1816 1825	IFN gamma
+T11	Exp 1077 1090	A beta(25-35)
+T12	Exp 1109 1119	themselves
+T13	Exp 1490 1506	The LPS response	1498 1506	response
+T14	Exp 1531 1533	it
+R1	Coref Anaphora:T12 Antecedent:T11
+R2	Coref Anaphora:T14 Antecedent:T13

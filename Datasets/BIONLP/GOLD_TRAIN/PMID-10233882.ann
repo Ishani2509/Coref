@@ -1,0 +1,13 @@
+T1	Protein 41 45	CD34
+T2	Protein 360 364	CD34
+T3	Protein 460 464	CD34
+T4	Protein 605 632	tumor necrosis factor alpha
+T5	Protein 634 647	interleukin-3
+T6	Protein 653 701	granulocyte-macrophage colony-stimulating factor
+T7	Protein 772 776	CD34
+T8	Exp 421 429	evidence
+T9	Exp 435 439	that
+T10	Exp 494 503	NF-kappaB
+T11	Exp 504 508	that
+R1	Coref Anaphora:T9 Antecedent:T8
+R2	Coref Anaphora:T11 Antecedent:T10

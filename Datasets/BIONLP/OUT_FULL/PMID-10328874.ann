@@ -1,0 +1,53 @@
+T24	Exp 46 60	the expression
+T25	Exp 138 142	that
+T26	Exp 143 184	the non-steroidal anti-inflammatory drugs
+T27	Exp 433 435	we
+T28	Exp 330 334	both
+T29	Exp 450 468	the potential role
+T30	Exp 480 491	the effects
+T31	Exp 559 561	We
+T32	Exp 568 572	that
+T33	Exp 588 617	the NSAIDs, sodium salicylate
+T34	Exp 639 656	the IL1B promoter
+T35	Exp 789 793	that
+T36	Exp 823 837	the expression
+T37	Exp 1174 1185	our studies
+T38	Exp 1004 1012	the case
+T39	Exp 1016 1033	the IL1B promoter
+T40	Exp 1115 1125	the NSAIDs
+T41	Exp 1139 1165	the IL1B promoter fragment
+T42	Exp 1337 1347	the stress
+T43	Exp 1433 1443	the NSAIDs
+T44	Exp 1518 1523	which
+T45	Exp 1587 1592	which
+T46	Exp 1636 1640	that
+T47	Exp 1495 1509	the properties
+T48	Exp 1472 1486	These findings
+T49	Exp 1715 1726	these forms
+T50	Exp 1968 1981	these effects
+R4	Coref Anaphora:T35 Antecedent:T51
+R5	Coref Anaphora:T44 Antecedent:T20
+R6	Coref Anaphora:T45 Antecedent:T52
+T1	Protein 236 240	HSF1
+T2	Protein 309 313	HSF1
+T3	Protein 416 420	IL1B
+T4	Protein 425 431	c- fos
+T5	Protein 472 476	HSF1
+T6	Protein 643 647	IL1B
+T7	Protein 692 696	HSF1
+T8	Protein 803 807	HSF1
+T9	Protein 864 873	TNF-alpha
+T10	Protein 875 883	IL-1beta
+T11	Protein 885 889	IL-6
+T12	Protein 891 895	IL-8
+T13	Protein 897 902	IL-10
+T14	Protein 904 910	ICAM-1
+T15	Protein 1020 1024	IL1B
+T16	Protein 1143 1147	IL1B
+T17	Protein 1239 1243	HSF1
+T18	Protein 1359 1365	HSP70B
+T19	Protein 1452 1457	HSP70
+T20	Protein 1513 1517	HSF1
+T21	Protein 1926 1930	HSF1
+T51	Exp 774 788	concentrations
+T52	Exp 1575 1583	only one

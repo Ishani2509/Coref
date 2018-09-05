@@ -1,0 +1,25 @@
+T2	Exp 30 61	the I alpha1 germ-line promoter
+T3	Exp 191 195	that
+T4	Exp 64 127	The immunoglobulin heavy chain (IgH) class switch recombination
+T5	Exp 320 321	I
+T6	Exp 343 363	their switch regions
+T7	Exp 266 289	the germ-line IgH genes
+T8	Exp 365 386	The I alpha1 promoter
+T9	Exp 414 447	the human germ-line C alpha1 gene
+T10	Exp 470 512	the transforming growth factor (TGF)-beta1
+T11	Exp 531 541	this locus
+T12	Exp 548 550	we
+T13	Exp 556 560	that
+T14	Exp 672 676	that
+T15	Exp 561 582	the I alpha1 promoter
+T16	Exp 618 642	the AML/PEBP2/CBF family
+T17	Exp 722 772	the basal and TGF-beta-inducible promoter activity
+T18	Exp 774 782	Our data
+T19	Exp 863 868	which
+T20	Exp 836 859	the molecular mechanism
+R4	Coref Anaphora:T3 Antecedent:T21
+R5	Coref Anaphora:T6 Antecedent:T22
+R6	Coref Anaphora:T19 Antecedent:T20
+T1	Protein 474 512	transforming growth factor (TGF)-beta1
+T21	Exp 168 190	unrearranged IgH genes
+T22	Exp 323 330	regions

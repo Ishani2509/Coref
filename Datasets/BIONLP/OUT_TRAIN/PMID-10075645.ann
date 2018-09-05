@@ -1,0 +1,21 @@
+T11	Exp 334 350	the pathogenesis
+T12	Exp 544 546	we
+T13	Exp 560 568	the role
+T14	Exp 1023 1027	both
+T15	Exp 945 971	the IL-1 signaling pathway
+T16	Exp 1171 1175	that
+T17	Exp 1346 1362	the cell surface
+T18	Exp 1412 1416	that
+T19	Exp 1451 1475	the LPS receptor complex
+T20	Exp 1490 1498	the IL-1
+T21	Exp 1551 1576	the LPS signaling cascade
+T22	Exp 1389 1403	These findings
+R3	Coref Anaphora:T16 Antecedent:T6
+T1	Protein 636 645	TNF-alpha
+T2	Protein 983 988	MyD88
+T3	Protein 990 994	IRAK
+T4	Protein 996 1001	IRAK2
+T5	Protein 1007 1012	TRAF6
+T6	Protein 1165 1170	TRAF2
+T7	Protein 1314 1318	TLR2
+T8	Protein 1323 1327	TLR4

@@ -1,0 +1,43 @@
+T13	Exp 141 156	the NFAT family
+T14	Exp 194 208	the expression
+T15	Exp 242 261	the immune response
+T16	Exp 271 280	the genes
+T17	Exp 549 553	them
+T18	Exp 559 575	their precursors
+T19	Exp 530 534	that
+T20	Exp 478 486	each one
+T21	Exp 592 608	the major source
+T22	Exp 673 675	we
+T23	Exp 719 723	that
+T24	Exp 844 850	either
+T25	Exp 806 825	the differentiation
+T26	Exp 881 895	the expression
+T27	Exp 933 946	both pathways
+T28	Exp 1063 1089	the NFAT complexes present
+T29	Exp 1341 1356	the high levels
+T30	Exp 1416 1435	the IL-4 production
+T31	Exp 1265 1277	neither eTh1
+T32	Exp 1513 1517	that
+T33	Exp 1588 1592	that
+T34	Exp 1548 1569	the effector function
+T35	Exp 1593 1604	the failure
+T36	Exp 1740 1753	the IL-4 gene
+T37	Exp 1494 1504	These data
+T38	Exp 1823 1839	the polarization
+R4	Coref Anaphora:T16 Antecedent:T13
+R5	Coref Anaphora:T19 Antecedent:T39
+R6	Coref Anaphora:T17 Antecedent:T39
+R7	Coref Anaphora:T18 Antecedent:T39
+T1	Protein 63 66	CD4
+T2	Protein 285 298	interleukin 2
+T3	Protein 300 304	IL-2
+T4	Protein 310 314	IL-4
+T5	Protein 366 369	CD4
+T6	Protein 612 616	IL-4
+T7	Protein 624 640	gamma interferon
+T8	Protein 899 903	IL-2
+T9	Protein 1314 1318	IL-2
+T10	Protein 1420 1424	IL-4
+T11	Protein 1630 1634	IL-4
+T12	Protein 1744 1748	IL-4
+T39	Exp 520 529	cytokines

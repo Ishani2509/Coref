@@ -1,0 +1,43 @@
+T19	Exp 203 218	the specificity
+T20	Exp 339 343	that
+T21	Exp 381 408	the T-cell antigen receptor
+T22	Exp 416 442	the costimulatory receptor
+T23	Exp 572 576	that
+T24	Exp 543 571	the haematopoietic cytokines
+T25	Exp 683 694	the outcome
+T26	Exp 698 718	the immune reactions
+T27	Exp 753 755	we
+T28	Exp 769 783	the importance
+T29	Exp 741 751	this study
+T30	Exp 938 951	the induction
+T31	Exp 1048 1064	the mutant forms
+T32	Exp 1081 1083	We
+T33	Exp 1100 1104	that
+T34	Exp 1139 1167	the transactivation capacity
+T35	Exp 1229 1236	the TCR
+T36	Exp 1600 1614	the GTPase Rac
+T37	Exp 1439 1452	These effects
+T38	Exp 1709 1720	Our results
+T39	Exp 1731 1735	that
+T40	Exp 1752 1756	both
+R3	Coref Anaphora:T20 Antecedent:T41
+R4	Coref Anaphora:T23 Antecedent:T24
+T1	Protein 20 45	phosphoinositide 3-kinase
+T2	Protein 256 281	Phosphoinositide 3-kinase
+T3	Protein 283 294	PI 3-kinase
+T4	Protein 443 447	CD28
+T5	Protein 502 508	CTLA-4
+T6	Protein 510 521	PI 3-kinase
+T7	Protein 640 651	PI 3-kinase
+T8	Protein 787 798	PI 3-kinase
+T9	Protein 875 886	PI 3-kinase
+T10	Protein 1068 1079	PI 3-kinase
+T11	Protein 1105 1116	PI 3-kinase
+T12	Protein 1273 1284	PI 3-kinase
+T13	Protein 1377 1388	PI 3-kinase
+T14	Protein 1456 1467	PI 3-kinase
+T15	Protein 1511 1522	PI 3-kinase
+T16	Protein 1584 1595	PI 3-kinase
+T17	Protein 1736 1747	PI 3-kinase
+T18	Protein 1860 1871	PI 3-kinase
+T41	Exp 329 338	receptors

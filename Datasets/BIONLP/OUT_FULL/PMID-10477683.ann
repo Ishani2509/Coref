@@ -1,0 +1,36 @@
+T15	Exp 119 123	that
+T16	Exp 88 118	The transcriptional mechanisms
+T17	Exp 304 306	We
+T18	Exp 318 322	that
+T19	Exp 431 435	that
+T20	Exp 323 332	the c-Maf
+T21	Exp 601 623	the promyelocyte stage
+T22	Exp 672 685	the induction
+T23	Exp 528 543	These complexes
+T24	Exp 716 718	We
+T25	Exp 742 782	this developmentally related interaction
+T26	Exp 1006 1008	we
+T27	Exp 877 893	the elevated Myb
+T28	Exp 1029 1043	the c-Maf cDNA
+T29	Exp 1172 1188	the accumulation
+T30	Exp 1283 1287	that
+T31	Exp 1337 1341	that
+T32	Exp 1521 1535	the activation
+T33	Exp 1302 1326	these phenotypic changes
+R4	Coref Anaphora:T15 Antecedent:T16
+R5	Coref Anaphora:T19 Antecedent:T34
+R6	Coref Anaphora:T30 Antecedent:T35
+T1	Protein 0 5	c-Maf
+T2	Protein 327 332	c-Maf
+T3	Protein 337 342	c-Myb
+T4	Protein 462 467	c-Myb
+T5	Protein 977 982	c-Maf
+T6	Protein 1033 1038	c-Maf
+T7	Protein 1109 1114	c-Maf
+T8	Protein 1342 1347	c-Maf
+T9	Protein 1455 1460	c-Myb
+T10	Protein 1488 1493	Bcl-2
+T11	Protein 1498 1502	CD13
+T12	Protein 1503 1506	APN
+T34	Exp 410 430	inhibitory complexes
+T35	Exp 1275 1282	targets

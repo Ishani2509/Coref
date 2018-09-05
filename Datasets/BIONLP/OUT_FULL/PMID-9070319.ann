@@ -1,0 +1,27 @@
+T17	Exp 206 208	it
+T18	Exp 308 310	We
+T19	Exp 323 327	that
+T20	Exp 328 349	the signaling cascade
+T21	Exp 743 758	All such events
+T22	Exp 966 983	their combination
+T23	Exp 1061 1072	its potency
+T24	Exp 1202 1206	that
+T25	Exp 1335 1339	that
+T26	Exp 1300 1322	the PI3-kinase pathway
+T27	Exp 1179 1192	These results
+T29	SPAN 942 957	IL-4, anti-CD40
+R5	Coref Anaphora:T22 Antecedent:T29
+R6	Coref Anaphora:T23 Antecedent:T28
+T1	Protein 363 376	interleukin-4
+T2	Protein 378 382	IL-4
+T3	Protein 392 396	CD40
+T4	Protein 563 567	IL-4
+T5	Protein 577 581	CD40
+T6	Protein 942 946	IL-4
+T7	Protein 953 957	CD40
+T8	Protein 1114 1118	IL-4
+T9	Protein 1128 1132	CD40
+T10	Protein 1167 1171	IL-4
+T11	Protein 1207 1211	IL-4
+T12	Protein 1228 1232	CD40
+T28	Exp 985 988	NAC

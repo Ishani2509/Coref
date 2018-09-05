@@ -1,0 +1,13 @@
+T1	Protein 55 63	protease
+T2	Protein 809 820	50K subunit
+T3	Protein 883 887	p105
+T4	Protein 1035 1039	p105
+T5	Protein 1226 1234	protease
+T6	Protein 1247 1251	p105
+T7	Exp 320 341	the factor NF-kappa B	324 330	factor
+T8	Exp 342 347	which
+T9	Exp 411 422	This factor
+T10	Exp 534 536	It
+R1	Coref Anaphora:T8 Antecedent:T7
+R2	Coref Anaphora:T9 Antecedent:T7
+R3	Coref Anaphora:T10 Antecedent:T9

@@ -1,0 +1,38 @@
+T20	Exp 34 62	the I kappa B beta inhibitor
+T21	Exp 65 100	The transcription factor NF-kappa B
+T22	Exp 309 326	their association
+T23	Exp 272 286	the inhibitors
+T24	Exp 332 357	the p65 or c-Rel subunits
+T25	Exp 372 374	we
+T26	Exp 596 607	the nucleus
+T27	Exp 614 616	we
+T28	Exp 622 626	that
+T29	Exp 724 728	that
+T30	Exp 796 800	what
+T31	Exp 832 840	Our data
+T32	Exp 854 858	that
+T33	Exp 1065 1069	that
+T34	Exp 1147 1152	which
+T35	Exp 980 991	The absence
+T36	Exp 1070 1089	the phosphorylation
+T37	Exp 1122 1146	the signal-induced event
+T38	Exp 1161 1173	the molecule
+R4	Coref Anaphora:T22 Antecedent:T23
+R5	Coref Anaphora:T34 Antecedent:T37
+R6	Coref Anaphora:T38 Antecedent:T16
+T1	Protein 38 52	I kappa B beta
+T2	Protein 193 208	I kappa B alpha
+T3	Protein 213 227	I kappa B beta
+T4	Protein 336 339	p65
+T5	Protein 343 348	c-Rel
+T6	Protein 419 436	I kappa B epsilon
+T7	Protein 491 506	I kappa B alpha
+T8	Protein 508 522	I kappa B beta
+T9	Protein 653 668	I kappa B alpha
+T10	Protein 673 687	I kappa B beta
+T11	Protein 716 719	p65
+T12	Protein 729 743	I kappa B beta
+T13	Protein 771 780	TNF alpha
+T14	Protein 867 882	I kappa B alpha
+T15	Protein 884 898	I kappa B beta
+T16	Protein 1019 1033	I kappa B beta

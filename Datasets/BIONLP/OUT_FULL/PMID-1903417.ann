@@ -1,0 +1,41 @@
+T17	Exp 104 114	the switch
+T18	Exp 120 137	the membrane form
+T19	Exp 141 158	the secreted form
+T20	Exp 287 299	The addition
+T21	Exp 820 832	the presence
+T22	Exp 1205 1236	their respective secreted forms
+T23	Exp 1151 1161	the switch
+T24	Exp 1167 1185	the membrane forms
+T25	Exp 1250 1262	the presence
+T26	Exp 1358 1369	The effects
+T27	Exp 1704 1709	which
+T28	Exp 1671 1702	the transcriptional factor AP-1
+T29	Exp 1817 1821	that
+T30	Exp 1881 1894	the synthesis
+T31	Exp 1921 1931	the switch
+T32	Exp 1937 1954	the membrane form
+T33	Exp 1958 1976	the secreted forms
+T34	Exp 1790 1804	These findings
+T35	Exp 2079 2081	it
+T36	Exp 2151 2184	their respective target sequences
+T37	Exp 2016 2021	which
+T38	Exp 1999 2012	The mechanism
+T39	Exp 2113 2124	the binding
+R5	Coref Anaphora:T22 Antecedent:T24
+R6	Coref Anaphora:T27 Antecedent:T28
+R7	Coref Anaphora:T37 Antecedent:T38
+R8	Coref Anaphora:T35 Antecedent:T38
+R9	Coref Anaphora:T36 Antecedent:T34
+T1	Protein 400 404	IL-2
+T2	Protein 504 517	kappa L chain
+T3	Protein 523 537	lambda L chain
+T4	Protein 647 651	CD20
+T5	Protein 736 741	kappa
+T6	Protein 752 758	lambda
+T7	Protein 803 816	kappa L chain
+T8	Protein 877 891	lambda L chain
+T9	Protein 1343 1356	kappa L chain
+T10	Protein 1425 1430	Oct-2
+T11	Protein 1526 1531	Oct-2
+T12	Protein 1553 1558	Oct-2
+T13	Protein 2142 2147	Oct-2

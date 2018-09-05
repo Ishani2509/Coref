@@ -1,0 +1,60 @@
+T17	Exp 62 97	the alpha globin regulatory element
+T18	Exp 166 168	We
+T19	Exp 177 203	the functional interaction
+T20	Exp 255 306	the alpha globin regulatory element (HS-40) located
+T21	Exp 325 342	the zeta 2 globin
+T22	Exp 349 351	It
+T23	Exp 392 396	that
+T24	Exp 691 695	they
+T25	Exp 650 664	its expression
+T26	Exp 606 623	the zeta 2 globin
+T27	Exp 714 750	the HS-40 enhancer-mediated activity
+T28	Exp 754 771	the zeta 2 globin
+T29	Exp 821 825	that
+T30	Exp 896 917	the two GATA-1 factor
+T31	Exp 826 880	this HS-40 enhancer-zeta 2 globin promoter interaction
+T32	Exp 973 995	The functional domains
+T33	Exp 1062 1066	that
+T34	Exp 1140 1159	the functional core
+T35	Exp 1172 1205	the erythroid-specific activation
+T36	Exp 1209 1226	the zeta 2 globin
+T37	Exp 1375 1386	its binding
+T38	Exp 1284 1288	that
+T39	Exp 1289 1310	the enhancer function
+T40	Exp 1321 1334	the two NF-E2
+T41	Exp 1439 1441	we
+T42	Exp 1470 1495	the HS-40 enhancer region
+T43	Exp 1603 1622	the functional core
+T44	Exp 1769 1783	the other hand
+T45	Exp 1797 1841	the apparently nonfunctional sequence motifs
+T46	Exp 2032 2048	the HS-40 region
+T47	Exp 2069 2073	that
+T48	Exp 2279 2284	which
+T49	Exp 2143 2177	the fetal/adult alpha globin genes
+T50	Exp 2293 2305	the enhancer
+T51	Exp 2318 2338	the globin promoters
+T52	Exp 2050 2060	These data
+R7	Coref Anaphora:T22 Antecedent:T53
+R8	Coref Anaphora:T23 Antecedent:T54
+R9	Coref Anaphora:T25 Antecedent:T7
+R10	Coref Anaphora:T24 Antecedent:T55
+R11	Coref Anaphora:T37 Antecedent:T11
+R12	Coref Anaphora:T48 Antecedent:T56
+T1	Protein 36 49	zeta 2 globin
+T2	Protein 66 78	alpha globin
+T3	Protein 228 241	zeta 2 globin
+T4	Protein 259 271	alpha globin
+T5	Protein 329 342	zeta 2 globin
+T6	Protein 451 464	zeta 2 globin
+T7	Protein 610 623	zeta 2 globin
+T8	Protein 758 771	zeta 2 globin
+T9	Protein 846 859	zeta 2 globin
+T10	Protein 904 910	GATA-1
+T11	Protein 1071 1077	GATA-1
+T12	Protein 1213 1226	zeta 2 globin
+T13	Protein 2120 2133	zeta 2 globin
+T14	Protein 2159 2171	alpha globin
+T53	Exp 107 122	functional role
+T54	Exp 365 391	transient expression assay
+T55	Exp 564 573	sequences
+T56	Exp 2221 2278	developmental stage-specific nuclear factor-DNA complexes

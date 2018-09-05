@@ -1,0 +1,61 @@
+T36	Exp 257 261	when
+T37	Exp 174 184	the nuclei
+T38	Exp 277 296	the kappa B element
+T39	Exp 302 353	the interleukin-2 receptor-alpha (IL-2R alpha) gene
+T40	Exp 453 457	each
+T41	Exp 501 527	the v-rel oncogene product
+T42	Exp 355 386	These two DNA-protein complexes
+T43	Exp 551 565	these proteins
+T44	Exp 738 742	that
+T45	Exp 743 751	the more
+T46	Exp 813 821	the more
+T47	Exp 989 993	that
+T48	Exp 918 960	the wild-type IL-2R alpha kappa B enhancer
+T49	Exp 994 1005	the binding
+T50	Exp 1077 1091	the 5' triplet
+T51	Exp 1146 1160	the B1 complex
+T52	Exp 1173 1184	the binding
+T53	Exp 1225 1246	the more 3' sequences
+T54	Exp 1250 1271	this enhancer element
+T55	Exp 1416 1420	that
+T56	Exp 1421 1425	both
+T57	Exp 1481 1500	the kappa B element
+T58	Exp 1300 1325	these Rel-related factors
+T59	Exp 1429 1452	these basic amino acids
+T60	Exp 1832 1836	that
+T61	Exp 1887 1911	the DNA binding activity
+T62	Exp 1809 1823	These findings
+T63	Exp 1915 1926	this family
+T64	SPAN 432 450	p50, p55, p75, p85
+R9	Coref Anaphora:T43 Antecedent:T64
+T65	SPAN 1188 1199	p75 and p85
+R10	Coref Anaphora:T58 Antecedent:T65
+T66	SPAN 1188 1199	p75 and p85
+R11	Coref Anaphora:T56 Antecedent:T66
+T1	Protein 306 334	interleukin-2 receptor-alpha
+T2	Protein 336 347	IL-2R alpha
+T3	Protein 432 435	p50
+T4	Protein 437 440	p55
+T5	Protein 442 445	p75
+T6	Protein 447 450	p85
+T7	Protein 505 510	v-rel
+T8	Protein 658 661	p55
+T9	Protein 662 665	p75
+T10	Protein 676 679	p50
+T11	Protein 680 683	p85
+T12	Protein 795 798	p50
+T13	Protein 803 806	p55
+T14	Protein 865 868	p50
+T15	Protein 870 873	p55
+T16	Protein 875 878	p75
+T17	Protein 884 887	p85
+T18	Protein 932 943	IL-2R alpha
+T19	Protein 1009 1012	p50
+T20	Protein 1017 1020	p55
+T21	Protein 1188 1191	p75
+T22	Protein 1196 1199	p85
+T23	Protein 1707 1722	glucose oxidase
+T24	Protein 1744 1747	p75
+T25	Protein 1752 1755	p85
+T26	Protein 1783 1786	p50
+T27	Protein 1791 1794	p55

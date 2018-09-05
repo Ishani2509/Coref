@@ -1,0 +1,41 @@
+T13	Exp 90 102	the pol gene
+T14	Exp 156 182	the chromatin organization
+T15	Exp 186 234	the integrated human immunodeficiency virus type
+T16	Exp 341 353	the pol gene
+T17	Exp 400 418	the present report
+T18	Exp 447 456	this site
+T19	Exp 720 722	it
+T20	Exp 737 757	its natural position
+T21	Exp 715 719	when
+T22	Exp 774 792	the HIV-1 promoter
+T23	Exp 609 633	this hypersensitive site
+T24	Exp 895 897	we
+T25	Exp 970 1002	this positive regulatory element
+T26	Exp 1166 1242	the monocyte/macrophage- and B-cell-specific transcription factor PU.1/Spi-1
+T27	Exp 1307 1309	it
+T28	Exp 1270 1275	which
+T29	Exp 1345 1363	the related factor
+T30	Exp 1276 1287	this PU box
+T31	Exp 1816 1828	its activity
+T32	Exp 1811 1815	that
+T33	Exp 1777 1789	the pol gene
+T34	Exp 1667 1680	These results
+R6	Coref Anaphora:T19 Antecedent:T35
+R7	Coref Anaphora:T20 Antecedent:T35
+R8	Coref Anaphora:T25 Antecedent:T4
+R9	Coref Anaphora:T28 Antecedent:T36
+R10	Coref Anaphora:T27 Antecedent:T30
+R11	Coref Anaphora:T31 Antecedent:T33
+T1	Protein 94 97	pol
+T2	Protein 345 348	pol
+T3	Protein 462 469	DNase I
+T4	Protein 474 494	micrococcal nuclease
+T5	Protein 1232 1236	PU.1
+T6	Protein 1237 1242	Spi-1
+T7	Protein 1364 1368	Ets1
+T8	Protein 1501 1505	PU.1
+T9	Protein 1506 1511	Spi-1
+T10	Protein 1552 1555	Sp1
+T11	Protein 1781 1784	pol
+T35	Exp 662 694	transcription-enhancing activity
+T36	Exp 1247 1266	most HIV-1 isolates

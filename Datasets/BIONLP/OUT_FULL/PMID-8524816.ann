@@ -1,0 +1,41 @@
+T21	Exp 297 302	which
+T22	Exp 393 398	which
+T23	Exp 521 525	both
+T24	Exp 435 441	The Ca
+T25	Exp 490 517	the inducible transcription
+T26	Exp 526 548	these lymphokine genes
+T27	Exp 657 659	we
+T28	Exp 667 671	that
+T29	Exp 589 605	the contribution
+T30	Exp 718 724	the Ca
+T31	Exp 946 983	the IL4 transcription initiation site
+T32	Exp 812 827	This phenomenon
+T33	Exp 1076 1088	the NF-kappa
+T34	Exp 1333 1338	which
+T35	Exp 1265 1277	the activity
+T36	Exp 1504 1525	the inhibitory effect
+R4	Coref Anaphora:T21 Antecedent:T37
+R5	Coref Anaphora:T22 Antecedent:T38
+R6	Coref Anaphora:T34 Antecedent:T39
+T1	Protein 157 160	CD4
+T2	Protein 217 230	interleukin 2
+T3	Protein 232 236	IL-2
+T4	Protein 359 363	IL-4
+T5	Protein 463 469	NF-ATp
+T6	Protein 565 568	IL2
+T7	Protein 692 695	IL4
+T8	Protein 868 874	NF-ATp
+T9	Protein 950 953	IL4
+T10	Protein 991 994	IL4
+T11	Protein 1111 1138	tumor necrosis factor alpha
+T12	Protein 1157 1161	RelA
+T13	Protein 1229 1233	RelA
+T14	Protein 1289 1292	IL4
+T15	Protein 1369 1375	NF-ATp
+T16	Protein 1406 1410	RelA
+T17	Protein 1478 1482	RelA
+T18	Protein 1487 1493	NF-ATp
+T19	Protein 1561 1564	IL4
+T37	Exp 290 295	cells
+T38	Exp 382 391	TH2 cells
+T39	Exp 1313 1331	a mouse P sequence

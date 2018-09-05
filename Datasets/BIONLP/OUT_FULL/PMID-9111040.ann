@@ -1,0 +1,37 @@
+T15	Exp 41 65	the primary binding site
+T16	Exp 122 133	the ability
+T17	Exp 381 385	when
+T18	Exp 211 244	the NOTCH1 transmembrane receptor
+T19	Exp 399 414	the bone marrow
+T20	Exp 478 489	the protein
+T21	Exp 524 548	the extracellular domain
+T22	Exp 580 604	the intracellular domain
+T23	Exp 727 731	Both
+T24	Exp 762 786	the transcription factor
+T25	Exp 895 907	the presence
+T26	Exp 949 981	the NOTCH1 ankyrin repeat region
+T27	Exp 985 1009	the intracellular domain
+T28	Exp 1069 1074	which
+T29	Exp 1087 1117	the intracellular domain close
+T30	Exp 1121 1145	the transmembrane region
+T31	Exp 1379 1383	that
+T32	Exp 1300 1311	the nucleus
+T33	Exp 1488 1507	this interpretation
+T34	Exp 1689 1705	this mutant form
+T35	Exp 1798 1808	These data
+R3	Coref Anaphora:T20 Antecedent:T6
+R4	Coref Anaphora:T28 Antecedent:T11
+T1	Protein 19 25	NOTCH1
+T2	Protein 70 80	RBP-Jkappa
+T3	Protein 152 162	RBP-Jkappa
+T4	Protein 215 221	NOTCH1
+T5	Protein 284 290	NOTCH1
+T6	Protein 442 448	NOTCH1
+T7	Protein 686 696	RBP-Jkappa
+T8	Protein 787 797	RBP-Jkappa
+T9	Protein 918 928	RBP-Jkappa
+T10	Protein 953 959	NOTCH1
+T11	Protein 1044 1054	RBP-Jkappa
+T12	Protein 1190 1200	RBP-Jkappa
+T13	Protein 1834 1840	NOTCH1
+T14	Protein 1922 1932	RBP-Jkappa

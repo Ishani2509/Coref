@@ -1,0 +1,84 @@
+T15	Exp 39 43	that
+T16	Exp 137 172	the immune or inflammation response
+T17	Exp 184 204	the adhesion process
+T18	Exp 288 289	I
+T19	Exp 273 286	its inhibitor
+T20	Exp 339 352	the cytoplasm
+T21	Exp 390 391	I
+T22	Exp 463 465	it
+T23	Exp 476 492	its target genes
+T24	Exp 457 462	where
+T25	Exp 444 455	the nucleus
+T26	Exp 533 534	I
+T27	Exp 520 524	that
+T28	Exp 494 519	The transduction pathways
+T29	Exp 596 598	we
+T30	Exp 685 689	that
+T31	Exp 637 660	the 70/Z3-derived 1.3E2
+T32	Exp 584 594	this study
+T33	Exp 750 752	We
+T34	Exp 883 897	I kappaB alpha
+T35	Exp 765 769	that
+T36	Exp 1012 1026	I kappaB alpha
+T37	Exp 1058 1080	the two major subunits
+T38	Exp 1097 1111	this cell line
+T39	Exp 1126 1153	this phosphorylation defect
+T40	Exp 990 1008	Neither a mutation
+T41	Exp 1214 1228	I kappaB alpha
+T42	Exp 1267 1271	that
+T43	Exp 1181 1210	the inducible phosphorylation
+T44	Exp 1255 1266	the stimuli
+T45	Exp 1325 1368	the antioxidant pyrrolidine dithiocarbamate
+T46	Exp 1496 1510	I kappaB alpha
+T47	Exp 1452 1457	which
+T48	Exp 1545 1561	the redox status
+T49	Exp 1624 1626	We
+T50	Exp 1639 1643	that
+T51	Exp 1768 1772	that
+T52	Exp 1644 1690	the human T-cell leukemia virus type 1 (HTLV-1
+T53	Exp 1813 1834	the defective pathway
+T54	Exp 1773 1791	this viral protein
+T55	Exp 1845 1847	we
+T56	Exp 1862 1886	other I kappaB molecules
+T57	Exp 1888 1901	I kappaB beta
+T58	Exp 1906 1946	the recently identified I kappaB epsilon
+T59	Exp 1853 1857	that
+T60	Exp 1968 2009	the 1.3E2 cell line following stimulation
+T61	Exp 2011 2022	Our results
+T62	Exp 2035 2039	that
+T63	Exp 2110 2114	that
+T64	Exp 2268 2282	I kappaB alpha
+T65	Exp 2284 2297	I kappaB beta
+T66	Exp 2303 2319	I kappaB epsilon
+T67	Exp 2255 2259	that
+T68	Exp 2232 2254	the signaling pathways
+T69	Exp 2192 2205	this analysis
+R11	Coref Anaphora:T15 Antecedent:T70
+R12	Coref Anaphora:T19 Antecedent:T71
+R13	Coref Anaphora:T24 Antecedent:T25
+R14	Coref Anaphora:T22 Antecedent:T25
+R15	Coref Anaphora:T23 Antecedent:T25
+R16	Coref Anaphora:T27 Antecedent:T28
+R17	Coref Anaphora:T30 Antecedent:T72
+R18	Coref Anaphora:T42 Antecedent:T44
+R19	Coref Anaphora:T47 Antecedent:T73
+R20	Coref Anaphora:T54 Antecedent:T6
+R21	Coref Anaphora:T63 Antecedent:T74
+R22	Coref Anaphora:T67 Antecedent:T68
+T1	Protein 883 897	I kappaB alpha
+T2	Protein 1012 1026	I kappaB alpha
+T3	Protein 1045 1048	p50
+T4	Protein 1052 1056	relA
+T5	Protein 1214 1228	I kappaB alpha
+T6	Protein 1496 1510	I kappaB alpha
+T7	Protein 1700 1703	Tax
+T8	Protein 1888 1901	I kappaB beta
+T9	Protein 1930 1946	I kappaB epsilon
+T10	Protein 2268 2282	I kappaB alpha
+T11	Protein 2284 2297	I kappaB beta
+T12	Protein 2303 2319	I kappaB epsilon
+T70	Exp 20 38	a mutant cell line
+T71	Exp 0 16	Characterization
+T72	Exp 661 683	murine pre-B cell line
+T73	Exp 1428 1450	phosphatase inhibitors
+T74	Exp 2103 2109	a step

@@ -1,0 +1,58 @@
+T25	Exp 83 87	that
+T26	Exp 109 121	the activity
+T27	Exp 154 156	We
+T28	Exp 332 349	the human homolog
+T29	Exp 353 382	the recently cloned Pip/LSIRF
+T30	Exp 316 328	this protein
+T31	Exp 522 526	that
+T32	Exp 430 457	the previously cloned ICSBP
+T33	Exp 471 509	the IFN regulatory factor (IRF) family
+T34	Exp 601 624	the IFN-regulated genes
+T35	Exp 755 759	When
+T36	Exp 897 902	which
+T37	Exp 760 779	the HTLV-1 tax gene
+T38	Exp 935 939	When
+T39	Exp 940 951	the binding
+T40	Exp 996 1020	the relative differences
+T41	Exp 1047 1057	those ICSs
+T42	Exp 1114 1116	we
+T43	Exp 1084 1103	the functional role
+T44	Exp 1159 1206	the human embryonal carcinoma cell line N-Tera2
+T45	Exp 1267 1286	the gene activation
+T46	Exp 1342 1366	Such repressive function
+T47	Exp 1419 1421	we
+T48	Exp 1433 1437	that
+T49	Exp 1572 1576	that
+T50	Exp 1730 1754	the IFN-responsive genes
+T51	Exp 1550 1563	These results
+R7	Coref Anaphora:T25 Antecedent:T1
+R8	Coref Anaphora:T30 Antecedent:T5
+R9	Coref Anaphora:T31 Antecedent:T52
+R10	Coref Anaphora:T34 Antecedent:T33
+R11	Coref Anaphora:T36 Antecedent:T53
+T54	SPAN 1491 1505	IRF-2 or ICSBP
+R12	Coref Anaphora:T50 Antecedent:T54
+T1	Protein 66 71	ICSAT
+T2	Protein 72 75	Pip
+T3	Protein 76 81	LSIRF
+T4	Protein 199 306	interferon (IFN) consensus sequence-binding protein in adult T-cell leukemia cell line or activated T cells
+T5	Protein 308 313	ICSAT
+T6	Protein 373 376	Pip
+T7	Protein 377 382	LSIRF
+T8	Protein 384 389	ICSAT
+T9	Protein 452 457	ICSBP
+T10	Protein 659 664	ICSAT
+T11	Protein 771 774	tax
+T12	Protein 852 857	ICSAT
+T13	Protein 928 933	ICSAT
+T14	Protein 955 960	ICSAT
+T15	Protein 1107 1112	ICSAT
+T16	Protein 1208 1213	ICSAT
+T17	Protein 1320 1325	IRF-1
+T18	Protein 1394 1399	IRF-2
+T19	Protein 1403 1408	ICSBP
+T20	Protein 1438 1443	ICSAT
+T21	Protein 1491 1496	IRF-2
+T22	Protein 1500 1505	ICSBP
+T52	Exp 513 521	proteins
+T53	Exp 884 896	Jurkat cells

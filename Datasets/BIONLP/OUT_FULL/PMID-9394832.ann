@@ -1,0 +1,40 @@
+T9	Exp 26 41	the interleukin
+T10	Exp 260 279	its various signals
+T11	Exp 242 247	which
+T12	Exp 132 165	The interleukin-1 receptor type I
+T13	Exp 281 301	The initiating event
+T14	Exp 406 436	the earliest events detectable
+T15	Exp 595 597	We
+T16	Exp 629 643	the activation
+T17	Exp 647 683	the IL-1RI-associated protein kinase
+T18	Exp 758 768	the kinase
+T19	Exp 948 973	the cellular redox status
+T20	Exp 1115 1142	the IL-1-induced activation
+T21	Exp 1146 1182	the IL-1RI-associated protein kinase
+T22	Exp 1283 1297	The inhibition
+T23	Exp 1414 1419	which
+T24	Exp 1389 1413	The described conditions
+T25	Exp 1443 1457	the activation
+T26	Exp 1461 1489	the IL-1RI-associated kinase
+T27	Exp 1509 1523	the activation
+T28	Exp 1576 1578	we
+T29	Exp 1588 1592	that
+T30	Exp 1704 1708	that
+T31	Exp 1608 1626	the IL-1RI complex
+T32	Exp 1645 1659	the activation
+T33	Exp 1663 1699	the IL-1RI-associated protein kinase
+T34	Exp 1557 1575	these observations
+T35	Exp 1709 1721	this process
+R4	Coref Anaphora:T11 Antecedent:T36
+R5	Coref Anaphora:T10 Antecedent:T37
+R6	Coref Anaphora:T23 Antecedent:T24
+T1	Protein 75 88	IL-1 receptor
+T2	Protein 136 165	interleukin-1 receptor type I
+T3	Protein 167 173	IL-1RI
+T4	Protein 651 657	IL-1RI
+T5	Protein 1150 1156	IL-1RI
+T6	Protein 1465 1471	IL-1RI
+T7	Protein 1612 1618	IL-1RI
+T8	Protein 1667 1673	IL-1RI
+T36	Exp 222 238	a complex system
+T37	Exp 248 252	IL-1

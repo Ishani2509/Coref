@@ -1,0 +1,51 @@
+T9	Exp 67 71	that
+T10	Exp 81 99	the immunoglobulin
+T11	Exp 122 140	the immunoglobulin
+T12	Exp 166 168	We
+T13	Exp 185 189	that
+T14	Exp 190 215	the developmental control
+T15	Exp 276 286	the result
+T16	Exp 290 312	the combined influence
+T17	Exp 356 358	We
+T18	Exp 364 368	that
+T19	Exp 387 409	the kappa E3' enhancer
+T20	Exp 423 443	the pre-B-cell stage
+T21	Exp 499 528	The negative-acting sequences
+T22	Exp 608 628	the pre-B-cell stage
+T23	Exp 630 632	We
+T24	Exp 705 709	that
+T25	Exp 719 746	the negative-acting segment
+T26	Exp 750 772	the kappa E3' enhancer
+T27	Exp 801 819	the immunoglobulin
+T28	Exp 774 786	This protein
+T29	Exp 908 913	which
+T30	Exp 873 886	the same gene
+T31	Exp 890 906	the YY-1 protein
+T32	Exp 923 961	the adeno-associated virus P5 promoter
+T33	Exp 1025 1030	which
+T34	Exp 977 996	the human homologue
+T35	Exp 1000 1023	the mouse delta protein
+T36	Exp 1074 1107	The predicted amino acid sequence
+T37	Exp 1111 1123	this protein
+T38	Exp 1278 1280	it
+T39	Exp 1273 1277	that
+T40	Exp 1254 1263	this cDNA
+T41	Exp 1318 1344	The apparent dual function
+T42	Exp 1348 1360	this protein
+R8	Coref Anaphora:T9 Antecedent:T3
+R9	Coref Anaphora:T24 Antecedent:T4
+R10	Coref Anaphora:T28 Antecedent:T4
+R11	Coref Anaphora:T30 Antecedent:T5
+R12	Coref Anaphora:T29 Antecedent:T31
+R13	Coref Anaphora:T33 Antecedent:T35
+R14	Coref Anaphora:T37 Antecedent:T35
+R15	Coref Anaphora:T42 Antecedent:T35
+R16	Coref Anaphora:T38 Antecedent:T40
+T1	Protein 46 51	NF-E1
+T2	Protein 53 57	YY-1
+T3	Protein 59 64	delta
+T4	Protein 698 703	NF-E1
+T5	Protein 853 858	NF-E1
+T6	Protein 894 898	YY-1
+T7	Protein 963 968	NF-E1
+T8	Protein 1010 1015	delta

@@ -1,0 +1,24 @@
+T1	Protein 42 47	NF-E1
+T2	Protein 49 52	YY1
+T3	Protein 115 123	DR alpha
+T4	Protein 245 253	DR alpha
+T5	Protein 496 504	DR alpha
+T6	Protein 606 613	DR beta
+T7	Protein 639 647	DQ alpha
+T8	Protein 748 756	DR alpha
+T9	Protein 761 769	DP alpha
+T10	Protein 808 816	DQ alpha
+T11	Protein 844 849	NF-E1
+T12	Protein 851 854	YY1
+T13	Exp 42 53	NF-E1 (YY1)
+T14	Exp 413 429	a nuclear factor	415 429	nuclear factor
+T15	Exp 716 734	The nuclear factor
+T16	Exp 823 825	It
+T17	Exp 844 855	NF-E1 (YY1)
+T18	Exp 857 869	This protein
+T19	Exp 896 899	its
+R1	Coref Anaphora:T14 Antecedent:T13	[T1, T2]
+R2	Coref Anaphora:T15 Antecedent:T14
+R3	Coref Anaphora:T16 Antecedent:T15
+R4	Coref Anaphora:T18 Antecedent:T17	[T12, T11]
+R5	Coref Anaphora:T19 Antecedent:T18

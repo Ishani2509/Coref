@@ -1,0 +1,18 @@
+T1	Protein 88 101	interleukin-2
+T2	Protein 117 130	interleukin 2
+T3	Protein 132 136	IL-2
+T4	Protein 317 321	IL-2
+T5	Protein 521 526	TCF-1
+T6	Protein 532 547	T-Cell Factor-1
+T7	Protein 627 631	IL-2
+T8	Protein 745 750	TCF-1
+T9	Protein 806 811	TCF-1
+T10	Exp 0 30	A novel T-cell trans-activator	15 30	trans-activator
+T11	Exp 31 35	that
+T12	Exp 169 237	several cell-type-specific and ubiquitous transcriptional regulators	227 237	regulators
+T13	Exp 238 242	that
+T14	Exp 469 548	the novel T-cell-specific transcriptional activator TCF-1 (for T-Cell Factor-1)	511 520	activator
+T15	Exp 550 555	which
+R1	Coref Anaphora:T11 Antecedent:T10
+R2	Coref Anaphora:T13 Antecedent:T12
+R3	Coref Anaphora:T15 Antecedent:T14	[T6, T5]

@@ -1,0 +1,28 @@
+T1	Protein 30 75	platelet/endothelial cell adhesion molecule-1
+T2	Protein 106 112	GATA-2
+T3	Protein 177 222	Platelet/endothelial cell adhesion molecule-1
+T4	Protein 224 231	PECAM-1
+T5	Protein 428 435	PECAM-1
+T6	Protein 477 484	PECAM-1
+T7	Protein 992 999	PECAM-1
+T8	Protein 1219 1222	ets
+T9	Protein 1233 1236	Sp1
+T10	Protein 1303 1307	AP-2
+T11	Protein 1503 1509	GATA-2
+T12	Protein 1540 1546	GATA-1
+T13	Protein 1576 1583	PECAM-1
+T14	Protein 1689 1696	PECAM-1
+T15	Exp 20 84	the human platelet/endothelial cell adhesion molecule-1 promoter	76 84	promoter
+T16	Exp 236 278	a 130-kD member of the Ig gene superfamily	245 251	member
+T17	Exp 279 283	that
+T18	Exp 447 489	the 5'-flanking region of the PECAM-1 gene	463 469	region
+T19	Exp 503 506	its
+T20	Exp 1608 1640	the cis- and transacting factors	1633 1640	factors
+T21	Exp 1641 1645	that
+T22	Exp 1734 1748	the mechanisms	1738 1748	mechanisms
+T23	Exp 1752 1757	which
+R1	Coref Anaphora:T17 Antecedent:T16
+R2	Coref Anaphora:T19 Antecedent:T18	[T6]
+R3	Coref Anaphora:T20 Antecedent:T15	[T1]
+R4	Coref Anaphora:T21 Antecedent:T20
+R5	Coref Anaphora:T23 Antecedent:T22

@@ -1,0 +1,30 @@
+T15	Exp 162 164	We
+T16	Exp 189 193	that
+T17	Exp 194 198	both
+T18	Exp 483 485	we
+T19	Exp 493 497	that
+T20	Exp 471 481	this study
+T21	Exp 837 839	we
+T22	Exp 816 835	the THP-1 cell line
+T23	Exp 845 859	this cell line
+T24	Exp 945 947	we
+T25	Exp 1012 1014	it
+T26	Exp 1168 1172	that
+T27	Exp 1173 1177	both
+T28	Exp 1226 1238	The presence
+T29	Exp 1408 1585	the first to suggest that surfactant's suppressive effects on inflammatory cytokine production may involve transcriptional regulation through inhibition of NF-kappa B activation
+T30	Exp 1390 1403	These results
+R3	Coref Anaphora:T25 Antecedent:T31
+T1	Protein 353 380	tumor necrosis factor-alpha
+T2	Protein 382 385	TNF
+T3	Protein 388 406	interleukin-1-beta
+T4	Protein 408 412	IL-1
+T5	Protein 415 428	interleukin-6
+T6	Protein 430 434	IL-6
+T7	Protein 533 536	TNF
+T8	Protein 1102 1105	TNF
+T9	Protein 1107 1111	IL-1
+T10	Protein 1117 1121	IL-6
+T11	Protein 1247 1250	p65
+T12	Protein 1255 1258	p50
+T31	Exp 993 1003	activation

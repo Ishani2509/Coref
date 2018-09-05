@@ -1,0 +1,25 @@
+T7	Exp 120 132	the promoter
+T8	Exp 215 245	the monocyte/macrophage system
+T9	Exp 326 328	we
+T10	Exp 254 281	the differentiation process
+T11	Exp 296 325	the monocytic cell line THP-1
+T12	Exp 471 473	we
+T13	Exp 626 628	We
+T14	Exp 700 727	its basal promoter activity
+T15	Exp 650 688	the carboxylesterase upstream sequence
+T16	Exp 788 790	we
+T17	Exp 804 808	that
+T18	Exp 861 866	which
+T19	Exp 809 828	the promoter region
+T20	Exp 1029 1033	that
+T21	Exp 1125 1129	that
+T22	Exp 1182 1225	the differentiation-dependent transcription
+T23	Exp 1009 1019	these data
+T24	Exp 1229 1261	this human carboxylesterase gene
+R3	Coref Anaphora:T14 Antecedent:T15
+R4	Coref Anaphora:T18 Antecedent:T25
+T1	Protein 962 965	Sp1
+T2	Protein 970 974	IRBP
+T3	Protein 1130 1133	Sp1
+T4	Protein 1138 1142	IRBP
+T25	Exp 849 859	-1 to -275

@@ -1,0 +1,32 @@
+T13	Exp 76 152	The lymphocyte-specific immunoglobulin mu heavy-chain gene intronic enhancer
+T14	Exp 195 234	The previously defined minimal enhancer
+T15	Exp 246 253	the muA
+T16	Exp 313 336	the ETS-domain proteins
+T17	Exp 458 462	that
+T18	Exp 374 388	The core GGAAs
+T19	Exp 392 413	the muA and muB sites
+T20	Exp 520 533	the DNA helix
+T21	Exp 484 495	these sites
+T22	Exp 501 516	these same side
+T23	Exp 535 537	We
+T24	Exp 545 558	the necessity
+T25	Exp 596 610	these elements
+T26	Exp 718 733	the mu enhancer
+T27	Exp 810 834	the muE3-binding protein
+T28	Exp 931 935	that
+T29	Exp 1000 1016	the major groove
+T30	Exp 1018 1020	We
+T31	Exp 1029 1033	that
+T32	Exp 1034 1049	the requirement
+T33	Exp 1073 1097	the muA and muB elements
+T34	SPAN 337 351	PU.1 and Ets-1
+R4	Coref Anaphora:T25 Antecedent:T34
+T1	Protein 337 341	PU.1
+T2	Protein 346 351	Ets-1
+T3	Protein 794 799	Ets-1
+T4	Protein 801 805	PU.1
+T5	Protein 835 839	TFE3
+T6	Protein 936 940	PU.1
+T7	Protein 957 961	TFE3
+T8	Protein 965 970	Ets-1
+T9	Protein 1147 1151	PU.1

@@ -1,0 +1,35 @@
+T20	Exp 105 146	The B cell-specific cell surface molecule
+T21	Exp 376 389	the formation
+T22	Exp 503 518	the Ras pathway
+T23	Exp 539 556	the ramifications
+T24	Exp 576 593	the current study
+T25	Exp 791 800	The cells
+T26	Exp 811 837	the BLIN-1 pre-B cell line
+T27	Exp 933 961	the 1E8 immature B cell line
+T28	Exp 1336 1340	that
+T29	Exp 1521 1525	that
+T30	Exp 1673 1686	the induction
+T31	Exp 1773 1777	that
+T32	Exp 1897 1901	that
+T33	Exp 1919 1933	the activation
+T34	Exp 1754 1764	These data
+R2	Coref Anaphora:T32 Antecedent:T35
+T1	Protein 59 63	CD19
+T2	Protein 147 151	CD19
+T3	Protein 332 336	CD19
+T4	Protein 395 399	CD19
+T5	Protein 471 475	CD19
+T6	Protein 560 564	CD19
+T7	Protein 630 635	Elk-1
+T8	Protein 771 775	CD19
+T9	Protein 1009 1013	CD19
+T10	Protein 1074 1079	Elk-1
+T11	Protein 1135 1140	Elk-1
+T12	Protein 1184 1188	CD19
+T13	Protein 1456 1460	CD19
+T14	Protein 1526 1530	JunD
+T15	Protein 1535 1540	c-Fos
+T16	Protein 1564 1568	CD19
+T17	Protein 1626 1630	CD19
+T18	Protein 1778 1782	CD19
+T35	Exp 1878 1896	B cell development

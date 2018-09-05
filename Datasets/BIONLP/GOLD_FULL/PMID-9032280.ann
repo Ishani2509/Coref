@@ -1,0 +1,20 @@
+T1	Protein 63 66	CD4
+T2	Protein 285 298	interleukin 2
+T3	Protein 300 304	IL-2
+T4	Protein 310 314	IL-4
+T5	Protein 366 369	CD4
+T6	Protein 612 616	IL-4
+T7	Protein 624 640	gamma interferon
+T8	Protein 899 903	IL-2
+T9	Protein 1314 1318	IL-2
+T10	Protein 1420 1424	IL-4
+T11	Protein 1630 1634	IL-4
+T12	Protein 1744 1748	IL-4
+T13	Exp 478 486	each one	483 486	one
+T14	Exp 498 529	a specific pattern of cytokines	509 516	pattern
+T15	Exp 530 534	that
+T16	Exp 549 553	them
+T17	Exp 559 564	their
+R1	Coref Anaphora:T15 Antecedent:T14
+R2	Coref Anaphora:T16 Antecedent:T13
+R3	Coref Anaphora:T17 Antecedent:T13

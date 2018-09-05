@@ -1,0 +1,8 @@
+T1	Protein 393 402	TNF-alpha
+T2	Protein 566 575	TNF-alpha
+T3	Protein 658 667	TNF-alpha
+T4	Protein 919 947	toxic shock syndrome toxin-I
+T5	Protein 951 979	staphylococcal enterotoxin B
+T6	Exp 467 497	the upregulation of NF-kappa B	471 483	upregulation
+T7	Exp 639 641	it
+R1	Coref Anaphora:T7 Antecedent:T6

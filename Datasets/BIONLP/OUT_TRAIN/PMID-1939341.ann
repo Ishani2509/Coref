@@ -1,0 +1,56 @@
+T31	Exp 170 174	that
+T32	Exp 341 350	the c-jun
+T33	Exp 413 417	that
+T34	Exp 383 399	The present work
+T35	Exp 418 450	the glucocorticoid dexamethasone
+T36	Exp 599 622	the monocytic phenotype
+T37	Exp 538 552	These findings
+T38	Exp 749 753	that
+T39	Exp 810 835	the c-jun and c-fos genes
+T40	Exp 915 919	that
+T41	Exp 990 994	that
+T42	Exp 903 914	The finding
+T43	Exp 995 1014	this glucocorticoid
+T44	Exp 1058 1069	this enzyme
+T45	Exp 1105 1109	that
+T46	Exp 1349 1374	the transcriptional level
+T47	Exp 1322 1332	both genes
+T48	Exp 1464 1466	we
+T49	Exp 1411 1422	the effects
+T50	Exp 1443 1462	the molecular level
+T51	Exp 1531 1579	the chloramphenicol acetyltransferase (CAT) gene
+T52	Exp 1743 1747	that
+T53	Exp 1703 1713	the region
+T54	Exp 1730 1742	the promoter
+T55	Exp 1757 1778	the AP-1 binding site
+T56	Exp 1638 1654	these constructs
+T57	Exp 1780 1794	This induction
+T58	Exp 1866 1870	that
+T59	Exp 1929 1943	the c-jun gene
+T60	Exp 2005 2018	the AP-1 site
+T61	Exp 1843 1857	These findings
+R9	Coref Anaphora:T40 Antecedent:T42
+R10	Coref Anaphora:T47 Antecedent:T39
+R11	Coref Anaphora:T52 Antecedent:T54
+T1	Protein 117 122	c-fos
+T2	Protein 127 132	c-jun
+T3	Protein 345 350	c-jun
+T4	Protein 355 360	c-fos
+T5	Protein 485 490	c-jun
+T6	Protein 495 500	c-fos
+T7	Protein 673 680	lamin A
+T8	Protein 682 689	lamin C
+T9	Protein 695 703	vimentin
+T10	Protein 814 819	c-jun
+T11	Protein 824 829	c-fos
+T12	Protein 977 980	PKC
+T13	Protein 1128 1133	c-jun
+T14	Protein 1138 1143	c-fos
+T15	Protein 1236 1241	c-jun
+T16	Protein 1246 1251	c-fos
+T17	Protein 1496 1501	c-jun
+T18	Protein 1535 1568	chloramphenicol acetyltransferase
+T19	Protein 1570 1573	CAT
+T20	Protein 1594 1597	CAT
+T21	Protein 1798 1801	CAT
+T22	Protein 1933 1938	c-jun

@@ -1,0 +1,39 @@
+T17	Exp 0 12	The promoter
+T18	Exp 16 29	the CD19 gene
+T19	Exp 46 86	the B-cell-specific transcription factor
+T20	Exp 94 110	The CD19 protein
+T21	Exp 127 138	the surface
+T22	Exp 168 181	the exception
+T23	Exp 284 295	the control
+T24	Exp 339 341	we
+T25	Exp 383 405	the expression pattern
+T26	Exp 409 422	the CD19 gene
+T27	Exp 427 467	the B-cell-specific transcription factor
+T28	Exp 516 535	The human CD19 gene
+T29	Exp 832 841	this site
+T30	Exp 982 995	the promoters
+T31	Exp 936 959	This high-affinity site
+T32	Exp 1256 1260	that
+T33	Exp 1190 1228	the only abundant DNA-binding activity
+T34	Exp 1276 1293	the CD19 promoter
+T35	Exp 1347 1361	the regulation
+T36	Exp 1365 1378	the CD19 gene
+T37	Exp 1305 1318	this evidence
+R2	Coref Anaphora:T32 Antecedent:T38
+T1	Protein 20 24	CD19
+T2	Protein 87 91	BSAP
+T3	Protein 98 102	CD19
+T4	Protein 413 417	CD19
+T5	Protein 468 472	BSAP
+T6	Protein 526 530	CD19
+T7	Protein 565 569	BSAP
+T8	Protein 673 677	BSAP
+T9	Protein 857 861	BSAP
+T10	Protein 875 879	CD19
+T11	Protein 1020 1024	CD19
+T12	Protein 1091 1111	beta-globin reporter
+T13	Protein 1169 1173	BSAP
+T14	Protein 1280 1284	CD19
+T15	Protein 1339 1343	BSAP
+T16	Protein 1369 1373	CD19
+T38	Exp 1232 1255	B-cell nuclear extracts

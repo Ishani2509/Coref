@@ -1,0 +1,47 @@
+T21	Exp 14 50	the Ets-related transcription factor
+T22	Exp 71 97	the retinoblastoma protein
+T23	Exp 165 169	that
+T24	Exp 100 131	The retinoblastoma gene product
+T25	Exp 258 262	that
+T26	Exp 341 343	it
+T27	Exp 360 364	that
+T28	Exp 397 401	that
+T29	Exp 511 515	both
+T30	Exp 423 443	the Rb binding sites
+T31	Exp 487 504	the pocket region
+T32	Exp 328 339	this report
+T33	Exp 565 593	the underphosphorylated form
+T34	Exp 876 881	which
+T35	Exp 817 836	the phosphorylation
+T36	Exp 854 865	the release
+T37	Exp 912 926	the activation
+T38	Exp 1109 1113	that
+T39	Exp 1083 1096	These results
+T40	Exp 1240 1256	the coordination
+T41	Exp 1192 1218	This regulated interaction
+R5	Coref Anaphora:T23 Antecedent:T42
+R6	Coref Anaphora:T25 Antecedent:T43
+R7	Coref Anaphora:T28 Antecedent:T44
+R8	Coref Anaphora:T34 Antecedent:T15
+T1	Protein 51 56	Elf-1
+T2	Protein 75 97	retinoblastoma protein
+T3	Protein 104 118	retinoblastoma
+T4	Protein 133 135	Rb
+T5	Protein 204 209	Elf-1
+T6	Protein 365 370	Elf-1
+T7	Protein 427 429	Rb
+T8	Protein 508 510	Rb
+T9	Protein 538 543	Elf-1
+T10	Protein 597 599	Rb
+T11	Protein 621 623	Rb
+T12	Protein 746 751	Elf-1
+T13	Protein 756 758	Rb
+T14	Protein 840 842	Rb
+T15	Protein 869 874	Elf-1
+T16	Protein 930 935	Elf-1
+T17	Protein 1014 1016	Rb
+T18	Protein 1027 1032	Elf-1
+T19	Protein 1114 1116	Rb
+T42	Exp 140 164	a nuclear phosphoprotein
+T43	Exp 213 257	a lymphoid-specific Ets transcription factor
+T44	Exp 380 396	a sequence motif

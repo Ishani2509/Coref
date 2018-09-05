@@ -1,0 +1,28 @@
+T9	Exp 252 256	that
+T10	Exp 268 304	the alpha-chemokine or CXC subfamily
+T11	Exp 569 574	which
+T12	Exp 551 565	the mechanisms
+T13	Exp 575 587	these agents
+T14	Exp 628 630	we
+T15	Exp 636 640	that
+T16	Exp 713 727	the production
+T17	Exp 794 809	the same extent
+T18	Exp 615 626	this report
+T19	Exp 818 820	It
+T20	Exp 849 853	that
+T21	Exp 975 989	the activation
+T22	Exp 1196 1198	we
+T23	Exp 1217 1221	that
+T24	Exp 1270 1284	the production
+R4	Coref Anaphora:T9 Antecedent:T25
+R5	Coref Anaphora:T11 Antecedent:T12
+R6	Coref Anaphora:T19 Antecedent:T18
+T1	Protein 60 73	interleukin-8
+T2	Protein 216 229	Interleukin-8
+T3	Protein 231 235	IL-8
+T4	Protein 410 414	IL-8
+T5	Protein 596 600	IL-8
+T6	Protein 746 750	IL-8
+T7	Protein 1138 1142	MEK1
+T8	Protein 1288 1292	IL-8
+T25	Exp 240 251	a chemokine

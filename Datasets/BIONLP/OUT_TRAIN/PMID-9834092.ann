@@ -1,0 +1,35 @@
+T10	Exp 124 157	the nuclear localization sequence
+T11	Exp 254 290	the transcription factors NF-kappa B
+T12	Exp 318 331	the cytoplasm
+T13	Exp 337 348	the nucleus
+T14	Exp 350 364	The first step
+T15	Exp 368 394	the nuclear import process
+T16	Exp 458 481	the karyophilic protein
+T17	Exp 516 528	the importin
+T18	Exp 558 566	The NLSs
+T19	Exp 608 615	the NLS
+T20	Exp 661 663	we
+T21	Exp 676 680	that
+T22	Exp 681 709	the inducible nuclear import
+T23	Exp 835 842	the NLS
+T24	Exp 846 872	the NF-kappa B p50 subunit
+T25	Exp 909 927	the nuclear import
+T26	Exp 1063 1078	the combination
+T27	Exp 931 958	these transcription factors
+T28	Exp 1119 1121	we
+T29	Exp 1127 1131	that
+T30	Exp 1227 1244	the Rch1/importin
+T31	Exp 1341 1345	that
+T32	Exp 1346 1374	the inducible nuclear import
+T33	Exp 1489 1502	the cytoplasm
+T34	Exp 1542 1554	the importin
+T35	Exp 1321 1331	these data
+R2	Coref Anaphora:T16 Antecedent:T2
+T1	Protein 42 47	STAT1
+T2	Protein 172 175	p50
+T3	Protein 741 746	STAT1
+T4	Protein 861 864	p50
+T5	Protein 984 999	I kappa B alpha
+T6	Protein 1004 1008	IL-2
+T7	Protein 1231 1235	Rch1
+T8	Protein 1406 1411	STAT1

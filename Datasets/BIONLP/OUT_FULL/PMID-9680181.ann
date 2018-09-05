@@ -1,0 +1,25 @@
+T5	Exp 124 128	that
+T6	Exp 129 141	the response
+T7	Exp 194 215	the redox homeostasis
+T8	Exp 283 297	The activation
+T9	Exp 553 557	that
+T10	Exp 702 724	the immunopathogenesis
+T11	Exp 982 986	that
+T12	Exp 825 833	The role
+T13	Exp 973 981	the fact
+T14	Exp 1056 1066	the levels
+T15	Exp 1235 1240	which
+T16	Exp 1373 1377	that
+T17	Exp 1434 1438	that
+T18	Exp 1531 1535	that
+T19	Exp 1588 1599	The ability
+T20	Exp 1711 1732	the specific response
+T21	Exp 1674 1694	these two mechanisms
+T22	Exp 1822 1826	that
+T23	Exp 1827 1847	the redox regulation
+R3	Coref Anaphora:T11 Antecedent:T13
+R4	Coref Anaphora:T15 Antecedent:T24
+T1	Protein 409 413	IL-2
+T2	Protein 415 419	IL-6
+T3	Protein 421 425	IL-8
+T24	Exp 1223 1234	experiments

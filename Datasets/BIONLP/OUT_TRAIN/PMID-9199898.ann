@@ -1,0 +1,20 @@
+T6	Exp 209 214	which
+T7	Exp 238 252	the regulation
+T8	Exp 276 278	We
+T9	Exp 297 301	that
+T10	Exp 467 469	we
+T11	Exp 481 492	the effects
+T12	Exp 456 466	this study
+T13	Exp 932 936	that
+T14	Exp 937 965	the inducible retarded bands
+T15	Exp 978 1010	the EMSA and p65-p50 heterodimer
+T16	Exp 1014 1040	the NF-kappa B/Rel protein
+T17	Exp 1042 1050	Our data
+T18	Exp 1059 1063	that
+R2	Coref Anaphora:T6 Antecedent:T19
+T1	Protein 574 601	tumor necrosis factor alpha
+T2	Protein 603 613	TNF- alpha
+T3	Protein 843 852	TNF-alpha
+T4	Protein 991 994	p65
+T5	Protein 995 998	p50
+T19	Exp 198 208	activation

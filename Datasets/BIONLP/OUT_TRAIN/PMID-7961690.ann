@@ -1,0 +1,40 @@
+T24	Exp 146 159	the potential
+T25	Exp 183 224	the erythroid and megakaryocytic lineages
+T26	Exp 226 228	We
+T27	Exp 274 297	the continuous presence
+T28	Exp 409 433	These long term cultures
+T29	Exp 685 689	When
+T30	Exp 828 837	the level
+T31	Exp 1006 1010	that
+T32	Exp 877 889	the addition
+T33	Exp 903 929	the M-TAT/EPO cell culture
+T34	Exp 940 950	the amount
+T35	Exp 974 986	the presence
+T36	Exp 1011 1025	the EPO signal
+T37	Exp 1206 1210	that
+T38	Exp 1191 1205	the hypothesis
+T39	Exp 1235 1250	the programming
+T40	Exp 1169 1182	These results
+R2	Coref Anaphora:T37 Antecedent:T38
+T1	Protein 0 14	Erythropoietin
+T2	Protein 301 315	erythropoietin
+T3	Protein 317 320	EPO
+T4	Protein 323 371	granulocyte-macrophage colony-stimulating factor
+T5	Protein 373 379	GM-CSF
+T6	Protein 385 401	stem cell factor
+T7	Protein 403 406	SCF
+T8	Protein 559 599	erythroid delta-aminolevulinate synthase
+T9	Protein 647 650	EPO
+T10	Protein 671 677	GM-CSF
+T11	Protein 734 740	GM-CSF
+T12	Protein 744 747	EPO
+T13	Protein 779 785	GM-CSF
+T14	Protein 841 847	GATA-1
+T15	Protein 893 899	GM-CSF
+T16	Protein 913 916	EPO
+T17	Protein 990 993	EPO
+T18	Protein 1015 1018	EPO
+T19	Protein 1073 1079	GM-CSF
+T20	Protein 1139 1142	EPO
+T21	Protein 1161 1167	GM-CSF
+T22	Protein 1211 1214	EPO

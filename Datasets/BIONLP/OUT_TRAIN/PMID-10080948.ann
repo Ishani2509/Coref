@@ -1,0 +1,50 @@
+T15	Exp 45 72	the CD40 cytoplasmic domain
+T16	Exp 122 127	which
+T17	Exp 137 164	the CD40 cytoplasmic domain
+T18	Exp 166 168	We
+T19	Exp 185 187	it
+T20	Exp 180 184	that
+T21	Exp 241 245	when
+T22	Exp 352 356	that
+T23	Exp 286 305	The phosphorylation
+T24	Exp 331 351	the signaling events
+T25	Exp 495 516	the wild-type protein
+T26	Exp 386 405	these circumstances
+T27	Exp 654 670	our observations
+T28	Exp 671 675	that
+T29	Exp 765 769	that
+T30	Exp 531 557	the phosphorylation status
+T31	Exp 594 605	the ability
+T32	Exp 609 620	the protein
+T33	Exp 676 703	the CD40 cytoplasmic domain
+T34	Exp 815 826	the binding
+T35	Exp 845 847	We
+T36	Exp 983 994	its ability
+T37	Exp 876 880	that
+T38	Exp 881 900	the phosphorylation
+T39	Exp 1008 1034	the CD40-TRAF2 interaction
+T40	Exp 862 875	these studies
+R9	Coref Anaphora:T16 Antecedent:T41
+R10	Coref Anaphora:T19 Antecedent:T3
+R11	Coref Anaphora:T22 Antecedent:T24
+R12	Coref Anaphora:T25 Antecedent:T5
+R13	Coref Anaphora:T32 Antecedent:T6
+R14	Coref Anaphora:T28 Antecedent:T27
+R15	Coref Anaphora:T37 Antecedent:T40
+R16	Coref Anaphora:T36 Antecedent:T42
+T1	Protein 19 24	TRAF2
+T2	Protein 49 53	CD40
+T3	Protein 75 80	TRAF2
+T4	Protein 141 145	CD40
+T5	Protein 374 379	TRAF2
+T6	Protein 561 566	TRAF2
+T7	Protein 632 636	CD40
+T8	Protein 680 684	CD40
+T9	Protein 755 760	TRAF2
+T10	Protein 830 835	TRAF2
+T11	Protein 839 843	CD40
+T12	Protein 904 909	TRAF2
+T13	Protein 1012 1016	CD40
+T14	Protein 1017 1022	TRAF2
+T41	Exp 84 121	a signal transducing adaptor molecule
+T42	Exp 973 979	virtue

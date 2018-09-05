@@ -1,0 +1,29 @@
+T7	Exp 92 102	the 65-kDa
+T8	Exp 213 229	their regulation
+T9	Exp 298 304	either
+T10	Exp 340 357	These differences
+T11	Exp 525 552	the HIV-1 promoter-enhancer
+T12	Exp 646 667	the NF-kappa B region
+T13	Exp 671 689	the HIV-1 enhancer
+T14	Exp 691 701	the 65-kDa
+T15	Exp 605 617	This absence
+T16	Exp 865 874	this lack
+T17	Exp 970 983	their ability
+T18	Exp 992 1007	the heterodimer
+T19	Exp 1020 1032	the presence
+T20	Exp 913 935	these nuclear extracts
+T21	Exp 1133 1137	that
+T22	Exp 1121 1132	these cells
+T23	Exp 1373 1377	both
+T24	Exp 1462 1472	the 65-kDa
+T25	Exp 1500 1518	the HIV-1 enhancer
+R4	Coref Anaphora:T8 Antecedent:T26
+R5	Coref Anaphora:T17 Antecedent:T20
+R6	Coref Anaphora:T21 Antecedent:T22
+T1	Protein 96 102	65-kDa
+T2	Protein 108 114	50-kDa
+T3	Protein 695 701	65-kDa
+T4	Protein 707 713	50-kDa
+T5	Protein 1466 1472	65-kDa
+T6	Protein 1478 1484	50-kDa
+T26	Exp 143 158	monocytic cells

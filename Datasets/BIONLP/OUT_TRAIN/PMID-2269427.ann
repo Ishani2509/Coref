@@ -1,0 +1,30 @@
+T6	Exp 87 89	We
+T7	Exp 183 185	We
+T8	Exp 191 195	that
+T9	Exp 317 321	that
+T10	Exp 231 250	the full complement
+T11	Exp 286 312	the correct temporal order
+T12	Exp 369 390	the fetal/adult genes
+T13	Exp 405 448	the erythroid-specific transcription factor
+T14	Exp 534 536	We
+T15	Exp 569 573	that
+T16	Exp 574 592	the ES cell system
+T17	Exp 551 568	these experiments
+T18	Exp 651 655	When
+T19	Exp 656 673	the human epsilon
+T20	Exp 706 733	the dominant control region
+T21	Exp 773 802	the human epsilon-globin gene
+T22	Exp 819 839	the beta-globin gene
+T23	Exp 863 875	the presence
+T24	Exp 879 886	the DCR
+T25	Exp 760 771	this system
+T26	Exp 935 937	We
+T27	Exp 957 961	that
+T28	Exp 962 985	the epsilon-globin gene
+T29	Exp 1038 1065	the human beta-globin locus
+R2	Coref Anaphora:T15 Antecedent:T17
+T1	Protein 449 454	NF-E1
+T2	Protein 783 797	epsilon-globin
+T3	Protein 823 834	beta-globin
+T4	Protein 966 980	epsilon-globin
+T5	Protein 1048 1059	beta-globin

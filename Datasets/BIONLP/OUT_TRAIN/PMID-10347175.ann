@@ -1,0 +1,60 @@
+T34	Exp 280 284	both
+T35	Exp 337 347	each other
+T36	Exp 352 366	the SH2 domain
+T37	Exp 536 538	we
+T38	Exp 612 623	its binding
+T39	Exp 544 548	that
+T40	Exp 632 636	both
+T41	Exp 523 534	this report
+T42	Exp 681 683	we
+T43	Exp 758 775	their cooperation
+T44	Exp 694 698	that
+T45	Exp 699 714	the interaction
+T46	Exp 817 834	the two molecules
+T47	Exp 1001 1005	both
+T48	Exp 948 970	the Jurkat T cell line
+T49	Exp 983 997	the activities
+T50	Exp 1318 1322	that
+T51	Exp 1323 1334	the synergy
+T52	Exp 1402 1417	the cooperation
+T53	Exp 1295 1309	These findings
+T54	SPAN 265 279	SLP-76 and Vav
+R8	Coref Anaphora:T34 Antecedent:T54
+T55	SPAN 265 279	SLP-76 and Vav
+R9	Coref Anaphora:T35 Antecedent:T55
+R10	Coref Anaphora:T38 Antecedent:T13
+T56	SPAN 588 630	SLP-76 are required for its binding to Vav
+R11	Coref Anaphora:T40 Antecedent:T56
+T57	SPAN 723 737	SLP-76 and Vav
+R12	Coref Anaphora:T43 Antecedent:T57
+T58	SPAN 723 737	SLP-76 and Vav
+R13	Coref Anaphora:T46 Antecedent:T58
+T59	SPAN 734 944	Vav is not required for their cooperation in augmenting IL-2 promoter activity, as the two molecules appear to function in different signaling pathways upstream of IL-2 gene expression. Overexpression of SLP-76
+R14	Coref Anaphora:T47 Antecedent:T59
+T1	Protein 0 6	SLP-76
+T2	Protein 11 14	Vav
+T3	Protein 73 86	interleukin-2
+T4	Protein 107 113	SLP-76
+T5	Protein 118 121	Vav
+T6	Protein 265 271	SLP-76
+T7	Protein 276 279	Vav
+T8	Protein 370 373	Vav
+T9	Protein 406 412	SLP-76
+T10	Protein 427 433	SLP-76
+T11	Protein 438 441	Vav
+T12	Protein 471 489	interleukin (IL)-2
+T13	Protein 588 594	SLP-76
+T14	Protein 627 630	Vav
+T15	Protein 723 729	SLP-76
+T16	Protein 734 737	Vav
+T17	Protein 790 794	IL-2
+T18	Protein 898 902	IL-2
+T19	Protein 938 944	SLP-76
+T20	Protein 1105 1108	Vav
+T21	Protein 1228 1231	Vav
+T22	Protein 1241 1247	SLP-76
+T23	Protein 1258 1262	CD28
+T24	Protein 1271 1275	IL-2
+T25	Protein 1343 1349	SLP-76
+T26	Protein 1354 1357	Vav
+T27	Protein 1372 1376	IL-2

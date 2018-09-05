@@ -1,0 +1,53 @@
+T16	Exp 74 95	the DNA binding motif
+T17	Exp 153 157	When
+T18	Exp 229 258	the initially high expression
+T19	Exp 262 269	the TNF
+T20	Exp 322 331	the cells
+T21	Exp 404 408	they
+T22	Exp 382 399	the CD14 receptor
+T23	Exp 576 580	that
+T24	Exp 481 501	the binding proteins
+T25	Exp 512 526	the -605 motif
+T26	Exp 530 552	the human TNF promoter
+T27	Exp 602 640	the human monocytic cell line Mono Mac
+T28	Exp 692 694	We
+T29	Exp 704 708	that
+T30	Exp 797 801	that
+T31	Exp 739 756	the terminal 3' C
+T32	Exp 779 796	the p50 homodimer
+T33	Exp 946 950	when
+T34	Exp 858 866	The same
+T35	Exp 907 945	the murine P388D1 macrophage cell line
+T36	Exp 963 977	the -516 motif
+T37	Exp 981 1004	the murine TNF promoter
+T38	Exp 1080 1084	that
+T39	Exp 1026 1045	the wild type motif
+T40	Exp 1201 1229	the murine kappa light chain
+T41	Exp 1201 1244	the murine kappa light chain enhancer motif
+T42	Exp 1286 1304	the nuclear p50p50
+T43	Exp 1382 1386	when
+T44	Exp 1387 1392	the 3
+T45	Exp 1432 1436	that
+T46	Exp 1437 1450	the detection
+T47	Exp 1541 1553	the sequence
+T48	Exp 1557 1578	the DNA binding motif
+T49	Exp 1416 1426	These data
+R4	Coref Anaphora:T21 Antecedent:T50
+R5	Coref Anaphora:T30 Antecedent:T32
+R6	Coref Anaphora:T38 Antecedent:T8
+T1	Protein 136 139	p50
+T2	Protein 266 269	TNF
+T3	Protein 271 292	tumor necrosis factor
+T4	Protein 386 399	CD14 receptor
+T5	Protein 670 673	p50
+T6	Protein 673 676	p50
+T7	Protein 783 786	p50
+T8	Protein 1073 1076	p50
+T9	Protein 1076 1079	p50
+T10	Protein 1181 1184	p50
+T11	Protein 1184 1187	p50
+T12	Protein 1212 1229	kappa light chain
+T13	Protein 1298 1301	p50
+T14	Protein 1301 1304	p50
+T15	Protein 1466 1469	p50
+T50	Exp 353 367	Tolerant cells

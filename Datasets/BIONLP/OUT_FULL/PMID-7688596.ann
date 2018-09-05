@@ -1,0 +1,14 @@
+T1	Exp 72 77	which
+T2	Exp 51 71	the peptide hormones
+T3	Exp 86 101	the homeostasis
+T4	Exp 105 122	the immune system
+T5	Exp 244 260	the pathogenesis
+T6	Exp 264 303	the acquired immune deficiency syndrome
+T7	Exp 423 427	both
+T8	Exp 327 359	the human immunodeficiency virus
+T9	Exp 489 499	the levels
+T10	Exp 644 649	which
+T11	Exp 794 810	the pathogenesis
+R3	Coref Anaphora:T1 Antecedent:T2
+R4	Coref Anaphora:T10 Antecedent:T12
+T12	Exp 636 643	B cells

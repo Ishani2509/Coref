@@ -1,0 +1,31 @@
+T9	Exp 145 189	the nuclear transcription factor NF-kappa B.
+T10	Exp 211 225	our laboratory
+T11	Exp 241 245	that
+T12	Exp 313 338	the tumor necrosis factor
+T13	Exp 368 411	the nuclear transcription factor NF-kappa B
+T14	Exp 666 668	we
+T15	Exp 599 615	their expression
+T16	Exp 519 537	the major inducers
+T17	Exp 636 650	the activation
+T18	Exp 678 688	the effect
+T19	Exp 713 739	the TNF-mediated induction
+T20	Exp 1005 1016	this effect
+T21	Exp 1121 1134	The induction
+T22	Exp 1309 1313	when
+T23	Exp 1372 1386	this inhibitor
+T24	Exp 1594 1608	the attachment
+T25	Exp 1650 1671	the PTPase inhibitors
+T26	Exp 1579 1592	these results
+T27	Exp 1688 1699	our results
+T28	Exp 1712 1716	that
+T29	Exp 1771 1782	the pathway
+T30	Exp 1794 1807	the induction
+T31	Exp 1866 1876	their role
+R3	Coref Anaphora:T15 Antecedent:T16
+R4	Coref Anaphora:T31 Antecedent:T26
+T1	Protein 743 783	intracellular adhesion molecule (ICAM)-1
+T2	Protein 785 825	vascular cell adhesion molecule (VCAM)-1
+T3	Protein 830 878	endothelial leukocyte adhesion molecule (ELAM)-1
+T4	Protein 1138 1144	ICAM-1
+T5	Protein 1146 1152	VCAM-1
+T6	Protein 1158 1164	ELAM-1

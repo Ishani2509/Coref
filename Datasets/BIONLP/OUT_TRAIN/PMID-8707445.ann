@@ -1,0 +1,36 @@
+T11	Exp 196 198	It
+T12	Exp 345 362	The current study
+T13	Exp 389 421	the cytokine modulating activity
+T14	Exp 439 447	the role
+T15	Exp 459 472	these effects
+T16	Exp 636 638	it
+T17	Exp 649 663	the production
+T18	Exp 696 709	the cytokines
+T19	Exp 795 815	these concentrations
+T20	Exp 920 946	the proliferative response
+T21	Exp 950 962	the presence
+T22	Exp 986 1009	the concurrent addition
+T23	Exp 1022 1030	the form
+T24	Exp 1092 1106	the inhibition
+T25	Exp 1222 1227	which
+T26	Exp 1169 1183	the activation
+T27	Exp 1313 1325	the addition
+T28	Exp 1453 1464	its ability
+T29	Exp 1360 1364	that
+T30	Exp 1365 1375	the action
+T31	Exp 1475 1485	the amount
+T32	Exp 1341 1351	These data
+R4	Coref Anaphora:T16 Antecedent:T33
+R5	Coref Anaphora:T25 Antecedent:T34
+R6	Coref Anaphora:T28 Antecedent:T35
+T1	Protein 311 315	IL-2
+T2	Protein 667 671	LTB4
+T3	Protein 710 714	IL-2
+T4	Protein 716 720	IL-6
+T5	Protein 725 734	TNF alpha
+T6	Protein 861 865	IL-2
+T7	Protein 869 873	IL-6
+T8	Protein 876 880	LTB4
+T33	Exp 551 560	tepoxalin
+T34	Exp 1199 1221	a transcription factor
+T35	Exp 1441 1445	part

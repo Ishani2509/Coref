@@ -1,0 +1,66 @@
+T29	Exp 38 95	the granulocyte-macrophage colony-stimulating factor gene
+T30	Exp 381 395	The expression
+T31	Exp 545 549	that
+T32	Exp 513 537	the IL-2 gene expression
+T33	Exp 668 685	the IL-2 promoter
+T34	Exp 694 716	the NF-AT-binding site
+T35	Exp 733 735	we
+T36	Exp 754 758	that
+T37	Exp 775 784	the cDNAs
+T38	Exp 870 889	the GM-CSF promoter
+T39	Exp 903 920	the transcription
+T40	Exp 721 731	this study
+T41	Exp 991 996	which
+T42	Exp 939 969	The constitutively active type
+T43	Exp 973 989	the CN A subunit
+T44	Exp 1003 1053	the auto-inhibitory and calmodulin-binding domains
+T45	Exp 1111 1130	the GM-CSF promoter
+T46	Exp 1132 1134	We
+T47	Exp 1146 1150	that
+T48	Exp 1151 1164	the active CN
+T49	Exp 1339 1341	we
+T50	Exp 1348 1352	that
+T51	Exp 1291 1314	the regulatory elements
+T52	Exp 1318 1337	the GM-CSF promoter
+T53	Exp 1360 1376	the target sites
+T54	Exp 1381 1394	the CN action
+T55	Exp 1512 1516	that
+T56	Exp 1517 1534	the CLE0 sequence
+T57	Exp 1735 1739	that
+T58	Exp 1817 1821	that
+T59	Exp 1932 1937	which
+T60	Exp 1758 1783	the coordinated induction
+T61	Exp 1787 1812	the GM-CSF and IL-2 genes
+T62	Exp 1822 1839	the CLE0 sequence
+T63	Exp 1843 1858	the GM-CSF gene
+T64	Exp 1887 1909	the NF-AT-binding site
+T65	Exp 1913 1930	the IL-2 promoter
+T66	Exp 1713 1726	These results
+R5	Coref Anaphora:T36 Antecedent:T67
+R6	Coref Anaphora:T41 Antecedent:T43
+R7	Coref Anaphora:T59 Antecedent:T65
+T1	Protein 42 90	granulocyte-macrophage colony-stimulating factor
+T2	Protein 160 208	Granulocyte-macrophage colony-stimulating factor
+T3	Protein 210 216	GM-CSF
+T4	Protein 222 235	interleukin-2
+T5	Protein 237 241	IL-2
+T6	Protein 399 405	GM-CSF
+T7	Protein 410 414	IL-2
+T8	Protein 517 521	IL-2
+T9	Protein 593 603	calmodulin
+T10	Protein 672 676	IL-2
+T11	Protein 789 793	CN A
+T12	Protein 810 814	CN B
+T13	Protein 874 880	GM-CSF
+T14	Protein 977 981	CN A
+T15	Protein 1115 1121	GM-CSF
+T16	Protein 1257 1263	GM-CSF
+T17	Protein 1268 1272	IL-2
+T18	Protein 1322 1328	GM-CSF
+T19	Protein 1611 1624	NF-CLE0 gamma
+T20	Protein 1626 1639	NF-CLE0 gamma
+T21	Protein 1791 1797	GM-CSF
+T22	Protein 1802 1806	IL-2
+T23	Protein 1847 1853	GM-CSF
+T24	Protein 1917 1921	IL-2
+T67	Exp 745 753	evidence

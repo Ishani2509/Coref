@@ -1,0 +1,29 @@
+T11	Exp 225 229	that
+T12	Exp 230 238	the rate
+T13	Exp 257 274	the HIV-1 disease
+T14	Exp 429 433	that
+T15	Exp 554 559	which
+T16	Exp 388 399	The authors
+T17	Exp 490 509	the bioavailability
+T18	Exp 610 620	this study
+T19	Exp 922 938	its steady state
+T20	Exp 965 981	its inactivation
+T21	Exp 846 850	that
+T22	Exp 1046 1048	We
+T23	Exp 1059 1063	that
+T24	Exp 1227 1229	We
+T25	Exp 1239 1243	that
+T26	Exp 1386 1405	the HIV-1 infection
+T27	Exp 1330 1344	This mechanism
+R4	Coref Anaphora:T15 Antecedent:T3
+R5	Coref Anaphora:T19 Antecedent:T5
+R6	Coref Anaphora:T20 Antecedent:T5
+T1	Protein 13 41	tumour necrosis factor alpha
+T2	Protein 513 541	tumour necrosis factor alpha
+T3	Protein 543 552	TNF-alpha
+T4	Protein 633 642	TNF-alpha
+T5	Protein 873 882	TNF-alpha
+T6	Protein 1009 1035	TNF-alpha receptor type II
+T7	Protein 1162 1171	TNF-alpha
+T8	Protein 1195 1204	TNF-alpha
+T9	Protein 1244 1253	TNF-alpha

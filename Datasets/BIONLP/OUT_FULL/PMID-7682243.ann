@@ -1,0 +1,46 @@
+T19	Exp 62 76	the regulation
+T20	Exp 250 267	the proliferation
+T21	Exp 332 335	how
+T22	Exp 336 350	the expression
+T23	Exp 354 380	the monocyte-macrophage Ag
+T24	Exp 392 420	the low affinity Fc receptor
+T25	Exp 311 321	This paper
+T26	Exp 555 569	the expression
+T27	Exp 644 666	the de novo expression
+T28	Exp 798 802	that
+T29	Exp 693 705	The addition
+T30	Exp 742 761	the VitD3 induction
+T31	Exp 803 816	the induction
+T32	Exp 924 933	the basal
+T33	Exp 1111 1115	they
+T34	Exp 1060 1076	their expression
+T35	Exp 1196 1205	the VitD3
+T36	Exp 1211 1242	the PMA-induced CD14 expression
+T37	Exp 1286 1316	the RA-induced differentiation
+T38	Exp 1510 1531	their inverse effects
+T39	Exp 1338 1342	that
+T40	Exp 1401 1405	that
+T41	Exp 1318 1329	The results
+T42	Exp 1442 1456	the regulation
+R4	Coref Anaphora:T34 Antecedent:T43
+R5	Coref Anaphora:T33 Antecedent:T43
+R6	Coref Anaphora:T40 Antecedent:T44
+R7	Coref Anaphora:T38 Antecedent:T45
+T1	Protein 80 84	CD14
+T2	Protein 89 93	CD23
+T3	Protein 382 386	CD14
+T4	Protein 430 434	CD23
+T5	Protein 578 582	CD14
+T6	Protein 587 591	CD23
+T7	Protein 670 674	CD14
+T8	Protein 765 769	CD14
+T9	Protein 876 880	CD14
+T10	Protein 958 962	CD23
+T11	Protein 1080 1084	CD23
+T12	Protein 1145 1149	CD14
+T13	Protein 1227 1231	CD14
+T14	Protein 1535 1539	CD14
+T15	Protein 1544 1548	CD23
+T43	Exp 1015 1026	U-937 cells
+T44	Exp 1398 1400	RA
+T45	Exp 1415 1437	important implications

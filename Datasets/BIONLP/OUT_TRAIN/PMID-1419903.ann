@@ -1,0 +1,32 @@
+T15	Exp 95 111	The present work
+T16	Exp 125 136	the effects
+T17	Exp 209 223	the regulation
+T18	Exp 326 330	that
+T19	Exp 302 313	The results
+T20	Exp 723 728	which
+T21	Exp 617 631	This induction
+T22	Exp 784 798	the c-fos gene
+T23	Exp 889 893	that
+T24	Exp 894 903	this rate
+T25	Exp 1179 1192	The half-life
+T26	Exp 1458 1462	that
+T27	Exp 1463 1476	the induction
+T28	Exp 1434 1448	these findings
+T29	Exp 1661 1663	we
+T30	Exp 1613 1617	that
+T31	Exp 1618 1632	the c-jun gene
+R2	Coref Anaphora:T20 Antecedent:T5
+T1	Protein 14 19	c-jun
+T2	Protein 227 232	c-jun
+T3	Protein 476 502	Mac-1 cell surface antigen
+T4	Protein 538 543	c-myc
+T5	Protein 704 709	c-jun
+T6	Protein 788 793	c-fos
+T7	Protein 850 855	c-jun
+T8	Protein 972 977	c-jun
+T9	Protein 1158 1163	c-jun
+T10	Protein 1196 1201	c-jun
+T11	Protein 1399 1404	c-jun
+T12	Protein 1480 1485	c-jun
+T13	Protein 1622 1627	c-jun
+T14	Protein 1694 1699	c-jun

@@ -1,0 +1,30 @@
+T9	Exp 85 110	The possible clinical use
+T10	Exp 114 144	the methyl xanthine derivative
+T11	Exp 171 184	the treatment
+T12	Exp 270 272	we
+T13	Exp 281 307	the molecular consequences
+T14	Exp 258 268	this paper
+T15	Exp 354 356	We
+T16	Exp 363 367	that
+T17	Exp 441 454	the induction
+T18	Exp 550 555	which
+T19	Exp 560 591	the same signaling requirements
+T20	Exp 649 653	that
+T21	Exp 665 692	these transcription factors
+T22	Exp 864 869	which
+T23	Exp 796 814	These observations
+T24	Exp 962 977	the observation
+T25	Exp 1040 1063	The greater selectivity
+R4	Coref Anaphora:T18 Antecedent:T26
+R5	Coref Anaphora:T20 Antecedent:T27
+R6	Coref Anaphora:T22 Antecedent:T7
+T1	Protein 0 5	c-Rel
+T2	Protein 397 402	c-Rel
+T3	Protein 595 600	c-Rel
+T4	Protein 694 698	IL-2
+T5	Protein 744 762	IL-2R(alpha) chain
+T6	Protein 826 831	c-Rel
+T7	Protein 838 842	IL-2
+T8	Protein 990 995	c-Rel
+T26	Exp 543 548	NF-AT
+T27	Exp 643 648	genes

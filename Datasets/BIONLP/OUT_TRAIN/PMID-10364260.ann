@@ -1,0 +1,30 @@
+T6	Exp 171 191	their precursor cell
+T7	Exp 193 211	the blood monocyte
+T8	Exp 224 234	the reason
+T9	Exp 242 266	these functional changes
+T10	Exp 293 295	We
+T11	Exp 314 318	that
+T12	Exp 592 594	we
+T13	Exp 525 528	why
+T14	Exp 608 612	that
+T15	Exp 680 684	that
+T16	Exp 655 679	the FOS and JUN proteins
+T17	Exp 693 709	the AP-1 complex
+T18	Exp 802 807	which
+T19	Exp 759 770	the amounts
+T20	Exp 774 793	the nuclear protein
+T21	Exp 847 863	the redox status
+T22	Exp 1230 1234	that
+T23	Exp 1235 1246	the process
+T24	Exp 1199 1212	These studies
+T25	Exp 1406 1432	the functional differences
+T26	Exp 1359 1375	This observation
+R4	Coref Anaphora:T6 Antecedent:T27
+R5	Coref Anaphora:T15 Antecedent:T16
+R6	Coref Anaphora:T18 Antecedent:T2
+T1	Protein 53 58	REF-1
+T2	Protein 795 800	REF-1
+T3	Protein 1049 1054	REF-1
+T4	Protein 1077 1082	REF-1
+T5	Protein 1334 1339	REF-1
+T27	Exp 100 114	many functions

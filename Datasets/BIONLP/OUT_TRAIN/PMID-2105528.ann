@@ -1,0 +1,31 @@
+T7	Exp 35 39	that
+T8	Exp 45 86	the immunoglobulin enhancer microE5/kappa
+T9	Exp 109 133	the immunoglobulin heavy
+T10	Exp 293 297	that
+T11	Exp 340 344	that
+T12	Exp 395 420	the microE5/kappa 2 motif
+T13	Exp 474 496	The complementary DNAs
+T14	Exp 501 513	the products
+T15	Exp 652 690	their putative helix-loop-helix motifs
+T16	Exp 728 732	that
+T17	Exp 695 699	each
+T18	Exp 632 643	one another
+T19	Exp 601 617	The two proteins
+R7	Coref Anaphora:T7 Antecedent:T20
+T22	SPAN 323 338	ITF-1 and ITF-2
+R8	Coref Anaphora:T11 Antecedent:T22
+T23	SPAN 542 557	ITF-1 and ITF-2
+R9	Coref Anaphora:T19 Antecedent:T23
+T24	SPAN 542 557	ITF-1 and ITF-2
+R10	Coref Anaphora:T15 Antecedent:T24
+T25	SPAN 542 557	ITF-1 and ITF-2
+R11	Coref Anaphora:T18 Antecedent:T25
+T26	SPAN 542 557	ITF-1 and ITF-2
+R12	Coref Anaphora:T17 Antecedent:T26
+R13	Coref Anaphora:T16 Antecedent:T21
+T1	Protein 323 328	ITF-1
+T2	Protein 333 338	ITF-2
+T3	Protein 542 547	ITF-1
+T4	Protein 552 557	ITF-2
+T20	Exp 0 34	Two distinct transcription factors
+T21	Exp 710 727	a distinct domain

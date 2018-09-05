@@ -1,0 +1,18 @@
+T1	Exp 80 99	the HTLV-I promoter
+T2	Exp 348 352	that
+T3	Exp 143 177	the cellular transcription factors
+T4	Exp 195 211	the human T cell
+T5	Exp 301 315	the mechanisms
+T6	Exp 373 416	the oncogenic and neuropathogenic processes
+T7	Exp 786 809	the three 21 bp repeats
+T8	Exp 864 881	the 21 bp repeats
+T9	Exp 998 1002	when
+T10	Exp 1003 1023	the promoter central
+T11	Exp 1091 1126	the U-373 MG glioblastoma cell line
+T12	Exp 1130 1139	the THP-1
+T13	Exp 1232 1234	we
+T14	Exp 1247 1251	that
+T15	Exp 1293 1312	the AP-1 components
+T16	Exp 1252 1276	this DNA-protein complex
+R2	Coref Anaphora:T2 Antecedent:T17
+T17	Exp 328 347	viral transcription

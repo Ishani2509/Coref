@@ -1,0 +1,20 @@
+T6	Exp 90 104	The generation
+T7	Exp 174 188	the production
+T8	Exp 232 256	the innate immune system
+T9	Exp 369 373	they
+T10	Exp 297 301	that
+T11	Exp 363 368	which
+T12	Exp 283 296	the molecules
+T13	Exp 345 359	the mechanisms
+T14	Exp 403 405	it
+T15	Exp 415 419	that
+T16	Exp 512 516	that
+T17	Exp 669 683	the production
+R3	Coref Anaphora:T10 Antecedent:T12
+R4	Coref Anaphora:T11 Antecedent:T13
+R5	Coref Anaphora:T9 Antecedent:T13
+T1	Protein 192 206	interleukin-12
+T2	Protein 208 213	IL-12
+T3	Protein 309 314	IL-12
+T4	Protein 469 474	IL-12
+T5	Protein 643 664	nitric oxide synthase

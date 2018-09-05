@@ -1,0 +1,38 @@
+T13	Exp 21 58	the human interleukin-1 beta promoter
+T14	Exp 240 242	we
+T15	Exp 139 153	the mechanisms
+T16	Exp 290 342	the bacterial chloramphenicol acetyltransferase gene
+T17	Exp 370 397	the human IL-1beta promoter
+T18	Exp 448 450	We
+T19	Exp 481 485	that
+T20	Exp 633 679	the functionally identified cis-acting element
+T21	Exp 896 919	this regulatory element
+T22	Exp 921 938	The closest match
+T23	Exp 942 975	the known SP-1 consensus sequence
+T24	Exp 983 1004	the respective region
+T25	Exp 1099 1110	the binding
+T26	Exp 1041 1051	this motif
+T27	Exp 1347 1360	the SP-1 site
+T28	Exp 1280 1303	this reporter construct
+T29	Exp 1389 1393	that
+T30	Exp 1429 1456	the human IL-1beta promoter
+T31	Exp 1476 1506	the transcriptional regulation
+T32	Exp 1362 1380	These observations
+T33	Exp 1510 1519	this gene
+R5	Coref Anaphora:T19 Antecedent:T34
+R6	Coref Anaphora:T20 Antecedent:T16
+R7	Coref Anaphora:T21 Antecedent:T6
+R8	Coref Anaphora:T33 Antecedent:T9
+T1	Protein 8 12	SP-1
+T2	Protein 31 49	interleukin-1 beta
+T3	Protein 187 204	interleukin-1beta
+T4	Protein 206 214	IL-1beta
+T5	Protein 380 388	IL-1beta
+T6	Protein 841 845	SP-1
+T7	Protein 952 956	SP-1
+T8	Protein 1234 1242	IL-1beta
+T9	Protein 1307 1334	tumor necrosis factor-alpha
+T10	Protein 1351 1355	SP-1
+T11	Protein 1416 1420	SP-1
+T12	Protein 1439 1447	IL-1beta
+T34	Exp 462 480	a promoter segment

@@ -1,0 +1,34 @@
+T1	Protein 60 73	interleukin-4
+T2	Protein 78 91	interleukin-5
+T3	Protein 174 192	interleukin (IL)-2
+T4	Protein 194 198	IL-3
+T5	Protein 200 204	IL-4
+T6	Protein 206 211	IL-10
+T7	Protein 217 265	granulocyte-macrophage colony-stimulating factor
+T8	Protein 358 362	IL-5
+T9	Protein 438 442	IL-5
+T10	Protein 570 574	IL-5
+T11	Protein 678 682	IL-2
+T12	Protein 716 720	IL-2
+T13	Protein 763 767	IL-5
+T14	Protein 842 846	IL-2
+T15	Protein 921 925	IL-5
+T16	Protein 1024 1028	IL-4
+T17	Protein 1407 1410	P65
+T18	Protein 1414 1417	P65
+T19	Protein 1418 1421	P50
+T20	Protein 1571 1574	P65
+T21	Protein 1876 1880	IL-4
+T22	Protein 1885 1889	IL-5
+T23	Exp 0 27	Signals and nuclear factors	20 27	factors
+T24	Exp 28 32	that
+T25	Exp 808 816	a manner
+T26	Exp 829 833	that
+T27	Exp 853 885	One of the nuclear factors (NFs)	872 879	factors
+T28	Exp 886 890	that
+T29	Exp 1479 1499	sequence specificity	1488 1499	specificity
+T30	Exp 1529 1533	that
+R1	Coref Anaphora:T24 Antecedent:T23
+R2	Coref Anaphora:T26 Antecedent:T25
+R3	Coref Anaphora:T28 Antecedent:T27
+R4	Coref Anaphora:T30 Antecedent:T29

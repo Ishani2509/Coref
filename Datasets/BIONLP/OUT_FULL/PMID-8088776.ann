@@ -1,0 +1,36 @@
+T10	Exp 28 48	the human GATA3 gene
+T11	Exp 86 90	that
+T12	Exp 70 85	the GATA family
+T13	Exp 118 142	the T-lymphocyte lineage
+T14	Exp 272 274	we
+T15	Exp 282 296	the human gene
+T16	Exp 301 311	the 5' end
+T17	Exp 315 335	the mouse GATA3 gene
+T18	Exp 337 339	We
+T19	Exp 345 349	that
+T20	Exp 350 370	the human GATA3 gene
+T21	Exp 421 453	The two human GATA3 zinc fingers
+T22	Exp 569 584	these two genes
+T23	Exp 599 608	The human
+T24	Exp 743 747	they
+T25	Exp 738 742	that
+T26	Exp 679 709	The promoter sequence analysis
+T27	Exp 826 839	the promoters
+T28	Exp 713 728	these two genes
+T29	Exp 872 874	we
+T30	Exp 880 884	that
+T31	Exp 911 945	the human GATA3 transcription unit
+T32	Exp 966 985	the initiation site
+T33	Exp 1011 1035	the polyadenylation site
+R4	Coref Anaphora:T11 Antecedent:T12
+R5	Coref Anaphora:T15 Antecedent:T3
+R6	Coref Anaphora:T24 Antecedent:T28
+T1	Protein 38 43	GATA3
+T2	Protein 51 56	GATA3
+T3	Protein 249 254	GATA3
+T4	Protein 325 330	GATA3
+T5	Protein 360 365	GATA3
+T6	Protein 435 440	GATA3
+T7	Protein 519 524	GATA1
+T8	Protein 619 624	GATA3
+T9	Protein 921 926	GATA3

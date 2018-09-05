@@ -1,0 +1,27 @@
+T3	Exp 862 864	We
+T4	Exp 970 972	it
+T5	Exp 902 907	which
+T6	Exp 965 969	that
+T7	Exp 885 898	the mechanism
+T8	Exp 1263 1267	that
+T9	Exp 1046 1053	neither
+T10	Exp 1054 1076	the lipopolysaccharide
+T11	Exp 1104 1118	the expression
+T12	Exp 1135 1152	the translocation
+T13	Exp 1185 1196	the nucleus
+T14	Exp 1384 1408	the 26-kDa membrane form
+T15	Exp 1629 1633	that
+T16	Exp 1474 1503	the translational suppression
+T17	Exp 1616 1628	the TNF gene
+T18	Exp 1685 1690	the 5
+T19	Exp 1723 1735	the TNF gene
+T20	Exp 1854 1859	which
+T21	Exp 1825 1845	the molecular target
+T22	Exp 1923 1937	the regulation
+R5	Coref Anaphora:T5 Antecedent:T7
+R6	Coref Anaphora:T4 Antecedent:T23
+R7	Coref Anaphora:T15 Antecedent:T17
+R8	Coref Anaphora:T20 Antecedent:T21
+T1	Protein 1541 1575	chloram-phenicol acetyltransferase
+T2	Protein 1577 1580	CAT
+T23	Exp 908 916	CNI-1493

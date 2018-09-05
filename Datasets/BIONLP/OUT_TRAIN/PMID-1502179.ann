@@ -1,0 +1,10 @@
+T1	Exp 298 310	the addition
+T2	Exp 324 338	the initiation
+T3	Exp 409 434	the convenient generation
+T4	Exp 388 401	This approach
+T5	Exp 636 653	The S. cerevisiae
+T6	Exp 970 974	that
+T7	Exp 830 842	the mediator
+T8	Exp 791 812	This further fraction
+R2	Coref Anaphora:T6 Antecedent:T9
+T9	Exp 943 969	general initiation factors

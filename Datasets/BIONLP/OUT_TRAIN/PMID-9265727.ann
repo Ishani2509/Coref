@@ -1,0 +1,16 @@
+T4	Exp 96 122	the intracellular proteins
+T5	Exp 160 181	the cellular response
+T6	Exp 312 316	that
+T7	Exp 418 435	our understanding
+T8	Exp 456 472	its consequences
+T9	Exp 439 451	this process
+T10	Exp 487 507	the characterization
+T11	Exp 726 739	the IL-4 gene
+T12	Exp 812 835	the relative importance
+T13	Exp 839 873	these recently identified proteins
+R3	Coref Anaphora:T6 Antecedent:T14
+R4	Coref Anaphora:T8 Antecedent:T9
+T1	Protein 579 582	CD4
+T2	Protein 730 734	IL-4
+T3	Protein 777 781	IL-4
+T14	Exp 288 311	gene therapeutic agents

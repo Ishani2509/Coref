@@ -1,0 +1,46 @@
+T16	Exp 49 85	the leukocyte-specific pp52 promoter
+T17	Exp 105 177	The leukocyte-specific, cytoskeleton-binding pp52 (LSP-1, WP-34) protein
+T18	Exp 292 294	We
+T19	Exp 352 360	the exon
+T20	Exp 370 384	the N terminus
+T21	Exp 388 414	the pp52 leukocyte protein
+T22	Exp 421 423	we
+T23	Exp 547 559	its activity
+T24	Exp 533 537	that
+T25	Exp 433 464	the functional characterization
+T26	Exp 504 515	the factors
+T27	Exp 468 481	this promoter
+T28	Exp 561 578	The pp52 promoter
+T29	Exp 612 634	the unique 5' terminus
+T30	Exp 713 725	these motifs
+T31	Exp 845 849	that
+T32	Exp 898 910	these motifs
+T33	Exp 934 948	The Ets motifs
+T34	Exp 1083 1095	these motifs
+T35	Exp 1116 1131	The C/EBP motif
+T36	Exp 1320 1337	its reported role
+T37	Exp 1430 1443	this promoter
+T38	Exp 1467 1479	the features
+T39	Exp 1492 1509	the pp52 promoter
+T40	Exp 1539 1553	the foundation
+T41	Exp 1570 1584	the regulation
+T42	Exp 1445 1459	These findings
+T43	Exp 1588 1601	this promoter
+R4	Coref Anaphora:T24 Antecedent:T44
+R5	Coref Anaphora:T23 Antecedent:T17
+R6	Coref Anaphora:T36 Antecedent:T35
+T1	Protein 72 76	pp52
+T2	Protein 150 154	pp52
+T3	Protein 156 161	LSP-1
+T4	Protein 163 168	WP-34
+T5	Protein 392 414	pp52 leukocyte protein
+T6	Protein 565 569	pp52
+T7	Protein 638 642	pp52
+T8	Protein 977 981	PU-1
+T9	Protein 1144 1152	Ig/EBP-1
+T10	Protein 1207 1230	nuclear factor-IL-6beta
+T11	Protein 1236 1259	nuclear factor-IL-6beta
+T12	Protein 1260 1268	Ig/EBP-1
+T13	Protein 1380 1388	Ig/EBP-1
+T14	Protein 1496 1500	pp52
+T44	Exp 527 532	cells

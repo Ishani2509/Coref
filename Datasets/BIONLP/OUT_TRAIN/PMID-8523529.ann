@@ -1,0 +1,35 @@
+T10	Exp 106 130	The molecular mechanisms
+T11	Exp 223 237	the macrophage
+T12	Exp 303 317	the regulation
+T13	Exp 321 328	the HIV
+T14	Exp 562 579	our previous work
+T15	Exp 459 463	what
+T16	Exp 590 594	that
+T17	Exp 660 698	the HIV-mediated NF-kappa B activation
+T18	Exp 715 717	we
+T19	Exp 703 713	this study
+T20	Exp 779 790	this family
+T21	Exp 976 990	its expression
+T22	Exp 931 935	that
+T23	Exp 959 970	these cells
+T24	Exp 1048 1086	The HIV-mediated NF-kappa B activation
+T25	Exp 1278 1285	the HIV
+T26	Exp 1379 1392	That PKC-zeta
+T27	Exp 1603 1605	we
+T28	Exp 1693 1697	when
+T29	Exp 1761 1765	that
+T30	Exp 1862 1867	which
+T31	Exp 1826 1858	the signal transduction pathways
+T32	Exp 1893 1907	the activation
+T33	Exp 1739 1752	these results
+R3	Coref Anaphora:T21 Antecedent:T3
+R4	Coref Anaphora:T30 Antecedent:T31
+T1	Protein 0 21	Protein kinase C-zeta
+T2	Protein 759 767	PKC-zeta
+T3	Protein 936 944	PKC-zeta
+T4	Protein 1119 1127	PKC-zeta
+T5	Protein 1192 1200	PKC-zeta
+T6	Protein 1202 1210	PKC-zeta
+T7	Protein 1384 1392	PKC-zeta
+T8	Protein 1465 1473	PKC-zeta
+T9	Protein 1546 1550	CREB

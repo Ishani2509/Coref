@@ -1,0 +1,31 @@
+T4	Exp 8 18	the X2 box
+T5	Exp 51 67	the DRA promoter
+T6	Exp 81 83	We
+T7	Exp 97 109	the function
+T8	Exp 113 129	the evolutionary
+T9	Exp 150 162	the promoter
+T10	Exp 166 182	the HLA-DRA gene
+T11	Exp 188 230	the human major histocompatibility complex
+T12	Exp 278 283	which
+T13	Exp 304 312	the AP-1
+T14	Exp 372 382	the X2 box
+T15	Exp 428 444	the DRA promoter
+T16	Exp 561 615	the phorbol ester 12-O-tetradecanoylphorbol-13-acetate
+T17	Exp 651 661	the X2 box
+T18	Exp 760 774	the activation
+T19	Exp 844 870	the wild-type DRA promoter
+T20	Exp 936 946	the X2 box
+T21	Exp 1040 1042	we
+T22	Exp 1052 1056	that
+T23	Exp 1151 1156	which
+T24	Exp 954 971	the co-expression
+T25	Exp 1013 1031	the responsiveness
+T26	Exp 1084 1096	the DRA gene
+T27	Exp 1129 1139	the X2 box
+R3	Coref Anaphora:T12 Antecedent:T28
+R4	Coref Anaphora:T23 Antecedent:T29
+T1	Protein 683 688	c-Fos
+T2	Protein 997 1002	c-Fos
+T3	Protein 1166 1171	c-Fos
+T28	Exp 271 276	NF-X2
+T29	Exp 1144 1149	NF-X2

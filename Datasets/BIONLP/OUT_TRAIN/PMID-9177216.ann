@@ -1,0 +1,57 @@
+T22	Exp 26 53	the type II bare lymphocyte
+T23	Exp 128 156	the TATA box binding protein
+T24	Exp 253 257	that
+T25	Exp 397 418	Its N-terminal region
+T26	Exp 479 483	when
+T27	Exp 515 517	We
+T28	Exp 621 629	its role
+T29	Exp 536 549	the mechanism
+T30	Exp 581 608	the CIITA activation domain
+T31	Exp 633 644	the process
+T32	Exp 869 884	its interaction
+T33	Exp 890 920	its associated general factors
+T34	Exp 702 762	the altered specificity TBP (TATA box binding protein) assay
+T35	Exp 788 800	the response
+T36	Exp 804 831	the CIITA activation domain
+T37	Exp 992 996	that
+T38	Exp 1218 1245	the CIITA activation domain
+T39	Exp 1424 1442	its full potential
+T40	Exp 1300 1304	that
+T41	Exp 1682 1686	that
+T42	Exp 1529 1542	the mechanism
+T43	Exp 1565 1596	the human B-cell-specific CIITA
+T44	Exp 1633 1669	the herpes virus transactivator VP16
+T45	Exp 1673 1681	the ways
+R9	Coref Anaphora:T24 Antecedent:T46
+R10	Coref Anaphora:T25 Antecedent:T3
+R11	Coref Anaphora:T28 Antecedent:T47
+R12	Coref Anaphora:T32 Antecedent:T8
+R13	Coref Anaphora:T33 Antecedent:T8
+R14	Coref Anaphora:T37 Antecedent:T10
+R15	Coref Anaphora:T40 Antecedent:T48
+R16	Coref Anaphora:T39 Antecedent:T17
+R17	Coref Anaphora:T41 Antecedent:T45
+T1	Protein 19 24	CIITA
+T2	Protein 132 156	TATA box binding protein
+T3	Protein 159 164	CIITA
+T4	Protein 585 590	CIITA
+T5	Protein 726 729	TBP
+T6	Protein 731 755	TATA box binding protein
+T7	Protein 808 813	CIITA
+T8	Protein 848 851	TBP
+T9	Protein 941 946	CIITA
+T10	Protein 988 991	TBP
+T11	Protein 1026 1030	VP16
+T12	Protein 1099 1102	TBP
+T13	Protein 1140 1143	TBP
+T14	Protein 1162 1170	TAFII250
+T15	Protein 1222 1227	CIITA
+T16	Protein 1276 1279	TBP
+T17	Protein 1384 1389	CIITA
+T18	Protein 1458 1462	VP16
+T19	Protein 1464 1469	CIITA
+T20	Protein 1591 1596	CIITA
+T21	Protein 1665 1669	VP16
+T46	Exp 192 252	class II major histocompatibility complex gene transcription
+T47	Exp 553 568	transactivation
+T48	Exp 1292 1299	factors

@@ -1,0 +1,32 @@
+T12	Exp 64 88	The protooncogene p21ras
+T13	Exp 230 232	we
+T14	Exp 240 244	that
+T15	Exp 405 409	that
+T16	Exp 410 424	the activation
+T17	Exp 487 491	that
+T18	Exp 669 674	which
+T19	Exp 584 597	The mechanism
+T20	Exp 728 730	we
+T21	Exp 743 747	that
+T22	Exp 840 844	that
+T23	Exp 882 895	the same cell
+T24	Exp 942 955	the same cell
+T25	Exp 897 910	These studies
+T26	Exp 1028 1032	that
+T27	Exp 1066 1071	which
+T28	Exp 957 970	These studies
+R3	Coref Anaphora:T18 Antecedent:T29
+R4	Coref Anaphora:T27 Antecedent:T30
+T1	Protein 55 61	p21ras
+T2	Protein 82 88	p21ras
+T3	Protein 273 279	p21ras
+T4	Protein 338 344	p21ras
+T5	Protein 386 392	p21ras
+T6	Protein 539 545	p21ras
+T7	Protein 748 754	p21ras
+T8	Protein 872 878	p21ras
+T9	Protein 920 926	p21ras
+T10	Protein 980 986	p21ras
+T11	Protein 1046 1052	p21ras
+T29	Exp 641 668	a critical cysteine residue
+T30	Exp 1056 1065	an action

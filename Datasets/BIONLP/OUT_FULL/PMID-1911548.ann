@@ -1,0 +1,57 @@
+T17	Exp 97 110	its induction
+T18	Exp 24 28	that
+T19	Exp 67 92	the GM-CSF gene essential
+T20	Exp 372 385	the induction
+T21	Exp 490 492	We
+T22	Exp 525 529	that
+T23	Exp 530 549	the upstream region
+T24	Exp 553 578	the mouse GM-CSF promoter
+T25	Exp 683 694	This region
+T26	Exp 744 760	The GM2 sequence
+T27	Exp 819 828	the other
+T28	Exp 931 933	we
+T29	Exp 890 903	the mechanism
+T30	Exp 948 975	the inducible factor NF-GM2
+T31	Exp 981 1000	the nuclear extract
+T32	Exp 1031 1040	the basis
+T33	Exp 1075 1094	The purified NF-GM2
+T34	Exp 1329 1340	the mixture
+T35	Exp 1389 1407	the NF-GM2 complex
+T36	Exp 1480 1484	that
+T37	Exp 1657 1661	that
+T38	Exp 1627 1634	the p50
+T39	Exp 1662 1684	the NF-GM2 polypeptide
+T40	Exp 1731 1749	the 50 kDa subunit
+T41	Exp 1851 1853	it
+T42	Exp 1765 1784	The purified NF-GM2
+T43	Exp 1823 1843	the kappa B enhancer
+T44	Exp 1893 1912	the GM-CSF promoter
+T45	Exp 1923 1939	the GM2 sequence
+T46	Exp 1955 1959	that
+T47	Exp 1960 1984	the activation mechanism
+T48	Exp 1988 2003	the GM-CSF gene
+T49	Exp 2012 2035	the GM2/GC-box sequence
+T50	Exp 2077 2097	the kappa B enhancer
+R5	Coref Anaphora:T18 Antecedent:T51
+R6	Coref Anaphora:T17 Antecedent:T19
+R7	Coref Anaphora:T22 Antecedent:T52
+R8	Coref Anaphora:T36 Antecedent:T53
+T1	Protein 71 77	GM-CSF
+T2	Protein 431 479	granulocyte-macrophage colony-stimulating factor
+T3	Protein 481 487	GM-CSF
+T4	Protein 563 569	GM-CSF
+T5	Protein 907 913	GM-CSF
+T6	Protein 1111 1114	p50
+T7	Protein 1128 1131	p65
+T8	Protein 1195 1201	GM-CSF
+T9	Protein 1280 1283	p50
+T10	Protein 1342 1345	p50
+T11	Protein 1377 1380	p65
+T12	Protein 1422 1425	p65
+T13	Protein 1568 1572	KBF1
+T14	Protein 1631 1634	p50
+T15	Protein 1897 1903	GM-CSF
+T16	Protein 1992 1998	GM-CSF
+T51	Exp 0 23	A nuclear factor NF-GM2
+T52	Exp 509 524	earlier studies
+T53	Exp 1458 1479	a protein-DNA complex

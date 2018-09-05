@@ -1,0 +1,58 @@
+T29	Exp 14 41	the transactivation domains
+T30	Exp 227 257	the signal transduction events
+T31	Exp 297 301	They
+T32	Exp 569 580	the nucleus
+T33	Exp 794 808	Both cytokines
+T34	Exp 882 884	We
+T35	Exp 952 954	it
+T36	Exp 947 951	that
+T37	Exp 898 927	the transactivation potential
+T38	Exp 1116 1129	the induction
+T39	Exp 1133 1162	the beta-casein gene promoter
+T40	Exp 1079 1090	these cells
+T41	Exp 1164 1177	The induction
+T42	Exp 1181 1194	this promoter
+T43	Exp 1224 1251	The glucocorticoid receptor
+T44	Exp 1320 1330	the action
+T45	Exp 1362 1390	the carboxyl-terminal region
+T46	Exp 1480 1496	the delimitation
+T47	Exp 1521 1547	the transactivation domain
+T48	Exp 1421 1432	this region
+T49	Exp 1558 1571	The potencies
+T50	Exp 1575 1602	the transactivation domains
+T51	Exp 1693 1698	which
+T52	Exp 1845 1869	its DNA binding function
+T53	Exp 1770 1796	the transactivation domain
+R6	Coref Anaphora:T31 Antecedent:T54
+T56	SPAN 745 792	Stat5, and interleukin-4 (IL-4) activates Stat6
+R7	Coref Anaphora:T33 Antecedent:T56
+R8	Coref Anaphora:T35 Antecedent:T37
+R9	Coref Anaphora:T51 Antecedent:T55
+R10	Coref Anaphora:T52 Antecedent:T25
+T1	Protein 45 50	Stat5
+T2	Protein 55 60	Stat6
+T3	Protein 630 635	Stat5
+T4	Protein 640 645	Stat6
+T5	Protein 725 734	Prolactin
+T6	Protein 745 750	Stat5
+T7	Protein 756 769	interleukin-4
+T8	Protein 771 775	IL-4
+T9	Protein 787 792	Stat6
+T10	Protein 931 936	Stat6
+T11	Protein 989 993	IL-4
+T12	Protein 1018 1023	Stat6
+T13	Protein 1092 1097	Stat6
+T14	Protein 1228 1251	glucocorticoid receptor
+T15	Protein 1280 1284	IL-4
+T16	Protein 1334 1339	Stat6
+T17	Protein 1394 1399	Stat6
+T18	Protein 1551 1556	Stat6
+T19	Protein 1606 1611	Stat5
+T20	Protein 1613 1618	Stat6
+T21	Protein 1638 1642	VP16
+T22	Protein 1658 1663	Stat6
+T23	Protein 1739 1744	Stat5
+T24	Protein 1800 1805	Stat6
+T25	Protein 1810 1814	IL-4
+T54	Exp 192 200	proteins
+T55	Exp 1668 1692	a transactivation domain

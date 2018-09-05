@@ -1,0 +1,36 @@
+T3	Exp 61 103	the NF-kappa B signal transduction pathway
+T4	Exp 134 138	that
+T5	Exp 245 250	which
+T6	Exp 484 489	which
+T7	Exp 497 519	the stimulating agents
+T8	Exp 423 445	These initial pathways
+T9	Exp 561 563	We
+T10	Exp 617 621	that
+T11	Exp 576 605	the stimuli-specific pathways
+T12	Exp 622 643	the oxidative stimuli
+T13	Exp 844 846	We
+T14	Exp 855 873	the common pathway
+T15	Exp 877 893	the simplest way
+T16	Exp 912 935	the common requirements
+T17	Exp 954 975	the signaling pathway
+T18	Exp 977 979	We
+T19	Exp 1191 1193	we
+T20	Exp 1148 1153	which
+T21	Exp 1256 1260	that
+T22	Exp 1058 1102	the previously demonstrated redox regulation
+T23	Exp 1226 1244	the common pathway
+T24	Exp 1023 1042	this common pathway
+T25	Exp 1388 1403	both cell lines
+T26	Exp 1649 1653	that
+T27	Exp 1486 1520	the cytokine-stimulated activation
+T28	Exp 1767 1782	the common step
+T29	Exp 1786 1828	the NF-kappa B signal transduction pathway
+T30	Exp 1626 1640	these findings
+R4	Coref Anaphora:T5 Antecedent:T31
+R5	Coref Anaphora:T6 Antecedent:T32
+R6	Coref Anaphora:T20 Antecedent:T33
+T1	Protein 262 289	tumor necrosis factor alpha
+T2	Protein 747 774	tumor necrosis factor alpha
+T31	Exp 211 236	stimuli-specific pathways
+T32	Exp 459 475	a common pathway
+T33	Exp 1131 1143	Jurkat cells

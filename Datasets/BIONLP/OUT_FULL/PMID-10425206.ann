@@ -1,0 +1,32 @@
+T12	Exp 29 43	the expression
+T13	Exp 47 87	the adipocyte fatty acid binding protein
+T14	Exp 47 92	the adipocyte fatty acid binding protein gene
+T15	Exp 114 166	The peroxisome-proliferator activated receptor gamma
+T16	Exp 192 224	the nuclear receptor superfamily
+T17	Exp 288 313	the anti-diabetic actions
+T18	Exp 317 339	the thiazolidinediones
+T19	Exp 366 380	the expression
+T20	Exp 434 474	the adipocyte fatty acid binding protein
+T21	Exp 747 751	that
+T22	Exp 685 698	the induction
+T23	Exp 797 799	We
+T24	Exp 807 811	that
+T25	Exp 948 971	the monocytic cell line
+T26	Exp 1095 1122	its well-characterized role
+T27	Exp 999 1003	that
+T28	Exp 980 990	These data
+R3	Coref Anaphora:T21 Antecedent:T29
+R4	Coref Anaphora:T26 Antecedent:T30
+T1	Protein 0 9	PPARgamma
+T2	Protein 51 87	adipocyte fatty acid binding protein
+T3	Protein 118 166	peroxisome-proliferator activated receptor gamma
+T4	Protein 168 177	PPARgamma
+T5	Protein 348 357	PPARgamma
+T6	Protein 438 474	adipocyte fatty acid binding protein
+T7	Protein 476 479	aP2
+T8	Protein 535 544	PPARgamma
+T9	Protein 656 665	PPARgamma
+T10	Protein 903 906	aP2
+T11	Protein 1004 1013	PPARgamma
+T29	Exp 736 746	foam cells
+T30	Exp 1034 1040	a role

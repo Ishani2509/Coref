@@ -1,0 +1,31 @@
+T16	Exp 36 66	the Spi-B transcription factor
+T17	Exp 117 138	the oncoprotein Spi-1
+T18	Exp 232 236	that
+T19	Exp 186 202	The Ets proteins
+T20	Exp 359 369	this motif
+T21	Exp 383 406	the biological function
+T22	Exp 439 441	we
+T23	Exp 536 541	which
+T24	Exp 451 471	the characterization
+T25	Exp 551 565	the Ets domain
+T26	Exp 765 767	We
+T27	Exp 789 793	that
+T28	Exp 774 788	the hypothesis
+R4	Coref Anaphora:T18 Antecedent:T29
+R5	Coref Anaphora:T23 Antecedent:T8
+R6	Coref Anaphora:T27 Antecedent:T28
+T1	Protein 40 45	Spi-B
+T2	Protein 69 74	Spi-B
+T3	Protein 133 138	Spi-1
+T4	Protein 139 143	PU.1
+T5	Protein 268 273	Spi-B
+T6	Protein 410 415	Spi-B
+T7	Protein 511 516	Spi-B
+T8	Protein 524 534	deltaSpi-B
+T9	Protein 588 598	deltaspi-B
+T10	Protein 603 608	spi-B
+T11	Protein 669 679	DeltaSpi-B
+T12	Protein 794 805	delta Spi-B
+T13	Protein 819 824	Spi-B
+T14	Protein 868 873	Spi-B
+T29	Exp 221 231	Ets domain

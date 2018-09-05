@@ -1,0 +1,34 @@
+T11	Exp 146 150	that
+T12	Exp 173 217	the lymphocyte-specific transcription factor
+T13	Exp 394 396	We
+T14	Exp 474 488	the capability
+T15	Exp 561 573	Our analyses
+T16	Exp 579 583	that
+T17	Exp 647 651	that
+T18	Exp 652 668	this stimulation
+T19	Exp 717 732	the involvement
+T20	Exp 814 830	the Oct2 protein
+T21	Exp 695 706	This result
+T22	Exp 898 902	that
+T23	Exp 903 930	the carboxy-terminal domain
+T24	Exp 1068 1074	itself
+T25	Exp 1027 1031	when
+T26	Exp 1059 1064	which
+T27	Exp 1041 1057	the Oct1 protein
+T28	Exp 986 997	this domain
+T29	Exp 1123 1167	The glutamine-rich activation domain present
+T30	Exp 1171 1197	the amino-terminal portion
+T31	Exp 1210 1224	the POU domain
+T32	Exp 1255 1283	the transactivation function
+R2	Coref Anaphora:T26 Antecedent:T27
+R3	Coref Anaphora:T24 Antecedent:T27
+T1	Protein 0 4	Oct2
+T2	Protein 218 222	Oct2
+T3	Protein 290 294	Oct2
+T4	Protein 422 426	Oct2
+T5	Protein 592 596	Oct2
+T6	Protein 818 822	Oct2
+T7	Protein 834 838	Oct2
+T8	Protein 934 938	Oct2
+T9	Protein 1045 1049	Oct1
+T10	Protein 1201 1205	Oct2

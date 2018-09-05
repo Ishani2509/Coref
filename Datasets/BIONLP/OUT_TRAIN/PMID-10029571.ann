@@ -1,0 +1,43 @@
+T27	Exp 38 42	both
+T28	Exp 333 338	which
+T29	Exp 285 299	the prevention
+T30	Exp 303 318	the development
+T31	Exp 263 275	this process
+T32	Exp 583 585	we
+T33	Exp 702 713	these cells
+T34	Exp 795 807	the addition
+T35	Exp 865 879	the inhibition
+T36	Exp 991 1004	The reduction
+T37	Exp 1038 1049	the ability
+T38	Exp 1332 1336	both
+T39	Exp 1266 1306	the IFN-induced tyrosine phosphorylation
+T40	Exp 1541 1569	the tyrosine phosphorylation
+T41	Exp 1603 1614	the ability
+T42	Exp 1648 1656	the gene
+R2	Coref Anaphora:T28 Antecedent:T43
+T1	Protein 0 14	Interleukin-10
+T2	Protein 65 81	interferon gamma
+T3	Protein 140 145	STAT1
+T4	Protein 148 162	Interleukin-10
+T5	Protein 164 169	IL-10
+T6	Protein 363 379	interferon gamma
+T7	Protein 381 389	IFNgamma
+T8	Protein 609 614	IL-10
+T9	Protein 652 660	IFNgamma
+T10	Protein 761 766	IL-10
+T11	Protein 811 819	IFNgamma
+T12	Protein 833 838	IL-10
+T13	Protein 938 943	IP-10
+T14	Protein 945 950	ISG54
+T15	Protein 956 989	intercellular adhesion molecule-1
+T16	Protein 1053 1058	IL-10
+T17	Protein 1204 1212	IFNgamma
+T18	Protein 1310 1315	STAT1
+T19	Protein 1351 1359	IFNgamma
+T20	Protein 1402 1407	IL-10
+T21	Protein 1504 1512	IFNgamma
+T22	Protein 1573 1578	STAT1
+T23	Protein 1618 1623	IL-10
+T24	Protein 1658 1692	suppressor of cytokine signaling 3
+T25	Protein 1694 1699	SOCS3
+T43	Exp 322 331	Th1 cells

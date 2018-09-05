@@ -1,0 +1,12 @@
+T7	Exp 114 128	the generation
+T8	Exp 249 254	which
+T9	Exp 263 289	the innate immune response
+T10	Exp 603 624	the respiratory burst
+R2	Coref Anaphora:T8 Antecedent:T11
+T1	Protein 64 84	toll-like receptor-2
+T2	Protein 360 386	human Toll-like receptor-2
+T3	Protein 388 393	hTLR2
+T4	Protein 470 475	hTLR2
+T5	Protein 633 638	hTLR2
+T6	Protein 646 651	hTLR2
+T11	Exp 242 246	BLPs

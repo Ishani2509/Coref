@@ -1,0 +1,33 @@
+T15	Exp 261 265	that
+T16	Exp 396 400	both
+T17	Exp 106 120	The objectives
+T18	Exp 157 165	the time
+T19	Exp 365 379	the mechanisms
+T20	Exp 401 419	the early (minutes
+T21	Exp 124 134	this study
+T22	Exp 529 533	that
+T23	Exp 497 508	The results
+T24	Exp 889 900	both phases
+T25	Exp 1316 1339	the late phase response
+T26	Exp 1290 1312	this adhesion molecule
+T27	Exp 1440 1466	the nuclear factor-kappa B
+T28	Exp 1693 1704	the phase-1
+T29	Exp 1781 1785	that
+T30	Exp 1856 1860	that
+T31	Exp 1757 1771	these findings
+R3	Coref Anaphora:T15 Antecedent:T32
+R4	Coref Anaphora:T30 Antecedent:T33
+T1	Protein 740 748	catalase
+T2	Protein 799 815	xanthine oxidase
+T3	Protein 930 963	intercellular adhesion molecule-1
+T4	Protein 965 971	ICAM-1
+T5	Protein 982 992	P-selectin
+T6	Protein 1126 1132	ICAM-1
+T7	Protein 1178 1188	P-selectin
+T8	Protein 1244 1254	E-selectin
+T9	Protein 1470 1489	activator protein-1
+T10	Protein 1632 1638	ICAM-1
+T11	Protein 1640 1650	P-selectin
+T12	Protein 1656 1666	E-selectin
+T32	Exp 253 259	HUVECs
+T33	Exp 1798 1855	a two-phase neutrophil-endothelial cell adhesion response

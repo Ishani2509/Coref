@@ -1,0 +1,24 @@
+T1	Protein 80 84	CD14
+T2	Protein 89 93	CD23
+T3	Protein 382 386	CD14
+T4	Protein 430 434	CD23
+T5	Protein 578 582	CD14
+T6	Protein 587 591	CD23
+T7	Protein 670 674	CD14
+T8	Protein 765 769	CD14
+T9	Protein 876 880	CD14
+T10	Protein 958 962	CD23
+T11	Protein 1080 1084	CD23
+T12	Protein 1145 1149	CD14
+T13	Protein 1227 1231	CD14
+T14	Protein 1535 1539	CD14
+T15	Protein 1544 1548	CD23
+T16	Exp 1015 1026	U-937 cells	1021 1026	cells
+T17	Exp 1038 1040	RA
+T18	Exp 1060 1065	their
+T19	Exp 1111 1115	they
+T20	Exp 1460 1501	certain immune and inflammatory responses	1492 1501	responses
+T21	Exp 1510 1515	their
+R1	Coref Anaphora:T18 Antecedent:T16
+R2	Coref Anaphora:T19 Antecedent:T17
+R3	Coref Anaphora:T21 Antecedent:T20

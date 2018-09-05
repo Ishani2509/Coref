@@ -1,0 +1,62 @@
+T11	Exp 43 62	the HTLV-I enhancer
+T12	Exp 84 103	the trans-activator
+T13	Exp 116 118	We
+T14	Exp 273 278	which
+T15	Exp 325 330	which
+T16	Exp 156 177	the enhancer elements
+T17	Exp 231 260	the human T-cell lines Jurkat
+T18	Exp 337 356	the proviral genome
+T19	Exp 426 445	the HTLV-I enhancer
+T20	Exp 489 493	that
+T21	Exp 454 488	the 21-base-pair (bp) core element
+T22	Exp 533 566	the HTLV-I trans-activator p40tax
+T23	Exp 580 591	the ability
+T24	Exp 671 680	The other
+T25	Exp 712 730	the 21-bp elements
+T26	Exp 746 748	we
+T27	Exp 761 765	that
+T28	Exp 789 799	the region
+T29	Exp 808 826	the 21-bp elements
+T30	Exp 735 745	this study
+T31	Exp 957 980	the protein-DNA complex
+T32	Exp 986 1005	the C26 subfragment
+T33	Exp 1154 1160	itself
+T34	Exp 1100 1104	when
+T35	Exp 1145 1149	that
+T36	Exp 1041 1056	The C26 element
+T37	Exp 1127 1144	the 21-bp element
+T38	Exp 1247 1251	when
+T39	Exp 1219 1234	the C26 element
+T40	Exp 1367 1373	itself
+T41	Exp 1351 1366	the C26 element
+T42	Exp 1492 1496	that
+T43	Exp 1628 1633	which
+T44	Exp 1497 1516	the HTLV-I enhancer
+T45	Exp 1677 1696	the HTLV-I enhancer
+T46	Exp 1459 1473	These findings
+T47	Exp 1720 1731	Our results
+T48	Exp 1749 1753	that
+T49	Exp 1782 1801	the HTLV-I enhancer
+T50	Exp 1826 1841	the C26 element
+R8	Coref Anaphora:T14 Antecedent:T51
+R9	Coref Anaphora:T15 Antecedent:T52
+R10	Coref Anaphora:T20 Antecedent:T21
+R11	Coref Anaphora:T29 Antecedent:T25
+R12	Coref Anaphora:T35 Antecedent:T37
+R13	Coref Anaphora:T33 Antecedent:T37
+R14	Coref Anaphora:T40 Antecedent:T53
+R15	Coref Anaphora:T43 Antecedent:T54
+T1	Protein 560 566	p40tax
+T2	Protein 603 647	cyclic-AMP responsive element binding factor
+T3	Protein 649 653	CREB
+T4	Protein 862 868	p40tax
+T5	Protein 1033 1039	p40tax
+T6	Protein 1093 1099	p40tax
+T7	Protein 1202 1208	p40tax
+T8	Protein 1288 1294	p40tax
+T9	Protein 1593 1597	CREB
+T10	Protein 1712 1718	p40tax
+T51	Exp 265 271	MOLT 4
+T52	Exp 317 323	TL-Mor
+T53	Exp 1341 1349	contrast
+T54	Exp 1603 1626	NF-kappa B-like factors

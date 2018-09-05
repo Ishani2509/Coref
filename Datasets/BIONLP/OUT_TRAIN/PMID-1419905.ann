@@ -1,0 +1,31 @@
+T14	Exp 69 71	We
+T15	Exp 212 234	its consensus sequence
+T16	Exp 84 88	that
+T17	Exp 173 208	the transcription factor NF-kappa B
+T18	Exp 238 243	the 5
+T19	Exp 275 304	the IL-2 receptor alpha chain
+T20	Exp 352 387	the human monocytic cell line U 937
+T21	Exp 423 434	This effect
+T22	Exp 676 680	that
+T23	Exp 599 628	the IL-2 receptor alpha chain
+T24	Exp 716 749	the NF-kappa B consensus sequence
+T25	Exp 768 802	the IL-2 receptor alpha chain gene
+T26	Exp 578 595	that inducibility
+T27	Exp 881 893	the p50 gene
+T28	Exp 905 920	the p50 subunit
+T29	Exp 924 959	the NF-kappa B transcription factor
+T30	Exp 984 1007	the p65 NF-kappa B gene
+R2	Coref Anaphora:T15 Antecedent:T17
+T1	Protein 28 41	interleukin 2
+T2	Protein 89 102	interleukin 2
+T3	Protein 104 108	IL-2
+T4	Protein 279 304	IL-2 receptor alpha chain
+T5	Protein 306 309	p55
+T6	Protein 323 327	IL-2
+T7	Protein 495 499	IL-2
+T8	Protein 603 628	IL-2 receptor alpha chain
+T9	Protein 772 797	IL-2 receptor alpha chain
+T10	Protein 830 834	IL-2
+T11	Protein 885 888	p50
+T12	Protein 909 912	p50
+T13	Protein 988 991	p65

@@ -1,0 +1,35 @@
+T3	Exp 154 159	which
+T4	Exp 64 78	The HTLV-I LTR
+T5	Exp 211 237	the transactivator protein
+T6	Exp 265 269	that
+T7	Exp 270 287	the 21 bp repeats
+T8	Exp 391 401	The A site
+T9	Exp 405 421	the 21 bp repeat
+T10	Exp 486 515	the transcription factor AP-2
+T11	Exp 517 519	We
+T12	Exp 533 537	that
+T13	Exp 581 585	that
+T14	Exp 681 700	the consensus motif
+T15	Exp 608 658	both non-transformed and transformed T-lymphocytes
+T16	Exp 713 723	each 21 bp
+T17	Exp 808 810	we
+T18	Exp 738 746	the role
+T19	Exp 758 772	the regulation
+T20	Exp 776 806	the HTLV-I LTR gene expression
+T21	Exp 1049 1051	it
+T22	Exp 939 943	that
+T23	Exp 1044 1048	that
+T24	Exp 1061 1083	the core sequence AGGC
+T25	Exp 1132 1154	the subsequent binding
+T26	Exp 1169 1188	the CREB/ATF family
+T27	Exp 1224 1240	the 21 bp repeat
+T28	Exp 1337 1351	the HTLV-I LTR
+T29	Exp 1448 1484	the AP-2 consensus binding sequences
+T30	Exp 1488 1505	the 21 bp repeats
+T31	Exp 1516 1531	this activation
+R3	Coref Anaphora:T3 Antecedent:T32
+R4	Coref Anaphora:T21 Antecedent:T33
+T1	Protein 238 241	tax
+T2	Protein 375 378	tax
+T32	Exp 133 153	21 base pair repeats
+T33	Exp 956 969	produced AP-2

@@ -1,0 +1,59 @@
+T26	Exp 64 102	the human interleukin-2 receptor alpha
+T27	Exp 64 107	the human interleukin-2 receptor alpha gene
+T28	Exp 174 231	The interleukin 2 receptor alpha-chain (IL-2R alpha) gene
+T29	Exp 461 491	its own high-affinity receptor
+T30	Exp 685 690	which
+T31	Exp 935 948	the induction
+T32	Exp 900 922	these proximal regions
+T33	Exp 1021 1041	the IL-2R alpha gene
+T34	Exp 1053 1063	the 5' end
+T35	Exp 1086 1106	the IL-2R alpha gene
+T36	Exp 1128 1130	We
+T37	Exp 1168 1172	that
+T38	Exp 1193 1250	the recently characterized murine IL-2-responsive element
+T39	Exp 1262 1288	This putative human IL-2rE
+T40	Exp 1409 1413	that
+T41	Exp 1544 1555	the binding
+T42	Exp 1584 1606	the human GASd element
+T43	Exp 1666 1668	we
+T44	Exp 1714 1719	which
+T45	Exp 1727 1731	that
+T46	Exp 1619 1646	the physiological relevance
+T47	Exp 1799 1815	the GASd element
+T48	Exp 1650 1664	these findings
+T49	Exp 1817 1825	Our data
+T50	Exp 1914 1918	that
+T51	Exp 1854 1875	the GASd/EBSd element
+T52	Exp 1919 1951	the T-cell-specific Elf-1 factor
+R5	Coref Anaphora:T29 Antecedent:T53
+R6	Coref Anaphora:T37 Antecedent:T54
+R7	Coref Anaphora:T40 Antecedent:T55
+R8	Coref Anaphora:T44 Antecedent:T56
+T1	Protein 0 5	Elf-1
+T2	Protein 10 15	Stat5
+T3	Protein 74 102	interleukin-2 receptor alpha
+T4	Protein 178 212	interleukin 2 receptor alpha-chain
+T5	Protein 214 225	IL-2R alpha
+T6	Protein 280 291	IL-2R alpha
+T7	Protein 369 382	Interleukin 2
+T8	Protein 384 388	IL-2
+T9	Protein 401 412	IL-2R alpha
+T10	Protein 493 504	IL-2R alpha
+T11	Protein 854 859	Elf-1
+T12	Protein 864 872	HMG-I(Y)
+T13	Protein 952 963	IL-2R alpha
+T14	Protein 981 985	IL-2
+T15	Protein 1025 1036	IL-2R alpha
+T16	Protein 1090 1101	IL-2R alpha
+T17	Protein 1227 1231	IL-2
+T18	Protein 1317 1321	IL-2
+T19	Protein 1478 1482	IL-2
+T20	Protein 1506 1509	CAT
+T21	Protein 1531 1535	IL-2
+T22	Protein 1747 1758	IL-2R alpha
+T23	Protein 1879 1890	IL-2R alpha
+T24	Protein 1939 1944	Elf-1
+T53	Exp 436 457	amplifying expression
+T54	Exp 1142 1167	an 86-nucleotide fragment
+T55	Exp 1381 1408	a Stat protein binding site
+T56	Exp 1689 1713	footprinting experiments

@@ -1,0 +1,36 @@
+T11	Exp 339 343	that
+T12	Exp 277 301	the cooperative activity
+T13	Exp 352 369	the IL-2 enhancer
+T14	Exp 409 423	the production
+T15	Exp 452 461	the level
+T16	Exp 497 516	the src gene family
+T17	Exp 518 565	the lymphocyte-specific protein tyrosine kinase
+T18	Exp 669 681	the activity
+T19	Exp 685 705	the lck gene product
+T20	Exp 788 792	that
+T21	Exp 738 752	the appearance
+T22	Exp 801 825	the NF-AT and AP-1 sites
+T23	Exp 829 846	the IL-2 enhancer
+T24	Exp 917 921	that
+T25	Exp 972 976	that
+T26	Exp 854 867	the induction
+T27	Exp 900 916	the same stimuli
+T28	Exp 977 1005	the immunosuppressant action
+T29	Exp 1037 1046	the level
+T30	Exp 949 962	these results
+T31	Exp 1050 1080	these trans-activating factors
+R4	Coref Anaphora:T11 Antecedent:T32
+R5	Coref Anaphora:T20 Antecedent:T33
+R6	Coref Anaphora:T24 Antecedent:T27
+T1	Protein 205 218	Interleukin-2
+T2	Protein 220 224	IL-2
+T3	Protein 356 360	IL-2
+T4	Protein 427 431	IL-2
+T5	Protein 567 573	p56lck
+T6	Protein 598 602	IL-2
+T7	Protein 644 647	lck
+T8	Protein 689 692	lck
+T9	Protein 833 837	IL-2
+T10	Protein 932 936	IL-2
+T32	Exp 305 338	specific trans-activating factors
+T33	Exp 780 787	factors

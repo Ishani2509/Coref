@@ -1,0 +1,6 @@
+T1	Protein 441 453	type I IL-1R
+T2	Protein 1122 1137	I kappa B alpha
+T3	Protein 1139 1143	MAD3
+T4	Exp 575 625	The synergistic antigen receptor initiated signals	618 625	signals
+T5	Exp 672 676	they
+R1	Coref Anaphora:T5 Antecedent:T4

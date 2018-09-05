@@ -1,0 +1,15 @@
+T4	Exp 105 109	that
+T5	Exp 187 197	each other
+T6	Exp 246 264	those two lineages
+T7	Exp 442 447	which
+T8	Exp 720 724	that
+T9	Exp 733 743	the blasts
+T10	Exp 480 497	These blast cells
+T11	Exp 570 584	these lineages
+T12	Exp 832 836	that
+T13	Exp 810 823	These results
+R2	Coref Anaphora:T7 Antecedent:T14
+T1	Protein 553 559	GATA-1
+T2	Protein 658 698	erythroid delta-aminolevulinate synthase
+T3	Protein 700 706	ALAS-E
+T14	Exp 421 441	abnormal blast cells

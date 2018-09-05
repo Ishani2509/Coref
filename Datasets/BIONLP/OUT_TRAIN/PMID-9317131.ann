@@ -1,0 +1,61 @@
+T26	Exp 61 91	the IL-4-induced up-regulation
+T27	Exp 95 126	the human IgE germline promoter
+T28	Exp 312 336	the selected new isotype
+T29	Exp 250 267	such primed cells
+T30	Exp 341 349	the case
+T31	Exp 389 414	the IgE germline promoter
+T32	Exp 427 442	the interaction
+T33	Exp 446 470	the transcription factor
+T34	Exp 521 540	the proximal region
+T35	Exp 544 556	the promoter
+T36	Exp 638 642	that
+T37	Exp 579 599	the characterization
+T38	Exp 668 714	the NF kappa B/rel transcription factor family
+T39	Exp 558 568	This study
+T40	Exp 790 794	that
+T41	Exp 795 820	the nucleoprotein complex
+T42	Exp 831 848	the upstream site
+T43	Exp 872 905	the classical p50/p65 heterodimer
+T44	Exp 907 918	The complex
+T45	Exp 922 939	the proximal site
+T46	Exp 1069 1089	the NF kappa B2 site
+T47	Exp 1216 1236	the NF kappa B1 site
+T48	Exp 1283 1305	the wild-type promoter
+T49	Exp 1401 1405	that
+T50	Exp 1307 1329	The NF kappa B2 effect
+T51	Exp 1347 1359	the presence
+T52	Exp 1363 1385	the STAT6 binding site
+T53	Exp 1406 1427	the NF kappa B2 motif
+T54	Exp 1511 1526	the combination
+T55	Exp 1564 1590	the STAT6 response element
+T56	Exp 1661 1681	the individual sites
+T57	Exp 1724 1728	that
+T58	Exp 1697 1715	The available data
+T59	Exp 1729 1744	the NF kappa B2
+T60	Exp 1842 1869	the human IgE germline gene
+R2	Coref Anaphora:T36 Antecedent:T61
+T1	Protein 33 38	STAT6
+T2	Protein 65 69	IL-4
+T3	Protein 105 108	IgE
+T4	Protein 374 378	IL-4
+T5	Protein 471 476	STAT6
+T6	Protein 478 486	IL-4STAT
+T7	Protein 721 725	IL-4
+T8	Protein 850 861	NF kappa B1
+T9	Protein 886 889	p50
+T10	Protein 890 893	p65
+T11	Protein 941 952	NF kappa B2
+T12	Protein 980 983	p50
+T13	Protein 988 992	relB
+T14	Protein 1073 1084	NF kappa B2
+T15	Protein 1119 1123	IL-4
+T16	Protein 1220 1231	NF kappa B1
+T17	Protein 1311 1322	NF kappa B2
+T18	Protein 1367 1372	STAT6
+T19	Protein 1410 1421	NF kappa B2
+T20	Protein 1568 1573	STAT6
+T21	Protein 1601 1605	IL-4
+T22	Protein 1733 1744	NF kappa B2
+T23	Protein 1796 1801	STAT6
+T24	Protein 1813 1817	IL-4
+T61	Exp 603 637	two additional cis-acting elements

@@ -1,0 +1,41 @@
+T13	Exp 57 72	the gamma motif
+T14	Exp 76 107	the negative regulatory element
+T15	Exp 111 146	the hepatitis B virus core promoter
+T16	Exp 258 263	which
+T17	Exp 149 180	The negative regulatory element
+T18	Exp 190 211	the hepatitis B virus
+T19	Exp 327 343	these subregions
+T20	Exp 485 500	both cell types
+T21	Exp 507 509	we
+T22	Exp 515 519	that
+T23	Exp 520 544	the transcription factor
+T24	Exp 590 607	the core promoter
+T25	Exp 616 625	this site
+T26	Exp 637 642	which
+T27	Exp 653 682	the gene-suppressive activity
+T28	Exp 816 840	the transcription factor
+T29	Exp 920 922	we
+T30	Exp 935 939	that
+T31	Exp 864 875	the absence
+T32	Exp 984 1010	the core promoter activity
+T33	Exp 1019 1037	the NRE gamma site
+T34	Exp 1117 1121	that
+T35	Exp 1039 1050	The ability
+T36	Exp 1076 1093	the core promoter
+T37	Exp 1101 1116	the possibility
+R4	Coref Anaphora:T16 Antecedent:T38
+R5	Coref Anaphora:T26 Antecedent:T39
+R6	Coref Anaphora:T34 Antecedent:T37
+T1	Protein 37 41	RFX1
+T2	Protein 46 51	MIBP1
+T3	Protein 545 549	RFX1
+T4	Protein 706 710	RFX1
+T5	Protein 751 755	RFX1
+T6	Protein 841 846	MIBP1
+T7	Protein 888 893	MIBP1
+T8	Protein 940 944	RFX1
+T9	Protein 955 960	MIBP1
+T10	Protein 1054 1058	RFX1
+T11	Protein 1122 1126	RFX1
+T38	Exp 241 257	three subregions
+T39	Exp 627 636	Mutations

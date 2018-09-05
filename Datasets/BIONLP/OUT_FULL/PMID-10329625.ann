@@ -1,0 +1,28 @@
+T9	Exp 88 116	the helix-loop-helix protein
+T10	Exp 183 188	which
+T11	Exp 193 205	the capacity
+T12	Exp 413 433	the transduced cells
+T13	Exp 520 522	we
+T14	Exp 532 536	that
+T15	Exp 575 579	that
+T16	Exp 866 871	which
+T17	Exp 816 834	These observations
+T18	Exp 986 988	We
+T19	Exp 1003 1007	that
+T20	Exp 1158 1169	These cells
+T21	Exp 1253 1257	that
+T22	Exp 1320 1353	the T/NK developmental checkpoint
+T23	Exp 1230 1244	These findings
+R4	Coref Anaphora:T10 Antecedent:T2
+R5	Coref Anaphora:T15 Antecedent:T24
+R6	Coref Anaphora:T16 Antecedent:T25
+T1	Protein 117 120	Id3
+T2	Protein 178 181	Id3
+T3	Protein 284 288	CD34
+T4	Protein 555 558	Id3
+T5	Protein 724 727	Id3
+T6	Protein 872 875	Id3
+T7	Protein 1021 1024	CD4
+T8	Protein 1087 1090	Id3
+T24	Exp 563 574	progenitors
+T25	Exp 843 862	possible mechanisms

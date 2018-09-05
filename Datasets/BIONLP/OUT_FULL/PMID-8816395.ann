@@ -1,0 +1,35 @@
+T11	Exp 326 343	the up-regulation
+T12	Exp 386 407	the lipophilic ligand
+T13	Exp 198 222	that vitamin D receptors
+T14	Exp 441 453	the cytokine
+T15	Exp 470 481	the absence
+T16	Exp 658 683	the genomic transcription
+T17	Exp 756 762	either
+T18	Exp 800 815	the Ig receptor
+T19	Exp 1057 1062	which
+T20	Exp 937 951	the secosterol
+T21	Exp 903 921	this apparent lack
+T22	Exp 1022 1055	these cellular activation signals
+T23	Exp 1119 1131	the presence
+T24	Exp 1253 1270	the up-regulation
+T25	Exp 1316 1333	the establishment
+T26	Exp 1364 1377	the induction
+T27	Exp 1455 1459	that
+T28	Exp 1460 1471	the hormone
+T29	Exp 1510 1531	the activated B cells
+T30	Exp 1667 1681	its initiation
+T31	Exp 1560 1564	that
+T32	Exp 1533 1551	These observations
+R3	Coref Anaphora:T19 Antecedent:T22
+R4	Coref Anaphora:T30 Antecedent:T33
+T1	Protein 203 222	vitamin D receptors
+T2	Protein 224 227	VDR
+T3	Protein 347 350	VDR
+T4	Protein 454 458	IL-4
+T5	Protein 460 464	IL-4
+T6	Protein 535 538	VDR
+T7	Protein 687 722	25-hydroxyvitamin D3 24-hydroxylase
+T8	Protein 775 782	CD40 Ag
+T9	Protein 1274 1277	VDR
+T10	Protein 1381 1395	24-hydroxylase
+T33	Exp 1565 1575	reactivity

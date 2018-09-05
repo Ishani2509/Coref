@@ -1,0 +1,37 @@
+T9	Exp 212 224	the increase
+T10	Exp 249 274	the transcriptional level
+T11	Exp 276 278	We
+T12	Exp 333 337	that
+T13	Exp 302 313	the c-myb 5
+T14	Exp 566 577	the c-myb 5
+T15	Exp 551 562	this region
+T16	Exp 767 784	this binding site
+T17	Exp 877 889	this complex
+T18	Exp 1053 1055	we
+T19	Exp 938 954	the binding site
+T20	Exp 992 1010	the nuclear factor
+T21	Exp 1065 1077	the kinetics
+T22	Exp 1094 1119	the two binding complexes
+T23	Exp 1124 1144	the molecular masses
+T24	Exp 1148 1164	the two proteins
+T25	Exp 1210 1214	that
+T26	Exp 1177 1189	the kinetics
+T27	Exp 1215 1244	the NFAT EMSA binding complex
+T28	Exp 1267 1283	the CMAT complex
+T29	Exp 1285 1301	The NFAT protein
+T30	Exp 1375 1391	the CMAT protein
+T31	Exp 1460 1476	the CMAT protein
+T32	Exp 1478 1492	The appearance
+T33	Exp 1496 1520	the CMAT binding complex
+T34	Exp 1572 1588	The CMAT protein
+T35	Exp 1641 1655	the regulation
+R2	Coref Anaphora:T12 Antecedent:T36
+T1	Protein 44 49	c-myb
+T2	Protein 131 136	c-Myb
+T3	Protein 172 177	c-myb
+T4	Protein 306 311	c-myb
+T5	Protein 348 353	c-myb
+T6	Protein 570 575	c-myb
+T7	Protein 849 854	c-myb
+T8	Protein 1659 1664	c-myb
+T36	Exp 315 332	flanking sequence

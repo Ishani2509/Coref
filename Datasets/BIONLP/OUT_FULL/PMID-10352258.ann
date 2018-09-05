@@ -1,0 +1,31 @@
+T13	Exp 313 315	we
+T14	Exp 350 355	which
+T15	Exp 242 250	the role
+T16	Exp 411 430	the T-lineage cells
+T17	Exp 535 557	the thymic development
+T18	Exp 635 669	the ex vivo proliferative response
+T19	Exp 753 757	that
+T20	Exp 758 774	the perturbation
+T21	Exp 778 804	the proliferation response
+T22	Exp 855 866	these genes
+T23	Exp 948 970	the transgenic T cells
+T24	Exp 972 1000	The proliferative deficiency
+T25	Exp 1004 1026	the transgenic T cells
+T26	Exp 1177 1183	either
+T27	Exp 1095 1110	the involvement
+T28	Exp 1216 1234	the IL-2 signaling
+T29	Exp 1271 1297	the cell cycle progression
+T30	Exp 1071 1084	These results
+R4	Coref Anaphora:T14 Antecedent:T31
+T32	SPAN 708 728	IL-2 and IL-2R alpha
+R5	Coref Anaphora:T22 Antecedent:T32
+T1	Protein 356 360	RelA
+T2	Protein 365 370	c-Rel
+T3	Protein 482 497	I kappa B alpha
+T4	Protein 708 712	IL-2
+T5	Protein 717 728	IL-2R alpha
+T6	Protein 895 899	IL-4
+T7	Protein 901 906	IL-10
+T8	Protein 912 921	IFN-gamma
+T9	Protein 1220 1224	IL-2
+T31	Exp 331 346	transgenic mice

@@ -1,0 +1,65 @@
+T27	Exp 105 109	that
+T28	Exp 25 47	the Epstein-Barr virus
+T29	Exp 212 234	the Epstein-Barr virus
+T30	Exp 275 287	the survival
+T31	Exp 332 350	the bcl-2 oncogene
+T32	Exp 418 431	the selection
+T33	Exp 558 560	it
+T34	Exp 706 713	whereby
+T35	Exp 682 705	the selection procedure
+T36	Exp 751 774	the starting population
+T37	Exp 806 835	the potentially toxic effects
+T38	Exp 845 847	We
+T39	Exp 927 931	that
+T40	Exp 1014 1031	the viral protein
+T41	Exp 1039 1050	the absence
+T42	Exp 1089 1101	the NF-kappa
+T43	Exp 1145 1171	the cell adhesion molecule
+T44	Exp 869 879	this issue
+T45	Exp 1227 1245	the first approach
+T46	Exp 1309 1320	the control
+T47	Exp 1560 1562	we
+T48	Exp 1539 1558	the second approach
+T49	Exp 1570 1584	the generality
+T50	Exp 1588 1603	this phenomenon
+T51	Exp 1886 1906	the same experiments
+T52	Exp 2021 2023	We
+T53	Exp 2043 2047	that
+T54	Exp 2130 2134	that
+T55	Exp 2078 2089	the panoply
+T56	Exp 2135 2145	the effect
+T57	Exp 2169 2177	Our data
+T58	Exp 2191 2195	that
+T59	Exp 2345 2362	the viral protein
+R6	Coref Anaphora:T27 Antecedent:T60
+R7	Coref Anaphora:T34 Antecedent:T35
+R8	Coref Anaphora:T39 Antecedent:T61
+R9	Coref Anaphora:T40 Antecedent:T10
+R10	Coref Anaphora:T59 Antecedent:T25
+T1	Protein 16 21	bcl-2
+T2	Protein 72 76	LMP1
+T3	Protein 259 263	LMP1
+T4	Protein 336 341	bcl-2
+T5	Protein 442 446	LMP1
+T6	Protein 599 604	Bcl-2
+T7	Protein 648 652	LMP1
+T8	Protein 719 724	Bcl-2
+T9	Protein 839 843	LMP1
+T10	Protein 940 944	LMP1
+T11	Protein 1172 1178	ICAM-1
+T12	Protein 1209 1213	LMP1
+T13	Protein 1293 1297	LMP1
+T14	Protein 1386 1390	LMP1
+T15	Protein 1450 1456	ICAM-1
+T16	Protein 1529 1534	Bcl-2
+T17	Protein 1630 1634	LMP1
+T18	Protein 1788 1792	LMP1
+T19	Protein 1865 1871	ICAM-1
+T20	Protein 1876 1881	Bcl-2
+T21	Protein 1968 1974	ICAM-1
+T22	Protein 2014 2019	Bcl-2
+T23	Protein 2048 2053	Bcl-2
+T24	Protein 2121 2125	LMP1
+T25	Protein 2247 2251	LMP1
+T60	Exp 78 104	a B-cell-specific response
+T61	Exp 889 926	two different experimental approaches

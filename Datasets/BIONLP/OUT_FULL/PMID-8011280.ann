@@ -1,0 +1,31 @@
+T2	Exp 41 58	the immune system
+T3	Exp 124 138	its properties
+T4	Exp 189 206	the immune system
+T5	Exp 323 347	its direct participation
+T6	Exp 386 397	its potency
+T7	Exp 567 572	which
+T8	Exp 871 876	which
+T9	Exp 752 764	The activity
+T10	Exp 1072 1077	which
+T11	Exp 1054 1071	the Bcl-3 protein
+T12	Exp 1241 1252	the nucleus
+T13	Exp 1279 1283	that
+T14	Exp 1254 1278	The intracellular events
+T15	Exp 1292 1308	the inactivation
+T16	Exp 1328 1342	the activation
+T17	Exp 1371 1375	They
+T18	Exp 1455 1464	the cells
+T19	Exp 1498 1512	the activation
+T20	Exp 1691 1705	The inhibition
+T21	Exp 1837 1858	these acute processes
+R7	Coref Anaphora:T3 Antecedent:T22
+R8	Coref Anaphora:T5 Antecedent:T23
+R9	Coref Anaphora:T6 Antecedent:T23
+R10	Coref Anaphora:T8 Antecedent:T24
+R11	Coref Anaphora:T10 Antecedent:T11
+R12	Coref Anaphora:T13 Antecedent:T14
+R13	Coref Anaphora:T17 Antecedent:T14
+T1	Protein 1058 1063	Bcl-3
+T22	Exp 61 71	NF-kappa B
+T23	Exp 244 282	B's rapid posttranslational activation
+T24	Exp 849 867	I kappa B subunits

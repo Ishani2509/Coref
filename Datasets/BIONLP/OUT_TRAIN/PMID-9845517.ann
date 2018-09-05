@@ -1,0 +1,54 @@
+T25	Exp 66 85	The differentiation
+T26	Exp 296 315	the differentiation
+T27	Exp 270 282	this process
+T28	Exp 405 414	the level
+T29	Exp 435 458	the coordinated binding
+T30	Exp 519 547	the proximal promoter region
+T31	Exp 725 742	the IL-4 promoter
+T32	Exp 772 777	which
+T33	Exp 744 768	The molecular mechanisms
+T34	Exp 805 818	the IL-4 gene
+T35	Exp 843 882	the IL-4-activated transcription factor
+T36	Exp 958 969	this effect
+T37	Exp 971 973	We
+T38	Exp 986 990	that
+T39	Exp 1035 1058	the human IL-4 promoter
+T40	Exp 1121 1127	the P1
+T41	Exp 1101 1112	These sites
+T42	Exp 1222 1224	we
+T43	Exp 1170 1178	the role
+T44	Exp 1334 1336	We
+T45	Exp 1342 1346	that
+T46	Exp 1393 1418	the germline IgE promoter
+T47	Exp 1480 1510	the intact human IL-4 promoter
+T48	Exp 1551 1553	We
+T49	Exp 1563 1567	that
+T50	Exp 1634 1638	that
+T51	Exp 1568 1580	the function
+T52	Exp 1639 1650	this factor
+R3	Coref Anaphora:T32 Antecedent:T33
+R4	Coref Anaphora:T52 Antecedent:T23
+T1	Protein 0 5	Stat6
+T2	Protein 21 34	interleukin-4
+T3	Protein 227 240	Interleukin-4
+T4	Protein 242 246	IL-4
+T5	Protein 319 323	IL-4
+T6	Protein 359 363	IL-4
+T7	Protein 641 645	IL-4
+T8	Protein 729 733	IL-4
+T9	Protein 778 782	IL-4
+T10	Protein 809 813	IL-4
+T11	Protein 847 851	IL-4
+T12	Protein 883 933	signal transducer and activator of transcription 6
+T13	Protein 935 940	Stat6
+T14	Protein 991 996	Stat6
+T15	Protein 1045 1049	IL-4
+T16	Protein 1182 1187	Stat6
+T17	Protein 1202 1206	IL-4
+T18	Protein 1230 1235	Stat6
+T19	Protein 1283 1287	IL-4
+T20	Protein 1441 1445	IL-4
+T21	Protein 1449 1454	Stat6
+T22	Protein 1497 1501	IL-4
+T23	Protein 1584 1589	Stat6
+T24	Protein 1660 1664	IL-4

@@ -1,0 +1,18 @@
+T1	Protein 99 116	interleukin-1beta
+T2	Protein 124 142	Interleukin-1 beta
+T3	Protein 144 152	IL-1beta
+T4	Protein 280 288	IL-1beta
+T5	Protein 470 478	IL-1beta
+T6	Protein 926 959	transcription activator protein-2
+T7	Protein 1142 1150	IL-1beta
+T8	Protein 1151 1154	CAT
+T9	Protein 1159 1167	IL-1beta
+T10	Protein 1182 1185	CAT
+T11	Protein 1222 1255	chloramphenicol acetyltransferase
+T12	Protein 1257 1260	CAT
+T13	Exp 447 518	negative regulation of IL-1beta expression at the transcriptional level	456 466	regulation
+T14	Exp 520 525	which
+T15	Exp 1359 1384	A protein of about 150 kD	1361 1368	protein
+T16	Exp 1385 1389	that
+R1	Coref Anaphora:T14 Antecedent:T13	[T5]
+R2	Coref Anaphora:T16 Antecedent:T15

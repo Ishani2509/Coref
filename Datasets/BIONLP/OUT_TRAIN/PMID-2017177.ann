@@ -1,0 +1,16 @@
+T5	Exp 107 152	the human T-cell receptor delta gene enhancer
+T6	Exp 236 268	these transcriptional activators
+T7	Exp 375 386	the members
+T8	Exp 454 483	the T-lymphocyte cell lineage
+T9	Exp 390 411	this multigene family
+T10	Exp 645 666	these three organisms
+T11	Exp 668 696	The murine and human factors
+T12	Exp 861 906	the human T-cell receptor delta gene enhancer
+T13	Exp 908 910	We
+T14	Exp 917 921	that
+T15	Exp 922 958	the murine and human GATA-3 proteins
+R2	Coref Anaphora:T11 Antecedent:T9
+T1	Protein 30 36	GATA-3
+T2	Protein 413 420	cGATA-3
+T3	Protein 514 520	GATA-3
+T4	Protein 943 949	GATA-3

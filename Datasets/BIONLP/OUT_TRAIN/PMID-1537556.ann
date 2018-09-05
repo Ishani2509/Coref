@@ -1,0 +1,28 @@
+T5	Exp 59 71	the silencer
+T6	Exp 75 113	the human epsilon-globin-encoding gene
+T7	Exp 219 221	we
+T8	Exp 127 151	the molecular mechanisms
+T9	Exp 164 189	the developmental control
+T10	Exp 241 255	the expression
+T11	Exp 259 270	these genes
+T12	Exp 309 311	We
+T13	Exp 337 349	the presence
+T14	Exp 392 406	the properties
+T15	Exp 464 476	the cap site
+T16	Exp 480 518	the human epsilon-globin-encoding gene
+T17	Exp 577 579	We
+T18	Exp 592 596	that
+T19	Exp 597 610	this silencer
+T20	Exp 851 862	this effect
+T21	Exp 1019 1023	that
+T22	Exp 1024 1059	these negative regulatory sequences
+T23	Exp 1298 1303	which
+T24	Exp 1349 1381	the epsilon-globin-encoding gene
+T25	Exp 1304 1318	these proteins
+R3	Coref Anaphora:T16 Antecedent:T6
+R4	Coref Anaphora:T23 Antecedent:T26
+T1	Protein 85 99	epsilon-globin
+T2	Protein 490 504	epsilon-globin
+T3	Protein 980 986	DNaseI
+T4	Protein 1353 1367	epsilon-globin
+T26	Exp 1275 1294	Possible mechanisms

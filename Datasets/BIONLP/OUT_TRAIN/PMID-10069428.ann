@@ -1,0 +1,43 @@
+T20	Exp 70 101	its proximal binding element P0
+T21	Exp 36 60	the transcription factor
+T22	Exp 105 122	the IL-4 promoter
+T23	Exp 325 344	The molecular basis
+T24	Exp 538 543	which
+T25	Exp 455 473	the nuclear factor
+T26	Exp 680 689	the mouse
+T27	Exp 839 841	we
+T28	Exp 877 909	the two NFAT-binding elements P0
+T29	Exp 920 960	the crucial proximal human IL-4 promoter
+T30	Exp 965 990	the most proximal P0 site
+T31	Exp 1060 1074	the Th1 clones
+T32	Exp 1097 1104	the Th2
+T33	Exp 1126 1130	both
+T34	Exp 1206 1217	the P1 site
+T35	Exp 1409 1429	the polyclonal level
+T36	Exp 1615 1619	that
+T37	Exp 1763 1767	that
+T38	Exp 1739 1758	the IL-4 P0 element
+T39	Exp 1592 1606	These findings
+T40	Exp 1787 1814	this multifactorial disease
+T41	Exp 1856 1866	this level
+R3	Coref Anaphora:T20 Antecedent:T1
+R4	Coref Anaphora:T24 Antecedent:T42
+T1	Protein 61 66	NFAT1
+T2	Protein 109 113	IL-4
+T3	Protein 148 152	IL-4
+T4	Protein 263 267	IL-4
+T5	Protein 299 302	IgE
+T6	Protein 359 363	IL-4
+T7	Protein 414 418	IL-4
+T8	Protein 544 549	NFAT1
+T9	Protein 554 559	NFAT2
+T10	Protein 640 645	NFAT1
+T11	Protein 649 653	IL-4
+T12	Protein 947 951	IL-4
+T13	Protein 1028 1033	NFAT2
+T14	Protein 1233 1238	NFAT2
+T15	Protein 1555 1558	IgE
+T16	Protein 1631 1635	IL-4
+T17	Protein 1721 1726	NFAT1
+T18	Protein 1743 1747	IL-4
+T42	Exp 512 533	transcription factors

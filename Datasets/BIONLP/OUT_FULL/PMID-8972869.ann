@@ -1,0 +1,42 @@
+T10	Exp 53 95	the kappa immunoglobulin germline promoter
+T11	Exp 204 209	which
+T12	Exp 164 177	the discovery
+T13	Exp 239 258	the tissue-specific
+T14	Exp 545 550	which
+T15	Exp 341 376	The germline promoters (Ko) located
+T16	Exp 389 415	the J region gene segments
+T17	Exp 419 434	the kappa locus
+T18	Exp 524 543	the variant octamer
+T19	Exp 772 774	we
+T20	Exp 654 662	the role
+T21	Exp 696 710	the regulation
+T22	Exp 742 770	the unrearranged kappa locus
+T23	Exp 792 821	the relative binding affinity
+T24	Exp 845 870	the variant octamer motif
+T25	Exp 886 905	the functional role
+T26	Exp 666 692	this variant octamer motif
+T27	Exp 909 927	this octamer motif
+T28	Exp 959 961	We
+T29	Exp 967 971	that
+T30	Exp 982 1007	the variant octamer motif
+T31	Exp 1071 1098	the consensus octamer motif
+T32	Exp 1112 1137	the variant octamer motif
+T33	Exp 1238 1259	the germline promoter
+T34	Exp 1261 1263	We
+T35	Exp 1367 1378	Our results
+T36	Exp 1448 1464	their dependence
+T37	Exp 1387 1391	that
+T38	Exp 1392 1414	the germline promoters
+T39	Exp 1659 1680	the V-J recombination
+T40	Exp 1684 1711	the kappa light chain locus
+T41	Exp 1539 1553	These findings
+R4	Coref Anaphora:T11 Antecedent:T42
+R5	Coref Anaphora:T14 Antecedent:T18
+R6	Coref Anaphora:T36 Antecedent:T38
+T1	Protein 585 590	Oct-1
+T2	Protein 595 600	Oct-2
+T3	Protein 825 830	Oct-1
+T4	Protein 835 840	Oct-2
+T5	Protein 1014 1019	Oct-1
+T6	Protein 1024 1029	Oct-2
+T42	Exp 181 203	a common octamer motif

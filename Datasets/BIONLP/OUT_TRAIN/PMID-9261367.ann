@@ -1,0 +1,30 @@
+T10	Exp 353 364	its binding
+T11	Exp 237 241	that
+T12	Exp 312 342	the HIV-1 long terminal repeat
+T13	Exp 368 404	the transactivation response element
+T14	Exp 532 550	the HIV-1 promoter
+T15	Exp 762 799	this Tat-mediated LTR superactivation
+T16	Exp 804 814	this study
+T17	Exp 1281 1297	the combined use
+T18	Exp 1330 1359	the two NF-kappa B inhibitors
+T19	Exp 1369 1378	the virus
+T20	Exp 1382 1398	the latent state
+T21	Exp 1423 1445	The combined treatment
+T22	Exp 1522 1547	the NF-kappa B inhibitors
+T23	Exp 1557 1585	the anti-Tat sFv intrabodies
+T24	Exp 1625 1629	that
+T25	Exp 1721 1728	the one
+T26	Exp 1755 1767	the survival
+T27	Exp 1603 1616	these results
+R3	Coref Anaphora:T11 Antecedent:T28
+R4	Coref Anaphora:T10 Antecedent:T2
+T1	Protein 102 105	Tat
+T2	Protein 204 207	Tat
+T3	Protein 508 511	Tat
+T4	Protein 598 625	tumor necrosis factor alpha
+T5	Protein 715 718	Tat
+T6	Protein 767 770	Tat
+T7	Protein 963 966	Tat
+T8	Protein 1306 1309	Tat
+T9	Protein 1566 1569	Tat
+T28	Exp 209 236	an early regulatory protein

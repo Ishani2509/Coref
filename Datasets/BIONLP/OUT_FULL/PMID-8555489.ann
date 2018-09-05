@@ -1,0 +1,46 @@
+T18	Exp 0 12	The promoter
+T19	Exp 79 90	The product
+T20	Exp 94 122	the B-cell-specific B29 gene
+T21	Exp 196 231	the B-cell antigen receptor complex
+T22	Exp 331 333	we
+T23	Exp 294 308	the regulation
+T24	Exp 348 387	the human genomic DNA sequence upstream
+T25	Exp 391 414	the B29 ATG start codon
+T26	Exp 312 329	this pivotal gene
+T27	Exp 453 471	The human B29 gene
+T28	Exp 556 576	The minimal promoter
+T29	Exp 580 598	the human B29 gene
+T30	Exp 641 667	these multiple start sites
+T31	Exp 669 690	This minimal promoter
+T32	Exp 879 927	the previously characterized murine B29 promoter
+T33	Exp 803 815	these motifs
+T34	Exp 1048 1055	the B29
+T35	Exp 1244 1268	the minimal B29 promoter
+T36	Exp 1451 1462	its absence
+T37	Exp 1396 1400	that
+T38	Exp 1309 1316	the BCS
+T39	Exp 1407 1419	the activity
+T40	Exp 1423 1447	the B29 minimal promoter
+T41	Exp 1488 1492	that
+T42	Exp 1530 1551	the complex interplay
+T43	Exp 1464 1478	These findings
+R4	Coref Anaphora:T26 Antecedent:T5
+R5	Coref Anaphora:T37 Antecedent:T44
+R6	Coref Anaphora:T36 Antecedent:T40
+T1	Protein 57 60	B29
+T2	Protein 114 117	B29
+T3	Protein 124 127	B29
+T4	Protein 129 136	Ig beta
+T5	Protein 138 143	CD79b
+T6	Protein 395 398	B29
+T7	Protein 463 466	B29
+T8	Protein 590 593	B29
+T9	Protein 915 918	B29
+T10	Protein 985 988	B29
+T11	Protein 1052 1055	B29
+T12	Protein 1122 1125	B29
+T13	Protein 1158 1161	B29
+T14	Protein 1256 1259	B29
+T15	Protein 1427 1430	B29
+T16	Protein 1493 1496	B29
+T44	Exp 1362 1395	negative regulatory DNA sequences

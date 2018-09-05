@@ -1,0 +1,35 @@
+T17	Exp 14 33	the Lewis X antigen
+T18	Exp 74 76	We
+T19	Exp 97 101	that
+T20	Exp 333 335	we
+T21	Exp 345 349	that
+T22	Exp 439 452	this response
+T23	Exp 454 456	We
+T24	Exp 529 533	that
+T25	Exp 626 653	the monocytic cell line MM6
+T26	Exp 938 948	the levels
+T27	Exp 1336 1340	that
+T28	Exp 1479 1525	the transcriptional factor activator protein-1
+T29	Exp 1622 1624	We
+T30	Exp 1634 1638	that
+T31	Exp 1718 1751	its well-recognized adhesive role
+T32	Exp 1864 1868	that
+R3	Coref Anaphora:T31 Antecedent:T33
+R4	Coref Anaphora:T32 Antecedent:T34
+T1	Protein 123 150	tumor necrosis factor-alpha
+T2	Protein 152 161	TNF-alpha
+T3	Protein 213 226	tissue factor
+T4	Protein 231 235	CD36
+T5	Protein 398 419	endothelial selectins
+T6	Protein 561 570	TNF-alpha
+T7	Protein 760 769	TNF-alpha
+T8	Protein 860 878	interleukin-1 beta
+T9	Protein 880 889	IL-1 beta
+T10	Protein 952 962	beta-actin
+T11	Protein 1071 1074	CAT
+T12	Protein 1113 1122	IL-1 beta
+T13	Protein 1219 1222	CAT
+T14	Protein 1288 1297	IL-1 beta
+T15	Protein 1588 1620	SV40 promoter specific protein-1
+T33	Exp 1706 1714	addition
+T34	Exp 1854 1863	monocytes

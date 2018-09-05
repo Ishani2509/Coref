@@ -1,0 +1,23 @@
+T4	Exp 174 179	which
+T5	Exp 195 225	the transcriptional regulation
+T6	Exp 281 285	that
+T7	Exp 308 322	the dose range
+T8	Exp 447 468	the precise mechanism
+T9	Exp 482 498	the significance
+T10	Exp 550 554	that
+T11	Exp 518 536	The present report
+T12	Exp 743 748	where
+T13	Exp 749 762	the viability
+T14	Exp 766 775	the cells
+T15	Exp 709 722	These results
+T16	Exp 1074 1088	the expression
+T17	Exp 1121 1140	the 0.5-Gy exposure
+T18	Exp 1054 1063	each time
+T19	Exp 1142 1156	The expression
+T20	Exp 1160 1167	the p50
+R3	Coref Anaphora:T4 Antecedent:T21
+R4	Coref Anaphora:T12 Antecedent:T22
+T1	Protein 1164 1167	p50
+T2	Protein 1172 1175	p65
+T21	Exp 139 173	a pleiotropic transcription factor
+T22	Exp 730 742	a dose range

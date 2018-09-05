@@ -1,0 +1,32 @@
+T1	Exp 0 21	The peri-kappa B site
+T2	Exp 330 349	the natural history
+T3	Exp 406 408	we
+T4	Exp 438 442	that
+T5	Exp 443 471	the enhancer/promoter region
+T6	Exp 387 404	these differences
+T7	Exp 551 569	the HIV-1 enhancer
+T8	Exp 753 771	the HIV-2 enhancer
+T9	Exp 925 927	We
+T10	Exp 982 1000	the HIV-2 enhancer
+T11	Exp 1026 1042	the kappa B site
+T12	Exp 1120 1169	the closely related simian immunodeficiency virus
+T13	Exp 1069 1078	This site
+T14	Exp 1200 1209	this site
+T15	Exp 1363 1368	which
+T16	Exp 1312 1333	the first description
+T17	Exp 1378 1403	such monocyte specificity
+T18	Exp 1626 1630	that
+T19	Exp 1708 1712	that
+T20	Exp 1631 1637	either
+T21	Exp 1557 1578	the peri-kappa B site
+T22	Exp 1713 1724	the protein
+T23	Exp 1837 1858	the transfection data
+T24	Exp 1667 1676	this site
+T25	Exp 1737 1758	this enhancer element
+T26	Exp 1631 1657	either a different protein
+T27	Exp 1908 1929	the peri-kappa B site
+T28	Exp 2036 2066	the monocyte-specific function
+T29	Exp 2070 2093	the peri-kappa B factor
+T30	Exp 2130 2158	the different role monocytes
+R2	Coref Anaphora:T15 Antecedent:T31
+T31	Exp 1337 1362	an HIV-2 enhancer element

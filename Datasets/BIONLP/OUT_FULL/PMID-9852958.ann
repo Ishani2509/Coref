@@ -1,0 +1,33 @@
+T6	Exp 43 117	the developmentally regulated fork head domain transcription factor family
+T7	Exp 125 127	we
+T8	Exp 135 149	the expression
+T9	Exp 205 207	We
+T10	Exp 380 384	that
+T11	Exp 315 323	The cDNA
+T12	Exp 395 432	the carboxyl-terminal 180 amino acids
+T13	Exp 441 476	the recently identified fkhrl1 gene
+T14	Exp 504 541	the characteristic DNA-binding domain
+T15	Exp 562 589	the forkhead protein family
+T16	Exp 478 486	This ORF
+T17	Exp 629 638	this cDNA
+T18	Exp 684 686	We
+T19	Exp 713 717	that
+T20	Exp 750 788	the in-vitro-translated 20-kDa protein
+T21	Exp 904 927	the fkhrl1 gene product
+T22	Exp 790 803	This antibody
+T23	Exp 929 944	The mRNA levels
+T24	Exp 1086 1112	its related family members
+T25	Exp 1202 1212	their role
+T26	Exp 1134 1164	the transcriptional mechanisms
+T27	Exp 1168 1197	this fork head gene subfamily
+R5	Coref Anaphora:T10 Antecedent:T28
+R6	Coref Anaphora:T19 Antecedent:T29
+R7	Coref Anaphora:T24 Antecedent:T5
+R8	Coref Anaphora:T25 Antecedent:T26
+T1	Protein 21 29	FKHRL1P2
+T2	Protein 465 471	fkhrl1
+T3	Protein 908 914	fkhrl1
+T4	Protein 949 955	fkhrl1
+T5	Protein 1075 1081	FKHRL1
+T28	Exp 375 378	ORF
+T29	Exp 702 712	antibodies

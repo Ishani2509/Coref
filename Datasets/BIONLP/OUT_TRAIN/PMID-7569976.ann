@@ -1,0 +1,17 @@
+T2	Exp 155 188	the most potent anti-inflammatory
+T3	Exp 219 223	They
+T4	Exp 344 357	the mechanism
+T5	Exp 369 382	this activity
+T6	Exp 406 408	it
+T7	Exp 418 422	that
+T8	Exp 623 628	which
+T9	Exp 583 621	the I kappa B alpha inhibitory protein
+T10	Exp 539 554	This inhibition
+T11	Exp 807 819	its activity
+T12	Exp 789 803	the inhibition
+T13	Exp 848 878	the anti-inflammatory activity
+R3	Coref Anaphora:T3 Antecedent:T14
+R4	Coref Anaphora:T8 Antecedent:T9
+R5	Coref Anaphora:T11 Antecedent:T9
+T1	Protein 587 602	I kappa B alpha
+T14	Exp 129 144	Glucocorticoids

@@ -1,0 +1,17 @@
+T1	Protein 0 5	c-Rel
+T2	Protein 397 402	c-Rel
+T3	Protein 595 600	c-Rel
+T4	Protein 694 698	IL-2
+T5	Protein 744 762	IL-2R(alpha) chain
+T6	Protein 826 831	c-Rel
+T7	Protein 838 842	IL-2
+T8	Protein 990 995	c-Rel
+T9	Exp 530 548	induction of NF-AT	530 539	induction
+T10	Exp 550 555	which
+T11	Exp 643 648	genes
+T12	Exp 649 653	that
+T13	Exp 826 831	c-Rel
+T14	Exp 864 869	which
+R1	Coref Anaphora:T10 Antecedent:T9
+R2	Coref Anaphora:T12 Antecedent:T11
+R3	Coref Anaphora:T14 Antecedent:T13	[T6]

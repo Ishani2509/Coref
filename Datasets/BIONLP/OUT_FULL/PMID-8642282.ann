@@ -1,0 +1,35 @@
+T7	Exp 33 52	the human B7.1 gene
+T8	Exp 78 104	The costimulatory molecule
+T9	Exp 257 266	its level
+T10	Exp 251 256	where
+T11	Exp 167 183	The distribution
+T12	Exp 187 217	this integral membrane protein
+T13	Exp 337 356	the molecular basis
+T14	Exp 391 418	the chromatin configuration
+T15	Exp 422 441	the human B7.1 gene
+T16	Exp 519 556	a tissue-specific deoxyribonuclease I
+T17	Exp 497 515	The identification
+T18	Exp 607 635	the transcription start site
+T19	Exp 643 663	the characterization
+T20	Exp 728 732	both
+T21	Exp 705 723	This 183-bp region
+T22	Exp 728 742	both cell type
+T23	Exp 1003 1008	which
+T24	Exp 916 928	the presence
+T25	Exp 983 994	this region
+T26	Exp 1126 1146	the NF-kappaB family
+T27	Exp 1088 1100	this element
+T28	Exp 1284 1297	our knowledge
+T29	Exp 1322 1326	that
+T30	Exp 1258 1279	the first description
+R4	Coref Anaphora:T10 Antecedent:T31
+R5	Coref Anaphora:T9 Antecedent:T11
+R6	Coref Anaphora:T29 Antecedent:T32
+T1	Protein 43 47	B7.1
+T2	Protein 105 109	B7.1
+T3	Protein 537 556	deoxyribonuclease I
+T4	Protein 849 853	B7.1
+T5	Protein 1065 1069	B7.1
+T6	Protein 1233 1237	B7.1
+T31	Exp 235 250	certain tissues
+T32	Exp 1302 1321	regulatory elements

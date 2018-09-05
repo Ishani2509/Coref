@@ -1,0 +1,15 @@
+T1	Protein 743 783	intracellular adhesion molecule (ICAM)-1
+T2	Protein 785 825	vascular cell adhesion molecule (VCAM)-1
+T3	Protein 830 878	endothelial leukocyte adhesion molecule (ELAM)-1
+T4	Protein 1138 1144	ICAM-1
+T5	Protein 1146 1152	VCAM-1
+T6	Protein 1158 1164	ELAM-1
+T7	Exp 541 594	various adhesion molecules in human endothelial cells	558 567	molecules
+T8	Exp 599 604	their
+T9	Exp 1274 1277	PAO
+T10	Exp 1372 1386	this inhibitor	1377 1386	inhibitor
+T11	Exp 1717 1725	a PTPase
+T12	Exp 1866 1871	their
+R1	Coref Anaphora:T8 Antecedent:T7
+R2	Coref Anaphora:T10 Antecedent:T9
+R3	Coref Anaphora:T12 Antecedent:T11

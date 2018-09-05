@@ -1,0 +1,32 @@
+T11	Exp 314 318	that
+T12	Exp 231 253	this signaling pathway
+T13	Exp 375 377	we
+T14	Exp 390 394	that
+T15	Exp 430 435	which
+T16	Exp 451 481	the transcriptional regulation
+T17	Exp 743 745	We
+T18	Exp 797 801	that
+T19	Exp 757 775	the NF-kappaB site
+T20	Exp 779 796	the FasL promoter
+T21	Exp 817 832	such regulation
+T22	Exp 895 907	its activity
+T23	Exp 868 885	the FasL promoter
+T24	Exp 961 992	the inducible promoter activity
+T25	Exp 1007 1036	the transcription factor AP-1
+T26	Exp 1100 1113	These results
+R5	Coref Anaphora:T11 Antecedent:T27
+R6	Coref Anaphora:T15 Antecedent:T28
+R7	Coref Anaphora:T18 Antecedent:T20
+R8	Coref Anaphora:T22 Antecedent:T6
+T1	Protein 14 24	fas-ligand
+T2	Protein 335 339	FasL
+T3	Protein 588 592	FasL
+T4	Protein 679 683	FasL
+T5	Protein 783 787	FasL
+T6	Protein 851 854	p65
+T7	Protein 856 861	Rel A
+T8	Protein 872 876	FasL
+T9	Protein 1076 1080	FasL
+T10	Protein 1155 1159	FasL
+T27	Exp 300 313	T lymphocytes
+T28	Exp 418 427	NF-kappaB

@@ -1,0 +1,54 @@
+T28	Exp 49 79	the transcriptional regulation
+T29	Exp 83 115	the IgG Fc receptor type IC gene
+T30	Exp 152 178	the IgG Fc receptor type I
+T31	Exp 284 286	We
+T32	Exp 296 300	that
+T33	Exp 477 489	the presence
+T34	Exp 590 594	that
+T35	Exp 595 603	the rate
+T36	Exp 767 772	which
+T37	Exp 690 711	the Fc gamma RIC gene
+T38	Exp 977 981	that
+T39	Exp 1104 1108	that
+T40	Exp 1009 1037	the transcription start site
+T41	Exp 1185 1218	the transcription initiation site
+T42	Exp 1506 1510	that
+T43	Exp 1511 1534	the STAT1 alpha protein
+T44	Exp 1544 1565	the Fc gamma RIC GIRE
+T45	Exp 1616 1637	The Fc gamma RIC GIRE
+T46	Exp 1655 1688	the IFN-gamma activation sequence
+T47	Exp 1698 1727	the guanylate binding protein
+T48	Exp 1773 1784	Our results
+T49	Exp 1797 1801	that
+T50	Exp 1832 1853	the Fc gamma RIC gene
+T51	Exp 1876 1887	the binding
+T52	Exp 1930 1951	the proximal promoter
+R2	Coref Anaphora:T36 Antecedent:T53
+T1	Protein 3 19	interferon-gamma
+T2	Protein 87 110	IgG Fc receptor type IC
+T3	Protein 119 135	interferon-gamma
+T4	Protein 156 178	IgG Fc receptor type I
+T5	Protein 180 191	Fc gamma RI
+T6	Protein 254 270	interferon-gamma
+T7	Protein 272 281	IFN-gamma
+T8	Protein 301 312	Fc gamma RI
+T9	Protein 421 430	IFN-gamma
+T10	Protein 455 464	IFN-gamma
+T11	Protein 533 544	Fc gamma RI
+T12	Protein 607 618	Fc gamma RI
+T13	Protein 650 659	IFN-gamma
+T14	Protein 694 706	Fc gamma RIC
+T15	Protein 872 875	CAT
+T16	Protein 920 932	Fc gamma RIC
+T17	Protein 1112 1121	IFN-gamma
+T18	Protein 1277 1286	IFN-gamma
+T19	Protein 1439 1448	IFN-gamma
+T20	Protein 1515 1526	STAT1 alpha
+T21	Protein 1548 1560	Fc gamma RIC
+T22	Protein 1581 1590	IFN-gamma
+T23	Protein 1620 1632	Fc gamma RIC
+T24	Protein 1659 1668	IFN-gamma
+T25	Protein 1836 1848	Fc gamma RIC
+T26	Protein 1857 1866	IFN-gamma
+T27	Protein 1891 1902	STAT1 alpha
+T53	Exp 740 765	primer extension analysis

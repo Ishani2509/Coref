@@ -1,0 +1,13 @@
+T1	Exp 341 357	the HIV enhancer
+T2	Exp 438 454	the HIV enhancer
+T3	Exp 589 605	the perpetuation
+T4	Exp 729 734	which
+T5	Exp 699 727	the U937 monocytic cell line
+T6	Exp 834 836	We
+T7	Exp 847 851	that
+T8	Exp 885 889	both
+T9	Exp 1055 1060	which
+T10	Exp 1186 1202	the perpetuation
+T11	Exp 1038 1053	This phenomenon
+R3	Coref Anaphora:T4 Antecedent:T5
+R4	Coref Anaphora:T9 Antecedent:T11

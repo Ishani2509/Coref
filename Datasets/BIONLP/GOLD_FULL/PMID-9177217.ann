@@ -1,0 +1,35 @@
+T1	Protein 99 104	CIITA
+T2	Protein 109 113	RFX5
+T3	Protein 321 325	RFX5
+T4	Protein 398 403	CIITA
+T5	Protein 567 571	RFX5
+T6	Protein 585 589	GAL4
+T7	Protein 670 674	GAL4
+T8	Protein 835 851	interferon gamma
+T9	Protein 905 910	CIITA
+T10	Protein 1110 1115	CIITA
+T11	Protein 1165 1169	RFX5
+T12	Protein 1239 1244	CIITA
+T13	Protein 1303 1307	RFX5
+T14	Protein 1312 1317	CIITA
+T15	Protein 1392 1396	RFX5
+T16	Protein 1449 1454	CIITA
+T17	Protein 1456 1460	RFX5
+T18	Protein 1465 1470	CIITA
+T19	Protein 1674 1678	RFX5
+T20	Protein 1767 1772	CIITA
+T21	Exp 321 325	RFX5
+T22	Exp 327 331	that
+T23	Exp 413 485	a large protein with a defined acidic transcriptional activation domain;	421 428	protein
+T24	Exp 486 498	this protein	491 498	protein
+T25	Exp 865 876	a condition
+T26	Exp 880 885	which
+T27	Exp 1043 1085	an in vitro mutagenized derivative of Raji	1067 1077	derivative
+T28	Exp 1089 1094	which
+T29	Exp 1489 1591	a complex capable of activating transcription from class II major histocompatibility complex promoters
+T30	Exp 1596 1608	this complex	1601 1608	complex
+R1	Coref Anaphora:T22 Antecedent:T21	[T3]
+R2	Coref Anaphora:T24 Antecedent:T23
+R3	Coref Anaphora:T26 Antecedent:T25
+R4	Coref Anaphora:T28 Antecedent:T27
+R5	Coref Anaphora:T30 Antecedent:T29

@@ -1,0 +1,59 @@
+T21	Exp 91 111	the ubiquitous Oct-1
+T22	Exp 181 204	its complement ATTTGCAT
+T23	Exp 145 167	The 'octamer' sequence
+T24	Exp 227 257	the transcriptional regulation
+T25	Exp 376 403	the octamer-binding protein
+T26	Exp 461 496	the B-cell specific gene expression
+T27	Exp 504 526	the ubiquitous protein
+T28	Exp 698 710	the promoter
+T29	Exp 792 794	us
+T30	Exp 806 834	the octamer-binding proteins
+T31	Exp 838 854	the latter cells
+T32	Exp 862 902	the electrophoretic mobility shift assay
+T33	Exp 1012 1026	These proteins
+T34	Exp 1198 1203	which
+T35	Exp 1108 1151	The nervous system-derived (N-Oct) proteins
+T36	Exp 1161 1185	the octamer DNA sequence
+T37	Exp 1230 1259	the Oct-1 and Oct-2A proteins
+T38	Exp 1381 1397	their reactivity
+T39	Exp 1261 1277	The relationship
+T40	Exp 1281 1299	the N-Oct proteins
+T41	Exp 1472 1481	the basis
+T42	Exp 1548 1568	the ubiquitous Oct-1
+T43	Exp 1573 1610	the lymphoid-specific Oct-2A proteins
+T44	Exp 1485 1497	these assays
+T45	Exp 1736 1738	it
+T46	Exp 1630 1634	that
+T47	Exp 1710 1717	neither
+T48	Exp 1643 1661	the N-Oct-3 factor
+T49	Exp 1804 1806	We
+T50	Exp 1827 1831	that
+T51	Exp 1916 1934	the nervous system
+R8	Coref Anaphora:T22 Antecedent:T52
+R9	Coref Anaphora:T33 Antecedent:T30
+R10	Coref Anaphora:T34 Antecedent:T53
+R11	Coref Anaphora:T38 Antecedent:T54
+R12	Coref Anaphora:T46 Antecedent:T55
+T57	SPAN 1563 1601	Oct-1 and the lymphoid-specific Oct-2A
+R13	Coref Anaphora:T47 Antecedent:T57
+R14	Coref Anaphora:T45 Antecedent:T56
+T1	Protein 106 111	Oct-1
+T2	Protein 128 133	Oct-2
+T3	Protein 404 410	Oct-2A
+T4	Protein 527 532	Oct-1
+T5	Protein 1234 1239	Oct-1
+T6	Protein 1244 1250	Oct-2A
+T7	Protein 1303 1308	Oct-1
+T8	Protein 1313 1319	Oct-2A
+T9	Protein 1442 1447	Oct-1
+T10	Protein 1452 1458	Oct-2A
+T11	Protein 1563 1568	Oct-1
+T12	Protein 1595 1601	Oct-2A
+T13	Protein 1647 1654	N-Oct-3
+T14	Protein 1778 1784	Oct-2A
+T15	Protein 1832 1839	N-Oct-3
+T52	Exp 169 177	ATGCAAAT
+T53	Exp 1189 1197	a manner
+T54	Exp 1336 1373	proteolytic clipping bandshift assays
+T55	Exp 1615 1629	melanoma cells
+T56	Exp 1677 1705	lymphocyte-specific promoter

@@ -1,0 +1,6 @@
+T1	Protein 237 240	CAT
+T2	Protein 862 910	granulocyte/macrophage colony-stimulating factor
+T3	Protein 912 918	GM-CSF
+T4	Exp 705 707	U1
+T5	Exp 709 714	which
+R1	Coref Anaphora:T5 Antecedent:T4

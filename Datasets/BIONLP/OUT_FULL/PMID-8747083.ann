@@ -1,0 +1,17 @@
+T3	Exp 413 429	their interphase
+T4	Exp 242 250	the cDNA
+T5	Exp 254 267	the myf3 gene
+T6	Exp 277 298	the following results
+T7	Exp 491 499	the size
+T8	Exp 503 515	this signals
+T9	Exp 572 577	which
+T10	Exp 590 604	the expression
+T11	Exp 608 617	this gene
+T12	Exp 880 909	the corresponding cell nuclei
+R4	Coref Anaphora:T3 Antecedent:T13
+R5	Coref Anaphora:T9 Antecedent:T14
+R6	Coref Anaphora:T11 Antecedent:T2
+T1	Protein 258 262	myf3
+T2	Protein 368 372	myf3
+T13	Exp 378 409	intensive hybridization signals
+T14	Exp 551 568	human lymphocytes

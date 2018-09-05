@@ -1,0 +1,42 @@
+T17	Exp 20 34	the expression
+T18	Exp 78 93	the H2 receptor
+T19	Exp 97 134	the human promonocytic cell line U937
+T20	Exp 137 139	We
+T21	Exp 178 190	its agonists
+T22	Exp 149 160	the effects
+T23	Exp 194 208	the expression
+T24	Exp 212 247	the c-fos and c-myc proto-oncogenes
+T25	Exp 251 295	the transcriptional and translational levels
+T26	Exp 299 336	the human promonocytic U937 cell line
+T27	Exp 592 596	that
+T28	Exp 677 681	that
+T29	Exp 597 612	the EC50 values
+T30	Exp 1038 1051	its analogues
+T31	Exp 1111 1121	the levels
+T32	Exp 1125 1144	this proto-oncogene
+T33	Exp 1360 1377	the cAMP response
+T34	Exp 1425 1442	the cAMP response
+T35	Exp 1483 1508	This homologous mechanism
+T36	Exp 1583 1587	that
+T37	Exp 1639 1652	the induction
+T38	Exp 1778 1803	the rapid desensitization
+T39	Exp 1560 1573	These results
+R3	Coref Anaphora:T21 Antecedent:T40
+R4	Coref Anaphora:T30 Antecedent:T41
+T1	Protein 38 43	c-fos
+T2	Protein 82 93	H2 receptor
+T3	Protein 216 221	c-fos
+T4	Protein 226 231	c-myc
+T5	Protein 379 384	c-fos
+T6	Protein 404 416	H2 receptors
+T7	Protein 448 453	c-fos
+T8	Protein 637 642	c-fos
+T9	Protein 708 713	c-fos
+T10	Protein 728 740	H2 receptors
+T11	Protein 840 845	c-fos
+T12	Protein 972 977	c-myc
+T13	Protein 1512 1523	H2 receptor
+T14	Protein 1690 1695	c-fos
+T15	Protein 1807 1819	H2 receptors
+T40	Exp 164 173	histamine
+T41	Exp 1025 1034	histamine

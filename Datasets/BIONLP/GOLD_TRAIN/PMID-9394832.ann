@@ -1,0 +1,20 @@
+T1	Protein 75 88	IL-1 receptor
+T2	Protein 136 165	interleukin-1 receptor type I
+T3	Protein 167 173	IL-1RI
+T4	Protein 651 657	IL-1RI
+T5	Protein 1150 1156	IL-1RI
+T6	Protein 1465 1471	IL-1RI
+T7	Protein 1612 1618	IL-1RI
+T8	Protein 1667 1673	IL-1RI
+T9	Exp 222 238	a complex system	232 238	system
+T10	Exp 242 247	which
+T11	Exp 248 252	IL-1
+T12	Exp 260 263	its
+T13	Exp 647 683	the IL-1RI-associated protein kinase	677 683	kinase
+T14	Exp 758 768	the kinase
+T15	Exp 1389 1413	The described conditions	1403 1413	conditions
+T16	Exp 1414 1419	which
+R1	Coref Anaphora:T10 Antecedent:T9
+R2	Coref Anaphora:T12 Antecedent:T11
+R3	Coref Anaphora:T14 Antecedent:T13	[T4]
+R4	Coref Anaphora:T16 Antecedent:T15

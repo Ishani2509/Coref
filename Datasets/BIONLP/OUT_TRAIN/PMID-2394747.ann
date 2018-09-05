@@ -1,0 +1,40 @@
+T13	Exp 312 317	which
+T14	Exp 389 391	We
+T15	Exp 427 455	the transcriptional activity
+T16	Exp 469 490	the single cell level
+T17	Exp 580 584	that
+T18	Exp 509 519	The system
+T19	Exp 532 539	the use
+T20	Exp 692 696	that
+T21	Exp 668 691	the first demonstration
+T22	Exp 645 656	This report
+T23	Exp 969 971	we
+T24	Exp 1161 1165	that
+T25	Exp 1248 1263	the time course
+T26	Exp 1426 1436	the dermis
+T27	Exp 1495 1513	the tissue pattern
+T28	Exp 1531 1550	the NFAT-1 activity
+T29	Exp 1561 1583	the expression pattern
+T30	Exp 1770 1774	that
+T31	Exp 1761 1769	the fact
+T32	Exp 1887 1898	the HIV-LTR
+T33	Exp 1727 1742	This similarity
+R6	Coref Anaphora:T13 Antecedent:T34
+R7	Coref Anaphora:T17 Antecedent:T4
+R8	Coref Anaphora:T20 Antecedent:T21
+R9	Coref Anaphora:T24 Antecedent:T35
+R10	Coref Anaphora:T30 Antecedent:T31
+T1	Protein 54 60	NFAT-1
+T2	Protein 278 284	NFAT-1
+T3	Protein 459 465	NFAT-1
+T4	Protein 559 565	NFAT-1
+T5	Protein 779 785	NFAT-1
+T6	Protein 917 923	NFAT-1
+T7	Protein 996 1002	NFAT-1
+T8	Protein 1038 1044	NFAT-1
+T9	Protein 1281 1287	NFAT-1
+T10	Protein 1535 1541	NFAT-1
+T11	Protein 1775 1781	NFAT-1
+T12	Protein 1856 1862	NFAT-1
+T34	Exp 289 311	a transcription factor
+T35	Exp 1154 1160	agents

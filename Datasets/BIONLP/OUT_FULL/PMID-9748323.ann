@@ -1,0 +1,55 @@
+T13	Exp 111 124	the necessity
+T14	Exp 137 147	the action
+T15	Exp 320 354	the high-affinity surface receptor
+T16	Exp 267 283	particular those
+T17	Exp 414 428	the regulation
+T18	Exp 558 589	the NF-kappaB and STAT families
+T19	Exp 606 608	we
+T20	Exp 704 709	which
+T21	Exp 594 604	this study
+T22	Exp 630 657	these transcription factors
+T23	Exp 779 781	we
+T24	Exp 788 792	that
+T25	Exp 899 903	that
+T26	Exp 861 872	the release
+T27	Exp 964 979	the degradation
+T28	Exp 1052 1054	we
+T29	Exp 1104 1106	us
+T30	Exp 1090 1095	which
+T31	Exp 1115 1119	that
+T32	Exp 1193 1198	which
+T33	Exp 1244 1248	that
+T34	Exp 1267 1278	the binding
+T35	Exp 1302 1330	the IFNgamma response region
+T36	Exp 1334 1356	the FcgammaRI promoter
+T37	Exp 1038 1050	this problem
+T38	Exp 1368 1370	we
+T39	Exp 1378 1382	that
+T40	Exp 1429 1442	the formation
+T41	Exp 1561 1565	that
+T42	Exp 1501 1521	the current findings
+T43	Exp 1707 1711	that
+T44	Exp 1637 1650	the procedure
+R7	Coref Anaphora:T20 Antecedent:T45
+R8	Coref Anaphora:T25 Antecedent:T46
+R9	Coref Anaphora:T30 Antecedent:T47
+R10	Coref Anaphora:T32 Antecedent:T48
+R11	Coref Anaphora:T41 Antecedent:T49
+R12	Coref Anaphora:T43 Antecedent:T50
+T1	Protein 78 94	interferon-gamma
+T2	Protein 100 106	GM-CSF
+T3	Protein 364 373	FcgammaRI
+T4	Protein 1144 1152	TNFalpha
+T5	Protein 1223 1226	p50
+T6	Protein 1227 1231	RelA
+T7	Protein 1249 1257	IFNgamma
+T8	Protein 1282 1287	STAT1
+T9	Protein 1306 1314	IFNgamma
+T10	Protein 1338 1347	FcgammaRI
+T11	Protein 1411 1417	GM-CSF
+T45	Exp 681 703	stimulatory conditions
+T46	Exp 876 898	proteolytic activities
+T47	Exp 1065 1089	an alternative procedure
+T48	Exp 1160 1192	a NF-kappaB DNA-binding activity
+T49	Exp 1550 1560	mechanisms
+T50	Exp 1690 1706	other cell types

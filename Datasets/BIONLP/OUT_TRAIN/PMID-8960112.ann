@@ -1,0 +1,24 @@
+T2	Exp 182 196	the initiation
+T3	Exp 582 593	its absence
+T4	Exp 297 340	the human genomic sterol regulatory element
+T5	Exp 421 438	the present study
+T6	Exp 448 461	the existence
+T7	Exp 404 419	this phenomenon
+T8	Exp 516 533	this SRE sequence
+T9	Exp 668 672	when
+T10	Exp 647 658	this factor
+T11	Exp 673 691	these CML patients
+T12	Exp 838 870	the LDL receptor gene expression
+T13	Exp 874 899	the transcriptional level
+T14	Exp 904 924	the binding affinity
+T15	Exp 958 974	the SRE sequence
+T16	Exp 928 954	this 47 kDa protein factor
+T17	Exp 1001 1003	we
+T18	Exp 1012 1016	that
+T19	Exp 987 1000	these results
+T20	Exp 1017 1028	this factor
+R4	Coref Anaphora:T3 Antecedent:T21
+R5	Coref Anaphora:T10 Antecedent:T4
+R6	Coref Anaphora:T20 Antecedent:T16
+T1	Protein 842 854	LDL receptor
+T21	Exp 503 511	affinity

@@ -1,0 +1,52 @@
+T33	Exp 172 186	The activation
+T34	Exp 345 347	we
+T35	Exp 326 343	the present study
+T36	Exp 384 398	the regulation
+T37	Exp 417 442	the mRNA or protein level
+T38	Exp 458 488	the age-associated impairments
+T39	Exp 622 636	the lectin PHA
+T40	Exp 711 725	the expression
+T41	Exp 869 873	that
+T42	Exp 1096 1106	the levels
+T43	Exp 1150 1178	the AP-1 consensus TRE motif
+T44	Exp 1180 1198	the proximal c-jun
+T45	Exp 1230 1262	the c-fos serum response element
+T46	Exp 1329 1344	the stimulation
+T47	Exp 1447 1459	the AP-1 TRE
+T48	Exp 1533 1547	the activation
+T49	Exp 1652 1681	the nuclear protein complexes
+T50	Exp 1690 1703	the SRE motif
+T51	Exp 1844 1858	the activation
+T52	Exp 2017 2050	their nuclear regulatory proteins
+T53	Exp 1946 1950	that
+T54	Exp 1977 1990	the induction
+T55	Exp 2069 2096	the age-related impairments
+T56	Exp 1924 1937	These results
+R7	Coref Anaphora:T52 Antecedent:T57
+T1	Protein 22 27	c-fos
+T2	Protein 28 33	c-jun
+T3	Protein 100 105	c-fos
+T4	Protein 106 111	c-jun
+T5	Protein 213 218	c-Fos
+T6	Protein 219 224	c-Jun
+T7	Protein 402 407	c-fos
+T8	Protein 408 413	c-jun
+T9	Protein 585 595	CD3epsilon
+T10	Protein 633 636	PHA
+T11	Protein 685 690	c-Fos
+T12	Protein 729 734	c-Fos
+T13	Protein 743 748	c-Jun
+T14	Protein 986 991	c-fos
+T15	Protein 999 1004	c-jun
+T16	Protein 1193 1198	c-jun
+T17	Protein 1234 1239	c-fos
+T18	Protein 1461 1466	c-jun
+T19	Protein 1476 1481	c-fos
+T20	Protein 1596 1601	c-jun
+T21	Protein 1610 1615	c-fos
+T22	Protein 1773 1794	serum response factor
+T23	Protein 1799 1804	Elk-1
+T24	Protein 1912 1917	c-jun
+T25	Protein 1994 1999	c-fos
+T26	Protein 2000 2005	c-jun
+T57	Exp 1951 1973	underlying aberrancies

@@ -1,0 +1,47 @@
+T11	Exp 75 79	that
+T12	Exp 157 172	the recognition
+T13	Exp 221 243	the effector functions
+T14	Exp 350 359	the basis
+T15	Exp 418 422	They
+T16	Exp 433 444	the outcome
+T17	Exp 591 595	they
+T18	Exp 659 664	which
+T19	Exp 613 634	the mechanisms common
+T20	Exp 679 688	each gene
+T21	Exp 836 859	their maximal induction
+T22	Exp 941 955	The production
+T23	Exp 959 1011	the granulocyte-macrophage colony stimulating factor
+T24	Exp 1048 1063	the two signals
+T25	Exp 1065 1067	We
+T26	Exp 1169 1173	that
+T27	Exp 1119 1145	the GM-CSF promoter region
+T28	Exp 1503 1533	the transcription factor NF-kB
+T29	Exp 1831 1836	which
+T30	Exp 1998 2002	they
+T31	Exp 2045 2049	them
+T32	Exp 1928 1955	The trans-activation domain
+T33	Exp 2051 2077	The viral trans-activators
+R8	Coref Anaphora:T11 Antecedent:T34
+R9	Coref Anaphora:T15 Antecedent:T35
+R10	Coref Anaphora:T17 Antecedent:T36
+R11	Coref Anaphora:T21 Antecedent:T37
+R12	Coref Anaphora:T26 Antecedent:T38
+R13	Coref Anaphora:T29 Antecedent:T39
+T40	SPAN 1959 1969	E2 and Tax
+R14	Coref Anaphora:T30 Antecedent:T40
+T41	SPAN 1959 1969	E2 and Tax
+R15	Coref Anaphora:T31 Antecedent:T41
+T1	Protein 963 1011	granulocyte-macrophage colony stimulating factor
+T2	Protein 1013 1019	GM-CSF
+T3	Protein 1123 1129	GM-CSF
+T4	Protein 1724 1727	Tax
+T5	Protein 1772 1774	E2
+T6	Protein 1959 1961	E2
+T7	Protein 1966 1969	Tax
+T8	Protein 2142 2145	Sp1
+T34	Exp 51 74	cis-acting DNA elements
+T35	Exp 282 291	Two types
+T36	Exp 521 537	lymphokine genes
+T37	Exp 694 715	most lymphokine genes
+T38	Exp 1157 1167	-95 to +27
+T39	Exp 1818 1830	other agents

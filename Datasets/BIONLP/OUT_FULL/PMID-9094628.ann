@@ -1,0 +1,45 @@
+T6	Exp 88 116	their cooperative activation
+T7	Exp 120 161	the human immunodeficiency virus enhancer
+T8	Exp 175 214	The transcriptional regulatory elements
+T9	Exp 296 331	the Ets and NF-kappaB/NFAT families
+T10	Exp 559 563	that
+T11	Exp 705 709	that
+T12	Exp 451 480	the transcriptional enhancers
+T13	Exp 564 576	this pattern
+T14	Exp 802 807	which
+T15	Exp 774 798	the molecular mechanisms
+T16	Exp 758 772	these findings
+T17	Exp 955 957	we
+T18	Exp 917 928	the studies
+T19	Exp 942 953	this report
+T20	Exp 1128 1142	the Ets domain
+T21	Exp 1163 1184	the C-terminal region
+T22	Exp 1188 1212	the Rel homology domains
+T23	Exp 1096 1112	This interaction
+T24	Exp 1354 1356	it
+T25	Exp 1254 1288	the Ets-NF-kappaB/NFAT interaction
+T26	Exp 1298 1310	the presence
+T27	Exp 1373 1418	the DNA intercalating agents propidium iodide
+T28	Exp 1456 1468	the presence
+T29	Exp 1336 1349	both proteins
+T30	Exp 1600 1604	that
+T31	Exp 1771 1775	that
+T32	Exp 1664 1690	the synergistic activation
+T33	Exp 1694 1723	the HIV-1 and HIV-2 enhancers
+T34	Exp 1848 1876	the transcriptional activity
+T35	Exp 1880 1909	the HIV-1 and HIV-2 enhancers
+T36	Exp 1950 1954	that
+T37	Exp 2070 2094	the inducible expression
+T38	Exp 1927 1941	these findings
+T39	Exp 2176 2191	the development
+T40	Exp 2124 2142	These interactions
+R5	Coref Anaphora:T6 Antecedent:T41
+R6	Coref Anaphora:T11 Antecedent:T42
+R7	Coref Anaphora:T14 Antecedent:T15
+R8	Coref Anaphora:T30 Antecedent:T1
+T1	Protein 1596 1599	p50
+T2	Protein 1738 1741	p50
+T3	Protein 1744 1747	p65
+T4	Protein 1753 1758	Ets-1
+T41	Exp 0 21	Physical interactions
+T42	Exp 672 704	inducible T-cell gene expression

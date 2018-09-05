@@ -1,0 +1,6 @@
+T1	Protein 553 559	GATA-1
+T2	Protein 658 698	erythroid delta-aminolevulinate synthase
+T3	Protein 700 706	ALAS-E
+T4	Exp 421 441	abnormal blast cells	436 441	cells
+T5	Exp 442 447	which
+R1	Coref Anaphora:T5 Antecedent:T4

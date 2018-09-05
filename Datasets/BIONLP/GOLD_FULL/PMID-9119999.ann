@@ -1,0 +1,16 @@
+T1	Protein 32 35	CD4
+T2	Protein 64 68	CD28
+T3	Protein 173 176	CD4
+T4	Protein 221 225	CD28
+T5	Protein 270 273	CD4
+T6	Protein 360 363	PHA
+T7	Protein 513 516	CD4
+T8	Protein 558 564	CD45RA
+T9	Protein 569 574	CD62L
+T10	Protein 1241 1244	CD4
+T11	Exp 753 815	The suppression of productive LAI replication in naive T cells	757 768	suppression
+T12	Exp 883 885	it
+T13	Exp 1036 1049	naive T cells	1044 1049	cells
+T14	Exp 1092 1097	their
+R1	Coref Anaphora:T12 Antecedent:T11
+R2	Coref Anaphora:T14 Antecedent:T13

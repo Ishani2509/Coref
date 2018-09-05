@@ -1,0 +1,12 @@
+T3	Exp 235 245	the effect
+T4	Exp 360 418	the latently HIV-infected myelomonocytic cell line OM-10.1
+T5	Exp 457 469	the presence
+T6	Exp 638 642	both
+T7	Exp 822 826	that
+T8	Exp 793 821	the HIV long terminal repeat
+T9	Exp 751 765	both organisms
+T10	Exp 1111 1121	the course
+T11	Exp 1040 1056	such enhancement
+R2	Coref Anaphora:T7 Antecedent:T8
+T1	Protein 675 684	TNF-alpha
+T2	Protein 968 977	TNF-alpha

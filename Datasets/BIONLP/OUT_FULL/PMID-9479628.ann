@@ -1,0 +1,25 @@
+T5	Exp 63 65	It
+T6	Exp 90 94	that
+T7	Exp 290 294	that
+T8	Exp 253 267	the expression
+T9	Exp 311 348	the immune and inflammatory responses
+T10	Exp 216 230	these oxidants
+T11	Exp 444 449	which
+T12	Exp 402 442	the nuclear transcription factor kappa B
+T13	Exp 460 474	the expression
+T14	Exp 687 694	the fos
+T15	Exp 632 657	This transcription factor
+T16	Exp 886 929	the B-cell lymphoma/leukemia-2 gene product
+T17	Exp 953 968	this phenomenon
+T18	Exp 1048 1052	that
+T19	Exp 1161 1175	the expression
+T20	Exp 1197 1222	the inflammatory response
+T21	Exp 1021 1039	these observations
+R4	Coref Anaphora:T5 Antecedent:T22
+R5	Coref Anaphora:T7 Antecedent:T23
+R6	Coref Anaphora:T11 Antecedent:T12
+T1	Protein 691 694	fos
+T2	Protein 699 702	jun
+T3	Protein 890 916	B-cell lymphoma/leukemia-2
+T22	Exp 37 60	intestinal inflammation
+T23	Exp 284 289	genes

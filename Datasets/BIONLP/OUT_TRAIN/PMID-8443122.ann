@@ -1,0 +1,32 @@
+T12	Exp 153 168	the IL-8 family
+T13	Exp 224 243	the combined effect
+T14	Exp 325 336	these genes
+T15	Exp 385 387	We
+T16	Exp 526 540	the PILOT gene
+T17	Exp 603 615	the presence
+T18	Exp 791 796	which
+T19	Exp 665 682	The PILOT protein
+T20	Exp 752 765	the C2H2-type
+T21	Exp 769 790	the carboxyl-terminus
+T22	Exp 822 845	the zinc finger regions
+T23	Exp 849 874	the transcription factors
+T24	Exp 1059 1072	the existence
+T25	Exp 1020 1036	This observation
+T26	Exp 1330 1332	it
+T27	Exp 1249 1263	the dissection
+T28	Exp 1267 1290	the dual signal pathway
+T29	Exp 1306 1317	the effects
+T30	Exp 1194 1228	This differential expression model
+R4	Coref Anaphora:T14 Antecedent:T12
+R5	Coref Anaphora:T18 Antecedent:T21
+R6	Coref Anaphora:T26 Antecedent:T28
+T1	Protein 14 19	PILOT
+T2	Protein 136 140	IL-2
+T3	Protein 170 186	interferon-gamma
+T4	Protein 448 453	PILOT
+T5	Protein 530 535	PILOT
+T6	Protein 669 674	PILOT
+T7	Protein 875 879	EGR1
+T8	Protein 881 885	EGR2
+T9	Protein 891 898	pAT 133
+T10	Protein 939 944	PILOT

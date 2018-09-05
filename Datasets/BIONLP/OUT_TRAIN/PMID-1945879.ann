@@ -1,0 +1,38 @@
+T10	Exp 31 61	the T cell-restricted activity
+T11	Exp 103 129	the interleukin 2 promoter
+T12	Exp 132 145	The inducible
+T13	Exp 228 260	the kB-like sequence GGGATTTCACC
+T14	Exp 304 308	When
+T15	Exp 335 354	this so-called TCEd
+T16	Exp 571 582	The binding
+T17	Exp 586 611	the most prominent factor
+T18	Exp 663 690	the proto-enhancer activity
+T19	Exp 762 772	the former
+T20	Exp 796 817	the 50 kD polypeptide
+T21	Exp 867 875	the TCEd
+T22	Exp 926 940	The conversion
+T23	Exp 944 952	the TCEd
+T24	Exp 1072 1084	the activity
+T25	Exp 1228 1258	its T cell-restricted activity
+T26	Exp 1272 1287	its functioning
+T27	Exp 1137 1153	the substitution
+T28	Exp 1157 1217	the underlined A residue to a C within the GGGATTTCACC motif
+T29	Exp 1345 1349	that
+T30	Exp 1389 1397	the TCEd
+T31	Exp 1414 1425	the control
+T32	Exp 1462 1475	the Il-2 gene
+T33	Exp 1322 1335	These results
+R4	Coref Anaphora:T17 Antecedent:T4
+R5	Coref Anaphora:T19 Antecedent:T34
+R6	Coref Anaphora:T25 Antecedent:T8
+R7	Coref Anaphora:T26 Antecedent:T8
+T1	Protein 107 120	interleukin 2
+T2	Protein 193 206	Interleukin 2
+T3	Protein 208 212	Il-2
+T4	Protein 495 499	Il-2
+T5	Protein 619 624	TCF-1
+T6	Protein 626 641	T cell factor 1
+T7	Protein 700 705	TCF-1
+T8	Protein 881 886	TCF-1
+T9	Protein 1466 1470	Il-2
+T34	Exp 754 760	105 kD

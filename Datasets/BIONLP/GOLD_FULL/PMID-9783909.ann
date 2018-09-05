@@ -1,0 +1,21 @@
+T1	Protein 74 92	vitamin D receptor
+T2	Protein 164 182	vitamin D receptor
+T3	Protein 184 187	VDR
+T4	Protein 335 338	VDR
+T5	Protein 428 431	VDR
+T6	Protein 497 500	VDR
+T7	Protein 590 595	c-myc
+T8	Protein 819 829	DNA-PK(CS)
+T9	Protein 859 902	17beta-hydroxysteroid dehydrogenase type IV
+T10	Protein 904 917	17beta-HSD IV
+T11	Protein 1025 1028	VDR
+T12	Protein 1049 1062	17beta-HSD IV
+T13	Protein 1292 1305	17beta-HSD IV
+T14	Protein 1309 1319	DNA-PK(CS)
+T15	Protein 1548 1551	VDR
+T16	Exp 208 279	stable transfectant variants of a vitamin D-responsive cell line (U937)	228 236	variants
+T17	Exp 280 285	which
+T18	Exp 1025 1028	VDR
+T19	Exp 1487 1490	its
+R1	Coref Anaphora:T17 Antecedent:T16
+R2	Coref Anaphora:T19 Antecedent:T18	[T11]

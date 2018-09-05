@@ -1,0 +1,28 @@
+T1	Exp 109 113	that
+T2	Exp 199 229	the so-called AU-rich elements
+T3	Exp 154 166	These motifs
+T4	Exp 399 403	that
+T5	Exp 412 430	the identification
+T6	Exp 503 505	It
+T7	Exp 696 700	that
+T8	Exp 814 819	which
+T9	Exp 765 782	The remaining 86%
+T10	Exp 1030 1034	they
+T11	Exp 951 955	that
+T12	Exp 1025 1029	that
+T13	Exp 899 913	the efficiency
+T14	Exp 917 927	the system
+T15	Exp 940 950	the notion
+T16	Exp 876 886	These data
+T17	Exp 984 1000	those categories
+T18	Exp 1052 1063	this method
+R7	Coref Anaphora:T1 Antecedent:T19
+R8	Coref Anaphora:T4 Antecedent:T20
+R9	Coref Anaphora:T7 Antecedent:T21
+R10	Coref Anaphora:T8 Antecedent:T22
+R11	Coref Anaphora:T11 Antecedent:T15
+R12	Coref Anaphora:T10 Antecedent:T16
+T19	Exp 96 108	labile mRNAs
+T20	Exp 357 398	an AU-motif-directed differential display
+T21	Exp 684 695	known genes
+T22	Exp 797 810	unknown genes

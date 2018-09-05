@@ -1,0 +1,17 @@
+T4	Exp 98 114	its kappaB motif
+T5	Exp 31 55	the long terminal repeat
+T6	Exp 257 282	the long terminal repeats
+T7	Exp 545 547	we
+T8	Exp 566 570	that
+T9	Exp 482 493	the control
+T10	Exp 497 543	the intact or three deleted forms of HIV-1 LTR
+T11	Exp 571 609	the kappaB regulatory elements located
+T12	Exp 613 626	the U3 region
+T13	Exp 732 789	the nuclear factor kappaB (NF-kappaB) p50/p65 heterodimer
+R3	Coref Anaphora:T4 Antecedent:T14
+R4	Coref Anaphora:T8 Antecedent:T15
+T1	Protein 770 773	p50
+T2	Protein 774 777	p65
+T3	Protein 1005 1027	inhibitor kappaB alpha
+T14	Exp 0 20	Cell-to-cell contact
+T15	Exp 557 565	evidence

@@ -1,0 +1,24 @@
+T10	Exp 41 56	the NF-IL6 gene
+T11	Exp 306 311	whose
+T12	Exp 244 305	the only CCAAT/enhancer-binding protein (C/EBP) family member
+T13	Exp 380 382	We
+T14	Exp 388 392	that
+T15	Exp 420 435	the NF-IL6 gene
+T16	Exp 548 550	We
+T17	Exp 619 623	that
+T18	Exp 603 618	the NF-IL6 gene
+T19	Exp 754 771	the cAMP response
+T20	Exp 715 726	This region
+T21	Exp 968 983	the NF-IL6 gene
+T22	Exp 882 891	Each site
+R3	Coref Anaphora:T11 Antecedent:T12
+R4	Coref Anaphora:T17 Antecedent:T18
+T1	Protein 45 51	NF-IL6
+T2	Protein 86 89	SP1
+T3	Protein 128 134	NF-IL6
+T4	Protein 234 240	NF-IL6
+T5	Protein 424 430	NF-IL6
+T6	Protein 487 493	NF-IL6
+T7	Protein 607 613	NF-IL6
+T8	Protein 843 846	Sp1
+T9	Protein 972 978	NF-IL6

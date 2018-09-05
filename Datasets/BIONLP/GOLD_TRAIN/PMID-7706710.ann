@@ -1,0 +1,38 @@
+T1	Protein 37 41	IL-2
+T2	Protein 71 75	IL-2
+T3	Protein 178 184	NFAT-1
+T4	Protein 216 220	IL-2
+T5	Protein 247 251	IL-2
+T6	Protein 333 339	NFAT-1
+T7	Protein 371 376	lac-Z
+T8	Protein 422 428	NFAT-1
+T9	Protein 438 456	beta-galactosidase
+T10	Protein 560 578	beta-galactosidase
+T11	Protein 614 620	NFAT-1
+T12	Protein 715 721	NFAT-1
+T13	Protein 819 823	IL-2
+T14	Protein 855 861	NFAT-1
+T15	Protein 869 874	lac-Z
+T16	Protein 1018 1022	IL-2
+T17	Protein 1044 1048	IL-2
+T18	Protein 1181 1185	IL-2
+T19	Protein 1239 1245	NFAT-1
+T20	Protein 1417 1423	NFAT-1
+T21	Exp 273 284	a cell line	280 284	line
+T22	Exp 285 289	that
+T23	Exp 467 490	WIN 61058 and WIN 53071
+T24	Exp 529 544	These compounds	535 544	compounds
+T25	Exp 662 680	a second cell line	676 680	line
+T26	Exp 682 687	which
+T27	Exp 794 808	both compounds	799 808	compounds
+T28	Exp 916 930	Both compounds	921 930	compounds
+T29	Exp 1212 1226	Both compounds	1217 1226	compounds
+T30	Exp 1235 1269	the NFAT-1 transcriptional complex	1262 1269	complex
+T31	Exp 1279 1282	its
+R1	Coref Anaphora:T22 Antecedent:T21
+R2	Coref Anaphora:T24 Antecedent:T23
+R3	Coref Anaphora:T26 Antecedent:T25
+R4	Coref Anaphora:T27 Antecedent:T24
+R5	Coref Anaphora:T28 Antecedent:T27
+R6	Coref Anaphora:T29 Antecedent:T28
+R7	Coref Anaphora:T31 Antecedent:T30	[T19]

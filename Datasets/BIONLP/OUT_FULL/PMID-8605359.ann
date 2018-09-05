@@ -1,0 +1,50 @@
+T26	Exp 19 50	the interleukin-1alpha promoter
+T27	Exp 350 352	we
+T28	Exp 278 282	that
+T29	Exp 263 277	the mechanisms
+T30	Exp 291 305	the expression
+T31	Exp 383 411	the human IL-1alpha promoter
+T32	Exp 438 456	the IL-1alpha gene
+T33	Exp 600 605	which
+T34	Exp 511 548	the chloramphenicol acetyltransferase
+T35	Exp 667 682	the Tax protein
+T36	Exp 752 774	the IL-1alpha promoter
+T37	Exp 872 890	the nuclear factor
+T38	Exp 1056 1058	We
+T39	Exp 1065 1069	that
+T40	Exp 1240 1244	that
+T41	Exp 1285 1309	the 3' NF-kappaB binding
+T42	Exp 1323 1344	the 5' NF-kappaB site
+T43	Exp 1368 1374	either
+T44	Exp 1473 1495	the IL-1alpha promoter
+T45	Exp 1631 1652	the NF-kappaB pathway
+T46	Exp 1544 1554	These data
+T47	Exp 1736 1753	the hypercalcemia
+R3	Coref Anaphora:T28 Antecedent:T29
+R4	Coref Anaphora:T33 Antecedent:T48
+T1	Protein 23 41	interleukin-1alpha
+T2	Protein 101 104	Tax
+T3	Protein 220 238	interleukin-1alpha
+T4	Protein 240 249	IL-1alpha
+T5	Protein 309 318	IL-1alpha
+T6	Protein 393 402	IL-1alpha
+T7	Protein 442 451	IL-1alpha
+T8	Protein 458 467	IL-1alpha
+T9	Protein 515 548	chloramphenicol acetyltransferase
+T10	Protein 550 553	CAT
+T11	Protein 629 638	IL-1alpha
+T12	Protein 671 674	Tax
+T13	Protein 756 765	IL-1alpha
+T14	Protein 819 822	Tax
+T15	Protein 960 969	IL-1alpha
+T16	Protein 979 982	CAT
+T17	Protein 1037 1040	p65
+T18	Protein 1041 1044	p50
+T19	Protein 1074 1083	IL-1alpha
+T20	Protein 1408 1417	IL-1alpha
+T21	Protein 1477 1486	IL-1alpha
+T22	Protein 1523 1526	Tax
+T23	Protein 1582 1585	Tax
+T24	Protein 1599 1608	IL-1alpha
+T25	Protein 1668 1677	IL-1alpha
+T48	Exp 572 598	HTLV-I-positive MT-2 cells

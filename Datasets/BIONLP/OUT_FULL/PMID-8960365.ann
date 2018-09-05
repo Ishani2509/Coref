@@ -1,0 +1,31 @@
+T10	Exp 74 105	the interleukin 2 gene enhancer
+T11	Exp 109 122	the NFAT site
+T12	Exp 269 285	the accumulation
+T13	Exp 366 368	we
+T14	Exp 334 343	the level
+T15	Exp 403 440	the human T leukemia cell line Jurkat
+T16	Exp 648 650	it
+T17	Exp 484 503	the luciferase gene
+T18	Exp 510 521	the control
+T19	Exp 532 545	the human IL2
+T20	Exp 614 630	the NFAT element
+T21	Exp 704 715	these cells
+T22	Exp 848 853	which
+T23	Exp 810 816	either
+T24	Exp 886 902	the NFAT element
+T25	Exp 810 826	either construct
+T26	Exp 959 1001	The NFAT-controlled luciferase gene system
+T27	Exp 1127 1146	the glucocorticoids
+T28	Exp 1286 1304	The NFAT-luc assay
+T29	Exp 1331 1363	the rapid, sensitive measurement
+R3	Coref Anaphora:T16 Antecedent:T18
+R4	Coref Anaphora:T22 Antecedent:T30
+T1	Protein 78 91	interleukin 2
+T2	Protein 198 211	interleukin 2
+T3	Protein 213 216	IL2
+T4	Protein 289 292	IL2
+T5	Protein 347 350	IL2
+T6	Protein 542 545	IL2
+T7	Protein 1097 1107	TGF beta 1
+T8	Protein 1112 1122	TGF beta 2
+T30	Exp 834 846	cyclosporine

@@ -1,0 +1,55 @@
+T24	Exp 43 47	that
+T25	Exp 191 207	the pathogenesis
+T26	Exp 323 334	the airways
+T27	Exp 386 400	its expression
+T28	Exp 417 442	the transcriptional level
+T29	Exp 477 500	the functional analysis
+T30	Exp 504 518	the human IL-5
+T31	Exp 623 638	the suppression
+T32	Exp 455 465	This study
+T33	Exp 698 708	this study
+T34	Exp 905 907	We
+T35	Exp 966 993	the proximal hIL-5 promoter
+T36	Exp 1025 1029	that
+T37	Exp 1030 1037	the BRs
+T38	Exp 1097 1110	these regions
+T39	Exp 1238 1240	We
+T40	Exp 1246 1250	that
+T41	Exp 1368 1373	which
+T42	Exp 1251 1267	the BR3 sequence
+T43	Exp 1348 1366	the hIL-5 promoter
+T44	Exp 1449 1454	which
+T45	Exp 1494 1510	the BR3 sequence
+T46	Exp 1476 1490	these proteins
+T47	Exp 1594 1596	We
+T48	Exp 1605 1609	that
+T49	Exp 1657 1664	the -90
+T50	Exp 1685 1711	the proximal IL-5 promoter
+R6	Coref Anaphora:T24 Antecedent:T51
+R7	Coref Anaphora:T27 Antecedent:T6
+R8	Coref Anaphora:T41 Antecedent:T43
+R9	Coref Anaphora:T44 Antecedent:T52
+T53	SPAN 1380 1407	Oct1, octamer-like, and YY1
+R10	Coref Anaphora:T46 Antecedent:T53
+T1	Protein 11 14	YY1
+T2	Protein 19 23	Oct1
+T3	Protein 76 80	IL-5
+T4	Protein 112 116	IL-5
+T5	Protein 276 280	IL-5
+T6	Protein 336 340	IL-5
+T7	Protein 514 518	IL-5
+T8	Protein 520 525	hIL-5
+T9	Protein 642 646	IL-5
+T10	Protein 979 984	hIL-5
+T11	Protein 1065 1070	hIL-5
+T12	Protein 1210 1214	IL-5
+T13	Protein 1352 1357	hIL-5
+T14	Protein 1380 1384	Oct1
+T15	Protein 1404 1407	YY1
+T16	Protein 1536 1541	hIL-5
+T17	Protein 1610 1614	Oct1
+T18	Protein 1616 1619	YY1
+T19	Protein 1698 1702	IL-5
+T20	Protein 1743 1747	IL-5
+T51	Exp 27 42	a novel element
+T52	Exp 1425 1447	Substitution mutations

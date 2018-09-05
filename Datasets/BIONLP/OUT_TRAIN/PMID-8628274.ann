@@ -1,0 +1,52 @@
+T26	Exp 31 46	the tax protein
+T27	Exp 176 210	the transcription factor NF-kappaB
+T28	Exp 229 242	the cytoplasm
+T29	Exp 276 296	the I kappa B family
+T30	Exp 456 474	the 26S proteasome
+T31	Exp 492 503	the release
+T32	Exp 544 565	its transient pattern
+T33	Exp 672 679	the Tax
+T34	Exp 773 777	that
+T35	Exp 813 845	the ubiquitin-proteasome pathway
+T36	Exp 856 858	it
+T37	Exp 875 878	how
+T38	Exp 879 897	this viral protein
+T39	Exp 977 979	we
+T40	Exp 997 1001	that
+T41	Exp 1056 1068	the turnover
+T42	Exp 964 975	this report
+T43	Exp 1331 1352	its N-terminal region
+T44	Exp 1362 1382	the dual specificity
+T45	Exp 1433 1450	the protein level
+T46	Exp 1515 1536	the IkappaBalpha gene
+T47	Exp 1712 1739	the constitutive activation
+T48	Exp 1646 1660	These findings
+R5	Coref Anaphora:T32 Antecedent:T49
+R6	Coref Anaphora:T38 Antecedent:T8
+R7	Coref Anaphora:T40 Antecedent:T50
+R8	Coref Anaphora:T43 Antecedent:T12
+T1	Protein 16 27	IkappaBbeta
+T2	Protein 35 38	tax
+T3	Protein 322 334	IkappaBalpha
+T4	Protein 339 350	IkappaBbeta
+T5	Protein 385 397	IkappaBalpha
+T6	Protein 676 679	Tax
+T7	Protein 785 788	Tax
+T8	Protein 797 809	IkappaBalpha
+T9	Protein 1027 1039	IkappaBalpha
+T10	Protein 1041 1044	Tax
+T11	Protein 1072 1083	IkappaBbeta
+T12	Protein 1124 1136	IkappaBalpha
+T13	Protein 1138 1141	Tax
+T14	Protein 1164 1175	IkappaBbeta
+T15	Protein 1281 1292	IkappaBbeta
+T16	Protein 1393 1396	Tax
+T17	Protein 1401 1413	IkappaBalpha
+T18	Protein 1418 1429	IkappaBbeta
+T19	Protein 1452 1455	Tax
+T20	Protein 1519 1531	IkappaBalpha
+T21	Protein 1552 1563	IkappaBbeta
+T22	Protein 1666 1677	IkappaBbeta
+T23	Protein 1756 1759	Tax
+T49	Exp 532 540	contrast
+T50	Exp 988 996	evidence

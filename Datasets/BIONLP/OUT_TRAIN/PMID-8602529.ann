@@ -1,0 +1,17 @@
+T4	Exp 43 84	the yeast transcriptional regulator Rpd3p
+T5	Exp 153 157	that
+T6	Exp 237 251	the cell cycle
+T7	Exp 321 325	that
+T8	Exp 463 504	the histone deacetylase catalytic subunit
+T9	Exp 372 385	Both proteins
+T10	Exp 561 582	the predicted protein
+T11	Exp 602 643	the yeast transcriptional regulator Rpd3p
+T12	Exp 645 658	these results
+R4	Coref Anaphora:T5 Antecedent:T13
+R5	Coref Anaphora:T7 Antecedent:T14
+R6	Coref Anaphora:T10 Antecedent:T2
+T1	Protein 79 84	Rpd3p
+T2	Protein 506 509	HD1
+T3	Protein 638 643	Rpd3p
+T13	Exp 113 152	a microbially derived cyclotetrapeptide
+T14	Exp 300 320	two nuclear proteins

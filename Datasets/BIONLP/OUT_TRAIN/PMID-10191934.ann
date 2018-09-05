@@ -1,0 +1,13 @@
+T1	Exp 134 148	the late phase
+T2	Exp 171 181	The action
+T3	Exp 262 284	the cellular cytoplasm
+T4	Exp 286 290	When
+T5	Exp 377 388	the nucleus
+T6	Exp 428 450	the transcription rate
+T7	Exp 760 794	the allergic inflammatory response
+T8	Exp 668 681	these actions
+T9	Exp 796 800	They
+T10	Exp 843 873	the pro-inflammatory functions
+T11	Exp 877 892	the eosinophils
+R2	Coref Anaphora:T9 Antecedent:T12
+T12	Exp 682 702	glucocorticosteroids

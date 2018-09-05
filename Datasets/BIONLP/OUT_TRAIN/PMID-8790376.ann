@@ -1,0 +1,25 @@
+T8	Exp 63 74	the ability
+T9	Exp 183 218	the receptor tyrosine kinase c-ErbB
+T10	Exp 379 381	we
+T11	Exp 325 329	that
+T12	Exp 391 402	the ability
+T13	Exp 434 455	the different members
+T14	Exp 459 495	the Stat transcription factor family
+T15	Exp 344 367	this selective activity
+T16	Exp 406 421	these receptors
+T17	Exp 533 561	the tyrosine phosphorylation
+T18	Exp 722 736	the same cells
+T19	Exp 705 718	these effects
+T20	Exp 752 779	the erythropoietin receptor
+T21	Exp 922 943	the selective ability
+T22	Exp 870 896	These biochemical findings
+R3	Coref Anaphora:T11 Antecedent:T23
+R4	Coref Anaphora:T16 Antecedent:T2
+T1	Protein 14 21	Stat 5b
+T2	Protein 245 250	c-Kit
+T3	Protein 251 256	Epo-R
+T4	Protein 611 618	Stat 5b
+T5	Protein 671 676	c-Kit
+T6	Protein 756 779	erythropoietin receptor
+T7	Protein 811 818	Stat 5b
+T23	Exp 305 324	possible mechanisms

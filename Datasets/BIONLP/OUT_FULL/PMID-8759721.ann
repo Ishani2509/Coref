@@ -1,0 +1,29 @@
+T13	Exp 94 126	the cyclic AMP signaling pathway
+T14	Exp 266 280	The regulation
+T15	Exp 319 340	the signal transducer
+T16	Exp 581 586	which
+T17	Exp 878 883	which
+T18	Exp 840 876	the cAMP signal transduction pathway
+T19	Exp 944 972	the preferential suppression
+T20	Exp 1007 1020	the induction
+T21	Exp 1133 1146	the induction
+T22	Exp 1344 1355	Our results
+T23	Exp 1423 1427	that
+T24	Exp 1368 1382	the regulation
+T25	Exp 1438 1448	the T cell
+T26	Exp 1491 1549	the cytokine-activated Janus kinase-STAT signaling pathway
+R4	Coref Anaphora:T16 Antecedent:T27
+R5	Coref Anaphora:T17 Antecedent:T18
+R6	Coref Anaphora:T23 Antecedent:T28
+T1	Protein 35 40	Stat1
+T2	Protein 402 405	PHA
+T3	Protein 649 654	Stat1
+T4	Protein 659 664	Stat3
+T5	Protein 976 981	Stat1
+T6	Protein 1038 1042	IL-2
+T7	Protein 1084 1109	IL-4 receptor alpha-chain
+T8	Protein 1114 1118	CD69
+T9	Protein 1218 1223	Stat1
+T10	Protein 1313 1318	Stat1
+T27	Exp 554 579	STAT DNA-binding activity
+T28	Exp 1403 1422	a signaling pathway

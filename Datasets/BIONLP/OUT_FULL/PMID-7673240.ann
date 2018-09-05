@@ -1,0 +1,40 @@
+T19	Exp 24 47	the human interleukin 2
+T20	Exp 84 108	the zinc finger proteins
+T21	Exp 139 168	the interleukin 2 (IL-2) gene
+T22	Exp 323 327	that
+T23	Exp 342 354	the activity
+T24	Exp 358 375	the IL-2 promoter
+T25	Exp 410 412	we
+T26	Exp 456 473	the IL-2 promoter
+T27	Exp 580 618	the zinc finger protein binding region
+T28	Exp 701 750	the constitutively expressed transcription factor
+T29	Exp 759 802	the inducible early growth response protein
+T30	Exp 560 571	This region
+T31	Exp 832 837	which
+T32	Exp 931 958	the inducible EGR-1 protein
+T33	Exp 877 888	this region
+T34	Exp 970 982	this element
+T35	Exp 1003 1015	the ZIP site
+T36	Exp 1202 1214	the ZIP site
+T37	Exp 1161 1174	These results
+R4	Coref Anaphora:T22 Antecedent:T38
+R5	Coref Anaphora:T31 Antecedent:T39
+R6	Coref Anaphora:T34 Antecedent:T11
+T1	Protein 34 47	interleukin 2
+T2	Protein 109 112	Sp1
+T3	Protein 117 122	EGR-1
+T4	Protein 143 156	interleukin 2
+T5	Protein 158 162	IL-2
+T6	Protein 362 366	IL-2
+T7	Protein 460 464	IL-2
+T8	Protein 751 754	Sp1
+T9	Protein 803 808	EGR-1
+T10	Protein 853 857	IL-2
+T11	Protein 864 867	Sp1
+T12	Protein 910 914	IL-2
+T13	Protein 945 950	EGR-1
+T14	Protein 1043 1047	IL-2
+T15	Protein 1137 1141	IL-2
+T16	Protein 1219 1223	IL-2
+T38	Exp 293 322	several transcription factors
+T39	Exp 813 831	unstimulated cells

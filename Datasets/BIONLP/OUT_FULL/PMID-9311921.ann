@@ -1,0 +1,21 @@
+T11	Exp 57 103	the tumor necrosis factor receptor superfamily
+T12	Exp 120 138	the nuclear factor
+T13	Exp 329 333	when
+T14	Exp 234 293	The CAML (calcium-modulator and cyclophilin ligand) protein
+T15	Exp 452 464	its affinity
+T16	Exp 379 425	the tumor necrosis factor receptor superfamily
+T17	Exp 592 603	the surface
+T18	Exp 683 714	the transcription factors NF-AT
+T19	Exp 492 524	this lymphocyte-specific protein
+R2	Coref Anaphora:T15 Antecedent:T20
+T1	Protein 30 34	CAML
+T2	Protein 238 242	CAML
+T3	Protein 244 284	calcium-modulator and cyclophilin ligand
+T4	Protein 469 473	CAML
+T5	Protein 537 541	TACI
+T6	Protein 543 586	transmembrane activator and CAML-interactor
+T7	Protein 637 641	TACI
+T8	Protein 736 740	TACI
+T9	Protein 817 821	CAML
+T10	Protein 847 851	CAML
+T20	Exp 442 448	virtue

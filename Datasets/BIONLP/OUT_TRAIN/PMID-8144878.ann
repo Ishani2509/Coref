@@ -1,0 +1,28 @@
+T9	Exp 142 146	that
+T10	Exp 195 209	the expression
+T11	Exp 236 255	the immune response
+T12	Exp 374 401	these two important classes
+T13	Exp 426 428	We
+T14	Exp 445 449	that
+T15	Exp 701 730	the tyrosine kinase inhibitor
+T16	Exp 673 685	This complex
+T17	Exp 746 771	The v-src-induced complex
+T18	Exp 782 808	the p50 and p65 components
+T19	Exp 1019 1023	that
+T20	Exp 906 918	this finding
+T21	Exp 1040 1053	this promoter
+T22	Exp 1085 1087	We
+T23	Exp 1094 1098	that
+T24	Exp 1118 1131	the HIV-1 LTR
+T25	Exp 1176 1188	the proximal
+T26	Exp 1202 1229	the distal, kappa B element
+T27	Exp 1231 1247	The implications
+R2	Coref Anaphora:T9 Antecedent:T28
+T1	Protein 14 19	v-src
+T2	Protein 450 455	v-src
+T3	Protein 750 755	v-src
+T4	Protein 786 789	p50
+T5	Protein 794 797	p65
+T6	Protein 1024 1029	v-src
+T7	Protein 1135 1140	v-src
+T28	Exp 96 141	a rapidly inducible transcriptional activator

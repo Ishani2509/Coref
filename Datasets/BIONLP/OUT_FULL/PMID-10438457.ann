@@ -1,0 +1,38 @@
+T8	Exp 181 185	that
+T9	Exp 103 121	The nuclear factor
+T10	Exp 196 210	the regulation
+T11	Exp 214 233	the immune response
+T12	Exp 337 342	which
+T13	Exp 359 378	the phosphorylation
+T14	Exp 461 463	we
+T15	Exp 476 480	that
+T16	Exp 481 508	the simultaneous activation
+T17	Exp 537 574	the TCR-initiated signal transduction
+T18	Exp 627 653	the synergistic activation
+T19	Exp 657 694	the IkappaBalpha kinase (IKK) complex
+T20	Exp 754 756	We
+T21	Exp 774 778	that
+T22	Exp 779 794	the IKK complex
+T23	Exp 889 906	the co-activation
+T24	Exp 984 990	either
+T25	Exp 1004 1018	the activation
+T26	Exp 1022 1037	the IKK complex
+T27	Exp 931 952	Each second messenger
+T28	Exp 1157 1161	that
+T29	Exp 1178 1188	the target
+T30	Exp 1237 1241	that
+T31	Exp 1249 1267	the TCR/CD3 signal
+T32	Exp 1331 1355	the effective activation
+T33	Exp 1359 1374	the IKK complex
+T34	Exp 1214 1227	These results
+R3	Coref Anaphora:T8 Antecedent:T35
+R4	Coref Anaphora:T12 Antecedent:T36
+T1	Protein 398 410	IkappaBalpha
+T2	Protein 723 742	IkappaBalpha kinase
+T3	Protein 744 752	p90(rsk)
+T4	Protein 804 812	p90(rsk)
+T5	Protein 864 876	IkappaBalpha
+T6	Protein 1042 1054	IkappaBalpha
+T7	Protein 1167 1174	IKKbeta
+T35	Exp 147 180	a ubiquitous transcription factor
+T36	Exp 326 335	NF-kappaB

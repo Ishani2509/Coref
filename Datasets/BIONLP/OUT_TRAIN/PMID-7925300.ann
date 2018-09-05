@@ -1,0 +1,43 @@
+T20	Exp 77 91	The activation
+T21	Exp 197 199	we
+T22	Exp 305 309	that
+T23	Exp 213 230	the modifications
+T24	Exp 310 324	the final step
+T25	Exp 404 445	the NF-kappa B/I kappa B protein families
+T26	Exp 655 672	the same kinetics
+T27	Exp 689 718	the inducible phosphorylation
+T28	Exp 916 935	the precursors p100
+T29	Exp 1005 1007	we
+T30	Exp 1050 1061	its ability
+T31	Exp 1013 1017	that
+T32	Exp 1231 1235	that
+T33	Exp 1308 1312	that
+T34	Exp 1468 1492	the DNA binding activity
+T35	Exp 1577 1579	we
+T36	Exp 1586 1590	that
+T37	Exp 1670 1675	which
+T38	Exp 1807 1811	that
+T39	Exp 1591 1604	the induction
+T40	Exp 1657 1668	the nucleus
+T41	Exp 1789 1806	the same subunits
+R4	Coref Anaphora:T30 Antecedent:T42
+R5	Coref Anaphora:T37 Antecedent:T40
+R6	Coref Anaphora:T38 Antecedent:T41
+T1	Protein 484 493	TNF-alpha
+T2	Protein 545 548	p50
+T3	Protein 549 552	p65
+T4	Protein 565 570	c-rel
+T5	Protein 603 618	I kappa B alpha
+T6	Protein 834 837	p65
+T7	Protein 842 857	I kappa B alpha
+T8	Protein 931 935	p100
+T9	Protein 940 944	p105
+T10	Protein 967 982	I kappa B alpha
+T11	Protein 1037 1041	p105
+T12	Protein 1120 1135	I kappa B alpha
+T13	Protein 1156 1159	p65
+T14	Protein 1169 1174	c-rel
+T15	Protein 1236 1245	TNF-alpha
+T16	Protein 1496 1499	p65
+T17	Protein 1847 1856	TNF-alpha
+T42	Exp 1018 1033	phosphorylation

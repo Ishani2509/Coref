@@ -1,0 +1,32 @@
+T13	Exp 154 172	its cognate ligand
+T14	Exp 189 251	the glucocorticoid-sensitive human leukemic T-cell line 6TG1.1
+T15	Exp 259 285	the human B-cell line IM-9
+T16	Exp 302 314	the decrease
+T17	Exp 804 808	that
+T18	Exp 753 764	the effects
+T19	Exp 1000 1005	which
+T20	Exp 1139 1153	the sole cause
+T21	Exp 1113 1134	neither a consequence
+T22	Exp 1172 1182	The degree
+T23	Exp 1444 1449	which
+T24	Exp 1641 1645	that
+T25	Exp 1622 1640	the interpretation
+T26	Exp 1588 1601	These results
+R5	Coref Anaphora:T13 Antecedent:T2
+R6	Coref Anaphora:T19 Antecedent:T27
+R7	Coref Anaphora:T23 Antecedent:T28
+R8	Coref Anaphora:T24 Antecedent:T25
+T1	Protein 31 54	glucocorticoid receptor
+T2	Protein 111 134	glucocorticoid receptor
+T3	Protein 136 138	GR
+T4	Protein 318 320	GR
+T5	Protein 462 464	GR
+T6	Protein 579 581	GR
+T7	Protein 617 619	GR
+T8	Protein 836 838	GR
+T9	Protein 926 928	GR
+T10	Protein 1025 1027	GR
+T11	Protein 1353 1355	GR
+T12	Protein 1688 1690	GR
+T27	Exp 961 998	glucocorticoid-resistant CEM-C1 cells
+T28	Exp 1437 1442	2.5 h

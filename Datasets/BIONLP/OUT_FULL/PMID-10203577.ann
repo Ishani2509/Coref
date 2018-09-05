@@ -1,0 +1,62 @@
+T19	Exp 149 163	our laboratory
+T20	Exp 175 179	that
+T21	Exp 180 199	the earliest stages
+T22	Exp 300 316	The interactions
+T23	Exp 536 538	it
+T24	Exp 549 553	that
+T25	Exp 716 724	the risk
+T26	Exp 758 788	These conflicting observations
+T27	Exp 954 956	we
+T28	Exp 935 952	the present study
+T29	Exp 966 977	the effects
+T30	Exp 1076 1090	the expression
+T31	Exp 1265 1286	the activation status
+T32	Exp 1290 1315	the transcription factors
+T33	Exp 1451 1464	the exception
+T34	Exp 1482 1508	the used immunosuppressive
+T35	Exp 1868 1882	the modulation
+T36	Exp 1833 1851	These observations
+T37	Exp 2069 2073	that
+T38	Exp 2131 2142	Our results
+T39	Exp 2148 2152	that
+T40	Exp 2261 2265	that
+T41	Exp 2338 2342	that
+T42	Exp 2153 2170	the tested agents
+T43	Exp 2211 2216	the T
+T44	Exp 2656 2669	its potential
+T45	Exp 2708 2721	its inability
+T46	Exp 2442 2446	that
+T47	Exp 2585 2589	that
+T48	Exp 2783 2787	that
+T49	Exp 2407 2426	the molecular basis
+T50	Exp 2431 2441	the notion
+T51	Exp 2459 2486	the anti-atherogenic effect
+T52	Exp 2512 2526	the prevention
+T53	Exp 2530 2542	the adhesion
+T54	Exp 2598 2634	the atherosclerosis-promoting effect
+T55	Exp 2889 2908	the arterial intima
+T56	Exp 2388 2398	These data
+R5	Coref Anaphora:T37 Antecedent:T57
+R6	Coref Anaphora:T46 Antecedent:T50
+R7	Coref Anaphora:T44 Antecedent:T58
+R8	Coref Anaphora:T45 Antecedent:T59
+T1	Protein 269 290	heat shock protein 60
+T2	Protein 292 297	Hsp60
+T3	Protein 320 325	Hsp60
+T4	Protein 407 412	Hsp60
+T5	Protein 1114 1148	monocyte chemoattractant protein-1
+T6	Protein 1150 1155	MCP-1
+T7	Protein 1162 1167	Hsp60
+T8	Protein 1354 1373	heat shock factor-1
+T9	Protein 1375 1380	HSF-1
+T10	Protein 1703 1730	tumor necrosis factor-alpha
+T11	Protein 1732 1741	TNF-alpha
+T12	Protein 1952 1957	Hsp60
+T13	Protein 2042 2047	Hsp70
+T14	Protein 2103 2108	HSF-1
+T15	Protein 2371 2376	Hsp60
+T16	Protein 2687 2692	Hsp60
+T17	Protein 2807 2812	MCP-1
+T57	Exp 2062 2068	HUVECs
+T58	Exp 2590 2594	part
+T59	Exp 2673 2683	an inducer

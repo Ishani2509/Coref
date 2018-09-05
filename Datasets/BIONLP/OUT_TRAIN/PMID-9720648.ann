@@ -1,0 +1,32 @@
+T11	Exp 100 109	the ratio
+T12	Exp 215 227	Our analyses
+T13	Exp 472 492	their responsiveness
+T14	Exp 393 397	that
+T15	Exp 231 244	the induction
+T16	Exp 802 806	when
+T17	Exp 670 677	the age
+T18	Exp 681 690	the donor
+T19	Exp 692 702	the levels
+T20	Exp 789 800	the elderly
+T21	Exp 751 763	both subsets
+T22	Exp 884 888	that
+T23	Exp 975 986	the elderly
+T24	Exp 1031 1052	the lowered induction
+T25	Exp 1056 1077	the observed NFkappaB
+T26	Exp 1092 1117	this age-related decrease
+T27	Exp 1311 1322	our results
+T28	Exp 1331 1335	that
+T29	Exp 1336 1370	the age-related hyporesponsiveness
+T30	Exp 1408 1429	the T cell population
+T31	Exp 1460 1471	the elderly
+R2	Coref Anaphora:T13 Antecedent:T32
+T1	Protein 35 41	CD45RO
+T2	Protein 47 53	CD45RA
+T3	Protein 302 308	CD45RO
+T4	Protein 322 328	CD45RA
+T5	Protein 496 505	TNF-alpha
+T6	Protein 562 571	TNF-alpha
+T7	Protein 850 863	IkappaB alpha
+T8	Protein 889 898	TNF-alpha
+T9	Protein 923 936	IkappaB alpha
+T32	Exp 424 438	memory T cells

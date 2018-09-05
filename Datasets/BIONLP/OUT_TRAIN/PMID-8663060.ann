@@ -1,0 +1,38 @@
+T16	Exp 28 58	the gammac chain gene promoter
+T17	Exp 263 268	which
+T18	Exp 133 149	The gammac chain
+T19	Exp 245 259	the expression
+T20	Exp 338 383	the X-linked severe combined immunodeficiency
+T21	Exp 468 493	the human gammac promoter
+T22	Exp 505 548	the minimal tissue-specific promoter region
+T23	Exp 636 670	the major transcription start site
+T24	Exp 777 786	The -1053
+T25	Exp 935 956	The region downstream
+T26	Exp 1011 1013	It
+T27	Exp 1108 1113	which
+T28	Exp 1068 1099	the murine gammac promoter gene
+T29	Exp 1205 1236	The functional Ets binding site
+T30	Exp 1408 1412	that
+T31	Exp 1438 1459	the IL2Rbeta promoter
+T32	Exp 1385 1398	These results
+T33	Exp 1614 1629	its interaction
+T34	Exp 1587 1612	the hematopoietic lineage
+T35	Exp 1676 1706	the tissue-specific expression
+T36	Exp 1710 1725	the gammac gene
+R4	Coref Anaphora:T17 Antecedent:T19
+R5	Coref Anaphora:T26 Antecedent:T25
+R6	Coref Anaphora:T33 Antecedent:T13
+T1	Protein 137 143	gammac
+T2	Protein 195 213	interleukin (IL)-2
+T3	Protein 215 219	IL-4
+T4	Protein 221 225	IL-7
+T5	Protein 227 231	IL-9
+T6	Protein 237 242	IL-15
+T7	Protein 322 328	gammac
+T8	Protein 478 484	gammac
+T9	Protein 1079 1085	gammac
+T10	Protein 1311 1316	Elf-1
+T11	Protein 1442 1450	IL2Rbeta
+T12	Protein 1509 1515	gammac
+T13	Protein 1550 1554	GABP
+T14	Protein 1714 1720	gammac

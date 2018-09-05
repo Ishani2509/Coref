@@ -1,0 +1,28 @@
+T13	Exp 317 319	we
+T14	Exp 260 265	which
+T15	Exp 413 418	which
+T16	Exp 195 233	the complex transcriptional regulation
+T17	Exp 237 258	the human GM-CSF gene
+T18	Exp 333 341	the role
+T19	Exp 380 411	the 5637 non-lymphoid cell line
+T20	Exp 509 522	the A element
+T21	Exp 588 610	the tumor promoter PMA
+T22	Exp 488 501	This sequence
+T23	Exp 650 652	We
+T24	Exp 737 742	which
+T25	Exp 759 766	the one
+T26	Exp 782 805	the HIV-LTR-kappaB site
+R4	Coref Anaphora:T14 Antecedent:T17
+R5	Coref Anaphora:T15 Antecedent:T19
+T27	SPAN 722 735	c-Rel and p65
+R6	Coref Anaphora:T24 Antecedent:T27
+T1	Protein 0 5	c-Rel
+T2	Protein 10 13	p65
+T3	Protein 67 115	granulocyte macrophage-colony stimulating factor
+T4	Protein 247 253	GM-CSF
+T5	Protein 480 486	GM-CSF
+T6	Protein 546 552	GM-CSF
+T7	Protein 722 727	c-Rel
+T8	Protein 732 735	p65
+T9	Protein 858 863	c-Rel
+T10	Protein 868 871	p50

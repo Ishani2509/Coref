@@ -1,0 +1,26 @@
+T14	Exp 125 175	the steroid hormone 1 alpha,25-dihydroxyvitamin D3
+T15	Exp 237 249	the presence
+T16	Exp 575 580	the T
+T17	Exp 427 443	These parameters
+T18	Exp 726 737	the absence
+T19	Exp 680 691	these cells
+T20	Exp 836 838	we
+T21	Exp 1228 1250	its metabolic activity
+T22	Exp 1354 1358	they
+T23	Exp 1286 1290	that
+T24	Exp 1263 1277	These findings
+R3	Coref Anaphora:T21 Antecedent:T11
+R4	Coref Anaphora:T22 Antecedent:T25
+T1	Protein 287 307	vitamin D3 receptors
+T2	Protein 309 312	VDR
+T3	Protein 656 659	VDR
+T4	Protein 697 710	interleukin-4
+T5	Protein 719 722	VDR
+T6	Protein 862 866	CD23
+T7	Protein 914 928	24-hydroxylase
+T8	Protein 959 963	CD23
+T9	Protein 1013 1017	CD23
+T10	Protein 1081 1095	24-hydroxylase
+T11	Protein 1205 1219	24-hydroxylase
+T12	Protein 1332 1335	VDR
+T25	Exp 1300 1319	human B lymphocytes

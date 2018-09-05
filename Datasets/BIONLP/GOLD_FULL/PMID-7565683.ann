@@ -1,0 +1,18 @@
+T1	Protein 51 55	MAD3
+T2	Protein 56 71	I kappa B alpha
+T3	Protein 175 179	MAD3
+T4	Protein 180 195	I kappa B alpha
+T5	Protein 354 369	I kappa B alpha
+T6	Protein 483 498	I kappa B alpha
+T7	Protein 843 858	I kappa B alpha
+T8	Protein 1059 1074	I kappa B alpha
+T9	Protein 1132 1147	I kappa B alpha
+T10	Protein 1348 1363	I kappa B alpha
+T11	Exp 833 866	the human I kappa B alpha protein	859 866	protein
+T12	Exp 898 915	the human protein	908 915	protein
+T13	Exp 1348 1363	I kappa B alpha
+T14	Exp 1405 1416	the protein
+T15	Exp 1609 1620	the protein
+R1	Coref Anaphora:T12 Antecedent:T11	[T7]
+R2	Coref Anaphora:T14 Antecedent:T13	[T10]
+R3	Coref Anaphora:T15 Antecedent:T14

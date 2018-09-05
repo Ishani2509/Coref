@@ -1,0 +1,39 @@
+T14	Exp 87 101	the first exon
+T15	Exp 105 128	the human DR alpha gene
+T16	Exp 277 281	that
+T17	Exp 188 202	the start site
+T18	Exp 223 237	the first exon
+T19	Exp 241 258	the DR alpha gene
+T20	Exp 476 488	the activity
+T21	Exp 492 513	the DR alpha promoter
+T22	Exp 370 391	this DNA-binding site
+T23	Exp 591 598	the DNA
+T24	Exp 684 709	the transcriptional start
+T25	Exp 602 714	the DR beta, DP alpha and -beta, and DQ alpha genes, always located downstream of the transcriptional start site
+T26	Exp 565 577	this element
+T27	Exp 716 734	The nuclear factor
+T28	Exp 744 756	the DR alpha
+T29	Exp 789 800	the element
+T30	Exp 804 821	the DQ alpha gene
+T31	Exp 823 825	It
+T32	Exp 896 935	its binding to the Ig kappa 3' enhancer
+T33	Exp 940 946	the Ig
+T34	Exp 1014 1028	the regulation
+T35	Exp 857 869	This protein
+R4	Coref Anaphora:T26 Antecedent:T19
+R5	Coref Anaphora:T27 Antecedent:T19
+R6	Coref Anaphora:T31 Antecedent:T19
+R7	Coref Anaphora:T29 Antecedent:T9
+R8	Coref Anaphora:T32 Antecedent:T11
+T1	Protein 42 47	NF-E1
+T2	Protein 49 52	YY1
+T3	Protein 115 123	DR alpha
+T4	Protein 245 253	DR alpha
+T5	Protein 496 504	DR alpha
+T6	Protein 606 613	DR beta
+T7	Protein 639 647	DQ alpha
+T8	Protein 748 756	DR alpha
+T9	Protein 761 769	DP alpha
+T10	Protein 808 816	DQ alpha
+T11	Protein 844 849	NF-E1
+T12	Protein 851 854	YY1

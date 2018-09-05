@@ -1,0 +1,18 @@
+T1	Exp 624 628	that
+T2	Exp 568 580	the identity
+T3	Exp 584 597	the cell type
+T4	Exp 605 623	the tumor specimen
+T5	Exp 641 677	the observed gene expression pattern
+T6	Exp 776 793	the breast tumors
+T7	Exp 870 881	the samples
+T8	Exp 929 933	that
+T9	Exp 1011 1056	the IFN-regulated signal transduction pathway
+T10	Exp 883 900	Two such clusters
+T11	Exp 1136 1153	the breast tumors
+T12	Exp 1178 1191	this analysis
+T13	Exp 1215 1230	the feasibility
+T14	Exp 1193 1206	These results
+T15	Exp 1249 1273	this systematic approach
+R3	Coref Anaphora:T1 Antecedent:T4
+R4	Coref Anaphora:T8 Antecedent:T16
+T16	Exp 920 928	patterns

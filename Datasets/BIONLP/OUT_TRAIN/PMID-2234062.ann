@@ -1,0 +1,23 @@
+T1	Exp 92 108	the rel oncogene
+T2	Exp 136 138	We
+T3	Exp 222 226	that
+T4	Exp 266 291	The amino-terminal domain
+T5	Exp 318 334	the oncogene rel
+T6	Exp 342 383	the developmentally important gene dorsal
+T7	Exp 485 489	that
+T8	Exp 399 426	The carboxy-terminal domain
+T9	Exp 620 653	the putative human oncogene bcl-3
+T10	Exp 661 680	the ankyrin protein
+T11	Exp 772 777	which
+T12	Exp 702 713	the product
+T13	Exp 806 830	the kappa B binding site
+T14	Exp 872 884	the enhancer
+T15	Exp 717 726	this gene
+T16	Exp 918 927	This gene
+R5	Coref Anaphora:T3 Antecedent:T17
+R6	Coref Anaphora:T7 Antecedent:T18
+R7	Coref Anaphora:T11 Antecedent:T19
+R8	Coref Anaphora:T16 Antecedent:T15
+T17	Exp 208 221	human T cells
+T18	Exp 476 484	proteins
+T19	Exp 750 771	a DNA-binding protein

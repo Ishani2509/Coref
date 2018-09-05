@@ -1,0 +1,5 @@
+T1	Protein 284 288	IL-6
+T2	Protein 700 708	Ig kappa
+T3	Exp 382 410	the activation of NF-kappa B	386 396	activation
+T4	Exp 412 417	which
+R1	Coref Anaphora:T4 Antecedent:T3

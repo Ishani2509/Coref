@@ -1,0 +1,36 @@
+T8	Exp 122 138	the tumour cells
+T9	Exp 275 290	the interaction
+T10	Exp 374 376	we
+T11	Exp 481 486	which
+T12	Exp 460 474	the mRNA level
+T13	Exp 498 518	the EBV oncogenicity
+T14	Exp 362 372	this study
+T15	Exp 601 605	that
+T16	Exp 724 746	The EBNA transcription
+T17	Exp 858 866	the lack
+T18	Exp 1018 1029	the tumours
+T19	Exp 967 979	neither LMP1
+T20	Exp 1055 1073	the BamHI-A region
+T21	Exp 1077 1093	the viral genome
+T22	Exp 1225 1229	them
+T23	Exp 1250 1254	that
+T24	Exp 1139 1150	the product
+T25	Exp 1255 1271	the tumour cells
+T26	Exp 1547 1548	I
+T27	Exp 1350 1367	our previous data
+T28	Exp 1457 1461	that
+T29	Exp 1420 1437	the protein level
+T30	Exp 1462 1475	the programme
+T31	Exp 1504 1514	the tumour
+T32	Exp 1617 1629	the majority
+T33	Exp 1318 1332	These findings
+R3	Coref Anaphora:T11 Antecedent:T12
+R4	Coref Anaphora:T22 Antecedent:T34
+T1	Protein 669 697	EBV nuclear antigen (EBNA) 1
+T2	Protein 712 717	EBNA2
+T3	Protein 870 875	EBNA2
+T4	Protein 882 914	Latent membrane protein (LMP) 2A
+T5	Protein 975 979	LMP1
+T6	Protein 984 989	LMP2B
+T7	Protein 1124 1129	BZLF1
+T34	Exp 1038 1049	Transcripts

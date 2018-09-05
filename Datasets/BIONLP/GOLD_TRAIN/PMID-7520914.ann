@@ -1,0 +1,24 @@
+T1	Protein 0 4	CD14
+T2	Protein 376 380	CD14
+T3	Protein 518 522	CD14
+T4	Protein 651 655	CD14
+T5	Protein 935 939	CD14
+T6	Protein 945 949	CD14
+T7	Protein 1113 1117	CD14
+T8	Protein 1190 1194	CD14
+T9	Protein 1262 1266	CD14
+T10	Protein 1538 1542	CD14
+T11	Protein 1814 1818	CD14
+T12	Protein 1937 1941	CD14
+T13	Protein 2105 2109	CD14
+T14	Exp 495 508	the mechanism
+T15	Exp 512 517	which
+T16	Exp 518 522	CD14
+T17	Exp 524 529	which
+T18	Exp 570 573	its
+T19	Exp 1352 1400	Protein synthesis inhibitors and corticosteroids
+T20	Exp 1402 1407	which
+R1	Coref Anaphora:T15 Antecedent:T14
+R2	Coref Anaphora:T17 Antecedent:T16	[T3]
+R3	Coref Anaphora:T18 Antecedent:T16	[T3]
+R4	Coref Anaphora:T20 Antecedent:T19

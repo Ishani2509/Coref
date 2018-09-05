@@ -1,0 +1,35 @@
+T17	Exp 21 48	the class II transactivator
+T18	Exp 276 293	The master switch
+T19	Exp 298 312	the expression
+T20	Exp 331 358	the class II transactivator
+T21	Exp 316 327	these genes
+T22	Exp 384 386	we
+T23	Exp 399 403	that
+T24	Exp 411 424	the functions
+T25	Exp 448 472	the CREB binding protein
+T26	Exp 371 382	this report
+T27	Exp 654 666	the activity
+T28	Exp 728 739	the surface
+T29	Exp 759 773	the inhibition
+T30	Exp 805 831	the glucocorticoid hormone
+T31	Exp 855 869	the squelching
+T32	Exp 880 907	the glucocorticoid receptor
+T33	Exp 909 911	We
+T34	Exp 921 925	that
+T35	Exp 987 1004	the transcription
+T36	SPAN 25 73	class II transactivator and CREB binding protein
+R3	Coref Anaphora:T21 Antecedent:T36
+T1	Protein 25 48	class II transactivator
+T2	Protein 53 73	CREB binding protein
+T3	Protein 240 256	gamma interferon
+T4	Protein 335 358	class II transactivator
+T5	Protein 360 365	CIITA
+T6	Protein 428 433	CIITA
+T7	Protein 452 472	CREB binding protein
+T8	Protein 474 477	CBP
+T9	Protein 569 574	CIITA
+T10	Protein 579 582	CBP
+T11	Protein 640 643	CBP
+T12	Protein 873 876	CBP
+T13	Protein 884 907	glucocorticoid receptor
+T14	Protein 926 929	CBP

@@ -1,0 +1,20 @@
+T8	Exp 128 138	the levels
+T9	Exp 306 308	we
+T10	Exp 316 320	that
+T11	Exp 458 492	the human monocytic cell line BF24
+T12	Exp 668 673	which
+T13	Exp 694 715	the regulatory region
+T14	Exp 719 743	the long terminal repeat
+T15	Exp 876 889	the induction
+T16	Exp 928 941	the induction
+T17	Exp 1008 1012	that
+T18	Exp 1108 1112	that
+T19	Exp 1148 1167	the pathophysiology
+T20	Exp 985 998	These results
+R3	Coref Anaphora:T12 Antecedent:T21
+T1	Protein 338 349	Fc gamma RI
+T2	Protein 353 365	Fc gamma RII
+T3	Protein 801 810	TNF-alpha
+T4	Protein 833 842	IL-1 beta
+T5	Protein 1038 1047	TNF-alpha
+T21	Exp 656 666	NF-kappa B

@@ -1,0 +1,30 @@
+T7	Exp 535 539	they
+T8	Exp 579 583	both
+T9	Exp 584 612	the differentiation inducers
+T10	Exp 682 684	we
+T11	Exp 640 654	the maturation
+T12	Exp 693 717	the molecular mechanisms
+T13	Exp 884 895	Our results
+T14	Exp 905 909	that
+T15	Exp 951 972	the nuclear abundance
+T16	Exp 1100 1102	it
+T17	Exp 1221 1238	the transcription
+T18	Exp 1410 1414	that
+T19	Exp 1415 1434	the genetic program
+T20	Exp 1314 1328	these findings
+T21	Exp 1598 1606	our data
+T22	Exp 1513 1518	which
+T23	Exp 1624 1628	that
+T24	Exp 1486 1509	The molecular mechanism
+T25	Exp 1534 1555	the nuclear abundance
+T26	Exp 1629 1635	the M2
+R4	Coref Anaphora:T7 Antecedent:T27
+R5	Coref Anaphora:T16 Antecedent:T4
+R6	Coref Anaphora:T22 Antecedent:T24
+T1	Protein 26 44	vitamin D receptor
+T2	Protein 976 987	VD receptor
+T3	Protein 989 992	VDR
+T4	Protein 1034 1037	VDR
+T5	Protein 1136 1155	retinoid X receptor
+T6	Protein 1572 1575	VDR
+T27	Exp 484 507	M2 leukemic blast cells

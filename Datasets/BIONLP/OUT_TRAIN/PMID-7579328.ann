@@ -1,0 +1,61 @@
+T31	Exp 0 28	The myeloid zinc finger gene
+T32	Exp 47 64	the CD34 promoter
+T33	Exp 183 200	The MZF-1 protein
+T34	Exp 315 335	the carboxy-terminus
+T35	Exp 351 353	We
+T36	Exp 376 406	the DNA consensus binding site
+T37	Exp 421 448	the two DNA binding domains
+T38	Exp 460 497	the transcription regulatory function
+T39	Exp 508 543	the full-length MZF-1 coding region
+T40	Exp 557 579	the DNA binding domain
+T41	Exp 583 612	the yeast transactivator GAL4
+T42	Exp 614 635	The expression vector
+T43	Exp 659 717	the chloramphenicol acetyl transferase (CAT) reporter gene
+T44	Exp 731 760	the thymidine kinase promoter
+T45	Exp 914 953	the nonhematopoietic cell lines NIH 3T3
+T46	Exp 1024 1057	the hematopoietic cell lines K562
+T47	Exp 1070 1093	The MZF-1 binding sites
+T48	Exp 1109 1122	the promoters
+T49	Exp 1192 1209	the CD34 promoter
+T50	Exp 1247 1285	this physiologically relevant promoter
+T51	Exp 1402 1429	the consensus binding sites
+T52	Exp 1433 1450	the CD34 promoter
+T53	Exp 1526 1558	the luciferase reporter plasmids
+T54	Exp 1572 1589	the CD34 promoter
+T55	Exp 1655 1690	the heterologous DNA binding domain
+T56	Exp 1892 1904	the presence
+T57	Exp 2097 2101	that
+T58	Exp 1936 1969	The cell type-specific regulation
+T59	Exp 1973 1990	the CD34 promoter
+T60	Exp 2009 2021	the presence
+R2	Coref Anaphora:T57 Antecedent:T29
+T1	Protein 30 35	MZF-1
+T2	Protein 51 55	CD34
+T3	Protein 76 81	MZF-1
+T4	Protein 187 192	MZF-1
+T5	Protein 501 506	MZF-1
+T6	Protein 524 529	MZF-1
+T7	Protein 608 612	GAL4
+T8	Protein 663 697	chloramphenicol acetyl transferase
+T9	Protein 699 702	CAT
+T10	Protein 735 751	thymidine kinase
+T11	Protein 772 776	GAL4
+T12	Protein 843 848	MZF-1
+T13	Protein 859 862	CAT
+T14	Protein 892 896	GAL4
+T15	Protein 976 981	MZF-1
+T16	Protein 992 995	CAT
+T17	Protein 1074 1079	MZF-1
+T18	Protein 1196 1200	CD34
+T19	Protein 1211 1216	MZF-1
+T20	Protein 1366 1371	MZF-1
+T21	Protein 1437 1441	CD34
+T22	Protein 1477 1482	MZF-1
+T23	Protein 1576 1580	CD34
+T24	Protein 1692 1697	MZF-1
+T25	Protein 1832 1836	CD34
+T26	Protein 1915 1920	MZF-1
+T27	Protein 1977 1981	CD34
+T28	Protein 1994 1999	MZF-1
+T29	Protein 2077 2082	MZF-1
+T30	Protein 2112 2117	MZF-1

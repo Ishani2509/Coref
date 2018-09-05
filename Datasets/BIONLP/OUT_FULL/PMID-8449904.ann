@@ -1,0 +1,38 @@
+T10	Exp 30 49	the pyruvate kinase
+T11	Exp 130 140	The L gene
+T12	Exp 150 163	the erythroid
+T13	Exp 174 201	the hepatic (L-PK) isozymes
+T14	Exp 205 224	the alternative use
+T15	Exp 243 245	We
+T16	Exp 253 273	the characterization
+T17	Exp 277 284	the cis
+T18	Exp 446 458	the cap site
+T19	Exp 529 531	we
+T20	Exp 571 575	that
+T21	Exp 516 527	this region
+T22	Exp 687 707	the CCACC/Sp1 family
+T23	Exp 712 730	the other, located
+T24	Exp 745 765	the erythroid factor
+T25	Exp 858 860	it
+T26	Exp 783 808	the -20 GATA binding site
+T27	Exp 895 911	the substitution
+T28	Exp 983 1004	the promoter activity
+T29	Exp 915 937	this GATA binding site
+T30	Exp 1053 1057	that
+T31	Exp 1063 1078	the association
+T32	Exp 1169 1195	this R-PK minimal promoter
+T33	Exp 1033 1043	both sites
+T34	Exp 1238 1240	we
+T35	Exp 1247 1259	the elements
+T36	Exp 1272 1299	the hGATA-1 transactivation
+T37	Exp 1303 1320	the R-PK promoter
+R2	Coref Anaphora:T25 Antecedent:T26
+T1	Protein 134 135	L
+T2	Protein 165 169	R-PK
+T3	Protein 187 191	L-PK
+T4	Protein 360 361	L
+T5	Protein 389 393	R-PK
+T6	Protein 766 772	GATA-1
+T7	Protein 1174 1178	R-PK
+T8	Protein 1276 1283	hGATA-1
+T9	Protein 1307 1311	R-PK

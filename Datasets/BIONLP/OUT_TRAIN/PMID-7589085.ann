@@ -1,0 +1,26 @@
+T11	Exp 119 185	the tumor necrosis factor/nerve growth factor receptor superfamily
+T12	Exp 203 205	we
+T13	Exp 211 215	that
+T14	Exp 310 355	the agonistic anti-CD30 monoclonal antibodies
+T15	Exp 190 201	this report
+T16	Exp 571 573	it
+T17	Exp 505 515	The effect
+T18	Exp 519 526	the mAb
+T19	Exp 793 803	the type 0
+T20	Exp 864 874	the extent
+T21	Exp 930 944	the proportion
+T22	Exp 993 1017	the NF-kappa B complexes
+T23	Exp 1157 1168	our results
+T24	Exp 1181 1185	that
+T25	Exp 1248 1281	the short-term cellular responses
+R2	Coref Anaphora:T16 Antecedent:T17
+T1	Protein 0 4	CD30
+T2	Protein 80 84	CD30
+T3	Protein 292 296	CD30
+T4	Protein 329 333	CD30
+T5	Protein 878 882	CD30
+T6	Protein 948 952	CD30
+T7	Protein 1036 1040	CD30
+T8	Protein 1074 1089	p50 NF-kappa B1
+T9	Protein 1091 1099	p65 RelA
+T10	Protein 1301 1305	CD30

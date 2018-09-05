@@ -1,0 +1,31 @@
+T5	Exp 185 207	the octamerlike motifs
+T6	Exp 211 261	the human immunoglobulin heavy-chain gene enhancer
+T7	Exp 311 315	when
+T8	Exp 325 367	the chloramphenicol acetyltransferase gene
+T9	Exp 378 401	the conalbumin promoter
+T10	Exp 280 309	this 67-bp MnlI-AluI fragment
+T11	Exp 511 515	that
+T12	Exp 516 554	the identical sequence CCGAAACTGAAAAGG
+T13	Exp 820 831	the results
+T14	Exp 876 888	the E6 motif
+T15	Exp 1378 1385	its own
+T16	Exp 1131 1136	which
+T17	Exp 1278 1283	which
+T18	Exp 1093 1126	the mouse Ig heavy-chain enhancer
+T19	Exp 1137 1154	the octamer motif
+T20	Exp 1199 1217	the human enhancer
+T21	Exp 1402 1424	the MnlI-AluI fragment
+T22	Exp 1440 1464	the basal-level activity
+T23	Exp 1468 1491	the conalbumin promoter
+T24	Exp 1582 1604	the MnlI-AluI fragment
+T25	Exp 1645 1671	the novel enhancer element
+T26	Exp 1686 1696	this study
+R4	Coref Anaphora:T16 Antecedent:T18
+R5	Coref Anaphora:T17 Antecedent:T27
+R6	Coref Anaphora:T15 Antecedent:T28
+T1	Protein 329 362	chloramphenicol acetyltransferase
+T2	Protein 567 569	E6
+T3	Protein 880 882	E6
+T4	Protein 993 995	E6
+T27	Exp 1256 1277	one base substitution
+T28	Exp 1354 1374	no enhancer activity

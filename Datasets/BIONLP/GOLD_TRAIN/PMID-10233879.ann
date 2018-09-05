@@ -1,0 +1,6 @@
+T1	Protein 554 560	GATA-1
+T2	Protein 922 926	EGFP
+T3	Protein 1136 1142	GATA-1
+T4	Exp 395 413	retroviral vectors	406 413	vectors
+T5	Exp 417 422	which
+R1	Coref Anaphora:T5 Antecedent:T4

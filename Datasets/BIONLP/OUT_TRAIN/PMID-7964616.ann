@@ -1,0 +1,71 @@
+T35	Exp 23 63	the Epstein-Barr virus nuclear antigen 2
+T36	Exp 195 241	The Epstein-Barr virus (EBV) nuclear antigen 2
+T37	Exp 276 295	the immortalization
+T38	Exp 478 494	the TP1 promoter
+T39	Exp 502 513	the BamHI C
+T40	Exp 685 692	the DNA
+T41	Exp 727 741	the expression
+T42	Exp 745 757	the LMP gene
+T43	Exp 865 870	which
+T44	Exp 813 836	the cis-acting elements
+T45	Exp 840 856	the LMP promoter
+T46	Exp 1004 1006	we
+T47	Exp 954 970	the LMP promoter
+T48	Exp 1128 1130	We
+T49	Exp 1142 1146	that
+T50	Exp 1147 1173	the protein-binding region
+T51	Exp 1177 1193	the LMP promoter
+T52	Exp 1272 1306	the LMP transcriptional start site
+T53	Exp 1316 1333	the DNA fragments
+T54	Exp 1384 1391	the DNA
+T55	Exp 1574 1578	that
+T56	Exp 1531 1556	the gel retardation assay
+T57	Exp 1616 1632	the TP1 promoter
+T58	Exp 1729 1733	that
+T59	Exp 1685 1710	the gel retardation assay
+T60	Exp 1734 1767	the LMP promoter-binding proteins
+T61	Exp 1832 1847	These complexes
+T62	Exp 1877 1879	We
+T63	Exp 1906 1910	that
+T64	Exp 1999 2004	which
+T65	Exp 1982 1998	the LMP promoter
+T66	Exp 1892 1905	these results
+R6	Coref Anaphora:T43 Antecedent:T45
+R7	Coref Anaphora:T55 Antecedent:T67
+R8	Coref Anaphora:T58 Antecedent:T68
+R9	Coref Anaphora:T63 Antecedent:T66
+R10	Coref Anaphora:T64 Antecedent:T65
+T1	Protein 27 63	Epstein-Barr virus nuclear antigen 2
+T2	Protein 65 71	EBNA-2
+T3	Protein 166 172	EBNA-2
+T4	Protein 199 241	Epstein-Barr virus (EBV) nuclear antigen 2
+T5	Protein 243 249	EBNA-2
+T6	Protein 329 335	EBNA-2
+T7	Protein 382 386	CD23
+T8	Protein 388 393	c-fgr
+T9	Protein 395 420	latent membrane protein 1
+T10	Protein 422 426	LMP1
+T11	Protein 432 450	terminal protein 1
+T12	Protein 452 455	TP1
+T13	Protein 482 485	TP1
+T14	Protein 506 513	BamHI C
+T15	Protein 652 658	EBNA-2
+T16	Protein 694 700	EBNA-2
+T17	Protein 749 752	LMP
+T18	Protein 844 847	LMP
+T19	Protein 871 877	EBNA-2
+T20	Protein 926 932	EBNA-2
+T21	Protein 958 961	LMP
+T22	Protein 1085 1088	LMP
+T23	Protein 1181 1184	LMP
+T24	Protein 1372 1378	EBNA-2
+T25	Protein 1461 1467	EBNA-2
+T26	Protein 1481 1487	EBNA-2
+T27	Protein 1605 1612	EBNA-2A
+T28	Protein 1620 1623	TP1
+T29	Protein 1738 1741	LMP
+T30	Protein 1801 1807	EBNA-2
+T31	Protein 1911 1917	EBNA-2
+T32	Protein 1986 1989	LMP
+T67	Exp 1563 1573	conditions
+T68	Exp 1720 1728	evidence

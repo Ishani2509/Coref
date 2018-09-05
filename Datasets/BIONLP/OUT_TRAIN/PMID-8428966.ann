@@ -1,0 +1,33 @@
+T7	Exp 20 58	the nuclear and cytoplasmic components
+T8	Exp 62 98	the lymphoid-specific nuclear factor
+T9	Exp 138 181	The lymphoid-specific transcription complex
+T10	Exp 398 418	the antigen receptor
+T11	Exp 451 461	the family
+T12	Exp 494 518	the murine NF-AT complex
+T13	Exp 546 550	that
+T14	Exp 551 572	the nuclear component
+T15	Exp 597 608	the phorbol
+T16	Exp 661 663	We
+T17	Exp 685 690	which
+T18	Exp 721 730	this role
+T19	Exp 918 933	the requirement
+T20	Exp 1163 1167	that
+T21	Exp 1127 1142	the requirement
+T22	Exp 1270 1282	the presence
+T23	Exp 1286 1311	the cytoplasmic component
+T24	Exp 1523 1525	it
+T25	Exp 1545 1574	the NF-AT DNA binding complex
+T26	Exp 1465 1484	this reconstitution
+T27	Exp 1585 1587	we
+T28	Exp 1738 1740	it
+T29	Exp 1733 1737	that
+T30	Exp 1612 1637	the cytoplasmic component
+R4	Coref Anaphora:T24 Antecedent:T5
+R5	Coref Anaphora:T29 Antecedent:T31
+R6	Coref Anaphora:T28 Antecedent:T30
+T1	Protein 900 905	Fra-1
+T2	Protein 1083 1087	cJun
+T3	Protein 1091 1095	JunD
+T4	Protein 1105 1109	JunB
+T5	Protein 1499 1503	JunB
+T31	Exp 1689 1732	SDS-polyacrylamide gel electrophoresis gels

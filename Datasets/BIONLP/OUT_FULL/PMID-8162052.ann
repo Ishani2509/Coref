@@ -1,0 +1,20 @@
+T9	Exp 95 111	the human genome
+T10	Exp 253 266	these factors
+T11	Exp 348 350	we
+T12	Exp 361 365	that
+T13	Exp 366 375	the genes
+T14	Exp 385 413	the TATA-box binding protein
+T15	Exp 470 488	the 62 kDa subunit
+T16	Exp 514 549	the human chromosomal bands 6q26-27
+T17	Exp 765 791	their possible involvement
+T18	Exp 711 734	the molecular mechanism
+T19	Exp 620 647	This dispersed localization
+R2	Coref Anaphora:T17 Antecedent:T20
+T1	Protein 389 413	TATA-box binding protein
+T2	Protein 415 418	TBP
+T3	Protein 421 426	TFIIB
+T4	Protein 428 439	TFIIE alpha
+T5	Protein 441 451	TFIIE beta
+T6	Protein 453 458	RAP30
+T7	Protein 460 465	RAP74
+T20	Exp 697 705	insights

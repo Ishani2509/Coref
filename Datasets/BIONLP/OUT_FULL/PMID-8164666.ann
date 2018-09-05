@@ -1,0 +1,35 @@
+T12	Exp 23 64	the lineage-specific transcription factor
+T13	Exp 109 124	The zinc finger
+T14	Exp 289 311	the regulatory regions
+T15	Exp 441 445	that
+T16	Exp 617 632	its requirement
+T17	Exp 560 575	the GATA-1 gene
+T18	Exp 686 696	the defect
+T19	Exp 732 751	the distal promoter
+T20	Exp 941 943	we
+T21	Exp 994 1005	the ability
+T22	Exp 1039 1054	the GATA-1 gene
+T23	Exp 1079 1081	We
+T24	Exp 1092 1096	that
+T25	Exp 1229 1233	that
+T26	Exp 1265 1293	the terminal differentiation
+T27	Exp 1234 1247	this activity
+T28	Exp 1399 1417	their globin genes
+T29	Exp 1457 1461	that
+R4	Coref Anaphora:T15 Antecedent:T30
+R5	Coref Anaphora:T16 Antecedent:T31
+R6	Coref Anaphora:T28 Antecedent:T32
+T1	Protein 65 71	GATA-1
+T2	Protein 146 152	GATA-1
+T3	Protein 246 252	GATA-1
+T4	Protein 446 452	GATA-1
+T5	Protein 564 570	GATA-1
+T6	Protein 790 796	GATA-1
+T7	Protein 831 837	GATA-1
+T8	Protein 1043 1049	GATA-1
+T9	Protein 1218 1224	GATA-1
+T10	Protein 1326 1332	GATA-1
+T11	Protein 1483 1489	GATA-1
+T30	Exp 425 440	strong evidence
+T31	Exp 536 556	Targeted mutagenesis
+T32	Exp 1334 1361	mutant embryonic stem cells

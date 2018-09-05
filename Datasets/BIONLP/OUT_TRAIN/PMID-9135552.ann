@@ -1,0 +1,44 @@
+T16	Exp 0 46	The tumour associated cell surface antigen A6H
+T17	Exp 176 180	that
+T18	Exp 102 129	The A6H monoclonal antibody
+T19	Exp 286 297	The binding
+T20	Exp 301 312	the A6H mAb
+T21	Exp 398 400	we
+T22	Exp 406 410	that
+T23	Exp 378 396	the present report
+T24	Exp 511 518	the CD8
+T25	Exp 591 602	the A6H mAb
+T26	Exp 730 758	these cell surface molecules
+T27	Exp 875 877	we
+T28	Exp 958 963	which
+T29	Exp 809 819	the nature
+T30	Exp 823 845	the A6H mAb costimulus
+T31	Exp 849 874	the transcriptional level
+T32	Exp 905 930	the transcription factors
+T33	Exp 1066 1074	the IL-2
+T34	Exp 1107 1122	the A6H antigen
+T35	Exp 1127 1142	the CD3 complex
+T36	Exp 1165 1194	the transcription factor AP-1
+T37	Exp 1442 1446	that
+T38	Exp 1504 1520	the later phases
+T39	Exp 1419 1432	These results
+T40	Exp 1580 1596	the A6H molecule
+T41	Exp 1623 1630	the A6H
+R3	Coref Anaphora:T17 Antecedent:T42
+R4	Coref Anaphora:T28 Antecedent:T43
+T1	Protein 74 77	CD4
+T2	Protein 234 237	CD4
+T3	Protein 483 486	CD4
+T4	Protein 560 563	CD4
+T5	Protein 615 619	CD80
+T6	Protein 621 625	CD86
+T7	Protein 627 631	CD71
+T8	Protein 633 660	interleukin-2 (IL-2)R alpha
+T9	Protein 662 672	IL-2R beta
+T10	Protein 677 688	IL-2R gamma
+T11	Protein 931 936	OCT-1
+T12	Protein 1070 1074	IL-2
+T13	Protein 1198 1201	CD4
+T14	Protein 1679 1682	CD4
+T42	Exp 147 175	a 120,000-140,000 MW antigen
+T43	Exp 956 957	B

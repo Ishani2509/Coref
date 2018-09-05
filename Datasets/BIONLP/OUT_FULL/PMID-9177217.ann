@@ -1,0 +1,45 @@
+T24	Exp 35 43	the type
+T25	Exp 123 142	the genes defective
+T26	Exp 146 177	the five complementation groups
+T27	Exp 327 331	that
+T28	Exp 347 361	the RFX family
+T29	Exp 387 396	The other
+T30	Exp 486 498	this protein
+T31	Exp 581 608	the GAL4 DNA binding domain
+T32	Exp 710 718	the Raji
+T33	Exp 747 761	these plasmids
+T34	Exp 1089 1094	which
+T35	Exp 1095 1099	both
+T36	Exp 1000 1014	these plasmids
+T37	Exp 1161 1184	the RFX5 fusion protein
+T38	Exp 1336 1356	the yeast two-hybrid
+T39	Exp 1648 1670	the DNA binding domain
+T40	Exp 1683 1718	the general transcription apparatus
+T41	Exp 1735 1763	the acidic activation domain
+T42	Exp 1596 1608	this complex
+T44	SPAN 99 113	CIITA and RFX5
+R5	Coref Anaphora:T25 Antecedent:T44
+R6	Coref Anaphora:T27 Antecedent:T3
+R7	Coref Anaphora:T30 Antecedent:T4
+R8	Coref Anaphora:T34 Antecedent:T43
+T1	Protein 99 104	CIITA
+T2	Protein 109 113	RFX5
+T3	Protein 321 325	RFX5
+T4	Protein 398 403	CIITA
+T5	Protein 567 571	RFX5
+T6	Protein 585 589	GAL4
+T7	Protein 670 674	GAL4
+T8	Protein 835 851	interferon gamma
+T9	Protein 905 910	CIITA
+T10	Protein 1110 1115	CIITA
+T11	Protein 1165 1169	RFX5
+T12	Protein 1239 1244	CIITA
+T13	Protein 1303 1307	RFX5
+T14	Protein 1312 1317	CIITA
+T15	Protein 1392 1396	RFX5
+T16	Protein 1449 1454	CIITA
+T17	Protein 1456 1460	RFX5
+T18	Protein 1465 1470	CIITA
+T19	Protein 1674 1678	RFX5
+T20	Protein 1767 1772	CIITA
+T43	Exp 1081 1085	Raji

@@ -1,0 +1,31 @@
+T1	Protein 397 411	macrophage-CSF
+T2	Protein 413 418	M-CSF
+T3	Protein 478 483	M-CSF
+T4	Protein 736 741	M-CSF
+T5	Protein 870 875	c-jun
+T6	Protein 950 955	M-CSF
+T7	Protein 1028 1033	c-jun
+T8	Protein 1108 1113	M-CSF
+T9	Protein 1283 1288	M-CSF
+T10	Protein 1377 1380	hck
+T11	Protein 1590 1595	c-jun
+T12	Protein 1600 1603	hck
+T13	Protein 1641 1646	c-jun
+T14	Protein 1648 1651	hck
+T15	Protein 1707 1712	M-CSF
+T16	Exp 222 252	immediate early response genes
+T17	Exp 258 263	their
+T18	Exp 423 438	human monocytes	429 438	monocytes
+T19	Exp 439 443	that
+T20	Exp 870 913	c-jun, fibronectin receptor, and actin mRNA
+T21	Exp 1011 1022	these genes
+T22	Exp 1155 1190	actin and fibronectin receptor mRNA
+T23	Exp 1233 1244	these genes	1239 1244	genes
+T24	Exp 1406 1446	the other immediate early response genes	1441 1446	genes
+T25	Exp 1721 1751	immediate early response genes	1746 1751	genes
+T26	Exp 1789 1800	These genes	1795 1800	genes
+R1	Coref Anaphora:T17 Antecedent:T16
+R2	Coref Anaphora:T19 Antecedent:T18
+R3	Coref Anaphora:T21 Antecedent:T20	[T5]
+R4	Coref Anaphora:T23 Antecedent:T22
+R5	Coref Anaphora:T26 Antecedent:T25

@@ -1,0 +1,34 @@
+T18	Exp 212 220	the sera
+T19	Exp 349 351	We
+T20	Exp 379 393	the IL-2Ralpha
+T21	Exp 480 520	the mechanism Mycobacterium tuberculosis
+T22	Exp 532 546	the IL-2Ralpha
+T23	Exp 553 562	the THP-1
+T24	Exp 596 598	We
+T25	Exp 724 739	the alpha-chain
+T26	Exp 958 963	which
+T27	Exp 1017 1040	The IL-2Ralpha promoter
+T28	Exp 1052 1078	the nuclear factor kappa B
+T29	Exp 1149 1168	this NF-kappaB site
+T30	Exp 1365 1383	the NF-kappaB site
+T31	Exp 1446 1470	the p50 and p65 subunits
+T32	Exp 1494 1509	the involvement
+T33	Exp 1590 1604	the IL-2Ralpha
+T34	Exp 1707 1724	the host response
+R3	Coref Anaphora:T26 Antecedent:T35
+T1	Protein 133 161	interleukin-2 receptor-alpha
+T2	Protein 163 173	IL-2Ralpha
+T3	Protein 383 393	IL-2Ralpha
+T4	Protein 536 546	IL-2Ralpha
+T5	Protein 605 615	IL-2Ralpha
+T6	Protein 743 753	IL-2Ralpha
+T7	Protein 892 902	IL-2Ralpha
+T8	Protein 987 1003	interferon-gamma
+T9	Protein 1005 1014	IFN-gamma
+T10	Protein 1021 1031	IL-2Ralpha
+T11	Protein 1450 1453	p50
+T12	Protein 1458 1461	p65
+T13	Protein 1518 1521	p50
+T14	Protein 1526 1529	p65
+T15	Protein 1594 1604	IL-2Ralpha
+T35	Exp 942 957	M. tuberculosis

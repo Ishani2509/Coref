@@ -1,0 +1,10 @@
+T1	Exp 233 244	This review
+T2	Exp 359 381	The structural classes
+T3	Exp 518 557	the most important trans-acting factors
+T4	Exp 623 650	their functional importance
+T5	Exp 746 750	that
+T6	Exp 836 870	their potential clinical relevance
+T7	Exp 798 806	The data
+R3	Coref Anaphora:T4 Antecedent:T8
+R4	Coref Anaphora:T6 Antecedent:T7
+T8	Exp 604 617	STAT families

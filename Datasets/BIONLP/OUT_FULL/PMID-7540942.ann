@@ -1,0 +1,32 @@
+T12	Exp 221 226	which
+T13	Exp 97 122	the tumor necrosis factor
+T14	Exp 177 188	the surface
+T15	Exp 192 219	the human T cell line ACH-2
+T16	Exp 301 303	We
+T17	Exp 316 320	that
+T18	Exp 388 393	which
+T19	Exp 401 436	the described biological activities
+T20	Exp 440 455	the CD30 ligand
+T21	Exp 559 572	the induction
+T22	Exp 836 840	that
+T23	Exp 773 786	the induction
+T24	Exp 999 1004	where
+T25	Exp 899 913	the activation
+T26	Exp 864 878	This mechanism
+R5	Coref Anaphora:T12 Antecedent:T15
+R6	Coref Anaphora:T18 Antecedent:T4
+R7	Coref Anaphora:T22 Antecedent:T27
+R8	Coref Anaphora:T24 Antecedent:T28
+T1	Protein 17 21	CD30
+T2	Protein 79 83	CD30
+T3	Protein 335 339	CD30
+T4	Protein 353 357	CD30
+T5	Protein 444 455	CD30 ligand
+T6	Protein 457 462	CD30L
+T7	Protein 492 496	CD30
+T8	Protein 667 671	CD30
+T9	Protein 741 745	CD30
+T10	Protein 746 751	CD30L
+T11	Protein 955 958	CD4
+T27	Exp 808 835	a kappa B-dependent pathway
+T28	Exp 983 998	lymphoid organs

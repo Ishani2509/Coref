@@ -1,0 +1,9 @@
+T1	Protein 691 694	fos
+T2	Protein 699 702	jun
+T3	Protein 890 916	B-cell lymphoma/leukemia-2
+T4	Exp 271 289	a variety of genes	284 289	genes
+T5	Exp 290 294	that
+T6	Exp 402 442	the nuclear transcription factor kappa B	414 434	transcription factor
+T7	Exp 444 449	which
+R1	Coref Anaphora:T5 Antecedent:T4
+R2	Coref Anaphora:T7 Antecedent:T6

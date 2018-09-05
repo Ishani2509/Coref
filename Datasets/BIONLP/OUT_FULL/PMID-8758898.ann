@@ -1,0 +1,15 @@
+T2	Exp 125 129	that
+T3	Exp 242 244	We
+T4	Exp 272 276	that
+T5	Exp 263 271	the role
+T6	Exp 477 481	that
+T7	Exp 358 397	the dominant negative C/EBP protein LIP
+T8	Exp 691 695	that
+T9	Exp 815 828	their ability
+T10	Exp 881 885	that
+T11	Exp 886 897	these sites
+T12	Exp 928 938	These data
+R3	Coref Anaphora:T4 Antecedent:T5
+R4	Coref Anaphora:T9 Antecedent:T13
+T1	Protein 574 581	NF-IL-6
+T13	Exp 749 774	HIV-1 harboring mutations

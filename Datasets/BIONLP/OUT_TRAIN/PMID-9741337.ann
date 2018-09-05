@@ -1,0 +1,38 @@
+T18	Exp 133 145	The capacity
+T19	Exp 232 234	We
+T20	Exp 502 506	when
+T21	Exp 485 496	both groups
+T22	Exp 695 707	The addition
+T23	Exp 792 807	both cell types
+T24	Exp 1052 1054	we
+T25	Exp 1280 1282	we
+T26	Exp 1069 1094	its nuclear translocation
+T27	Exp 1020 1031	the control
+T28	Exp 1131 1171	the electrophoretic mobility shift assay
+T29	Exp 1250 1264	the activation
+T30	Exp 1346 1383	the ROI-reactive fluorochrome DCFH-DA
+T31	Exp 1328 1339	these cells
+T32	Exp 1705 1714	the cells
+T33	Exp 1764 1775	Our results
+T34	Exp 1784 1788	that
+T35	Exp 1907 1911	that
+T36	Exp 1957 1994	the ROI-NF-kappa B signalling pathway
+T37	Exp 1912 1928	these activators
+R2	Coref Anaphora:T26 Antecedent:T13
+T1	Protein 8 12	CD28
+T2	Protein 21 34	interleukin-2
+T3	Protein 177 190	interleukin-2
+T4	Protein 192 196	IL-2
+T5	Protein 244 248	IL-2
+T6	Protein 419 423	CD28
+T7	Protein 470 474	IL-2
+T8	Protein 575 579	IL-2
+T9	Protein 665 669	IL-2
+T10	Protein 716 720	CD28
+T11	Protein 773 777	IL-2
+T12	Protein 823 827	IL-2
+T13	Protein 1035 1039	IL-2
+T14	Protein 1559 1563	CD28
+T15	Protein 1748 1752	IL-2
+T16	Protein 1797 1801	IL-2
+T17	Protein 1877 1881	CD28

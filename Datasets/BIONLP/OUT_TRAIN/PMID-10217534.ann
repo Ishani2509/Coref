@@ -1,0 +1,28 @@
+T1	Exp 46 61	its metabolites
+T2	Exp 264 266	We
+T3	Exp 355 370	its metabolites
+T4	Exp 291 314	the cellular metabolism
+T5	Exp 496 502	itself
+T6	Exp 507 518	the surface
+T7	Exp 771 775	that
+T8	Exp 675 694	the parent compound
+T9	Exp 867 871	that
+T10	Exp 1224 1252	the direct cytotoxic effects
+T11	Exp 1373 1390	the hydroxylamine
+T12	Exp 1406 1417	Our results
+T13	Exp 1471 1492	its toxic metabolites
+T14	Exp 1497 1512	their reduction
+T15	Exp 1426 1430	that
+T16	Exp 1431 1442	the balance
+T17	Exp 1599 1620	the toxic metabolites
+T18	Exp 1650 1661	the surface
+R6	Coref Anaphora:T1 Antecedent:T19
+R7	Coref Anaphora:T3 Antecedent:T20
+R8	Coref Anaphora:T5 Antecedent:T21
+R9	Coref Anaphora:T13 Antecedent:T22
+R10	Coref Anaphora:T14 Antecedent:T23
+T19	Exp 24 41	sulphamethoxazole
+T20	Exp 347 350	SMX
+T21	Exp 492 495	SMX
+T22	Exp 1464 1467	SMX
+T23	Exp 1314 1329	red blood cells

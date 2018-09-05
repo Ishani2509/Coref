@@ -1,0 +1,42 @@
+T1	Protein 79 82	Tax
+T2	Protein 96 99	p16
+T3	Protein 100 105	INK4A
+T4	Protein 322 325	Tax
+T5	Protein 453 456	p16
+T6	Protein 457 462	INK4A
+T7	Protein 479 482	Tax
+T8	Protein 665 668	Tax
+T9	Protein 731 734	p16
+T10	Protein 735 740	INK4A
+T11	Protein 756 759	Tax
+T12	Protein 784 789	E2F-1
+T13	Protein 852 855	p16
+T14	Protein 856 861	INK4A
+T15	Protein 1081 1084	Tax
+T16	Protein 1126 1131	E2F-1
+T17	Protein 1151 1154	Tax
+T18	Protein 1273 1278	E2F-1
+T19	Protein 1306 1309	Tax
+T20	Protein 1351 1355	E2F1
+T21	Protein 1425 1430	E2F-1
+T22	Exp 234 253	the exact mechanism	244 253	mechanism
+T23	Exp 257 262	which
+T24	Exp 318 333	the Tax protein	326 333	protein
+T25	Exp 383 406	This 40-kDa polypeptide	395 406	polypeptide
+T26	Exp 496 517	the signaling pathway	510 517	pathway
+T27	Exp 518 522	that
+T28	Exp 546 549	E2F
+T29	Exp 550 554	that
+T30	Exp 756 759	Tax
+T31	Exp 814 825	CEM T-cells
+T32	Exp 827 832	which
+T33	Exp 864 866	it
+T34	Exp 1151 1162	Tax mutants	1155 1162	mutants
+T35	Exp 1163 1167	that
+R1	Coref Anaphora:T23 Antecedent:T22
+R2	Coref Anaphora:T25 Antecedent:T24	[T4]
+R3	Coref Anaphora:T27 Antecedent:T26
+R4	Coref Anaphora:T29 Antecedent:T28
+R5	Coref Anaphora:T32 Antecedent:T31
+R6	Coref Anaphora:T33 Antecedent:T30	[T11]
+R7	Coref Anaphora:T35 Antecedent:T34	[T17]

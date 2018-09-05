@@ -1,0 +1,35 @@
+T1	Protein 14 26	sialoadhesin
+T2	Protein 106 114	IFN-beta
+T3	Protein 116 125	IFN-gamma
+T4	Protein 127 131	IL-4
+T5	Protein 158 170	Sialoadhesin
+T6	Protein 451 463	sialoadhesin
+T7	Protein 526 538	sialoadhesin
+T8	Protein 637 645	IFN-beta
+T9	Protein 647 656	IFN-gamma
+T10	Protein 658 662	IL-4
+T11	Protein 699 711	sialoadhesin
+T12	Protein 784 796	sialoadhesin
+T13	Protein 798 810	Sialoadhesin
+T14	Protein 1115 1127	sialoadhesin
+T15	Protein 1145 1153	IFN-beta
+T16	Protein 1158 1162	IL-4
+T17	Protein 1186 1195	IFN-gamma
+T18	Protein 1230 1239	IFN-gamma
+T19	Protein 1288 1296	IFN-beta
+T20	Protein 1301 1305	IL-4
+T21	Protein 1362 1374	sialoadhesin
+T22	Protein 1406 1417	GC receptor
+T23	Protein 1430 1456	mineralocorticoid receptor
+T24	Protein 1639 1651	sialoadhesin
+T25	Protein 1713 1725	sialoadhesin
+T26	Protein 1798 1806	IFN-beta
+T27	Exp 158 170	Sialoadhesin
+T28	Exp 174 226	a macrophage-restricted member of the Ig superfamily	198 204	member
+T29	Exp 227 231	that
+T30	Exp 283 285	It
+T31	Exp 623 671	The cytokines IFN-beta, IFN-gamma, IL-4, and LPS
+T32	Exp 726 736	themselves
+R1	Coref Anaphora:T29 Antecedent:T28
+R2	Coref Anaphora:T30 Antecedent:T27	[T5]
+R3	Coref Anaphora:T32 Antecedent:T31	[T8, T9, T10]

@@ -1,0 +1,29 @@
+T12	Exp 68 98	its intracellular localization
+T13	Exp 319 321	we
+T14	Exp 299 317	these observations
+T15	Exp 410 415	which
+T16	Exp 428 458	the intracellular localization
+T17	Exp 480 493	the cytoplasm
+T18	Exp 500 516	the cell surface
+T19	Exp 518 529	the chimera
+T20	Exp 581 608	the T cell antigen receptor
+T21	Exp 726 731	which
+T22	Exp 760 775	These mutations
+T23	Exp 972 976	they
+T24	Exp 938 966	its N-terminal myristylation
+T25	Exp 847 871	these positional effects
+R4	Coref Anaphora:T12 Antecedent:T1
+R5	Coref Anaphora:T24 Antecedent:T26
+R6	Coref Anaphora:T23 Antecedent:T22
+T1	Protein 6 9	Nef
+T2	Protein 101 104	Nef
+T3	Protein 227 230	Nef
+T4	Protein 345 348	Nef
+T5	Protein 462 465	Nef
+T6	Protein 680 683	nef
+T7	Protein 711 714	Nef
+T8	Protein 741 744	Nef
+T9	Protein 875 878	Nef
+T10	Protein 911 914	Nef
+T11	Protein 1001 1004	Nef
+T26	Exp 927 933	a role

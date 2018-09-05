@@ -1,0 +1,4 @@
+T1	Protein 1038 1045	HLA-DRA
+T2	Exp 237 245	Clone-13
+T3	Exp 247 251	that
+R1	Coref Anaphora:T3 Antecedent:T2

@@ -1,0 +1,18 @@
+T3	Exp 113 174	the oxidative-stress sensitive transcription factor NF-kappaB
+T4	Exp 233 267	the transcription factor NF-kappaB
+T5	Exp 287 302	the development
+T6	Exp 453 455	we
+T7	Exp 555 557	us
+T8	Exp 541 546	which
+T9	Exp 648 650	We
+T10	Exp 988 998	the degree
+T11	Exp 1180 1185	which
+T12	Exp 1196 1225	the antioxidant thioctic acid
+T13	Exp 1487 1521	the transcription factor NF-kappaB
+T14	Exp 1628 1638	the degree
+R3	Coref Anaphora:T8 Antecedent:T15
+R4	Coref Anaphora:T11 Antecedent:T16
+T1	Protein 889 901	NF-kappaBp65
+T2	Protein 1035 1049	thrombomodulin
+T15	Exp 507 540	semiquantitative detection system
+T16	Exp 1150 1176	a 3 day intervention study

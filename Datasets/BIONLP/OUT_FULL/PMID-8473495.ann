@@ -1,0 +1,38 @@
+T12	Exp 228 230	We
+T13	Exp 374 378	that
+T14	Exp 341 353	the activity
+T15	Exp 387 404	the IL-2 promoter
+T16	Exp 631 656	their corresponding sites
+T17	Exp 543 554	the binding
+T18	Exp 660 682	the IL-2 gene promoter
+T19	Exp 847 849	we
+T20	Exp 789 816	the structural requirements
+T21	Exp 974 982	its AP-1
+T22	Exp 946 970	the intact IL-2 promoter
+T23	Exp 1023 1040	the IL-2 promoter
+T24	Exp 1045 1053	the AP-1
+T25	Exp 1063 1072	the NF-AT
+T26	Exp 1120 1137	the IL-2 promoter
+T27	Exp 1142 1151	the NF-AT
+T28	Exp 1161 1169	the AP-1
+T29	Exp 1212 1216	that
+T30	Exp 1190 1203	These results
+T31	Exp 1355 1357	We
+T32	Exp 1366 1370	that
+T33	Exp 1462 1480	the primary target
+R4	Coref Anaphora:T13 Antecedent:T34
+R5	Coref Anaphora:T16 Antecedent:T35
+R6	Coref Anaphora:T21 Antecedent:T22
+T1	Protein 45 58	interleukin 2
+T2	Protein 60 64	IL-2
+T3	Protein 163 167	IL-2
+T4	Protein 297 301	IL-2
+T5	Protein 391 395	IL-2
+T6	Protein 664 668	IL-2
+T7	Protein 821 825	IL-2
+T8	Protein 957 961	IL-2
+T9	Protein 1027 1031	IL-2
+T10	Protein 1124 1128	IL-2
+T11	Protein 1267 1271	IL-2
+T34	Exp 357 373	nuclear proteins
+T35	Exp 406 422	Nuclear extracts

@@ -1,0 +1,57 @@
+T21	Exp 165 169	both
+T22	Exp 26 59	the interleukin-2-gene expression
+T23	Exp 96 121	the transcriptional level
+T24	Exp 135 161	the DNA binding activities
+T25	Exp 255 257	we
+T26	Exp 235 253	the present report
+T27	Exp 266 274	the role
+T28	Exp 278 306	the stromal-derived cytokine
+T29	Exp 331 355	the IL-2-gene regulation
+T30	Exp 412 425	the formation
+T31	Exp 463 487	the IL-2-gene regulation
+T32	Exp 537 551	the activation
+T33	Exp 673 700	the CD28 responsive complex
+T34	Exp 738 753	the CD28 signal
+T35	Exp 996 1000	that
+T36	Exp 929 961	The IL-2-gene transcription rate
+T37	Exp 1001 1011	the effect
+T38	Exp 1043 1068	the transcriptional level
+T39	Exp 1263 1268	which
+T40	Exp 1070 1094	The molecular mechanisms
+T41	Exp 1106 1121	the IL-7 effect
+T42	Exp 1130 1146	the upregulation
+T43	Exp 1150 1174	the DNA binding activity
+T44	Exp 1224 1238	the activities
+T45	Exp 1307 1309	We
+T46	Exp 1320 1324	that
+T47	Exp 1325 1353	the IL-7-induced enhancement
+T48	Exp 1357 1386	the AP-1-DNA binding activity
+T49	Exp 1459 1461	we
+T50	Exp 1471 1475	that
+T51	Exp 1564 1569	which
+T52	Exp 1441 1457	the NFAT complex
+T53	Exp 1476 1502	the IL-7-signaling pathway
+T54	Exp 1518 1532	the activation
+T55	Exp 1536 1560	the fos and jun proteins
+R3	Coref Anaphora:T39 Antecedent:T56
+R4	Coref Anaphora:T51 Antecedent:T55
+T1	Protein 0 13	Interleukin-7
+T2	Protein 30 43	interleukin-2
+T3	Protein 307 320	interleukin-7
+T4	Protein 322 326	IL-7
+T5	Protein 335 339	IL-2
+T6	Protein 398 402	IL-2
+T7	Protein 467 471	IL-2
+T8	Protein 742 746	CD28
+T9	Protein 772 790	phytohemagglutinin
+T10	Protein 796 800	CD28
+T11	Protein 830 834	IL-7
+T12	Protein 863 867	IL-2
+T13	Protein 933 937	IL-2
+T14	Protein 1015 1019	IL-7
+T15	Protein 1110 1114	IL-7
+T16	Protein 1329 1333	IL-7
+T17	Protein 1480 1484	IL-7
+T18	Protein 1540 1543	fos
+T19	Protein 1548 1551	jun
+T56	Exp 1255 1261	CD28RC

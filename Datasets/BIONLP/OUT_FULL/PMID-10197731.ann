@@ -1,0 +1,36 @@
+T7	Exp 13 23	the effect
+T8	Exp 400 417	the translocation
+T9	Exp 421 450	the active p65-50 heterodimer
+T10	Exp 454 465	the nucleus
+T11	Exp 507 518	the elderly
+T12	Exp 520 522	We
+T13	Exp 540 544	that
+T14	Exp 578 592	the inhibition
+T15	Exp 696 710	the activation
+T16	Exp 714 726	the NFkappaB
+T17	Exp 731 743	this pathway
+T18	Exp 775 777	it
+T19	Exp 791 795	that
+T20	Exp 821 836	the sensitivity
+T21	Exp 840 856	this phosphatase
+T22	Exp 923 937	the inhibition
+T23	Exp 1013 1015	we
+T24	Exp 1133 1149	its interference
+T25	Exp 1207 1228	its inhibitory effect
+T26	Exp 1028 1032	that
+T27	Exp 1155 1174	the phosphorylation
+T28	Exp 1289 1293	that
+T29	Exp 1314 1333	the phosphorylation
+T30	Exp 1338 1363	the regulated degradation
+T31	Exp 1416 1441	the chymotryptic activity
+T32	Exp 1445 1459	the proteasome
+T33	Exp 1257 1267	These data
+R3	Coref Anaphora:T24 Antecedent:T34
+R4	Coref Anaphora:T25 Antecedent:T34
+T1	Protein 152 165	IkappaB-alpha
+T2	Protein 380 389	TNF-alpha
+T3	Protein 618 627	TNF-alpha
+T4	Protein 1054 1067	IkappaB-alpha
+T5	Protein 1178 1191	IkappaB-alpha
+T6	Protein 1367 1380	IkappaB-alpha
+T34	Exp 1033 1042	a failure

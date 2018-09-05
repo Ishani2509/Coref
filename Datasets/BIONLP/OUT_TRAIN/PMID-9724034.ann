@@ -1,0 +1,15 @@
+T4	Exp 444 448	that
+T5	Exp 485 496	the ability
+T6	Exp 595 599	that
+T7	Exp 938 942	that
+T8	Exp 801 815	the first 18 h
+T9	Exp 908 925	the entire period
+T10	Exp 1172 1182	the amount
+T11	Exp 1344 1348	that
+T12	Exp 1482 1486	that
+T13	Exp 1460 1473	These results
+R2	Coref Anaphora:T4 Antecedent:T14
+T1	Protein 1201 1214	IkappaB alpha
+T2	Protein 1413 1426	IkappaB alpha
+T3	Protein 1535 1548	IkappaB alpha
+T14	Exp 437 442	L753F

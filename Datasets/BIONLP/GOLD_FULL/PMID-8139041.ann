@@ -1,0 +1,30 @@
+T1	Protein 94 97	pol
+T2	Protein 345 348	pol
+T3	Protein 462 469	DNase I
+T4	Protein 474 494	micrococcal nuclease
+T5	Protein 1232 1236	PU.1
+T6	Protein 1237 1242	Spi-1
+T7	Protein 1364 1368	Ets1
+T8	Protein 1501 1505	PU.1
+T9	Protein 1506 1511	Spi-1
+T10	Protein 1552 1555	Sp1
+T11	Protein 1781 1784	pol
+T12	Exp 578 595	A 500-bp fragment
+T13	Exp 720 722	it
+T14	Exp 737 740	its
+T15	Exp 970 1002	this positive regulatory element
+T16	Exp 1247 1266	most HIV-1 isolates
+T17	Exp 1270 1275	which
+T18	Exp 1276 1287	this PU box
+T19	Exp 1307 1309	it
+T20	Exp 1418 1443	a DNA-binding specificity
+T21	Exp 1455 1459	that
+T22	Exp 1793 1798	HIV-1
+T23	Exp 1816 1819	its
+R1	Coref Anaphora:T13 Antecedent:T12
+R2	Coref Anaphora:T14 Antecedent:T12
+R3	Coref Anaphora:T15 Antecedent:T12
+R4	Coref Anaphora:T17 Antecedent:T16
+R5	Coref Anaphora:T19 Antecedent:T18
+R6	Coref Anaphora:T21 Antecedent:T20
+R7	Coref Anaphora:T23 Antecedent:T22

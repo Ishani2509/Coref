@@ -1,0 +1,10 @@
+T1	Protein 669 697	EBV nuclear antigen (EBNA) 1
+T2	Protein 712 717	EBNA2
+T3	Protein 870 875	EBNA2
+T4	Protein 882 914	Latent membrane protein (LMP) 2A
+T5	Protein 975 979	LMP1
+T6	Protein 984 989	LMP2B
+T7	Protein 1124 1129	BZLF1
+T8	Exp 1113 1122	all cases	1117 1122	cases
+T9	Exp 1225 1229	them
+R1	Coref Anaphora:T9 Antecedent:T8

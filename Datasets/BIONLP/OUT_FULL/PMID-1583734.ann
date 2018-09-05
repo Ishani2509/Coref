@@ -1,0 +1,35 @@
+T17	Exp 150 155	which
+T18	Exp 182 204	the tat-I gene product
+T19	Exp 358 360	we
+T20	Exp 309 330	the NF-kappa B family
+T21	Exp 375 388	the abilities
+T22	Exp 345 356	this effect
+T23	Exp 502 504	We
+T24	Exp 516 520	that
+T25	Exp 521 553	the p49(100) DNA binding subunit
+T26	Exp 617 631	the expression
+T27	Exp 770 775	which
+T28	Exp 793 809	the HIV enhancer
+T29	Exp 813 824	these cells
+T30	Exp 849 853	that
+T31	Exp 854 869	the combination
+T32	Exp 925 947	the tat-I gene product
+T33	Exp 961 974	the synthesis
+T34	Exp 826 840	These findings
+R3	Coref Anaphora:T17 Antecedent:T35
+R4	Coref Anaphora:T27 Antecedent:T11
+T1	Protein 49 52	Tat
+T2	Protein 186 191	tat-I
+T3	Protein 434 439	Tat-I
+T4	Protein 525 533	p49(100)
+T5	Protein 569 572	p65
+T6	Protein 598 603	Tat-I
+T7	Protein 639 642	CAT
+T8	Protein 700 704	p105
+T9	Protein 719 722	rel
+T10	Protein 744 747	p65
+T11	Protein 763 768	c-rel
+T12	Protein 873 881	p49(100)
+T13	Protein 886 889	p65
+T14	Protein 929 934	tat-I
+T35	Exp 132 149	a protein complex

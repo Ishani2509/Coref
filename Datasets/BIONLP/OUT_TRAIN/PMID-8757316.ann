@@ -1,0 +1,39 @@
+T18	Exp 124 135	the absence
+T19	Exp 185 212	The integrin alpha 4 beta 1
+T20	Exp 388 390	we
+T21	Exp 404 408	that
+T22	Exp 456 460	when
+T23	Exp 518 531	the induction
+T24	Exp 709 725	The requirements
+T25	Exp 775 791	the requirements
+T26	Exp 796 809	the secretion
+T27	Exp 1123 1127	that
+T28	Exp 1208 1212	both
+T29	Exp 1068 1085	the dose response
+T30	Exp 1178 1191	the same dose
+T31	Exp 1265 1273	the dose
+T32	Exp 1330 1348	the same using PMA
+T33	Exp 1521 1534	its substrate
+T34	Exp 1487 1502	the interaction
+T35	Exp 1506 1515	the cells
+T36	Exp 1536 1538	We
+T37	Exp 1557 1561	that
+T38	Exp 1632 1636	that
+R3	Coref Anaphora:T33 Antecedent:T34
+R4	Coref Anaphora:T38 Antecedent:T39
+T1	Protein 0 36	Alpha 4 beta 1 (CD49d/CD29) integrin
+T2	Protein 189 212	integrin alpha 4 beta 1
+T3	Protein 248 252	IL-2
+T4	Protein 267 272	IL-2R
+T5	Protein 382 386	IL-2
+T6	Protein 421 454	vascular-cell adhesion molecule-1
+T7	Protein 632 646	alpha 4 beta 1
+T8	Protein 843 847	IL-2
+T9	Protein 849 858	TNF-alpha
+T10	Protein 860 869	IFN-gamma
+T11	Protein 875 901	granulocyte macrophage-CSF
+T12	Protein 1154 1158	IL-2
+T13	Protein 1380 1394	alpha 4 beta 1
+T14	Protein 1432 1446	alpha 4 beta 1
+T15	Protein 1562 1576	alpha 4 beta 1
+T39	Exp 1614 1631	a distinct signal

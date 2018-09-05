@@ -1,0 +1,55 @@
+T26	Exp 30 52	the interleukin-2 gene
+T27	Exp 234 255	the active metabolite
+T28	Exp 414 416	We
+T29	Exp 526 528	it
+T30	Exp 429 433	that
+T31	Exp 521 525	that
+T32	Exp 597 620	the vitamin D3 receptor
+T33	Exp 628 630	We
+T34	Exp 832 834	We
+T35	Exp 1042 1047	which
+T36	Exp 888 900	the receptor
+T37	Exp 1223 1249	the VDR DNA-binding domain
+T38	Exp 1272 1283	the element
+T39	Exp 1181 1193	this element
+T40	Exp 1351 1355	that
+T41	Exp 1328 1341	These results
+T42	Exp 1486 1488	we
+T43	Exp 1498 1506	the loss
+T44	Exp 1510 1591	the bound NFATp/AP-1-DNA complex upon inclusion of VDR or VDR-retinoid X receptor
+T45	Exp 1645 1649	that
+T46	Exp 1650 1689	the VDR-retinoid X receptor heterodimer
+T47	Exp 1758 1777	the NF-AT-1 element
+T48	Exp 1920 1923	how
+T49	Exp 1865 1878	the IL-2 gene
+T50	Exp 1779 1801	This direct inhibition
+R5	Coref Anaphora:T29 Antecedent:T51
+R6	Coref Anaphora:T36 Antecedent:T10
+R7	Coref Anaphora:T35 Antecedent:T11
+R8	Coref Anaphora:T39 Antecedent:T12
+R9	Coref Anaphora:T38 Antecedent:T12
+T1	Protein 34 47	interleukin-2
+T2	Protein 89 94	NFATp
+T3	Protein 308 321	interleukin 2
+T4	Protein 323 327	IL-2
+T5	Protein 578 582	IL-2
+T6	Protein 601 620	vitamin D3 receptor
+T7	Protein 622 625	VDR
+T8	Protein 694 698	IL-2
+T9	Protein 746 750	IL-2
+T10	Protein 786 789	VDR
+T11	Protein 1033 1040	NF-AT-1
+T12	Protein 1100 1105	NFATp
+T13	Protein 1127 1130	VDR
+T14	Protein 1227 1230	VDR
+T15	Protein 1311 1315	IL-2
+T16	Protein 1371 1374	VDR
+T17	Protein 1418 1422	IL-2
+T18	Protein 1520 1525	NFATp
+T19	Protein 1561 1564	VDR
+T20	Protein 1568 1571	VDR
+T21	Protein 1654 1657	VDR
+T22	Protein 1697 1702	NFATp
+T23	Protein 1762 1769	NF-AT-1
+T24	Protein 1869 1873	IL-2
+T51	Exp 485 508	cycloheximide resistant

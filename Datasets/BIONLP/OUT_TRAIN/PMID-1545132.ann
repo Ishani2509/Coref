@@ -1,0 +1,52 @@
+T18	Exp 32 68	the activation-inducer molecule/CD69
+T19	Exp 78 90	the activity
+T20	Exp 122 135	The induction
+T21	Exp 139 168	the AP-1 transcription factor
+T22	Exp 190 206	the early events
+T23	Exp 257 259	We
+T24	Exp 273 287	the regulation
+T25	Exp 364 395	the activation inducer molecule
+T26	Exp 524 541	the proliferation
+T27	Exp 725 745	its cognate sequence
+T28	Exp 616 620	that
+T29	Exp 693 713	the binding activity
+T30	Exp 747 781	the phorbol ester response element
+T31	Exp 838 858	the binding activity
+T32	Exp 951 963	The increase
+T33	Exp 1008 1030	the marked stimulation
+T34	Exp 1034 1051	the transcription
+T35	Exp 1096 1121	the DNA-binding complexes
+T36	Exp 1191 1209	the AP-1 complexes
+T37	Exp 1281 1285	when
+T38	Exp 1380 1384	that
+T39	Exp 1243 1260	the AP-1 activity
+T40	Exp 1286 1302	the anti-AIM mAb
+T41	Exp 1316 1334	the culture medium
+T42	Exp 1338 1350	the presence
+T43	Exp 1426 1439	the induction
+T44	Exp 1498 1502	that
+T45	Exp 1485 1497	the evidence
+T46	Exp 1556 1582	the AIM activation pathway
+T47	Exp 1592 1604	the activity
+T48	Exp 1466 1476	These data
+T49	Exp 1667 1681	the initiation
+T50	Exp 1625 1637	this pathway
+R3	Coref Anaphora:T27 Antecedent:T29
+R4	Coref Anaphora:T44 Antecedent:T45
+T1	Protein 36 63	activation-inducer molecule
+T2	Protein 64 68	CD69
+T3	Protein 368 395	activation inducer molecule
+T4	Protein 397 400	AIM
+T5	Protein 402 406	CD69
+T6	Protein 465 468	AIM
+T7	Protein 469 473	CD69
+T8	Protein 578 581	AIM
+T9	Protein 638 641	AIM
+T10	Protein 801 804	AIM
+T11	Protein 1055 1060	c-fos
+T12	Protein 1077 1082	c-jun
+T13	Protein 1135 1138	Fos
+T14	Protein 1182 1187	c-Fos
+T15	Protein 1226 1229	AIM
+T16	Protein 1295 1298	AIM
+T17	Protein 1560 1563	AIM

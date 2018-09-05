@@ -1,0 +1,12 @@
+T2	Exp 0 35	The T cell activation factor NF-ATc
+T3	Exp 259 279	the peripheral blood
+T4	Exp 410 414	that
+T5	Exp 395 409	The hypothesis
+T6	Exp 415 433	the nuclear factor
+T7	Exp 525 546	the tight correlation
+T8	Exp 604 606	We
+T9	Exp 614 618	that
+T10	Exp 671 681	the kappaB
+T11	Exp 818 831	These results
+R2	Coref Anaphora:T4 Antecedent:T5
+T1	Protein 732 735	Tat

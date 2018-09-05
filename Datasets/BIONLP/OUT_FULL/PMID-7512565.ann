@@ -1,0 +1,37 @@
+T19	Exp 29 62	the monocytic specific expression
+T20	Exp 168 182	its expression
+T21	Exp 212 223	the process
+T22	Exp 293 312	the human CD14 gene
+T23	Exp 415 451	the full-length CD14 coding sequence
+T24	Exp 617 650	the protein translation start ATG
+T25	Exp 757 803	the CD14 positive monocytic cell line Mono Mac
+T26	Exp 821 853	the nonmonocytic cell lines HeLa
+T27	Exp 879 896	this DNA fragment
+T28	Exp 959 987	The Sp1 transcription factor
+T29	Exp 1024 1041	the CD14 promoter
+T30	Exp 1211 1215	that
+T31	Exp 1055 1081	the major Sp1 binding site
+T32	Exp 1245 1275	the tissue-specific expression
+T33	Exp 1141 1154	these results
+T34	Exp 1382 1387	which
+T35	Exp 1428 1600	monocytic than non-monocytic cells, suggesting that modification of Sp1, such as phosphorylation, may explain how the Sp1 site mediates monocytic specific promoter activity
+R3	Coref Anaphora:T20 Antecedent:T3
+R4	Coref Anaphora:T34 Antecedent:T16
+T1	Protein 0 3	Sp1
+T2	Protein 72 76	CD14
+T3	Protein 79 83	CD14
+T4	Protein 271 275	CD14
+T5	Protein 303 307	CD14
+T6	Protein 339 344	EcoRI
+T7	Protein 431 435	CD14
+T8	Protein 761 765	CD14
+T9	Protein 963 966	Sp1
+T10	Protein 1028 1032	CD14
+T11	Protein 1065 1068	Sp1
+T12	Protein 1216 1219	Sp1
+T13	Protein 1279 1283	CD14
+T14	Protein 1304 1308	CD14
+T15	Protein 1309 1312	Sp1
+T16	Protein 1369 1372	Sp1
+T17	Protein 1496 1499	Sp1
+T18	Protein 1546 1549	Sp1

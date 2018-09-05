@@ -1,0 +1,37 @@
+T7	Exp 38 42	that
+T8	Exp 63 80	the 65-kD subunit
+T9	Exp 171 175	that
+T10	Exp 209 233	the proto-oncogene c-rel
+T11	Exp 235 266	the Drosophila morphogen dorsal
+T12	Exp 272 299	the p50 DNA binding subunit
+T13	Exp 370 399	the polymerase chain reaction
+T14	Exp 503 507	that
+T15	Exp 439 449	This probe
+T16	Exp 631 652	the complementary DNA
+T17	Exp 665 678	the synthesis
+T18	Exp 748 770	The translated protein
+T19	Exp 818 843	the kappa B binding motif
+T20	Exp 886 897	the complex
+T21	Exp 912 943	the purified human p65 NF-kappa
+T22	Exp 845 869	This protein-DNA complex
+T23	Exp 1032 1049	the 65-kD protein
+T24	Exp 1066 1081	the p50 subunit
+T25	Exp 1100 1117	the kappa B probe
+T26	Exp 1141 1174	the same electrophoretic mobility
+T27	Exp 1178 1204	the NF-kappa B-DNA complex
+T28	Exp 1216 1245	the rel-related 65-kD protein
+T29	Exp 1260 1275	the p65 subunit
+T30	Exp 1279 1329	the active NF-kappa B transcription factor complex
+R5	Coref Anaphora:T7 Antecedent:T31
+R6	Coref Anaphora:T9 Antecedent:T32
+R7	Coref Anaphora:T14 Antecedent:T33
+R8	Coref Anaphora:T23 Antecedent:T18
+R9	Coref Anaphora:T28 Antecedent:T18
+T1	Protein 228 233	c-rel
+T2	Protein 276 279	p50
+T3	Protein 931 934	p65
+T4	Protein 1070 1073	p50
+T5	Protein 1264 1267	p65
+T31	Exp 13 37	a rel-related human cDNA
+T32	Exp 159 170	A DNA probe
+T33	Exp 471 502	a rel-related complementary DNA

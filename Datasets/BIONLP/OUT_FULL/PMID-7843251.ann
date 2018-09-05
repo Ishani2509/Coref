@@ -1,0 +1,23 @@
+T9	Exp 79 86	The aim
+T10	Exp 128 136	the role
+T11	Exp 90 108	this present study
+T12	Exp 238 240	It
+T13	Exp 259 263	that
+T14	Exp 444 449	which
+T15	Exp 464 468	that
+T16	Exp 330 371	the potent and selective PKC inhibitor Ro
+T17	Exp 504 517	the induction
+T18	Exp 568 582	the expression
+T19	Exp 655 659	that
+T20	Exp 747 769	The signaling pathways
+T21	Exp 855 879	the necessary components
+R2	Coref Anaphora:T14 Antecedent:T22
+T1	Protein 49 55	p21ras
+T2	Protein 178 184	p21ras
+T3	Protein 200 213	interleukin-2
+T4	Protein 215 219	IL-2
+T5	Protein 286 292	p21ras
+T6	Protein 586 590	IL-2
+T7	Protein 739 745	p21ras
+T8	Protein 898 902	IL-2
+T22	Exp 408 442	a constitutively active ras mutant

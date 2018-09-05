@@ -1,0 +1,39 @@
+T14	Exp 135 145	the course
+T15	Exp 268 282	the generation
+T16	Exp 570 580	its signal
+T17	Exp 512 517	which
+T18	Exp 524 529	which
+T19	Exp 495 508	the mechanism
+T20	Exp 646 650	that
+T21	Exp 1054 1056	We
+T22	Exp 1141 1157	the relationship
+T23	Exp 1186 1210	the CD14 receptor system
+T24	Exp 1080 1092	this pathway
+T25	Exp 1283 1300	the same response
+T26	Exp 1304 1344	the murine macrophage-like cell line RAW
+T27	Exp 1402 1407	which
+T28	Exp 1577 1581	that
+T29	Exp 1442 1455	the synthesis
+T30	Exp 1971 1975	both
+T31	Exp 1839 1869	the TK inhibitors herbimycin A
+T32	Exp 1979 1991	these agents
+T33	Exp 2066 2070	that
+T34	Exp 2046 2059	These results
+R5	Coref Anaphora:T17 Antecedent:T19
+R6	Coref Anaphora:T18 Antecedent:T3
+R7	Coref Anaphora:T16 Antecedent:T3
+R8	Coref Anaphora:T27 Antecedent:T35
+T1	Protein 0 4	CD14
+T2	Protein 376 380	CD14
+T3	Protein 518 522	CD14
+T4	Protein 651 655	CD14
+T5	Protein 935 939	CD14
+T6	Protein 945 949	CD14
+T7	Protein 1113 1117	CD14
+T8	Protein 1190 1194	CD14
+T9	Protein 1262 1266	CD14
+T10	Protein 1538 1542	CD14
+T11	Protein 1814 1818	CD14
+T12	Protein 1937 1941	CD14
+T13	Protein 2105 2109	CD14
+T35	Exp 1385 1400	corticosteroids

@@ -1,0 +1,54 @@
+T18	Exp 199 214	the replication
+T19	Exp 267 279	the tat gene
+T20	Exp 475 477	it
+T21	Exp 372 376	that
+T22	Exp 591 595	when
+T23	Exp 413 430	the transcription
+T24	Exp 545 554	the block
+T25	Exp 499 513	this mechanism
+T26	Exp 611 613	It
+T27	Exp 626 630	that
+T28	Exp 720 722	we
+T29	Exp 910 924	the NF-kappa B
+T30	Exp 702 718	these hypotheses
+T31	Exp 966 968	we
+T32	Exp 974 978	that
+T33	Exp 1043 1052	the virus
+T34	Exp 954 964	this study
+T35	Exp 1143 1145	It
+T36	Exp 1156 1160	that
+T37	Exp 1161 1176	the propagation
+T38	Exp 1180 1195	the Tat mutants
+T39	Exp 1254 1282	the LTR-modified Tat mutants
+T40	Exp 1390 1394	that
+T41	Exp 1374 1389	the tat mutants
+T42	Exp 1529 1533	that
+T43	Exp 1457 1485	the LTR-modified tat mutants
+T44	Exp 1427 1453	this efficient propagation
+T45	Exp 1590 1608	its essential role
+T46	Exp 1784 1801	the viral genomes
+T47	Exp 1905 1919	the Tat- virus
+T48	Exp 1921 1967	The implications for in vivo HIV-1 replication
+T49	Exp 2012 2021	the study
+T50	Exp 1997 2008	this system
+R4	Coref Anaphora:T40 Antecedent:T41
+R5	Coref Anaphora:T42 Antecedent:T51
+R6	Coref Anaphora:T45 Antecedent:T44
+T1	Protein 29 32	Tat
+T2	Protein 94 97	tat
+T3	Protein 156 159	Tat
+T4	Protein 271 274	tat
+T5	Protein 377 380	Tat
+T6	Protein 596 599	Tat
+T7	Protein 631 634	Tat
+T8	Protein 739 742	tat
+T9	Protein 932 935	Sp1
+T10	Protein 979 982	Tat
+T11	Protein 1184 1187	Tat
+T12	Protein 1271 1274	Tat
+T13	Protein 1378 1381	tat
+T14	Protein 1474 1477	tat
+T15	Protein 1644 1647	Tat
+T16	Protein 1909 1912	Tat
+T17	Protein 2037 2040	Tat
+T51	Exp 1504 1528	some lymphoid cell lines

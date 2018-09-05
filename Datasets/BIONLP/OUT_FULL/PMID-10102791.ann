@@ -1,0 +1,21 @@
+T1	Exp 50 78	the oxidative burst response
+T2	Exp 387 392	which
+T3	Exp 312 325	the cell wall
+T4	Exp 329 338	the yeast
+T5	Exp 572 600	the oxidative burst response
+T6	Exp 829 845	these conditions
+T7	Exp 898 902	that
+T8	Exp 922 936	the activation
+T9	Exp 1018 1029	The binding
+T10	Exp 1390 1394	that
+T11	Exp 1203 1241	the glycosphingolipid lactosylceramide
+T12	Exp 1276 1301	the NF-kappaB-like factor
+T13	Exp 1395 1424	the PGG-Glucan binding moiety
+T14	Exp 1470 1474	that
+T15	Exp 1535 1539	that
+T16	Exp 1614 1660	the glycosphingolipid lactosylceramide present
+T17	Exp 1664 1680	the cell surface
+T18	Exp 1447 1460	These results
+T19	Exp 1560 1576	this beta-glucan
+R2	Coref Anaphora:T2 Antecedent:T20
+T20	Exp 368 386	an immunomodulator

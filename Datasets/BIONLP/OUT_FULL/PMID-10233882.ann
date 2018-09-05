@@ -1,0 +1,17 @@
+T9	Exp 77 101	The transcription factor
+T10	Exp 410 412	We
+T11	Exp 435 439	that
+T12	Exp 504 508	that
+T13	Exp 716 718	we
+T14	Exp 731 735	that
+T15	Exp 981 985	that
+T16	Exp 831 844	These results
+R2	Coref Anaphora:T12 Antecedent:T17
+T1	Protein 41 45	CD34
+T2	Protein 360 364	CD34
+T3	Protein 460 464	CD34
+T4	Protein 605 632	tumor necrosis factor alpha
+T5	Protein 634 647	interleukin-3
+T6	Protein 653 701	granulocyte-macrophage colony-stimulating factor
+T7	Protein 772 776	CD34
+T17	Exp 494 503	NF-kappaB

@@ -1,0 +1,27 @@
+T13	Exp 128 130	We
+T14	Exp 140 153	the isolation
+T15	Exp 522 526	that
+T16	Exp 474 489	the same region
+T17	Exp 493 521	the reciprocal translocation
+T18	Exp 535 554	the BCR-ABL chimera
+T19	Exp 558 585	the Philadelphia chromosome
+T20	Exp 593 605	the hallmark
+T21	Exp 636 663	the derivative 9 chromosome
+T22	Exp 703 716	The proximity
+T23	Exp 729 743	the breakpoint
+T24	Exp 767 782	the possibility
+T25	Exp 1031 1039	The role
+T26	Exp 1052 1067	the development
+R2	Coref Anaphora:T15 Antecedent:T17
+T1	Protein 40 45	hLH-2
+T2	Protein 163 167	LH-2
+T3	Protein 308 313	hLH-2
+T4	Protein 429 434	hLH-2
+T5	Protein 539 542	BCR
+T6	Protein 543 546	ABL
+T7	Protein 614 619	hLH-2
+T8	Protein 696 701	c-ABL
+T9	Protein 720 725	hLH-2
+T10	Protein 863 868	hLH-2
+T11	Protein 1043 1048	hLH-2
+T12	Protein 1119 1124	hLH-2

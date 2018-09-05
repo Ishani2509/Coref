@@ -1,0 +1,29 @@
+T10	Exp 115 143	the cellular cysteine supply
+T11	Exp 153 182	the intracellular glutathione
+T12	Exp 348 398	the immunologically important transcription factor
+T13	Exp 444 468	the DNA binding activity
+T14	Exp 484 495	The effects
+T15	Exp 662 666	they
+T16	Exp 553 580	the protein tyrosine kinase
+T17	Exp 810 837	the T cell antigen receptor
+T18	Exp 876 904	the IL-2 receptor beta-chain
+T19	Exp 703 732	These redox-regulated enzymes
+T20	Exp 906 924	The effector phase
+T21	Exp 1029 1055	the intracellular GSH pool
+T22	Exp 1121 1123	we
+T23	Exp 1132 1136	that
+T24	Exp 1137 1178	the well-known immunological consequences
+T25	Exp 1225 1257	the accompanying GSSG deficiency
+T26	Exp 1411 1413	we
+T27	Exp 1431 1435	that
+T28	Exp 1326 1337	the average
+T29	Exp 1448 1463	the consequence
+T30	SPAN 592 609	p56lck and p59fyn
+R3	Coref Anaphora:T15 Antecedent:T30
+T1	Protein 531 542	thioredoxin
+T2	Protein 544 547	TRX
+T3	Protein 592 598	p56lck
+T4	Protein 603 609	p59fyn
+T5	Protein 844 847	CD4
+T6	Protein 880 904	IL-2 receptor beta-chain
+T7	Protein 959 963	IL-2

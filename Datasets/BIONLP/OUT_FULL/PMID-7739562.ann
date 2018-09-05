@@ -1,0 +1,44 @@
+T13	Exp 105 151	The eukaryotic transcription factor NF-kappa B
+T14	Exp 176 198	the induced expression
+T15	Exp 261 280	the genetic program
+T16	Exp 328 348	The nuclear activity
+T17	Exp 389 416	the cytoplasmic compartment
+T18	Exp 680 695	the Tax protein
+T19	Exp 466 492	This cytoplasmic inhibitor
+T20	Exp 815 817	we
+T21	Exp 876 890	its inhibitory
+T22	Exp 862 866	that
+T23	Exp 746 777	these I kappa B alpha-dependent
+T24	Exp 1040 1051	its ability
+T25	Exp 973 1002	the N-terminal 36 amino acids
+T26	Exp 1096 1109	the cytoplasm
+T27	Exp 1153 1180	the induced phosphorylation
+T28	Exp 1120 1142	this deletion mutation
+T29	Exp 1447 1451	that
+T30	Exp 1490 1494	that
+T31	Exp 1357 1390	this N-terminal regulatory region
+T32	Exp 1783 1809	the phosphorylation status
+T33	Exp 1686 1697	these sites
+T34	Exp 1708 1730	this functional defect
+T35	Exp 1839 1865	this cytoplasmic inhibitor
+T36	Exp 1959 1963	that
+T37	Exp 1986 2009	the biologic activities
+R6	Coref Anaphora:T22 Antecedent:T5
+R7	Coref Anaphora:T21 Antecedent:T5
+R8	Coref Anaphora:T24 Antecedent:T38
+R9	Coref Anaphora:T29 Antecedent:T39
+R10	Coref Anaphora:T36 Antecedent:T11
+T1	Protein 40 55	I kappa B alpha
+T2	Protein 449 464	I kappa B alpha
+T3	Protein 684 687	Tax
+T4	Protein 752 767	I kappa B alpha
+T5	Protein 846 861	I kappa B alpha
+T6	Protein 1006 1021	I kappa B alpha
+T7	Protein 1226 1241	I kappa B alpha
+T8	Protein 1261 1264	Tax
+T9	Protein 1394 1409	I kappa B alpha
+T10	Protein 1465 1468	Tax
+T11	Protein 1943 1958	I kappa B alpha
+T12	Protein 2013 2028	I kappa B alpha
+T38	Exp 962 969	removal
+T39	Exp 1423 1446	constitutive repressors

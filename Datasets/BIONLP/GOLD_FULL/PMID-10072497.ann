@@ -1,0 +1,25 @@
+T1	Protein 395 399	IL-4
+T2	Protein 404 430	granulocyte-macrophage CSF
+T3	Protein 683 687	CD86
+T4	Protein 689 693	B7-2
+T5	Protein 700 704	CD40
+T6	Protein 807 811	CD40
+T7	Protein 932 948	mannose receptor
+T8	Exp 253 256	NAC
+T9	Exp 313 316	its
+T10	Exp 327 430	human dendritic cells (DC) derived from adherent PBMC cultured with IL-4 and granulocyte-macrophage CSF	350 352	DC
+T11	Exp 633 635	DC
+T12	Exp 647 652	their
+T13	Exp 919 921	DC
+T14	Exp 926 931	their
+T15	Exp 1094 1141	a profound inhibition of alloreactive responses	1105 1115	inhibition
+T16	Exp 1143 1148	which
+T17	Exp 1287 1290	NAC
+T18	Exp 1365 1368	its
+R1	Coref Anaphora:T9 Antecedent:T8
+R2	Coref Anaphora:T11 Antecedent:T10	[T1, T2]
+R3	Coref Anaphora:T12 Antecedent:T11
+R4	Coref Anaphora:T13 Antecedent:T11
+R5	Coref Anaphora:T14 Antecedent:T13
+R6	Coref Anaphora:T16 Antecedent:T15
+R7	Coref Anaphora:T18 Antecedent:T17

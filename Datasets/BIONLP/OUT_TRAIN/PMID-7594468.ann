@@ -1,0 +1,45 @@
+T13	Exp 100 106	The Ca
+T14	Exp 260 262	We
+T15	Exp 357 362	which
+T16	Exp 337 350	the mechanism
+T17	Exp 289 301	this synergy
+T18	Exp 363 381	these two pathways
+T19	Exp 467 490	the monocytic cell line
+T20	Exp 419 431	this synergy
+T21	Exp 671 673	we
+T22	Exp 575 579	that
+T23	Exp 641 656	the degradation
+T24	Exp 685 699	the regulation
+T25	Exp 973 997	its complete degradation
+T26	Exp 782 801	the phosphorylation
+T27	Exp 920 928	the rate
+T28	Exp 1062 1081	the phosphorylation
+T29	Exp 1170 1207	the selective PKC inhibitor GF109203X
+T30	Exp 1218 1271	the PMA-induced IkB alpha phosphorylation/degradation
+T31	Exp 1337 1356	the phosphorylation
+T32	Exp 1592 1607	its degradation
+T33	Exp 1448 1463	the interaction
+T34	Exp 1532 1541	the level
+T35	Exp 1579 1588	the level
+T36	Exp 1632 1636	that
+T37	Exp 1674 1701	the phosphatase calcineurin
+T38	Exp 1718 1732	the regulation
+T39	Exp 1836 1845	the level
+T40	Exp 1609 1622	These results
+R4	Coref Anaphora:T15 Antecedent:T41
+R5	Coref Anaphora:T25 Antecedent:T42
+R6	Coref Anaphora:T32 Antecedent:T35
+T1	Protein 14 23	IkB alpha
+T2	Protein 660 669	IkB alpha
+T3	Protein 703 712	IkB alpha
+T4	Protein 838 847	IkB alpha
+T5	Protein 932 941	IkB alpha
+T6	Protein 1104 1113	IkB alpha
+T7	Protein 1234 1243	IkB alpha
+T8	Protein 1376 1385	IkB alpha
+T9	Protein 1397 1406	TNF-alpha
+T10	Protein 1515 1524	TNF-alpha
+T11	Protein 1545 1554	IkB alpha
+T12	Protein 1849 1858	IkB alpha
+T41	Exp 351 352	s
+T42	Exp 865 878	co-activation

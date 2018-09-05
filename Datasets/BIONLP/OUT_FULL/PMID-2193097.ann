@@ -1,0 +1,17 @@
+T4	Exp 371 384	the induction
+T5	Exp 328 339	This effect
+T6	Exp 475 479	that
+T7	Exp 709 714	which
+T8	Exp 762 777	The stimulation
+T9	Exp 803 817	this cell line
+T10	Exp 833 844	these cells
+T11	Exp 1018 1027	the level
+T12	Exp 947 963	This stimulation
+T13	Exp 1143 1153	The effect
+T14	Exp 1282 1297	the variability
+T15	Exp 1301 1320	the natural history
+R2	Coref Anaphora:T7 Antecedent:T16
+T1	Protein 237 240	CAT
+T2	Protein 862 910	granulocyte/macrophage colony-stimulating factor
+T3	Protein 912 918	GM-CSF
+T16	Exp 705 707	U1

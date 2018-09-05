@@ -1,0 +1,18 @@
+T6	Exp 154 156	We
+T7	Exp 162 166	that
+T8	Exp 374 379	which
+T9	Exp 170 181	the human T
+T10	Exp 344 372	the calcium ionophore A23187
+T11	Exp 387 426	the intracellular calcium concentration
+T12	Exp 580 584	when
+T13	Exp 634 670	the phorbol myristate acetate effect
+T14	Exp 720 767	The calcium ionophore-induced c-myc suppression
+T15	Exp 915 920	which
+T16	Exp 944 949	which
+T17	Exp 988 1002	The latter one
+R2	Coref Anaphora:T8 Antecedent:T10
+T1	Protein 35 40	c-myc
+T2	Protein 218 223	c-myc
+T3	Protein 491 496	c-myc
+T4	Protein 750 755	c-myc
+T5	Protein 893 898	c-myc

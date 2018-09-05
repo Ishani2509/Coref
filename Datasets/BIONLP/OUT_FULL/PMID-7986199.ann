@@ -1,0 +1,19 @@
+T1	Exp 179 181	We
+T2	Exp 241 246	which
+T3	Exp 191 201	the effect
+T4	Exp 263 277	the activation
+T5	Exp 321 334	the induction
+T6	Exp 603 628	The simultaneous addition
+T7	Exp 656 668	these agents
+T8	Exp 850 875	the endonuclease activity
+T9	Exp 889 911	the whole cell lysates
+T10	Exp 913 934	The inhibitory effect
+T11	Exp 1134 1136	we
+T12	Exp 1144 1155	the effects
+T13	Exp 1248 1261	the induction
+T14	Exp 1463 1467	that
+T15	Exp 1468 1482	the activation
+T16	Exp 1524 1545	the apoptotic process
+T17	Exp 1441 1454	These results
+R2	Coref Anaphora:T2 Antecedent:T18
+T18	Exp 234 238	PDTC

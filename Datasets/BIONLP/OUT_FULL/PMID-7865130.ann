@@ -1,0 +1,30 @@
+T1	Exp 92 127	the human monoblast cell line U-937
+T2	Exp 139 153	the complexity
+T3	Exp 470 505	the human monoblast cell line U-937
+T4	Exp 662 667	which
+T5	Exp 568 585	these cDNA clones
+T6	Exp 737 741	that
+T7	Exp 756 767	these genes
+T8	Exp 902 950	their apparent non-cell-type-specific expression
+T9	Exp 959 963	that
+T10	Exp 829 845	The large number
+T11	Exp 884 897	the 63 clones
+T12	Exp 964 976	the majority
+T13	Exp 980 1017	the Kruppel-related zinc finger genes
+T14	Exp 1158 1162	they
+T15	Exp 1153 1157	that
+T16	Exp 1089 1098	the genes
+T17	Exp 1355 1359	that
+T18	Exp 1508 1512	that
+T19	Exp 1272 1290	the first 12 cDNAs
+T20	Exp 1426 1438	the presence
+T21	Exp 1543 1571	the carboxy-terminal regions
+T22	Exp 1575 1587	the proteins
+R5	Coref Anaphora:T4 Antecedent:T23
+R6	Coref Anaphora:T8 Antecedent:T11
+R7	Coref Anaphora:T16 Antecedent:T13
+R8	Coref Anaphora:T14 Antecedent:T13
+R9	Coref Anaphora:T22 Antecedent:T13
+R10	Coref Anaphora:T18 Antecedent:T24
+T23	Exp 649 657	HZF 1-42
+T24	Exp 1500 1507	over 20

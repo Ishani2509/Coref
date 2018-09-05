@@ -1,0 +1,34 @@
+T26	Exp 105 127	The anaphylatoxins C5a
+T27	Exp 152 166	the regulation
+T28	Exp 205 219	the capability
+T29	Exp 194 204	this study
+T30	Exp 428 447	the kappaB sequence
+T31	Exp 449 473	The p50 and p65 proteins
+T32	Exp 491 527	the prototypic nuclear factor kappaB
+T33	Exp 562 587	the DNA-protein complexes
+T34	Exp 870 905	the cytoplasmic IkappaBalpha levels
+T35	Exp 1130 1137	Neither
+T36	Exp 1141 1155	the two toxins
+T37	Exp 1212 1226	the same cells
+T38	Exp 1268 1290	the anaphylatoxins C5a
+T39	Exp 1228 1241	These results
+T40	SPAN 1063 1074	C5a and C3a
+R8	Coref Anaphora:T35 Antecedent:T40
+T1	Protein 15 18	C5a
+T2	Protein 23 26	C3a
+T3	Protein 124 127	C5a
+T4	Protein 132 135	C3a
+T5	Protein 223 226	C5a
+T6	Protein 231 234	C3a
+T7	Protein 291 294	C5a
+T8	Protein 299 302	C3a
+T9	Protein 453 456	p50
+T10	Protein 461 464	p65
+T11	Protein 641 644	C5a
+T12	Protein 886 898	IkappaBalpha
+T13	Protein 953 965	IkappaBalpha
+T14	Protein 1063 1066	C5a
+T15	Protein 1071 1074	C3a
+T16	Protein 1200 1208	TNFalpha
+T17	Protein 1287 1290	C5a
+T18	Protein 1295 1298	C3a

@@ -1,0 +1,39 @@
+T27	Exp 162 199	The human autosomal recessive disease
+T28	Exp 358 362	that
+T29	Exp 320 341	the XPB and XPD genes
+T30	Exp 550 569	the XPB or XPD gene
+T31	Exp 753 755	We
+T32	Exp 878 893	the growth rate
+T33	Exp 906 929	the XP-B and XP-D cells
+T34	Exp 1105 1109	when
+T35	Exp 1070 1084	the adenovirus
+T36	Exp 1164 1166	we
+T37	Exp 1176 1180	that
+T38	Exp 1181 1189	the XP-B
+T39	Exp 1269 1271	We
+T40	Exp 1438 1442	that
+T41	Exp 1281 1306	the possible consequences
+T42	Exp 1310 1338	the reduced cellular content
+T43	Exp 1352 1373	the clinical symptoms
+R9	Coref Anaphora:T28 Antecedent:T44
+R10	Coref Anaphora:T40 Antecedent:T45
+T1	Protein 293 296	XPA
+T2	Protein 305 308	XPG
+T3	Protein 324 327	XPB
+T4	Protein 332 335	XPD
+T5	Protein 554 557	XPB
+T6	Protein 561 564	XPD
+T7	Protein 739 743	XP-B
+T8	Protein 747 751	XP-D
+T9	Protein 854 858	XP-B
+T10	Protein 863 867	XP-D
+T11	Protein 910 914	XP-B
+T12	Protein 919 923	XP-D
+T13	Protein 989 993	XP-B
+T14	Protein 998 1002	XP-D
+T15	Protein 1185 1189	XP-B
+T16	Protein 1194 1198	XP-D
+T17	Protein 1377 1381	XP-B
+T18	Protein 1385 1389	XP-D
+T44	Exp 349 357	proteins
+T45	Exp 1412 1436	a 'conditional phenotype

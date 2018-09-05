@@ -1,0 +1,33 @@
+T13	Exp 27 42	the recruitment
+T14	Exp 230 235	which
+T15	Exp 91 151	The human immunodeficiency virus type 1 long terminal repeat
+T16	Exp 273 293	Our previous studies
+T17	Exp 353 357	that
+T18	Exp 297 309	the function
+T19	Exp 313 342	the HIV-1-encoded Nef protein
+T20	Exp 643 647	that
+T21	Exp 436 447	the binding
+T22	Exp 546 563	the binding sites
+T23	Exp 709 711	We
+T24	Exp 718 722	that
+T25	Exp 737 752	the recruitment
+T26	Exp 970 1018	the chloramphenicol acetyltransferase (CAT) gene
+T27	Exp 1067 1079	the CAT gene
+T28	Exp 1083 1097	this construct
+T29	Exp 1184 1188	that
+T30	Exp 1162 1175	These studies
+R3	Coref Anaphora:T14 Antecedent:T31
+R4	Coref Anaphora:T20 Antecedent:T5
+T1	Protein 6 9	Nef
+T2	Protein 331 334	Nef
+T3	Protein 358 361	Nef
+T4	Protein 424 427	Nef
+T5	Protein 615 618	Nef
+T6	Protein 723 726	Nef
+T7	Protein 833 836	Nef
+T8	Protein 974 1007	chloramphenicol acetyltransferase
+T9	Protein 1009 1012	CAT
+T10	Protein 1071 1074	CAT
+T11	Protein 1115 1118	Nef
+T12	Protein 1221 1224	Nef
+T31	Exp 191 229	several cellular transcription factors

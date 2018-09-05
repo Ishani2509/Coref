@@ -1,0 +1,20 @@
+T5	Exp 340 353	the mechanism
+T6	Exp 375 389	the activation
+T7	Exp 411 413	We
+T8	Exp 420 424	that
+T9	Exp 425 457	this latently infected cell line
+T10	Exp 578 591	The mechanism
+T11	Exp 685 704	the TNF-alpha level
+T12	Exp 739 754	the sensitivity
+T13	Exp 860 874	the heat shock
+T14	Exp 1035 1049	the heat shock
+T15	Exp 1146 1174	the HIV-1 antigen expression
+T16	Exp 1328 1330	it
+T17	Exp 1243 1256	the mechanism
+T18	Exp 1398 1422	the present observations
+T19	Exp 1459 1475	the pathogenesis
+R2	Coref Anaphora:T16 Antecedent:T17
+T1	Protein 633 642	TNF-alpha
+T2	Protein 689 698	TNF-alpha
+T3	Protein 798 807	TNF-alpha
+T4	Protein 991 994	Tat

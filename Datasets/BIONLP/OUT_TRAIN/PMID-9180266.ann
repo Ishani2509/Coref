@@ -1,0 +1,32 @@
+T9	Exp 66 81	the ETS protein
+T10	Exp 140 144	that
+T11	Exp 156 178	the ETS protein family
+T12	Exp 180 182	It
+T13	Exp 252 254	We
+T14	Exp 267 271	that
+T15	Exp 321 326	which
+T16	Exp 309 320	the nucleus
+T17	Exp 343 355	the presence
+T18	Exp 427 431	that
+T19	Exp 532 537	which
+T20	Exp 432 461	the N-terminal 86 amino acids
+T21	Exp 516 528	the activity
+T22	Exp 633 656	the E74 target sequence
+T23	Exp 699 723	the E74 site independent
+T24	Exp 800 805	which
+T25	Exp 826 841	the development
+R6	Coref Anaphora:T10 Antecedent:T26
+R7	Coref Anaphora:T12 Antecedent:T2
+R8	Coref Anaphora:T15 Antecedent:T16
+R9	Coref Anaphora:T19 Antecedent:T21
+R10	Coref Anaphora:T24 Antecedent:T27
+T1	Protein 82 87	Elf-1
+T2	Protein 90 95	Elf-1
+T3	Protein 272 277	Elf-1
+T4	Protein 391 395	Gal4
+T5	Protein 396 401	Elf-1
+T6	Protein 465 470	Elf-1
+T7	Protein 599 604	Elf-1
+T8	Protein 754 759	Elf-1
+T26	Exp 99 139	a lymphoid-specific transcription factor
+T27	Exp 781 799	gene transcription

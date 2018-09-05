@@ -1,0 +1,67 @@
+T39	Exp 85 109	the IkappaB kinase alpha
+T40	Exp 276 280	that
+T41	Exp 206 231	the pathogenic retrovirus
+T42	Exp 313 337	the NF-kappaB/Rel family
+T43	Exp 521 532	Our studies
+T44	Exp 715 748	its N-terminal regulatory serines
+T45	Exp 549 553	that
+T46	Exp 661 666	which
+T47	Exp 707 711	both
+T48	Exp 575 615	the recently identified cellular kinases
+T49	Exp 883 888	which
+T50	Exp 1341 1346	which
+T51	Exp 1380 1393	the TNF-alpha
+T52	Exp 1680 1685	which
+T53	Exp 1650 1678	the TRAF2 and TRAF6 adaptors
+T54	Exp 1722 1743	the cytoplasmic tails
+T55	Exp 1747 1779	the TNF-alpha and IL-1 receptors
+T56	Exp 1547 1586	these proinflammatory cytokine pathways
+T57	Exp 1874 1878	that
+T58	Exp 1916 1962	the proinflammatory cytokine signaling cascade
+T59	Exp 1848 1861	these studies
+T60	Exp 1998 2025	The pathological alteration
+T61	Exp 2191 2216	the adult T-cell leukemia
+T62	Exp 2029 2050	this cytokine pathway
+R8	Coref Anaphora:T40 Antecedent:T63
+T65	SPAN 616 659	IkappaB kinase alpha (IKKalpha) and IKKbeta
+R9	Coref Anaphora:T46 Antecedent:T65
+T66	SPAN 616 659	IkappaB kinase alpha (IKKalpha) and IKKbeta
+R10	Coref Anaphora:T47 Antecedent:T66
+R11	Coref Anaphora:T44 Antecedent:T12
+R12	Coref Anaphora:T49 Antecedent:T64
+R13	Coref Anaphora:T50 Antecedent:T23
+R14	Coref Anaphora:T52 Antecedent:T53
+T1	Protein 35 38	Tax
+T2	Protein 89 109	IkappaB kinase alpha
+T3	Protein 111 119	IKKalpha
+T4	Protein 125 132	IKKbeta
+T5	Protein 152 155	Tax
+T6	Protein 388 391	Tax
+T7	Protein 458 471	IkappaB alpha
+T8	Protein 561 564	Tax
+T9	Protein 616 636	IkappaB kinase alpha
+T10	Protein 638 646	IKKalpha
+T11	Protein 652 659	IKKbeta
+T12	Protein 690 703	IkappaB alpha
+T13	Protein 764 791	tumor necrosis factor alpha
+T14	Protein 793 802	TNF-alpha
+T15	Protein 867 870	Tax
+T16	Protein 941 949	IKKalpha
+T17	Protein 953 960	IKKbeta
+T18	Protein 1059 1062	Tax
+T19	Protein 1132 1140	IKKalpha
+T20	Protein 1145 1152	IKKbeta
+T21	Protein 1263 1266	Tax
+T22	Protein 1308 1311	NIK
+T23	Protein 1313 1338	NF-kappaB-inducing kinase
+T24	Protein 1384 1393	TNF-alpha
+T25	Protein 1433 1441	IKKalpha
+T26	Protein 1446 1453	IKKbeta
+T27	Protein 1473 1476	Tax
+T28	Protein 1654 1659	TRAF2
+T29	Protein 1664 1669	TRAF6
+T30	Protein 1810 1813	Tax
+T31	Protein 1886 1889	Tax
+T32	Protein 2086 2089	Tax
+T63	Exp 232 274	human T-cell leukemia virus type 1 (HTLV-1
+T64	Exp 878 881	M22

@@ -1,0 +1,47 @@
+T26	Exp 133 135	We
+T27	Exp 156 160	that
+T28	Exp 161 169	the role
+T29	Exp 291 302	the sources
+T30	Exp 649 654	which
+T31	Exp 724 728	that
+T32	Exp 661 665	both
+T33	Exp 739 749	the source
+T34	Exp 803 814	these cells
+T35	Exp 1003 1014	these cells
+T36	Exp 1147 1152	which
+T37	Exp 1171 1187	the 5-LOX enzyme
+T38	Exp 1201 1227	the NADPH oxidase activity
+T39	Exp 1291 1296	which
+T40	Exp 1251 1277	the Rac1 and Cdc42 GTPases
+T41	Exp 1229 1241	This pathway
+R5	Coref Anaphora:T30 Antecedent:T42
+T45	SPAN 419 434	5-LOX and 5-LOX
+R6	Coref Anaphora:T32 Antecedent:T45
+R7	Coref Anaphora:T36 Antecedent:T43
+R8	Coref Anaphora:T39 Antecedent:T44
+T1	Protein 63 80	interleukin-1beta
+T2	Protein 90 104	5-lipoxygenase
+T3	Protein 377 391	5-lipoxygenase
+T4	Protein 393 398	5-LOX
+T5	Protein 419 424	5-LOX
+T6	Protein 429 434	5-LOX
+T7	Protein 455 459	FLAP
+T8	Protein 572 589	interleukin-1beta
+T9	Protein 591 599	IL-1beta
+T10	Protein 696 700	FLAP
+T11	Protein 729 734	5-LOX
+T12	Protein 816 824	IL-1beta
+T13	Protein 929 934	5-LOX
+T14	Protein 987 992	5-LOX
+T15	Protein 1042 1047	5-LOX
+T16	Protein 1100 1108	IL-1beta
+T17	Protein 1175 1180	5-LOX
+T18	Protein 1255 1259	Rac1
+T19	Protein 1264 1269	Cdc42
+T20	Protein 1342 1350	IL-1beta
+T21	Protein 1458 1466	IL-1beta
+T22	Protein 1509 1514	5-LOX
+T23	Protein 1546 1551	5-LOX
+T42	Exp 627 647	NF-kappaB activation
+T43	Exp 1142 1146	ROIs
+T44	Exp 1279 1290	two enzymes

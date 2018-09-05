@@ -1,0 +1,47 @@
+T18	Exp 216 220	that
+T19	Exp 425 441	the pathogenesis
+T20	Exp 547 566	the GM-CSF promoter
+T21	Exp 575 593	the kappaB element
+T22	Exp 716 718	We
+T23	Exp 787 811	this regulatory sequence
+T24	Exp 972 977	which
+T25	Exp 942 970	the GM-CSF proximal promoter
+T26	Exp 987 1005	the kappaB element
+T27	Exp 1130 1160	its double-stranded DNA target
+T28	Exp 1071 1075	that
+T29	Exp 1249 1267	the GM-CSF element
+T30	Exp 1309 1351	the human T-cell lymphotrophic virus-1 Tax
+T31	Exp 1431 1450	the GM-CSF promoter
+T32	Exp 1499 1516	the concentration
+T33	Exp 1638 1652	the same cells
+T34	Exp 1654 1656	We
+T35	Exp 1666 1670	that
+T36	Exp 1671 1689	the kappaB element
+T37	Exp 1693 1712	the GM-CSF promoter
+T38	Exp 1737 1767	the transcriptional activation
+T39	Exp 1771 1797	the endogenous GM-CSF gene
+T40	Exp 1875 1890	the GM-CSF gene
+T41	Exp 1980 1992	this protein
+R5	Coref Anaphora:T18 Antecedent:T42
+R6	Coref Anaphora:T24 Antecedent:T25
+R7	Coref Anaphora:T27 Antecedent:T43
+R8	Coref Anaphora:T41 Antecedent:T40
+T1	Protein 43 91	granulocyte-macrophage colony-stimulating factor
+T2	Protein 127 175	Granulocyte-macrophage colony-stimulating factor
+T3	Protein 177 183	GM-CSF
+T4	Protein 314 320	GM-CSF
+T5	Protein 395 401	GM-CSF
+T6	Protein 551 557	GM-CSF
+T7	Protein 843 849	GM-CSF
+T8	Protein 946 952	GM-CSF
+T9	Protein 1037 1044	DNase I
+T10	Protein 1253 1259	GM-CSF
+T11	Protein 1348 1351	Tax
+T12	Protein 1435 1441	GM-CSF
+T13	Protein 1531 1537	GM-CSF
+T14	Protein 1609 1622	interleukin 3
+T15	Protein 1697 1703	GM-CSF
+T16	Protein 1786 1792	GM-CSF
+T17	Protein 1879 1885	GM-CSF
+T42	Exp 188 215	a hemopoietic growth factor
+T43	Exp 1087 1124	a sequence-specific collinear triplex

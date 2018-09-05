@@ -1,0 +1,67 @@
+T32	Exp 157 177	The protein products
+T33	Exp 181 190	the c-fos
+T34	Exp 244 280	the AP-1 transcription factor family
+T35	Exp 324 338	the regulation
+T36	Exp 365 379	the cell cycle
+T37	Exp 397 411	the expression
+T38	Exp 445 459	the cell cycle
+T39	Exp 483 497	the mRNA level
+T40	Exp 550 562	the presence
+T41	Exp 566 578	the proteins
+T42	Exp 586 600	the cell cycle
+T43	Exp 415 429	these proteins
+T44	Exp 602 604	We
+T45	Exp 647 659	the presence
+T46	Exp 685 700	the cell cycles
+T47	Exp 663 677	these proteins
+T48	Exp 971 976	which
+T49	Exp 920 940	The binding activity
+T50	Exp 1070 1072	We
+T51	Exp 1209 1211	we
+T52	Exp 1222 1226	that
+T53	Exp 1144 1158	the cell cycle
+T54	Exp 1266 1280	the cell cycle
+T55	Exp 1304 1310	the G0
+T56	Exp 1227 1241	these proteins
+T57	Exp 1369 1371	We
+T58	Exp 1497 1503	the G1
+T59	Exp 1545 1573	the S-phase enriched samples
+T60	Exp 1761 1773	the majority
+T61	Exp 1820 1832	the increase
+T62	Exp 1878 1894	the augmentation
+T63	Exp 1919 1921	We
+T64	Exp 1936 1940	that
+T65	Exp 2162 2166	that
+T66	Exp 2203 2220	these proteinsmay
+R7	Coref Anaphora:T43 Antecedent:T34
+R8	Coref Anaphora:T41 Antecedent:T34
+R9	Coref Anaphora:T47 Antecedent:T34
+R10	Coref Anaphora:T48 Antecedent:T67
+T68	SPAN 1087 1105	p62c-fos, p39c-jun
+R11	Coref Anaphora:T56 Antecedent:T68
+T1	Protein 14 19	c-fos
+T2	Protein 24 29	c-jun
+T3	Protein 113 131	phytohemagglutinin
+T4	Protein 185 190	c-fos
+T5	Protein 192 200	p62c-fos
+T6	Protein 206 211	c-jun
+T7	Protein 213 221	p39c-jun
+T8	Protein 833 853	phyto- hemagglutinin
+T9	Protein 855 858	PHA
+T10	Protein 1087 1095	p62c-fos
+T11	Protein 1097 1105	p39c-jun
+T12	Protein 1185 1188	PHA
+T13	Protein 1429 1437	p62c-fos
+T14	Protein 1443 1451	p39c-jun
+T15	Protein 1613 1621	p62c-fos
+T16	Protein 1626 1634	p39c-jun
+T17	Protein 1709 1717	p62c-fos
+T18	Protein 1722 1730	p39c-jun
+T19	Protein 1796 1799	PHA
+T20	Protein 1898 1906	p39c-jun
+T21	Protein 1953 1961	p62c-fos
+T22	Protein 1966 1974	p39c-jun
+T23	Protein 2006 2009	PHA
+T24	Protein 2050 2058	p62c-fos
+T25	Protein 2128 2136	p39c-jun
+T67	Exp 944 969	transcription factor AP-1

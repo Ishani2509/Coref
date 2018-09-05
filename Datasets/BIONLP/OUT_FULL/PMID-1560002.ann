@@ -1,0 +1,46 @@
+T22	Exp 0 5	The B
+T23	Exp 79 118	the human class II transplantation gene
+T24	Exp 228 232	that
+T25	Exp 126 138	The promoter
+T26	Exp 142 176	the major histocompatibility class
+T27	Exp 333 346	this sequence
+T28	Exp 348 356	The best
+T29	Exp 375 400	the B cell-specific OTF-2
+T30	Exp 405 425	the ubiquitous OTF-1
+T31	Exp 461 465	that
+T32	Exp 496 508	the DRA gene
+T33	Exp 427 438	This report
+T34	Exp 579 606	the octamer-binding protein
+T35	Exp 782 784	it
+T36	Exp 807 824	the transcription
+T37	Exp 1073 1077	that
+T38	Exp 1129 1133	that
+T39	Exp 1134 1145	this effect
+T40	Exp 1216 1241	the first direct evidence
+T41	Exp 1265 1309	the lymphoid-specific octamer-binding factor
+T42	Exp 1191 1204	these results
+R4	Coref Anaphora:T24 Antecedent:T43
+R5	Coref Anaphora:T35 Antecedent:T14
+R6	Coref Anaphora:T37 Antecedent:T44
+T1	Protein 35 40	OTF-2
+T2	Protein 120 123	DRA
+T3	Protein 185 188	DRA
+T4	Protein 259 262	DRA
+T5	Protein 395 400	OTF-2
+T6	Protein 420 425	OTF-1
+T7	Protein 466 471	OTF-2
+T8	Protein 480 485	OTF-1
+T9	Protein 500 503	DRA
+T10	Protein 607 612	OTF-2
+T11	Protein 656 661	OTF-2
+T12	Protein 665 668	DRA
+T13	Protein 702 707	OTF-1
+T14	Protein 750 753	DRA
+T15	Protein 854 859	OTF-2
+T16	Protein 934 937	DRA
+T17	Protein 1019 1024	OTF-2
+T18	Protein 1078 1083	OTF-2
+T19	Protein 1101 1104	DRA
+T20	Protein 1313 1316	DRA
+T43	Exp 218 226	ATTTGCAT
+T44	Exp 1055 1071	similar findings

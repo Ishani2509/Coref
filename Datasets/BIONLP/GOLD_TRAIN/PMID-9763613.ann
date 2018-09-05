@@ -1,0 +1,18 @@
+T1	Protein 23 57	p75 tumor necrosis factor receptor
+T2	Protein 59 67	p75TNF-R
+T3	Protein 111 128	lymphotoxin alpha
+T4	Protein 137 145	p55TNF-R
+T5	Protein 210 244	p75 tumor necrosis factor receptor
+T6	Protein 246 254	p75TNF-R
+T7	Protein 589 597	p75TNF-R
+T8	Protein 904 921	lymphotoxin alpha
+T9	Protein 930 938	p55TNF-R
+T10	Protein 1067 1075	p75TNF-R
+T11	Exp 156 177	overwhelming evidence	169 177	evidence
+T12	Exp 178 182	that
+T13	Exp 206 255	the p75 tumor necrosis factor receptor (p75TNF-R)
+T14	Exp 464 477	this receptor	469 477	receptor
+T15	Exp 1171 1184	this receptor	1176 1184	receptor
+R1	Coref Anaphora:T12 Antecedent:T11
+R2	Coref Anaphora:T14 Antecedent:T13	[T6, T5]
+R3	Coref Anaphora:T15 Antecedent:T14

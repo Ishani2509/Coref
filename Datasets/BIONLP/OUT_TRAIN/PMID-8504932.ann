@@ -1,0 +1,41 @@
+T20	Exp 251 276	their DNA-binding domains
+T21	Exp 218 222	that
+T22	Exp 135 151	The GATA factors
+T23	Exp 328 332	that
+T24	Exp 356 361	which
+T25	Exp 379 416	the same DNA-binding site specificity
+T26	Exp 597 601	each
+T27	Exp 467 476	the roles
+T28	Exp 605 616	the factors
+T29	Exp 620 646	the hormone-binding domain
+T30	Exp 650 677	the human estrogen receptor
+T31	Exp 684 697	These GATA/ER
+T32	Exp 810 814	When
+T33	Exp 1091 1101	the action
+T34	Exp 1033 1057	These phenotypic effects
+T35	Exp 1374 1405	the GATA-2 transcription factor
+T36	Exp 1443 1468	the self-renewal capacity
+R5	Coref Anaphora:T21 Antecedent:T37
+R6	Coref Anaphora:T20 Antecedent:T2
+R7	Coref Anaphora:T24 Antecedent:T38
+T39	SPAN 546 572	GATA-1, GATA-2, and GATA-3
+R8	Coref Anaphora:T28 Antecedent:T39
+T1	Protein 36 42	GATA-2
+T2	Protein 43 60	estrogen receptor
+T3	Protein 546 552	GATA-1
+T4	Protein 554 560	GATA-2
+T5	Protein 566 572	GATA-3
+T6	Protein 660 677	estrogen receptor
+T7	Protein 679 681	ER
+T8	Protein 695 697	ER
+T9	Protein 928 934	GATA-2
+T10	Protein 935 937	ER
+T11	Protein 1127 1133	GATA-2
+T12	Protein 1134 1136	ER
+T13	Protein 1180 1186	GATA-2
+T14	Protein 1290 1292	ER
+T15	Protein 1296 1302	GATA-3
+T16	Protein 1303 1305	ER
+T17	Protein 1378 1384	GATA-2
+T37	Exp 207 217	eukaryotes
+T38	Exp 333 354	several GATA proteins

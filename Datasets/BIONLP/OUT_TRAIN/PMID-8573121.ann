@@ -1,0 +1,12 @@
+T4	Exp 219 233	the activation
+T5	Exp 237 270	the human immuno-deficiency virus
+T6	Exp 492 497	which
+T7	Exp 680 697	The present study
+T8	Exp 707 717	the effect
+T9	Exp 1075 1099	the transcription factor
+T10	Exp 1103 1115	the peroxide
+R2	Coref Anaphora:T6 Antecedent:T11
+T1	Protein 848 875	tumor necrosis factor alpha
+T2	Protein 877 886	TNF alpha
+T3	Protein 897 906	TNF alpha
+T11	Exp 477 491	an antioxidant

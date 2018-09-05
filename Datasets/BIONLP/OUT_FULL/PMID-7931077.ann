@@ -1,0 +1,50 @@
+T16	Exp 99 137	the nuclear factor-kappa B subunit p65
+T17	Exp 206 217	these cells
+T18	Exp 330 343	their ability
+T19	Exp 301 306	which
+T20	Exp 432 441	the virus
+T21	Exp 487 489	We
+T22	Exp 568 573	which
+T23	Exp 592 615	the observed phenomenon
+T24	Exp 499 511	these clones
+T25	Exp 654 683	the classical p50-p65 complex
+T26	Exp 837 839	It
+T27	Exp 854 858	that
+T28	Exp 859 887	the faster-migrating complex
+T29	Exp 931 946	the p65 subunit
+T30	Exp 1094 1099	which
+T31	Exp 1011 1025	The truncation
+T32	Exp 1281 1302	the minus U937 clones
+T33	Exp 1315 1330	the plus clones
+T34	Exp 1351 1359	the case
+T35	Exp 1197 1221	These specific proteases
+T36	Exp 1389 1404	these proteases
+T37	Exp 1494 1503	each case
+T38	Exp 1548 1550	We
+T39	Exp 1626 1628	It
+T40	Exp 1641 1645	that
+T41	Exp 1705 1720	the replication
+T42	Exp 1782 1786	that
+T43	Exp 1821 1825	when
+T44	Exp 1756 1764	The data
+R5	Coref Anaphora:T19 Antecedent:T45
+R6	Coref Anaphora:T18 Antecedent:T46
+R7	Coref Anaphora:T22 Antecedent:T47
+R8	Coref Anaphora:T30 Antecedent:T48
+T1	Protein 134 137	p65
+T2	Protein 668 671	p50
+T3	Protein 672 675	p65
+T4	Protein 909 912	p50
+T5	Protein 917 920	p65
+T6	Protein 935 938	p65
+T7	Protein 1063 1066	p65
+T8	Protein 1166 1177	cathepsin G
+T9	Protein 1183 1195	proteinase 3
+T10	Protein 1363 1374	cathepsin G
+T11	Protein 1543 1546	p65
+T12	Protein 1584 1587	p65
+T13	Protein 1613 1624	cathepsin G
+T45	Exp 284 300	dilution cloning
+T46	Exp 220 230	Two groups
+T47	Exp 551 567	kappa B activity
+T48	Exp 1074 1093	cellular extraction

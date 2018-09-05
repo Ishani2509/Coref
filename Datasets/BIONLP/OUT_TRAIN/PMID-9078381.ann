@@ -1,0 +1,26 @@
+T3	Exp 76 91	the STAT family
+T4	Exp 175 194	the differentiation
+T5	Exp 219 221	we
+T6	Exp 240 245	which
+T7	Exp 275 280	which
+T8	Exp 258 271	the mechanism
+T9	Exp 281 296	these cytokines
+T10	Exp 385 404	the phosphorylation
+T11	Exp 442 466	the intracellular domain
+T12	Exp 470 505	the corresponding cytokine receptor
+T13	Exp 507 529	These phosphotyrosines
+T14	Exp 717 748	the src homology 2 (SH2) domain
+T15	Exp 752 782	the corresponding Stat protein
+T16	Exp 809 833	the intracellular domain
+T17	Exp 837 858	the cytokine receptor
+T18	Exp 879 906	the phosphotyrosine residue
+T19	Exp 908 923	the recruitment
+T20	Exp 1000 1019	the phosphotyrosine
+T21	Exp 1220 1223	how
+T22	Exp 1132 1151	The direct coupling
+R4	Coref Anaphora:T6 Antecedent:T23
+R5	Coref Anaphora:T7 Antecedent:T8
+R6	Coref Anaphora:T9 Antecedent:T3
+T1	Protein 119 132	Interleukin-4
+T2	Protein 134 138	IL-4
+T23	Exp 232 239	studies

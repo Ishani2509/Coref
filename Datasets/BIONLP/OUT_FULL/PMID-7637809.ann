@@ -1,0 +1,32 @@
+T14	Exp 242 272	their intrinsic high potential
+T15	Exp 181 186	which
+T16	Exp 308 333	The tumour suppressor p53
+T17	Exp 468 482	the same event
+T18	Exp 361 370	this type
+T19	Exp 531 533	we
+T20	Exp 607 645	the antioncogenic transcription factor
+T21	Exp 571 590	these T lymphocytes
+T22	Exp 820 822	We
+T23	Exp 833 837	that
+T24	Exp 859 899	the interleukin-1 beta converting enzyme
+T25	Exp 937 979	the Caenorhabditis elegans cell death gene
+T26	Exp 1050 1064	the activation
+T27	Exp 1068 1087	the endogenous gene
+T28	Exp 1109 1124	the sensitivity
+R4	Coref Anaphora:T15 Antecedent:T29
+R5	Coref Anaphora:T14 Antecedent:T30
+R6	Coref Anaphora:T27 Antecedent:T11
+T1	Protein 3 8	IRF-1
+T2	Protein 330 333	p53
+T3	Protein 422 425	p53
+T4	Protein 646 682	interferon regulatory factor (IRF)-1
+T5	Protein 742 745	p53
+T6	Protein 750 755	IRF-1
+T7	Protein 863 899	interleukin-1 beta converting enzyme
+T8	Protein 901 904	ICE
+T9	Protein 980 985	ced-3
+T10	Protein 990 995	IRF-1
+T11	Protein 1033 1038	IRF-1
+T12	Protein 1092 1095	ICE
+T29	Exp 170 180	a response
+T30	Exp 96 107	Lymphocytes

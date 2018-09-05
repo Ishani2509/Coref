@@ -1,0 +1,35 @@
+T8	Exp 20 57	the human immunodeficiency virus type
+T9	Exp 91 119	the human T-cell line Jurkat
+T10	Exp 233 237	that
+T11	Exp 122 139	The transcription
+T12	Exp 143 180	the human immunodeficiency virus type
+T13	Exp 200 211	the control
+T14	Exp 246 276	the viral long terminal repeat
+T15	Exp 290 317	the protein-binding regions
+T16	Exp 321 330	the HIV-1
+T17	Exp 338 371	the transcription-enhancer region
+T18	Exp 373 375	We
+T19	Exp 381 385	that
+T20	Exp 460 476	the HIV enhancer
+T21	Exp 549 553	they
+T22	Exp 521 541	their surface charge
+T23	Exp 494 510	The two proteins
+T24	Exp 663 676	their binding
+T25	Exp 697 702	which
+T26	Exp 711 734	the HIV-enhancer domain
+T27	Exp 801 850	the interleukin-2-receptor alpha-subunit enhancer
+T28	Exp 852 876	The inducible C1 protein
+R5	Coref Anaphora:T10 Antecedent:T29
+R6	Coref Anaphora:T22 Antecedent:T23
+R7	Coref Anaphora:T21 Antecedent:T23
+R8	Coref Anaphora:T24 Antecedent:T30
+R9	Coref Anaphora:T25 Antecedent:T31
+T1	Protein 410 412	C1
+T2	Protein 436 438	C2
+T3	Protein 741 743	C1
+T4	Protein 748 750	C2
+T5	Protein 805 841	interleukin-2-receptor alpha-subunit
+T6	Protein 866 868	C1
+T29	Exp 215 232	cellular proteins
+T30	Exp 602 618	Bivalent cations
+T31	Exp 680 696	oligonucleotides

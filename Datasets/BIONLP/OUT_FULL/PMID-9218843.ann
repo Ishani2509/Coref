@@ -1,0 +1,32 @@
+T17	Exp 114 125	The control
+T18	Exp 226 245	the lymphoid system
+T19	Exp 247 249	We
+T20	Exp 264 274	the effect
+T21	Exp 413 415	We
+T22	Exp 422 426	that
+T23	Exp 542 544	We
+T24	Exp 556 560	that
+T25	Exp 912 916	that
+T26	Exp 903 911	the fact
+T27	Exp 1013 1030	the vast majority
+T28	Exp 953 1003	those located in S + G2/M phases of the cell cycle
+T29	Exp 1265 1282	the T cell clones
+T30	Exp 1341 1349	the cDNA
+T31	Exp 1373 1390	the T cell clones
+T32	Exp 1392 1409	Our present study
+T33	Exp 1416 1420	that
+R3	Coref Anaphora:T25 Antecedent:T26
+T1	Protein 55 59	IL-2
+T2	Protein 291 295	IL-2
+T3	Protein 427 431	IL-2
+T4	Protein 467 475	IFN-beta
+T5	Protein 486 490	IL-2
+T6	Protein 561 565	IL-2
+T7	Protein 594 598	IL-2
+T8	Protein 682 685	P53
+T9	Protein 687 689	Rb
+T10	Protein 694 700	Bcl-xL
+T11	Protein 938 942	IL-2
+T12	Protein 1194 1253	signal transducers and activators of transcription (STAT) 2
+T13	Protein 1316 1321	STAT2
+T14	Protein 1507 1511	IL-2

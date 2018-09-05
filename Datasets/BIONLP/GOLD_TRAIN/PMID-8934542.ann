@@ -1,0 +1,32 @@
+T1	Protein 34 77	Bruton's agammaglobulinemia tyrosine kinase
+T2	Protein 84 87	Btk
+T3	Protein 105 108	Sp1
+T4	Protein 114 119	Spi-1
+T5	Protein 120 124	PU.1
+T6	Protein 142 185	Bruton's agammaglobulinemia tyrosine kinase
+T7	Protein 187 190	Btk
+T8	Protein 582 585	Sp1
+T9	Protein 646 651	Spi-1
+T10	Protein 652 656	PU.1
+T11	Protein 695 700	Spi-B
+T12	Protein 794 799	Spi-B
+T13	Protein 806 810	PU.1
+T14	Protein 824 827	Btk
+T15	Protein 1015 1020	Spi-1
+T16	Protein 1062 1067	Spi-B
+T17	Protein 1079 1083	PU.1
+T18	Protein 1111 1114	Btk
+T19	Protein 1145 1149	PU.1
+T20	Protein 1212 1215	Btk
+T21	Protein 1318 1321	Btk
+T22	Protein 1366 1369	Sp1
+T23	Protein 1375 1379	PU.1
+T24	Exp 142 191	Bruton's agammaglobulinemia tyrosine kinase (Btk)
+T25	Exp 290 298	The gene
+T26	Exp 973 995	the T-cell line Jurkat
+T27	Exp 997 1002	where
+T28	Exp 1145 1157	PU.1-/- mice	1153 1157	mice
+T29	Exp 1159 1164	which
+R1	Coref Anaphora:T25 Antecedent:T24	[T7, T6]
+R2	Coref Anaphora:T27 Antecedent:T26
+R3	Coref Anaphora:T29 Antecedent:T28	[T19]

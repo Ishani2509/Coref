@@ -1,0 +1,23 @@
+T1	Protein 0 4	ATF1
+T2	Protein 52 62	histone H4
+T3	Protein 347 357	histone H4
+T4	Protein 649 653	ATF1
+T5	Protein 659 663	ATF2
+T6	Protein 677 681	ATF4
+T7	Protein 682 687	CREB2
+T8	Protein 1064 1068	ATF1
+T9	Protein 1379 1383	ATF1
+T10	Protein 1426 1428	H4
+T11	Protein 1508 1518	histone H4
+T12	Exp 380 423	at least four principal cis-acting elements	415 423	elements
+T13	Exp 424 429	which
+T14	Exp 591 622	two ATF/CREB recognition motifs	616 622	motifs
+T15	Exp 623 628	which
+T16	Exp 901 945	the multifunctional YY1 transcription factor	925 945	transcription factor
+T17	Exp 947 952	which
+T18	Exp 1060 1077	two ATF1 isoforms	1069 1077	isoforms
+T19	Exp 1078 1083	which
+R1	Coref Anaphora:T13 Antecedent:T12
+R2	Coref Anaphora:T15 Antecedent:T14
+R3	Coref Anaphora:T17 Antecedent:T16
+R4	Coref Anaphora:T19 Antecedent:T18	[T8]

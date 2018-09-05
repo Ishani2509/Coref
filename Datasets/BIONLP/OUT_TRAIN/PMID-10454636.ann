@@ -1,0 +1,36 @@
+T9	Exp 34 71	the human immunodeficiency virus type
+T10	Exp 100 117	the immune system
+T11	Exp 149 153	that
+T12	Exp 231 241	the action
+T13	Exp 291 308	the immune system
+T14	Exp 342 344	we
+T15	Exp 363 377	the regulation
+T16	Exp 520 525	which
+T17	Exp 542 562	the increased levels
+T18	Exp 589 618	Our transient expression data
+T19	Exp 628 632	that
+T20	Exp 675 704	the NF-kappaB element present
+T21	Exp 708 732	the long terminal repeat
+T22	Exp 734 748	The importance
+T23	Exp 887 895	the role
+T24	Exp 947 977	the proteasome inhibitor MG132
+T25	Exp 1033 1035	We
+T26	Exp 1053 1063	the effect
+T27	Exp 1079 1091	the presence
+T28	Exp 1182 1197	The combination
+T29	Exp 1450 1455	which
+T30	Exp 1391 1409	the concentrations
+T31	Exp 1548 1567	the dopamine system
+T32	Exp 1634 1649	the involvement
+T33	Exp 1508 1521	These results
+R3	Coref Anaphora:T16 Antecedent:T34
+R4	Coref Anaphora:T29 Antecedent:T35
+T1	Protein 1113 1140	tumor necrosis factor-alpha
+T2	Protein 1142 1151	TNF-alpha
+T3	Protein 1214 1223	TNF-alpha
+T4	Protein 1311 1320	TNF-alpha
+T5	Protein 1413 1416	p50
+T6	Protein 1418 1421	p65
+T7	Protein 1426 1439	IkappaB-alpha
+T34	Exp 510 518	dopamine
+T35	Exp 1440 1448	proteins

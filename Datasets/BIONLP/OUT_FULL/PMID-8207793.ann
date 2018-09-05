@@ -1,0 +1,38 @@
+T24	Exp 176 192	the pathogenesis
+T25	Exp 316 318	we
+T26	Exp 217 228	the effects
+T27	Exp 798 808	its effect
+T28	Exp 782 786	that
+T29	Exp 830 855	the transcriptional level
+T30	Exp 857 876	The NF-kappa B site
+T31	Exp 906 923	the IL-2 promoter
+T32	Exp 960 974	the Tat effect
+T33	Exp 976 1001	The Tat-mediated increase
+T34	Exp 1169 1190	The observed increase
+T35	Exp 1269 1271	it
+T36	Exp 1292 1318	the hypergammaglobulinemia
+T37	Exp 1379 1409	the T-helper cell dysfunctions
+R3	Coref Anaphora:T27 Antecedent:T14
+R4	Coref Anaphora:T35 Antecedent:T34
+T1	Protein 36 39	Tat
+T2	Protein 52 65	interleukin-2
+T3	Protein 276 279	Tat
+T4	Protein 283 296	interleukin-2
+T5	Protein 298 302	IL-2
+T6	Protein 324 328	IL-2
+T7	Protein 338 371	chloramphenicol acetyltransferase
+T8	Protein 387 391	IL-2
+T9	Protein 466 469	Tat
+T10	Protein 511 515	IL-2
+T11	Protein 568 586	phytohemagglutinin
+T12	Protein 618 622	IL-2
+T13	Protein 742 745	Tat
+T14	Protein 787 790	Tat
+T15	Protein 812 816	IL-2
+T16	Protein 910 914	IL-2
+T17	Protein 964 967	Tat
+T18	Protein 980 983	Tat
+T19	Protein 1005 1009	IL-2
+T20	Protein 1070 1073	tat
+T21	Protein 1147 1150	Tax
+T22	Protein 1194 1198	IL-2

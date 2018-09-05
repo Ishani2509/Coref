@@ -1,0 +1,39 @@
+T25	Exp 124 126	We
+T26	Exp 433 450	the Rel-A protein
+T27	Exp 370 386	This observation
+T28	Exp 452 454	We
+T29	Exp 668 683	the 14 patients
+T30	Exp 726 758	the dual specificity phosphatase
+T31	Exp 856 870	the activation
+T32	Exp 908 909	I
+T33	Exp 1007 1011	that
+T34	Exp 1037 1045	Our data
+T35	Exp 1068 1081	the detection
+T36	Exp 1157 1169	the analysis
+T37	Exp 1438 1442	that
+T38	Exp 1385 1402	the translocation
+T39	Exp 1443 1466	the NFKB family members
+T40	Exp 1511 1528	the transcription
+T41	Exp 1540 1568	the peripheral T lymphocytes
+R5	Coref Anaphora:T33 Antecedent:T42
+T1	Protein 315 318	p65
+T2	Protein 320 325	Rel-A
+T3	Protein 364 368	IL-2
+T4	Protein 437 442	Rel-A
+T5	Protein 518 544	T-cell receptor (TCR)-zeta
+T6	Protein 546 552	ZAP-70
+T7	Protein 557 563	p56lck
+T8	Protein 760 784	map kinase phosphatase-1
+T9	Protein 786 791	MKP-1
+T10	Protein 794 799	MKP-1
+T11	Protein 874 879	c-jun
+T12	Protein 884 889	c-fos
+T13	Protein 1306 1311	Rel-A
+T14	Protein 1364 1368	IL-2
+T15	Protein 1406 1411	Rel-B
+T16	Protein 1416 1421	c-Rel
+T17	Protein 1467 1472	Rel-A
+T18	Protein 1474 1479	Rel-B
+T19	Protein 1484 1489	c-Rel
+T20	Protein 1532 1536	IL-2
+T42	Exp 999 1006	T cells

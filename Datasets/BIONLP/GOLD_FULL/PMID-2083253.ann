@@ -1,0 +1,50 @@
+T1	Protein 16 27	TCF-1 alpha
+T2	Protein 87 110	T-cell receptor C alpha
+T3	Protein 441 452	TCF-1 alpha
+T4	Protein 563 574	TCF-1 alpha
+T5	Protein 685 694	TCR alpha
+T6	Protein 812 821	TCR alpha
+T7	Protein 834 840	p56lck
+T8	Protein 845 854	CD3 delta
+T9	Protein 882 893	TCF-1 alpha
+T10	Protein 957 966	TCR delta
+T11	Protein 981 989	TCR beta
+T12	Protein 1105 1116	TCF-1 alpha
+T13	Protein 1365 1374	TCR alpha
+T14	Protein 1408 1419	TCF-1 alpha
+T15	Protein 1568 1579	TCF-2 alpha
+T16	Protein 1808 1819	TCF-1 alpha
+T17	Protein 1944 1955	TCF-1 alpha
+T18	Protein 1991 2000	TCR alpha
+T19	Protein 2104 2115	TCF-1 alpha
+T20	Protein 2174 2185	TCF-1 alpha
+T21	Protein 2273 2282	TCR alpha
+T22	Protein 2404 2415	TCF-1 alpha
+T23	Protein 2441 2452	TCF-2 alpha
+T24	Protein 2457 2466	T alpha 1
+T25	Protein 2468 2472	CREB
+T26	Protein 2543 2552	TCR alpha
+T27	Exp 29 67	a T-cell-specific transcription factor
+T28	Exp 68 72	that
+T29	Exp 338 350	the proteins
+T30	Exp 351 355	that
+T31	Exp 441 452	TCF-1 alpha
+T32	Exp 454 458	that
+T33	Exp 563 574	TCF-1 alpha
+T34	Exp 619 622	its
+T35	Exp 1142 1175	a family of 57- to 53-kD proteins	1144 1150	family
+T36	Exp 1176 1180	that
+T37	Exp 1335 1389	A small 95-bp fragment of the TCR alpha control region
+T38	Exp 1390 1394	that
+T39	Exp 2170 2201	the TCF-1 alpha binding element
+T40	Exp 2241 2244	its
+T41	Exp 2404 2415	TCF-1 alpha
+T42	Exp 2515 2518	its
+R1	Coref Anaphora:T28 Antecedent:T27
+R2	Coref Anaphora:T30 Antecedent:T29
+R3	Coref Anaphora:T32 Antecedent:T31	[T3]
+R4	Coref Anaphora:T34 Antecedent:T33	[T4]
+R5	Coref Anaphora:T36 Antecedent:T35
+R6	Coref Anaphora:T38 Antecedent:T37	[T13]
+R7	Coref Anaphora:T40 Antecedent:T39	[T20]
+R8	Coref Anaphora:T42 Antecedent:T41	[T22]

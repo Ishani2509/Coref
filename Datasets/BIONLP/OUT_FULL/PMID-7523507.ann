@@ -1,0 +1,24 @@
+T5	Exp 21 53	the c-fos serum response element
+T6	Exp 134 158	The proto-oncogene c-fos
+T7	Exp 198 213	the first genes
+T8	Exp 369 381	the membrane
+T9	Exp 428 454	The serum response element
+T10	Exp 464 491	the c-fos regulatory region
+T11	Exp 627 629	We
+T12	Exp 635 639	that
+T13	Exp 806 831	the serum response factor
+T14	Exp 869 873	that
+T15	Exp 978 991	the SRE motif
+T16	Exp 1013 1022	the cells
+T17	Exp 1024 1036	this protein
+T18	Exp 1172 1178	itself
+T19	Exp 1196 1227	the protein-protein interaction
+R4	Coref Anaphora:T14 Antecedent:T20
+R5	Coref Anaphora:T17 Antecedent:T13
+R6	Coref Anaphora:T18 Antecedent:T21
+T1	Protein 25 30	c-fos
+T2	Protein 153 158	c-fos
+T3	Protein 285 288	Fos
+T4	Protein 468 473	c-fos
+T20	Exp 859 868	A protein
+T21	Exp 1155 1171	tyrosine residue

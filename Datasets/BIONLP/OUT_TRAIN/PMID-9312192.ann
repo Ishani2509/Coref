@@ -1,0 +1,25 @@
+T5	Exp 9 13	that
+T6	Exp 267 291	the phosphatase activity
+T7	Exp 402 404	We
+T8	Exp 568 572	that
+T9	Exp 497 507	the effect
+T10	Exp 536 567	the downstream signaling events
+T11	Exp 413 424	this degree
+T12	Exp 657 667	the degree
+T13	Exp 749 759	each event
+T14	Exp 985 995	the degree
+T15	Exp 1116 1156	the allogeneic mixed lymphocyte cultures
+T16	Exp 1192 1196	that
+T17	Exp 1177 1191	the conclusion
+T18	Exp 1230 1244	the activation
+T19	Exp 1158 1168	These data
+T20	Exp 1283 1296	the reduction
+T21	Exp 1441 1462	the immunosuppression
+R4	Coref Anaphora:T5 Antecedent:T22
+R5	Coref Anaphora:T8 Antecedent:T10
+R6	Coref Anaphora:T16 Antecedent:T17
+T1	Protein 908 917	IFN-gamma
+T2	Protein 922 926	IL-2
+T3	Protein 950 959	IFN-gamma
+T4	Protein 1092 1101	IFN-gamma
+T22	Exp 0 8	Evidence

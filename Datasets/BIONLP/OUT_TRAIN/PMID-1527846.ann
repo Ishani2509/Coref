@@ -1,0 +1,39 @@
+T6	Exp 114 118	that
+T7	Exp 268 273	which
+T8	Exp 274 278	both
+T9	Exp 386 408	the asymptomatic phase
+T10	Exp 310 322	both viruses
+T11	Exp 586 590	that
+T12	Exp 470 487	The latent phases
+T13	Exp 636 644	the case
+T14	Exp 655 690	the transcription factor NF-kappa B
+T15	Exp 876 878	we
+T16	Exp 891 895	that
+T17	Exp 993 1011	the HIV-2 enhancer
+T18	Exp 863 874	this report
+T19	Exp 1050 1054	that
+T20	Exp 1055 1080	these Elf-1 binding sites
+T21	Exp 1265 1269	that
+T22	Exp 1204 1227	the only factor present
+T23	Exp 1279 1290	these sites
+T24	Exp 1377 1381	that
+T25	Exp 1409 1454	the T-cell-receptor-mediated trans activation
+T26	Exp 1522 1542	the clinical spectra
+T27	Exp 1616 1626	the design
+T28	Exp 1481 1494	These results
+R7	Coref Anaphora:T6 Antecedent:T29
+R8	Coref Anaphora:T7 Antecedent:T30
+R9	Coref Anaphora:T11 Antecedent:T31
+R10	Coref Anaphora:T22 Antecedent:T4
+R11	Coref Anaphora:T21 Antecedent:T32
+R12	Coref Anaphora:T24 Antecedent:T33
+T1	Protein 42 47	Elf-1
+T2	Protein 938 943	Elf-1
+T3	Protein 1061 1066	Elf-1
+T4	Protein 1195 1200	Elf-1
+T5	Protein 1339 1344	Elf-1
+T29	Exp 92 113	2 regulatory elements
+T30	Exp 247 267	related retroviruses
+T31	Exp 576 585	a process
+T32	Exp 1231 1264	activated T-cell nuclear extracts
+T33	Exp 1348 1376	a novel transcription factor

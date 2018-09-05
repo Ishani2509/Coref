@@ -1,0 +1,31 @@
+T2	Exp 156 158	We
+T3	Exp 173 183	the action
+T4	Exp 274 306	the epipodophyllotoxin etoposide
+T5	Exp 311 342	the bisdioxopiperazine ICRF-193
+T6	Exp 448 453	which
+T7	Exp 502 515	these effects
+T8	Exp 939 944	which
+T9	Exp 1011 1036	the membrane-bound enzyme
+T10	Exp 1081 1090	the total
+T11	Exp 859 875	these conditions
+T12	Exp 1208 1224	the total enzyme
+T13	Exp 1226 1230	When
+T14	Exp 1280 1309	both topoisomerase inhibitors
+T15	Exp 1475 1495	the binding activity
+T16	Exp 1499 1511	the NF-kappa
+T17	Exp 1568 1570	It
+T18	Exp 1688 1702	their capacity
+T19	Exp 1584 1588	that
+T20	Exp 1628 1647	the differentiation
+T21	Exp 1815 1820	which
+T22	Exp 1773 1793	the early activation
+T23	Exp 1847 1861	the production
+R5	Coref Anaphora:T6 Antecedent:T24
+R6	Coref Anaphora:T8 Antecedent:T25
+R7	Coref Anaphora:T18 Antecedent:T26
+R8	Coref Anaphora:T21 Antecedent:T27
+T1	Protein 1519 1524	EGR-1
+T24	Exp 426 446	primary DNA breakage
+T25	Exp 921 937	protein kinase C
+T26	Exp 1651 1669	promonocytic cells
+T27	Exp 1797 1813	protein kinase C

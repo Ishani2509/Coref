@@ -1,0 +1,52 @@
+T25	Exp 30 55	the inducible degradation
+T26	Exp 95 109	the processing
+T27	Exp 143 178	The transcription factor NF-kappa B
+T28	Exp 188 201	the induction
+T29	Exp 240 254	the activation
+T30	Exp 308 344	the immunosuppressants cyclosporin A
+T31	Exp 392 405	the induction
+T32	Exp 409 455	these NF-kappa B-controlled cytokine promoters
+T33	Exp 457 459	We
+T34	Exp 550 554	that
+T35	Exp 633 649	the Rel proteins
+T36	Exp 695 717	the nuclear appearance
+T37	Exp 555 577	this inhibitory effect
+T38	Exp 774 787	the synthesis
+T39	Exp 818 843	the inducible degradation
+T40	Exp 1025 1027	it
+T41	Exp 1089 1094	which
+T42	Exp 942 949	neither
+T43	Exp 959 973	the processing
+T44	Exp 977 1007	the NF-kappa B1 precursor p105
+T45	Exp 1040 1062	the C-terminal portion
+T46	Exp 1168 1172	that
+T47	Exp 1213 1243	the signal-induced degradation
+T48	Exp 1303 1317	the processing
+T49	Exp 1145 1158	These results
+R4	Coref Anaphora:T34 Antecedent:T50
+R5	Coref Anaphora:T40 Antecedent:T51
+R6	Coref Anaphora:T41 Antecedent:T15
+T1	Protein 113 117	p105
+T2	Protein 118 129	NF-kappa B1
+T3	Protein 650 655	c-Rel
+T4	Protein 657 661	RelA
+T5	Protein 662 665	p65
+T6	Protein 670 681	NF-kappa B1
+T7	Protein 682 685	p50
+T8	Protein 721 725	RelB
+T9	Protein 879 894	I kappa B alpha
+T10	Protein 899 913	I kappa B beta
+T11	Protein 981 992	NF-kappa B1
+T12	Protein 1003 1007	p105
+T13	Protein 1011 1014	p50
+T14	Protein 1066 1070	p105
+T15	Protein 1072 1087	I kappa B gamma
+T16	Protein 1114 1118	p105
+T17	Protein 1140 1143	p50
+T18	Protein 1247 1262	I kappa B alpha
+T19	Protein 1267 1281	I kappa B beta
+T20	Protein 1321 1332	NF-kappa B1
+T21	Protein 1333 1337	p105
+T22	Protein 1341 1344	p50
+T50	Exp 527 548	primary T lymphocytes
+T51	Exp 938 941	CsA

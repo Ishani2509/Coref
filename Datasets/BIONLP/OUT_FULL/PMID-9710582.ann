@@ -1,0 +1,24 @@
+T6	Exp 0 33	The small GTP-binding protein Rho
+T7	Exp 78 92	The Rho family
+T8	Exp 138 152	the regulation
+T9	Exp 252 254	We
+T10	Exp 282 286	that
+T11	Exp 374 386	the presence
+T12	Exp 270 281	this report
+T13	Exp 700 710	The effect
+T14	Exp 744 788	the mitogen-activated protein kinase pathway
+T15	Exp 977 990	the CAAX site
+T16	Exp 1021 1037	this association
+T17	Exp 1126 1130	that
+T18	Exp 1110 1125	the observation
+T19	Exp 1147 1168	the N-terminal domain
+T20	Exp 1189 1200	the effects
+T21	Exp 1280 1284	that
+T22	Exp 1261 1271	These data
+R3	Coref Anaphora:T10 Antecedent:T12
+R4	Coref Anaphora:T17 Antecedent:T18
+T1	Protein 483 488	Oct-1
+T2	Protein 914 935	protein kinase Calpha
+T3	Protein 937 945	PKCalpha
+T4	Protein 1063 1071	PKCalpha
+T5	Protein 1172 1180	PKCalpha

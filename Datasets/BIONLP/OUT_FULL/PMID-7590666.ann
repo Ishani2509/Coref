@@ -1,0 +1,16 @@
+T3	Exp 228 233	which
+T4	Exp 403 417	the expression
+T5	Exp 645 653	the mice
+T6	Exp 574 585	This injury
+T7	Exp 735 743	the mice
+T8	Exp 750 758	the CCl4
+T9	Exp 772 794	the NF-kappa B binding
+T10	Exp 1162 1173	the binding
+T11	Exp 1215 1219	that
+T12	Exp 1192 1202	These data
+T13	Exp 1347 1349	It
+T14	Exp 1375 1379	that
+R2	Coref Anaphora:T3 Antecedent:T15
+T1	Protein 963 990	tumor necrosis factor-alpha
+T2	Protein 992 1001	TNF-alpha
+T15	Exp 206 224	a common mechanism

@@ -1,0 +1,29 @@
+T7	Exp 30 53	the interleukin-3 locus
+T8	Exp 180 184	that
+T9	Exp 235 237	we
+T10	Exp 319 323	that
+T11	Exp 305 318	the IL-3 gene
+T12	Exp 387 404	The IL-3 enhancer
+T13	Exp 538 550	the enhancer
+T14	Exp 552 590	The two most active NFAT-like elements
+T15	Exp 607 617	the center
+T16	Exp 621 652	the DNase I-hypersensitive site
+T17	Exp 742 747	which
+T18	Exp 661 685	these NFAT-like elements
+T19	Exp 791 793	We
+T20	Exp 802 806	that
+T21	Exp 807 837	the T cell-specific expression
+T22	Exp 841 854	the IL-3 gene
+T23	Exp 884 896	the enhancer
+R5	Coref Anaphora:T8 Antecedent:T24
+R6	Coref Anaphora:T10 Antecedent:T11
+R7	Coref Anaphora:T18 Antecedent:T14
+R8	Coref Anaphora:T17 Antecedent:T25
+T1	Protein 34 47	interleukin-3
+T2	Protein 145 158	Interleukin-3
+T3	Protein 160 164	IL-3
+T4	Protein 309 313	IL-3
+T5	Protein 391 395	IL-3
+T6	Protein 845 849	IL-3
+T24	Exp 169 179	a cytokine
+T25	Exp 719 740	NFATp/c-binding sites

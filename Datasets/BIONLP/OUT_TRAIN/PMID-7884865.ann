@@ -1,0 +1,50 @@
+T21	Exp 40 63	the inhibitory molecule
+T22	Exp 204 215	its ability
+T23	Exp 317 322	which
+T24	Exp 281 295	the expression
+T25	Exp 519 521	it
+T26	Exp 464 469	which
+T27	Exp 535 539	that
+T28	Exp 584 588	that
+T29	Exp 651 655	that
+T30	Exp 446 460	The mechanisms
+T31	Exp 599 613	the activation
+T32	Exp 488 502	these proteins
+T33	Exp 757 771	the expression
+T34	Exp 870 883	The mechanism
+T35	Exp 898 913	this activation
+T36	Exp 931 939	Our data
+T37	Exp 949 953	that
+T38	Exp 1376 1395	those encoding p105
+T39	Exp 1447 1451	that
+T40	Exp 1424 1437	These results
+T41	Exp 1543 1555	the pathways
+T42	Exp 1663 1671	the role
+T43	Exp 1675 1715	this virus-host cell protein interaction
+R6	Coref Anaphora:T22 Antecedent:T3
+R7	Coref Anaphora:T23 Antecedent:T44
+R8	Coref Anaphora:T26 Antecedent:T30
+R9	Coref Anaphora:T28 Antecedent:T45
+R10	Coref Anaphora:T29 Antecedent:T46
+T1	Protein 0 5	LMP-1
+T2	Protein 64 79	I kappa B alpha
+T3	Protein 82 87	LMP-1
+T4	Protein 267 272	LMP-1
+T5	Protein 299 303	bcl2
+T6	Protein 470 475	LMP-1
+T7	Protein 540 545	LMP-1
+T8	Protein 863 868	LMP-1
+T9	Protein 1076 1081	LMP-1
+T10	Protein 1083 1098	I kappa B alpha
+T11	Protein 1126 1131	LMP-1
+T12	Protein 1177 1192	I kappa B alpha
+T13	Protein 1391 1395	p105
+T14	Protein 1400 1415	I kappa B alpha
+T15	Protein 1417 1421	MAD3
+T16	Protein 1452 1457	LMP-1
+T17	Protein 1508 1523	I kappa B alpha
+T18	Protein 1569 1574	LMP-1
+T19	Protein 1623 1638	I kappa B alpha
+T44	Exp 305 316	an oncogene
+T45	Exp 555 583	signal transduction pathways
+T46	Exp 624 650	more transcription factors

@@ -1,0 +1,42 @@
+T1	Protein 35 41	GATA-4
+T2	Protein 74 78	IL-5
+T3	Protein 96 100	IL-5
+T4	Protein 164 177	Interleukin-5
+T5	Protein 179 183	IL-5
+T6	Protein 341 345	IL-5
+T7	Protein 398 402	IL-5
+T8	Protein 433 437	IL-5
+T9	Protein 667 679	human GATA-4
+T10	Protein 681 688	hGATA-4
+T11	Protein 704 711	hGATA-4
+T12	Protein 768 772	IL-5
+T13	Protein 950 957	hGATA-4
+T14	Protein 1007 1011	IL-5
+T15	Protein 1218 1225	hGATA-2
+T16	Protein 1227 1234	hGATA-3
+T17	Protein 1239 1246	hGATA-4
+T18	Protein 1390 1396	GATA-4
+T19	Protein 1607 1613	GATA-4
+T20	Protein 1770 1776	GATA-4
+T21	Protein 1854 1860	GATA-4
+T22	Protein 1902 1906	IL-5
+T23	Exp 96 116	IL-5 producing cells
+T24	Exp 117 122	which
+T25	Exp 313 326	ATL-16T cells	321 326	cells
+T26	Exp 327 332	which
+T27	Exp 371 379	a region	373 379	region
+T28	Exp 418 422	that
+T29	Exp 536 564	GATA-binding family proteins	556 564	proteins
+T30	Exp 602 622	these family members	615 622	members
+T31	Exp 1052 1090	another regulatory element called CLE0	1071 1078	element
+T32	Exp 1092 1097	which
+T33	Exp 1390 1396	GATA-4
+T34	Exp 1400 1429	the only GATA-binding protein	1422 1429	protein
+T35	Exp 1430 1434	that
+R1	Coref Anaphora:T24 Antecedent:T23	[T3]
+R2	Coref Anaphora:T26 Antecedent:T25
+R3	Coref Anaphora:T28 Antecedent:T27
+R4	Coref Anaphora:T30 Antecedent:T29
+R5	Coref Anaphora:T32 Antecedent:T31
+R6	Coref Anaphora:T34 Antecedent:T33	[T18]
+R7	Coref Anaphora:T35 Antecedent:T34

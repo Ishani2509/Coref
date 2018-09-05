@@ -1,0 +1,49 @@
+T17	Exp 419 421	it
+T18	Exp 442 446	that
+T19	Exp 369 392	the deleterious effects
+T20	Exp 396 404	the host
+T21	Exp 536 540	that
+T22	Exp 500 510	The nature
+T23	Exp 514 532	the nuclear factor
+T24	Exp 644 664	Our previous studies
+T25	Exp 802 806	that
+T26	Exp 773 801	the human TNF-alpha promoter
+T27	Exp 887 889	We
+T28	Exp 995 1022	its amino-terminal sequence
+T29	Exp 1024 1029	which
+T30	Exp 900 917	this DNA fragment
+T31	Exp 968 981	this fragment
+T32	Exp 1222 1235	its induction
+T33	Exp 1217 1221	that
+T34	Exp 1291 1299	the name
+T35	Exp 1192 1207	this cDNA clone
+T36	Exp 1521 1533	the placenta
+T37	Exp 1581 1591	the spleen
+T38	Exp 1677 1681	that
+T39	Exp 1757 1761	that
+T40	Exp 1795 1809	the activation
+T41	Exp 1813 1837	the human TNF-alpha gene
+T42	Exp 1734 1748	these findings
+R5	Coref Anaphora:T21 Antecedent:T43
+R6	Coref Anaphora:T25 Antecedent:T26
+R7	Coref Anaphora:T28 Antecedent:T30
+R8	Coref Anaphora:T29 Antecedent:T30
+R9	Coref Anaphora:T32 Antecedent:T44
+T1	Protein 67 94	tumor necrosis factor alpha
+T2	Protein 289 316	tumor necrosis factor alpha
+T3	Protein 318 327	TNF-alpha
+T4	Protein 408 417	TNF-alpha
+T5	Protein 447 456	TNF-alpha
+T6	Protein 549 558	TNF-alpha
+T7	Protein 783 792	TNF-alpha
+T8	Protein 1300 1328	LPS-induced TNF-alpha factor
+T9	Protein 1330 1335	LITAF
+T10	Protein 1352 1357	LITAF
+T11	Protein 1416 1425	TNF-alpha
+T12	Protein 1480 1485	LITAF
+T13	Protein 1682 1687	LITAF
+T14	Protein 1762 1767	LITAF
+T15	Protein 1823 1832	TNF-alpha
+T16	Protein 1878 1887	TNF-alpha
+T43	Exp 533 534	s
+T44	Exp 1172 1188	Characterization

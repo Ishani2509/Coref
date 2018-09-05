@@ -1,0 +1,22 @@
+T5	Exp 206 230	their beneficial effects
+T6	Exp 180 194	the mechanisms
+T7	Exp 254 256	We
+T8	Exp 271 281	the effect
+T9	Exp 757 765	The IC50
+T10	Exp 948 953	which
+T11	Exp 822 836	The inhibition
+T12	Exp 973 984	the ability
+T13	Exp 1062 1073	this system
+T14	Exp 1301 1321	the alpha-tcp effect
+T15	Exp 1408 1443	the transcription factor NF-kappa B
+T16	Exp 1624 1649	this transcription factor
+T17	Exp 1678 1680	It
+T18	Exp 1703 1707	that
+T19	Exp 1835 1862	the atherosclerotic process
+T20	Exp 1864 1875	Our results
+R3	Coref Anaphora:T5 Antecedent:T6
+R4	Coref Anaphora:T10 Antecedent:T2
+T1	Protein 890 900	E-selectin
+T2	Protein 937 947	E-selectin
+T3	Protein 1013 1023	E-selectin
+T4	Protein 1495 1505	E-selectin

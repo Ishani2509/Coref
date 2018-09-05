@@ -1,0 +1,43 @@
+T10	Exp 69 98	the cooperative stabilization
+T11	Exp 102 144	the promoter-bound multi-protein complexes
+T12	Exp 217 228	the control
+T13	Exp 232 251	the immune response
+T14	Exp 373 392	its exact mechanism
+T15	Exp 253 277	The transactivator CIITA
+T16	Exp 544 546	It
+T17	Exp 556 560	that
+T18	Exp 561 574	the stability
+T19	Exp 578 590	this binding
+T20	Exp 637 651	these proteins
+T21	Exp 653 655	We
+T22	Exp 666 670	that
+T23	Exp 737 750	the promoters
+T24	Exp 754 769	these complexes
+T25	Exp 811 815	that
+T26	Exp 795 810	the possibility
+T27	Exp 816 826	the effect
+T28	Exp 887 916	the cooperative stabilization
+T29	Exp 920 957	the DNA-bound multi-protein complexes
+T30	Exp 771 787	This observation
+T31	Exp 959 961	We
+T32	Exp 977 981	that
+T33	Exp 982 994	the presence
+T34	Exp 1020 1033	the stability
+T35	Exp 1037 1069	the higher-order protein complex
+T36	Exp 1357 1386	its transactivation potential
+T37	Exp 1279 1291	This ability
+T38	Exp 1397 1399	we
+T39	Exp 1409 1413	that
+T40	Exp 1414 1425	this effect
+R4	Coref Anaphora:T14 Antecedent:T15
+R5	Coref Anaphora:T25 Antecedent:T26
+R6	Coref Anaphora:T36 Antecedent:T7
+T1	Protein 0 5	CIITA
+T2	Protein 272 277	CIITA
+T3	Protein 685 690	CIITA
+T4	Protein 830 835	CIITA
+T5	Protein 998 1003	CIITA
+T6	Protein 1142 1147	CIITA
+T7	Protein 1295 1300	CIITA
+T8	Protein 1429 1434	CIITA
+T9	Protein 1478 1483	CIITA

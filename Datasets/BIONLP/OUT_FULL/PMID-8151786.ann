@@ -1,0 +1,31 @@
+T9	Exp 265 301	the transcription factors NF-kappa B
+T10	Exp 408 413	which
+T11	Exp 331 344	the mechanism
+T12	Exp 358 373	the Nef protein
+T13	Exp 375 407	the signal transduction pathways
+T14	Exp 471 483	the nef gene
+T15	Exp 599 614	the recruitment
+T16	Exp 676 685	the cells
+T17	Exp 696 708	the nef gene
+T18	Exp 713 727	the other hand
+T19	Exp 781 800	the T-cell receptor
+T20	Exp 831 850	the down-regulation
+T21	Exp 918 930	the nef gene
+T22	Exp 966 978	the nef gene
+T23	Exp 1067 1069	we
+T24	Exp 1079 1083	that
+T25	Exp 988 1003	the Nef protein
+T26	Exp 1020 1042	the surface expression
+T27	Exp 1046 1065	the CD3-TCR complex
+T28	Exp 1084 1099	the Nef protein
+T29	Exp 1115 1153	the transcriptional factors NF-kappa B
+T30	Exp 1204 1249	the TCR-dependent signal transduction pathway
+R2	Coref Anaphora:T10 Antecedent:T13
+T1	Protein 36 39	Nef
+T2	Protein 211 226	negative factor
+T3	Protein 228 231	Nef
+T4	Protein 362 365	Nef
+T5	Protein 475 478	nef
+T6	Protein 922 925	nef
+T7	Protein 992 995	Nef
+T8	Protein 1088 1091	Nef

@@ -1,0 +1,33 @@
+T14	Exp 62 94	the retinoic acid receptor alpha
+T15	Exp 147 179	the retinoic acid receptor alpha
+T16	Exp 236 238	We
+T17	Exp 320 371	the murine RA-inducible MPRO promyelocyte cell line
+T18	Exp 697 701	that
+T19	Exp 745 749	when
+T20	Exp 804 822	the RAR alpha gene
+T21	Exp 903 958	the myeloid, B-lymphoid, and erythroid lineages, absent
+T22	Exp 1235 1240	which
+T23	Exp 1154 1176	The murine E3 promoter
+T24	Exp 1323 1327	that
+T25	Exp 1364 1368	that
+T26	Exp 1396 1419	the activated RAR alpha
+T27	Exp 1300 1313	These results
+R4	Coref Anaphora:T18 Antecedent:T28
+R5	Coref Anaphora:T22 Antecedent:T29
+R6	Coref Anaphora:T25 Antecedent:T30
+T1	Protein 0 2	E3
+T2	Protein 66 94	retinoic acid receptor alpha
+T3	Protein 151 179	retinoic acid receptor alpha
+T4	Protein 181 190	RAR alpha
+T5	Protein 457 459	E3
+T6	Protein 605 607	E3
+T7	Protein 720 729	RAR alpha
+T8	Protein 808 817	RAR alpha
+T9	Protein 857 859	E3
+T10	Protein 873 875	E3
+T11	Protein 1165 1167	E3
+T12	Protein 1328 1330	E3
+T13	Protein 1410 1419	RAR alpha
+T28	Exp 690 695	HL60R
+T29	Exp 1185 1234	a single bipartite retinoic acid response element
+T30	Exp 1334 1363	a hematopoietic-specific gene

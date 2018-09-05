@@ -1,0 +1,45 @@
+T21	Exp 124 146	the interleukin-5 gene
+T22	Exp 171 176	which
+T23	Exp 265 280	the development
+T24	Exp 336 340	that
+T25	Exp 341 352	the outcome
+T26	Exp 387 396	the ratio
+T27	Exp 400 415	the two subsets
+T28	Exp 455 474	the molecular basis
+T29	Exp 544 546	We
+T30	Exp 665 670	which
+T31	Exp 590 614	the transcription factor
+T32	Exp 713 724	Our studies
+T33	Exp 751 755	that
+T34	Exp 793 806	the IL-5 gene
+T35	Exp 852 867	the GATA-3 site
+T36	Exp 1049 1066	the IL-5 promoter
+T37	Exp 1075 1094	the differentiation
+T38	Exp 1339 1357	the GATA-3 protein
+T39	Exp 1402 1413	the balance
+T40	Exp 1522 1535	the treatment
+R4	Coref Anaphora:T22 Antecedent:T4
+R5	Coref Anaphora:T24 Antecedent:T41
+R6	Coref Anaphora:T30 Antecedent:T42
+T1	Protein 21 27	GATA-3
+T2	Protein 128 141	interleukin-5
+T3	Protein 149 162	Interleukin-5
+T4	Protein 164 168	IL-5
+T5	Protein 192 195	CD4
+T6	Protein 419 422	CD4
+T7	Protein 615 621	GATA-3
+T8	Protein 625 629	IL-5
+T9	Protein 756 762	GATA-3
+T10	Protein 797 801	IL-5
+T11	Protein 856 862	GATA-3
+T12	Protein 907 911	IL-5
+T13	Protein 968 974	GATA-3
+T14	Protein 1014 1018	IL-5
+T15	Protein 1053 1057	IL-5
+T16	Protein 1104 1107	CD4
+T17	Protein 1166 1172	GATA-3
+T18	Protein 1343 1349	GATA-3
+T19	Protein 1365 1371	GATA-3
+T20	Protein 1477 1483	GATA-3
+T41	Exp 316 335	increasing evidence
+T42	Exp 653 663	EL-4 cells

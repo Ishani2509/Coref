@@ -1,0 +1,47 @@
+T13	Exp 21 46	the adenomatous polyposis
+T14	Exp 285 318	their cytotoxic effector function
+T15	Exp 150 176	the CD3 and CD28 molecules
+T16	Exp 212 238	the most effective signals
+T17	Exp 338 342	that
+T18	Exp 411 415	that
+T19	Exp 438 466	the simultaneous stimulation
+T20	Exp 470 477	the CD3
+T21	Exp 736 754	the cDNA fragments
+T22	Exp 1003 1008	which
+T23	Exp 833 869	The predictive protein-coding region
+T24	Exp 918 985	the recently found adenomatous polyposis coli (APC) protein-binding
+T25	Exp 918 1001	the recently found adenomatous polyposis coli (APC) protein-binding EB1 gene family
+T26	Exp 1223 1227	that
+T27	Exp 1287 1292	which
+T28	Exp 1148 1171	The rapid up-regulation
+T29	Exp 1254 1285	the immediate/early gene family
+T30	Exp 1302 1333	the signal transduction cascade
+T31	Exp 1348 1355	the TCR
+T32	Exp 1228 1237	this gene
+T33	Exp 1360 1380	the expression level
+T34	Exp 1384 1396	the RP1 gene
+T35	Exp 1477 1501	the proliferative status
+T36	Exp 1505 1514	the cells
+T37	Exp 1527 1551	the EB1-like gene family
+T38	Exp 1580 1597	the tumorigenesis
+T39	Exp 1648 1673	the proliferative control
+R7	Coref Anaphora:T14 Antecedent:T16
+R8	Coref Anaphora:T17 Antecedent:T40
+R9	Coref Anaphora:T18 Antecedent:T41
+R10	Coref Anaphora:T22 Antecedent:T25
+R11	Coref Anaphora:T32 Antecedent:T11
+R12	Coref Anaphora:T27 Antecedent:T29
+T1	Protein 0 3	RP1
+T2	Protein 162 166	CD28
+T3	Protein 482 486	CD28
+T4	Protein 604 608	CD28
+T5	Protein 790 794	CD28
+T6	Protein 873 876	RP1
+T7	Protein 937 977	adenomatous polyposis coli (APC) protein
+T8	Protein 986 989	EB1
+T9	Protein 1065 1068	RP1
+T10	Protein 1135 1138	APC
+T11	Protein 1175 1178	RP1
+T12	Protein 1388 1391	RP1
+T40	Exp 332 337	genes
+T41	Exp 397 410	T lymphocytes

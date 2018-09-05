@@ -1,0 +1,42 @@
+T12	Exp 182 201	the T cell receptor
+T13	Exp 433 456	the multifunctional Ca2
+T14	Exp 685 693	the role
+T15	Exp 723 725	We
+T16	Exp 836 855	their relative role
+T17	Exp 891 909	their interactions
+T18	Exp 747 760	these kinases
+T19	Exp 1128 1152	the intact IL-2 promoter
+T20	Exp 1161 1175	the expression
+T21	Exp 1179 1230	the chloramphenicol acetyltransferase reporter gene
+T22	Exp 1311 1328	its transcription
+T23	Exp 1269 1296	the IL-2 promoter construct
+T24	Exp 1506 1514	its AP-1
+T25	Exp 1408 1429	The inhibitory effect
+T26	Exp 1557 1576	the same conditions
+T27	Exp 1661 1665	When
+T28	Exp 1729 1742	the induction
+T29	Exp 1746 1763	the IL-2 promoter
+T30	Exp 1666 1678	both mutants
+T31	Exp 1811 1815	when
+T32	Exp 1839 1856	the IL-4 promoter
+T33	Exp 1905 1919	the activation
+T34	Exp 2046 2050	that
+T35	Exp 2201 2216	the calcineurin
+T36	Exp 2024 2037	These results
+R5	Coref Anaphora:T16 Antecedent:T37
+T39	SPAN 627 654	interleukin (IL)-2 and IL-4
+R6	Coref Anaphora:T17 Antecedent:T39
+R7	Coref Anaphora:T22 Antecedent:T23
+R8	Coref Anaphora:T24 Antecedent:T38
+T1	Protein 394 404	calmodulin
+T2	Protein 627 645	interleukin (IL)-2
+T3	Protein 650 654	IL-4
+T4	Protein 1139 1143	IL-2
+T5	Protein 1183 1216	chloramphenicol acetyltransferase
+T6	Protein 1273 1277	IL-2
+T7	Protein 1445 1449	IL-2
+T8	Protein 1604 1608	IL-2
+T9	Protein 1750 1754	IL-2
+T10	Protein 1843 1847	IL-4
+T37	Exp 736 743	mutants
+T38	Exp 1479 1502	decreased transcription

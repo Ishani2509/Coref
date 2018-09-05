@@ -1,0 +1,18 @@
+T1	Exp 105 113	The flow
+T2	Exp 272 299	the phosphatase calcineurin
+T3	Exp 304 333	the transcription factor NFAT
+T4	Exp 438 467	the calcineurin docking motif
+T5	Exp 648 652	that
+T6	Exp 614 628	the expression
+T7	Exp 477 489	This peptide
+T8	Exp 739 775	the natural calcineurin docking site
+T9	Exp 786 816	the calcineurin responsiveness
+T10	Exp 836 840	that
+T11	Exp 988 992	that
+T12	Exp 868 900	the calcineurin-NFAT interaction
+R4	Coref Anaphora:T5 Antecedent:T13
+R5	Coref Anaphora:T10 Antecedent:T14
+R6	Coref Anaphora:T11 Antecedent:T15
+T13	Exp 632 647	other cytokines
+T14	Exp 826 835	Compounds
+T15	Exp 969 987	therapeutic agents

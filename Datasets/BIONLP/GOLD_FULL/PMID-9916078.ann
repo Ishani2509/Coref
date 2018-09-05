@@ -1,0 +1,14 @@
+T1	Protein 60 73	interleukin-8
+T2	Protein 216 229	Interleukin-8
+T3	Protein 231 235	IL-8
+T4	Protein 410 414	IL-8
+T5	Protein 596 600	IL-8
+T6	Protein 746 750	IL-8
+T7	Protein 1138 1142	MEK1
+T8	Protein 1288 1292	IL-8
+T9	Exp 240 251	a chemokine
+T10	Exp 252 256	that
+T11	Exp 551 565	the mechanisms
+T12	Exp 569 574	which
+R1	Coref Anaphora:T10 Antecedent:T9
+R2	Coref Anaphora:T12 Antecedent:T11

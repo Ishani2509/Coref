@@ -1,0 +1,33 @@
+T7	Exp 70 93	the repressive function
+T8	Exp 97 124	the glucocorticoid receptor
+T9	Exp 166 171	which
+T10	Exp 188 211	the therapeutic effects
+T11	Exp 282 309	the glucocorticoid receptor
+T12	Exp 320 330	the events
+T13	Exp 344 366	the activated receptor
+T14	Exp 476 498	the activated receptor
+T15	Exp 515 517	we
+T16	Exp 523 527	that
+T17	Exp 602 624	the wild-type receptor
+T18	Exp 503 513	this study
+T19	Exp 769 771	we
+T20	Exp 777 781	that
+T21	Exp 873 878	whose
+T22	Exp 845 871	the retinoic acid receptor
+T23	Exp 957 984	the glucocorticoid receptor
+T24	Exp 825 836	these cells
+T25	Exp 997 1015	the primary effect
+T26	Exp 1019 1031	the receptor
+R5	Coref Anaphora:T9 Antecedent:T27
+R6	Coref Anaphora:T13 Antecedent:T11
+R7	Coref Anaphora:T14 Antecedent:T11
+R8	Coref Anaphora:T17 Antecedent:T11
+R9	Coref Anaphora:T21 Antecedent:T22
+R10	Coref Anaphora:T26 Antecedent:T23
+T1	Protein 101 124	glucocorticoid receptor
+T2	Protein 286 309	glucocorticoid receptor
+T3	Protein 552 575	glucocorticoid receptor
+T4	Protein 671 684	interleukin-2
+T5	Protein 711 716	c-myc
+T6	Protein 961 984	glucocorticoid receptor
+T27	Exp 153 164	lymphocytes

@@ -1,0 +1,22 @@
+T15	Exp 23 48	the GATA-binding proteins
+T16	Exp 124 138	The expression
+T17	Exp 142 181	the hematopoietic transcription factors
+T18	Exp 438 452	the expression
+T19	Exp 485 499	the expression
+T20	Exp 668 672	that
+T21	Exp 590 602	The presence
+T22	Exp 615 629	these proteins
+T23	Exp 695 709	these lineages
+T24	SPAN 337 554	GATA-3. Treatment of HL-60 eosinophilic sublines with either interleukin-5 or butyric acid increased the expression of GATA-1 mRNA concomitant with the expression of eosinophil-specific genes, whereas levels of GATA-2
+R4	Coref Anaphora:T22 Antecedent:T24
+T1	Protein 182 188	GATA-1
+T2	Protein 190 196	GATA-2
+T3	Protein 202 208	GATA-3
+T4	Protein 280 286	GATA-1
+T5	Protein 288 294	GATA-2
+T6	Protein 300 306	GATA-3
+T7	Protein 326 332	GATA-2
+T8	Protein 337 343	GATA-3
+T9	Protein 398 411	interleukin-5
+T10	Protein 456 462	GATA-1
+T11	Protein 548 554	GATA-2

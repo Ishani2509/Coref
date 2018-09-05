@@ -1,0 +1,45 @@
+T15	Exp 28 50	the interleukin-2 gene
+T16	Exp 112 129	the immune system
+T17	Exp 130 150	the first activation
+T18	Exp 197 208	the shaping
+T19	Exp 212 256	the peripheral T cell specificity repertoire
+T20	Exp 373 377	that
+T21	Exp 295 312	the present study
+T22	Exp 326 343	the interleukin-2
+T23	Exp 554 592	the purine-rich IL-2 promoter elements
+T24	Exp 643 649	either
+T25	Exp 643 658	either in vitro
+T26	Exp 1154 1156	it
+T27	Exp 809 833	Their IL-2 transcription
+T28	Exp 1004 1019	its cytoplasmic
+T29	Exp 867 881	the transition
+T30	Exp 1067 1080	the activator
+T31	Exp 1095 1108	the cytoplasm
+T32	Exp 1217 1228	the nucleus
+T33	Exp 887 992	inactive to active functional state of a positive transcription factor binding to these promoter elements
+T34	Exp 1236 1250	the regulation
+T35	Exp 1254 1262	the gene
+T36	Exp 1274 1311	the main T cell growth factor changes
+T37	Exp 1331 1350	the first encounter
+T38	Exp 1376 1378	It
+T39	Exp 1394 1398	that
+T40	Exp 1399 1411	the presence
+T41	Exp 1441 1483	the more stringent activation requirements
+T42	SPAN 717 752	CD4+ T (memory) clones, or CD4+CD45
+R5	Coref Anaphora:T27 Antecedent:T42
+R6	Coref Anaphora:T28 Antecedent:T29
+R7	Coref Anaphora:T26 Antecedent:T30
+R8	Coref Anaphora:T35 Antecedent:T11
+T1	Protein 32 45	interleukin-2
+T2	Protein 330 343	interleukin-2
+T3	Protein 345 349	IL-2
+T4	Protein 417 420	CD4
+T5	Protein 437 440	CD4
+T6	Protein 441 445	CD45
+T7	Protein 467 471	IL-2
+T8	Protein 570 574	IL-2
+T9	Protein 717 720	CD4
+T10	Protein 744 747	CD4
+T11	Protein 748 752	CD45
+T12	Protein 815 819	IL-2
+T13	Protein 1493 1496	CD4

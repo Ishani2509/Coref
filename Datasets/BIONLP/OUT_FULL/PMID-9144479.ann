@@ -1,0 +1,28 @@
+T19	Exp 341 349	the role
+T20	Exp 420 424	that
+T21	Exp 374 391	The current study
+T22	Exp 405 419	the hypothesis
+T23	Exp 851 900	the proinflammatory and chemoattractant cytokines
+T24	Exp 1013 1053	the well-studied costimulatory molecules
+T25	Exp 1113 1117	that
+T26	Exp 1098 1112	the hypothesis
+T27	Exp 1202 1224	the CD40/CD40L pathway
+T28	Exp 1290 1305	both cell types
+R3	Coref Anaphora:T20 Antecedent:T22
+R4	Coref Anaphora:T25 Antecedent:T26
+T1	Protein 0 4	CD40
+T2	Protein 44 46	B7
+T3	Protein 124 128	CD40
+T4	Protein 227 231	CD40
+T5	Protein 353 357	CD40
+T6	Protein 425 429	CD40
+T7	Protein 713 717	CD40
+T8	Protein 731 742	CD40 ligand
+T9	Protein 901 905	IL-6
+T10	Protein 910 914	IL-8
+T11	Protein 916 925	IFN-gamma
+T12	Protein 999 1003	CD40
+T13	Protein 1054 1058	B7-1
+T14	Protein 1063 1067	B7-2
+T15	Protein 1206 1210	CD40
+T16	Protein 1211 1216	CD40L

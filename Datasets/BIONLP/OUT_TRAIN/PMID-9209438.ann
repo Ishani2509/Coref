@@ -1,0 +1,84 @@
+T24	Exp 117 122	which
+T25	Exp 3 28	the GATA-binding proteins
+T26	Exp 64 92	the human IL-5 gene promoter
+T27	Exp 285 305	the progenitor cells
+T28	Exp 352 354	we
+T29	Exp 327 332	which
+T30	Exp 418 422	that
+T31	Exp 388 416	the human IL-5 gene promoter
+T32	Exp 492 514	the core binding motif
+T33	Exp 583 598	the involvement
+T34	Exp 458 482	This cis-acting sequence
+T35	Exp 602 622	these family members
+T36	Exp 640 642	we
+T37	Exp 699 703	that
+T38	Exp 652 663	the cloning
+T39	Exp 739 756	the -70 GATA site
+T40	Exp 764 797	the IL-5 proximal promoter region
+T41	Exp 627 638	this report
+T42	Exp 843 845	we
+T43	Exp 858 869	this region
+T44	Exp 940 944	that
+T45	Exp 1003 1031	the IL-5 promoter activation
+T46	Exp 1092 1097	which
+T47	Exp 1033 1048	The requirement
+T48	Exp 1117 1134	the -70 GATA site
+T49	Exp 1260 1264	them
+T50	Exp 1252 1256	each
+T51	Exp 1369 1371	we
+T52	Exp 1385 1389	that
+T53	Exp 1430 1434	that
+T54	Exp 1400 1429	the only GATA-binding protein
+T55	Exp 1475 1492	the -70 GATA site
+T56	Exp 1602 1606	that
+T57	Exp 1494 1534	The electrophoretic mobility shift assay
+T58	Exp 1618 1646	the highest binding affinity
+T59	Exp 1650 1667	the -70 GATA site
+T60	Exp 1674 1705	the three GATA-binding proteins
+T61	Exp 1707 1711	When
+T62	Exp 1712 1739	the transactivation ability
+T63	Exp 1759 1768	the three
+T64	Exp 1784 1804	the highest activity
+T65	Exp 1930 1935	where
+T66	Exp 1832 1850	the selective role
+T67	Exp 1864 1894	the transcriptional regulation
+T68	Exp 1898 1911	the IL-5 gene
+T69	Exp 1956 1981	the GATA-binding proteins
+T70	Exp 1806 1819	These results
+R9	Coref Anaphora:T24 Antecedent:T3
+R10	Coref Anaphora:T29 Antecedent:T71
+R11	Coref Anaphora:T30 Antecedent:T31
+R12	Coref Anaphora:T46 Antecedent:T72
+R13	Coref Anaphora:T49 Antecedent:T73
+R14	Coref Anaphora:T53 Antecedent:T54
+T75	SPAN 1218 1246	hGATA-2, hGATA-3 and hGATA-4
+R15	Coref Anaphora:T60 Antecedent:T75
+T76	SPAN 1218 1246	hGATA-2, hGATA-3 and hGATA-4
+R16	Coref Anaphora:T69 Antecedent:T76
+R17	Coref Anaphora:T65 Antecedent:T74
+T1	Protein 35 41	GATA-4
+T2	Protein 74 78	IL-5
+T3	Protein 96 100	IL-5
+T4	Protein 164 177	Interleukin-5
+T5	Protein 179 183	IL-5
+T6	Protein 341 345	IL-5
+T7	Protein 398 402	IL-5
+T8	Protein 433 437	IL-5
+T9	Protein 667 679	human GATA-4
+T10	Protein 681 688	hGATA-4
+T11	Protein 704 711	hGATA-4
+T12	Protein 768 772	IL-5
+T13	Protein 950 957	hGATA-4
+T14	Protein 1007 1011	IL-5
+T15	Protein 1218 1225	hGATA-2
+T16	Protein 1227 1234	hGATA-3
+T17	Protein 1239 1246	hGATA-4
+T18	Protein 1390 1396	GATA-4
+T19	Protein 1607 1613	GATA-4
+T20	Protein 1770 1776	GATA-4
+T21	Protein 1854 1860	GATA-4
+T22	Protein 1902 1906	IL-5
+T71	Exp 313 326	ATL-16T cells
+T72	Exp 1086 1090	CLE0
+T73	Exp 1159 1172	ATL-16T cells
+T74	Exp 1915 1929	a circumstance

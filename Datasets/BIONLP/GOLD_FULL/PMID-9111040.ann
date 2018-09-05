@@ -1,0 +1,23 @@
+T1	Protein 19 25	NOTCH1
+T2	Protein 70 80	RBP-Jkappa
+T3	Protein 152 162	RBP-Jkappa
+T4	Protein 215 221	NOTCH1
+T5	Protein 284 290	NOTCH1
+T6	Protein 442 448	NOTCH1
+T7	Protein 686 696	RBP-Jkappa
+T8	Protein 787 797	RBP-Jkappa
+T9	Protein 918 928	RBP-Jkappa
+T10	Protein 953 959	NOTCH1
+T11	Protein 1044 1054	RBP-Jkappa
+T12	Protein 1190 1200	RBP-Jkappa
+T13	Protein 1834 1840	NOTCH1
+T14	Protein 1922 1932	RBP-Jkappa
+T15	Exp 211 244	the NOTCH1 transmembrane receptor
+T16	Exp 478 489	the protein
+T17	Exp 1025 1067	a second, stronger RBP-Jkappa-binding site	1063 1067	site
+T18	Exp 1069 1074	which
+T19	Exp 1659 1685	Transcriptional activation	1675 1685	activation
+T20	Exp 1763 1767	that
+R1	Coref Anaphora:T16 Antecedent:T15	[T4]
+R2	Coref Anaphora:T18 Antecedent:T17	[T11]
+R3	Coref Anaphora:T20 Antecedent:T19

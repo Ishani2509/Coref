@@ -1,0 +1,23 @@
+T9	Exp 211 228	the IL-2 receptor
+T10	Exp 263 276	the HIV-1 LTR
+T11	Exp 278 280	It
+T12	Exp 358 373	its active form
+T13	Exp 299 303	that
+T14	Exp 330 354	the NF-kappa B precursor
+T15	Exp 398 409	the effects
+T16	Exp 542 551	the cells
+T17	Exp 387 397	this study
+T18	Exp 663 681	the viral protease
+T19	Exp 600 623	this increased activity
+T20	Exp 768 801	the HIV-protease expressing cells
+T21	Exp 845 862	the IL-2 receptor
+T22	Exp 882 904	The limited activation
+R2	Coref Anaphora:T12 Antecedent:T14
+T1	Protein 0 19	HIV type 1 protease
+T2	Protein 202 206	IL-2
+T3	Protein 304 318	HIV-1 protease
+T4	Protein 413 425	HIV protease
+T5	Protein 726 729	CAT
+T6	Protein 772 784	HIV-protease
+T7	Protein 822 826	IL-2
+T8	Protein 922 934	HIV protease

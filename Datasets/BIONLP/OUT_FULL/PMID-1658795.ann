@@ -1,0 +1,40 @@
+T6	Exp 32 36	that
+T7	Exp 152 154	We
+T8	Exp 231 236	which
+T9	Exp 162 175	the structure
+T10	Exp 298 313	the early phase
+T11	Exp 317 331	the cell cycle
+T12	Exp 338 354	The pAT 133 gene
+T13	Exp 474 478	that
+T14	Exp 546 570	the type Cys2-Xaa12-His2
+T15	Exp 597 602	which
+T16	Exp 689 709	the amino acid level
+T17	Exp 572 595	This zinc-finger region
+T18	Exp 838 862	the amino acid sequences
+T19	Exp 866 884	the three proteins
+T20	Exp 935 939	that
+T21	Exp 940 956	the pAT 133 gene
+T22	Exp 899 925	This structural similarity
+T23	Exp 1035 1049	the regulation
+T24	Exp 1053 1093	these related zinc-finger-encoding genes
+T25	Exp 1275 1289	the cell cycle
+T26	Exp 1290 1305	the three genes
+T27	Exp 1567 1578	these cells
+T28	Exp 1653 1664	the control
+T29	Exp 1691 1714	the respective proteins
+T30	Exp 1580 1595	This difference
+R5	Coref Anaphora:T6 Antecedent:T31
+R6	Coref Anaphora:T8 Antecedent:T32
+R7	Coref Anaphora:T15 Antecedent:T17
+T33	SPAN 769 790	EGR1 and pAT 591/EGR2
+R8	Coref Anaphora:T19 Antecedent:T33
+T34	SPAN 769 790	EGR1 and pAT 591/EGR2
+R9	Coref Anaphora:T24 Antecedent:T34
+T35	SPAN 769 790	EGR1 and pAT 591/EGR2
+R10	Coref Anaphora:T26 Antecedent:T35
+T1	Protein 769 773	EGR1
+T2	Protein 786 790	EGR2
+T3	Protein 1442 1446	EGR1
+T4	Protein 1541 1545	EGR2
+T31	Exp 25 31	a gene
+T32	Exp 216 229	clone pAT 133

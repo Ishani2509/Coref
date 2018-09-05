@@ -1,0 +1,29 @@
+T10	Exp 128 136	the NFAT
+T11	Exp 254 268	the expression
+T12	Exp 333 335	we
+T13	Exp 420 425	which
+T14	Exp 435 439	that
+T15	Exp 440 451	the protein
+T16	Exp 526 549	the rel homology domain
+T17	Exp 551 575	the NFAT homology domain
+T18	Exp 580 613	the nuclear translocation signals
+T19	Exp 664 705	the murine IL-2 NFAT recognition sequence
+T20	Exp 818 822	that
+T21	Exp 874 879	which
+T22	Exp 823 837	the cDNA probe
+T23	Exp 994 1009	the early stage
+T24	Exp 1179 1183	that
+T25	Exp 1029 1045	the mouse embryo
+R4	Coref Anaphora:T13 Antecedent:T2
+R5	Coref Anaphora:T15 Antecedent:T2
+R6	Coref Anaphora:T21 Antecedent:T26
+T1	Protein 95 100	NFATc
+T2	Protein 403 419	murine (m) NFATc
+T3	Protein 615 621	mNFATc
+T4	Protein 637 641	AP-1
+T5	Protein 675 679	IL-2
+T6	Protein 758 762	IL-2
+T7	Protein 958 964	mNFATc
+T8	Protein 1047 1053	mNFATc
+T9	Protein 1184 1190	mNFATc
+T26	Exp 854 873	a 4.5 kb transcript

@@ -1,0 +1,30 @@
+T8	Exp 76 87	the absence
+T9	Exp 143 176	the simian immunodeficiency virus
+T10	Exp 247 260	the NF-kappaB
+T11	Exp 307 333	the replicative capacities
+T12	Exp 337 348	the mutants
+T13	Exp 439 452	the NF-kappaB
+T14	Exp 607 622	the experiments
+T15	Exp 1133 1153	the U3 and R regions
+T16	Exp 1203 1224	the SIVmac239 mutants
+T17	Exp 1256 1260	when
+T18	Exp 1411 1421	the growth
+T19	Exp 1786 1807	the Sp1 binding sites
+T20	Exp 1812 1837	the most dramatic effects
+T21	Exp 1998 2002	that
+T22	Exp 2145 2150	which
+T23	Exp 2048 2076	the SIV long terminal repeat
+T24	Exp 2123 2144	the NF-kappaB element
+T25	Exp 2206 2217	the absence
+T26	Exp 2246 2257	This region
+T27	Exp 2312 2328	the SIV TATA box
+T28	Exp 2415 2457	the surprisingly high replicative capacity
+T29	Exp 2539 2567	the enhancer/promoter region
+R2	Coref Anaphora:T22 Antecedent:T24
+T1	Protein 105 108	Sp1
+T2	Protein 268 271	Sp1
+T3	Protein 462 465	Spl
+T4	Protein 1790 1793	Sp1
+T5	Protein 2235 2238	Sp1
+T6	Protein 2294 2297	Tat
+T7	Protein 2475 2478	Sp1

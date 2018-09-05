@@ -1,0 +1,22 @@
+T5	Exp 210 247	the 85-kDa cytosolic phospholipase A2
+T6	Exp 325 330	which
+T7	Exp 249 260	This enzyme
+T8	Exp 394 415	These lipid mediators
+T9	Exp 586 588	We
+T10	Exp 611 615	that
+T11	Exp 884 889	which
+T12	Exp 840 866	the subcellular mechanisms
+T13	Exp 828 838	this study
+T14	Exp 945 947	We
+T15	Exp 959 963	they
+T16	Exp 954 958	that
+T17	Exp 972 1025	the initial interleukin-1beta mRNA transcription rate
+T18	Exp 1358 1369	the cytosol
+T19	Exp 1272 1296	this therapeutic potency
+R3	Coref Anaphora:T6 Antecedent:T20
+R4	Coref Anaphora:T15 Antecedent:T12
+T1	Protein 690 707	interleukin-1beta
+T2	Protein 984 1001	interleukin-1beta
+T3	Protein 1063 1085	inhibitor-kappaB alpha
+T4	Protein 1389 1406	interleukin-1beta
+T20	Exp 315 324	membranes

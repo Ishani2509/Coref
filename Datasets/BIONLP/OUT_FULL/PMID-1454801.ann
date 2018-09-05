@@ -1,0 +1,49 @@
+T6	Exp 17 53	the hypersensitive site HS2 enhancer
+T7	Exp 78 94	the human genome
+T8	Exp 96 151	the erythroid-specific hypersensitive site HS2 enhancer
+T9	Exp 162 179	the transcription
+T10	Exp 183 220	the downstream beta-like globin genes
+T11	Exp 243 256	The mechanism
+T12	Exp 296 313	The present study
+T13	Exp 355 381	the transcriptional status
+T14	Exp 385 401	the HS2 enhancer
+T15	Exp 506 511	which
+T16	Exp 608 612	that
+T17	Exp 512 528	the HS2 enhancer
+T18	Exp 540 556	the HS2 sequence
+T19	Exp 565 578	the synthesis
+T20	Exp 650 662	the enhancer
+T21	Exp 685 704	the intervening DNA
+T22	Exp 710 733	the cis-linked CAT gene
+T23	Exp 766 771	which
+T24	Exp 772 788	the HS2 enhancer
+T25	Exp 858 874	the HS2 enhancer
+T26	Exp 914 927	the synthesis
+T27	Exp 1042 1065	the cis-linked CAT gene
+T28	Exp 1333 1337	they
+T29	Exp 1327 1332	where
+T30	Exp 1080 1093	the synthesis
+T31	Exp 1109 1128	the intervening DNA
+T32	Exp 1133 1141	the gene
+T33	Exp 1185 1201	the HS2 enhancer
+T34	Exp 1218 1241	the chromatin structure
+T35	Exp 1305 1326	the promoter sequence
+T36	Exp 1352 1369	the transcription
+T37	Exp 1373 1381	the gene
+T38	Exp 1385 1397	the cap site
+R7	Coref Anaphora:T15 Antecedent:T39
+R8	Coref Anaphora:T16 Antecedent:T40
+R9	Coref Anaphora:T23 Antecedent:T41
+R10	Coref Anaphora:T32 Antecedent:T27
+R11	Coref Anaphora:T37 Antecedent:T27
+R12	Coref Anaphora:T29 Antecedent:T35
+R13	Coref Anaphora:T28 Antecedent:T42
+T1	Protein 198 214	beta-like globin
+T2	Protein 429 462	chloramphenicol acetyltransferase
+T3	Protein 464 467	CAT
+T4	Protein 725 728	CAT
+T5	Protein 1057 1060	CAT
+T39	Exp 482 502	erythroid K562 cells
+T40	Exp 582 607	long enhancer transcripts
+T41	Exp 738 762	nonerythroid HL-60 cells
+T42	Exp 1276 1301	enhancer binding proteins

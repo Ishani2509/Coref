@@ -1,0 +1,45 @@
+T2	Exp 65 85	the unique phenotype
+T3	Exp 414 432	their contribution
+T4	Exp 295 322	the functional significance
+T5	Exp 360 390	the viral long terminal repeat
+T6	Exp 436 456	the unique phenotype
+T7	Exp 256 266	This study
+T8	Exp 553 557	that
+T9	Exp 639 673	the basal transcriptional activity
+T10	Exp 677 684	the LTR
+T11	Exp 880 885	which
+T12	Exp 798 808	These LTRs
+T13	Exp 975 985	these LTRs
+T14	Exp 1403 1405	it
+T15	Exp 1273 1277	that
+T16	Exp 1195 1202	the use
+T17	Exp 1331 1361	the 22-bp sequence duplication
+T18	Exp 1366 1378	the NF kappa
+T19	Exp 1278 1307	these transcriptional effects
+T20	Exp 1440 1444	that
+T21	Exp 1470 1477	the LTR
+T22	Exp 1494 1501	The LTR
+T23	Exp 1554 1566	the kinetics
+T24	Exp 1731 1735	that
+T25	Exp 1694 1704	the extent
+T26	Exp 1620 1628	this LTR
+T27	Exp 1951 1953	it
+T28	Exp 1853 1857	that
+T29	Exp 1838 1852	the hypothesis
+T30	Exp 1989 2004	the acute phase
+T31	Exp 1804 1817	These studies
+R9	Coref Anaphora:T3 Antecedent:T32
+R10	Coref Anaphora:T8 Antecedent:T33
+R11	Coref Anaphora:T11 Antecedent:T34
+R12	Coref Anaphora:T14 Antecedent:T18
+R13	Coref Anaphora:T20 Antecedent:T35
+R14	Coref Anaphora:T24 Antecedent:T36
+R15	Coref Anaphora:T28 Antecedent:T29
+R16	Coref Anaphora:T27 Antecedent:T37
+T1	Protein 1075 1102	tumor necrosis factor alpha
+T32	Exp 337 356	described mutations
+T33	Exp 522 552	luciferase reporter constructs
+T34	Exp 867 878	SIVsmmPBj14
+T35	Exp 1416 1439	infectious virus stocks
+T36	Exp 1708 1730	cellular proliferation
+T37	Exp 1879 1890	SIVsmmPBj14

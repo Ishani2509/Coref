@@ -1,0 +1,6 @@
+T1	Protein 1201 1214	IkappaB alpha
+T2	Protein 1413 1426	IkappaB alpha
+T3	Protein 1535 1548	IkappaB alpha
+T4	Exp 404 443	mutant glucocorticoid receptors (L753F)	426 435	receptors
+T5	Exp 444 448	that
+R1	Coref Anaphora:T5 Antecedent:T4

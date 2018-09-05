@@ -1,0 +1,41 @@
+T18	Exp 99 120	The estrogen receptor
+T19	Exp 217 219	we
+T20	Exp 233 243	the effect
+T21	Exp 361 375	the expression
+T22	Exp 425 444	the histone H5 gene
+T23	Exp 205 215	this study
+T24	Exp 491 493	we
+T25	Exp 500 504	that
+T26	Exp 508 520	the presence
+T27	Exp 569 591	the binding activities
+T28	Exp 678 693	the H5 promoter
+T29	Exp 721 743	the binding activities
+T30	Exp 936 960	the DNA-binding activity
+T31	Exp 886 897	This lysate
+T32	Exp 994 998	that
+T33	Exp 972 985	These results
+T34	Exp 1112 1152	the developmentally regulated expression
+T35	Exp 1182 1184	We
+T36	Exp 1197 1201	that
+T37	Exp 1298 1303	which
+T38	Exp 1281 1294	the mechanism
+T39	Exp 1304 1310	the ER
+T40	Exp 1334 1345	these genes
+R2	Coref Anaphora:T37 Antecedent:T38
+T1	Protein 0 17	Estrogen receptor
+T2	Protein 63 69	GATA-1
+T3	Protein 103 120	estrogen receptor
+T4	Protein 122 124	ER
+T5	Protein 247 255	ER alpha
+T6	Protein 283 285	ER
+T7	Protein 429 439	histone H5
+T8	Protein 558 560	ER
+T9	Protein 755 758	Sp1
+T10	Protein 780 782	ER
+T11	Protein 795 797	ER
+T12	Protein 921 923	ER
+T13	Protein 964 970	GATA-1
+T14	Protein 1043 1045	ER
+T15	Protein 1061 1067	GATA-1
+T16	Protein 1244 1250	GATA-1
+T17	Protein 1308 1310	ER

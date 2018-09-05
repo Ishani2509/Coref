@@ -1,0 +1,33 @@
+T1	Protein 153 170	small nuclear RNA
+T2	Protein 373 390	small nuclear RNA
+T3	Protein 392 397	snRNA
+T4	Protein 671 679	PTF beta
+T5	Protein 722 730	PTF beta
+T6	Protein 750 758	PTF beta
+T7	Protein 886 894	PTF beta
+T8	Protein 930 938	PTF beta
+T9	Protein 988 993	snRNA
+T10	Protein 1110 1130	TATA-binding protein
+T11	Protein 1132 1135	TBP
+T12	Protein 1141 1149	TFIIIB90
+T13	Protein 1354 1363	PTF gamma
+T14	Protein 1364 1373	PTF delta
+T15	Protein 1378 1381	TBP
+T16	Protein 1405 1413	TFIIIB90
+T17	Protein 1448 1453	snRNA
+T18	Protein 1513 1516	TBP
+T19	Protein 1601 1606	snRNA
+T20	Exp 32 112	the beta subunit of human proximal sequence element-binding transcription factor	41 48	subunit
+T21	Exp 117 120	its
+T22	Exp 153 206	small nuclear RNA genes by RNA polymerases II and III	171 176	genes
+T23	Exp 209 245	The proximal sequence element (PSE)-
+T24	Exp 281 286	which
+T25	Exp 304 350	both RNA polymerase II- and RNA polymerase III	309 350	RNA polymerase II- and RNA polymerase III
+T26	Exp 423 428	their
+T27	Exp 1495 1505	the notion
+T28	Exp 1506 1510	that
+R1	Coref Anaphora:T21 Antecedent:T20
+R2	Coref Anaphora:T24 Antecedent:T23
+R3	Coref Anaphora:T25 Antecedent:T22	[T1]
+R4	Coref Anaphora:T26 Antecedent:T25
+R5	Coref Anaphora:T28 Antecedent:T27

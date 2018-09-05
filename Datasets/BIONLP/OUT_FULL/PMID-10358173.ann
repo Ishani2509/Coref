@@ -1,0 +1,50 @@
+T27	Exp 134 138	that
+T28	Exp 183 202	the differentiation
+T29	Exp 357 359	we
+T30	Exp 320 339	the molecular basis
+T31	Exp 472 474	We
+T32	Exp 649 653	that
+T33	Exp 691 693	We
+T34	Exp 707 711	that
+T35	Exp 749 764	the same extent
+T36	Exp 819 821	We
+T37	Exp 829 833	that
+T38	Exp 907 920	the induction
+T39	Exp 1042 1059	The participation
+T40	Exp 1072 1086	the regulation
+T41	Exp 1156 1191	the IL-12-dependent transactivation
+T42	Exp 1253 1271	the IRF-1 promoter
+T43	Exp 1514 1516	we
+T44	Exp 1527 1531	that
+T45	Exp 1532 1561	the defective IL-12 responses
+T46	Exp 1619 1630	the absence
+T47	Exp 1634 1659	this transcription factor
+R3	Coref Anaphora:T27 Antecedent:T48
+R4	Coref Anaphora:T32 Antecedent:T49
+T1	Protein 14 37	IFN regulating factor-1
+T2	Protein 39 44	IRF-1
+T3	Protein 212 215	CD4
+T4	Protein 531 541	MIP-1alpha
+T5	Protein 543 552	MIP-1beta
+T6	Protein 554 560	IL-1RA
+T7	Protein 566 589	IFN regulatory factor-1
+T8	Protein 591 596	IRF-1
+T9	Protein 599 604	IRF-1
+T10	Protein 740 745	IRF-1
+T11	Protein 863 868	IRF-1
+T12	Protein 924 933	IFN-gamma
+T13	Protein 998 1003	IRF-1
+T14	Protein 1063 1068	STAT4
+T15	Protein 1090 1095	IRF-1
+T16	Protein 1133 1138	STAT4
+T17	Protein 1198 1203	IRF-1
+T18	Protein 1236 1241	STAT4
+T19	Protein 1257 1262	IRF-1
+T20	Protein 1336 1341	IRF-1
+T21	Protein 1355 1359	IL-4
+T22	Protein 1382 1386	IL-4
+T23	Protein 1434 1439	IRF-1
+T24	Protein 1452 1457	IRF-1
+T25	Protein 1570 1575	IRF-1
+T48	Exp 97 133	a critical immunoregulatory cytokine
+T49	Exp 644 648	IFNs

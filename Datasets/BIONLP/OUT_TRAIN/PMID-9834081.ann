@@ -1,0 +1,48 @@
+T24	Exp 31 38	the TNF
+T25	Exp 102 129	the IFN regulatory factor 1
+T26	Exp 194 206	the presence
+T27	Exp 230 249	the molecular basis
+T28	Exp 254 267	the interplay
+T29	Exp 276 298	these distinct stimuli
+T30	Exp 423 425	We
+T31	Exp 437 441	that
+T32	Exp 512 524	the promoter
+T33	Exp 539 569	the IRF-1 gamma-activated site
+T34	Exp 442 462	these different sets
+T35	Exp 528 537	this gene
+T36	Exp 672 676	that
+T37	Exp 590 603	the IRF-1 GAS
+T38	Exp 683 709	the CD40 signaling cascade
+T39	Exp 783 812	the IRF-1 GAS-binding complex
+T40	Exp 960 966	either
+T41	Exp 1002 1016	the activation
+T42	Exp 902 913	this system
+T43	Exp 1144 1156	our findings
+T44	Exp 1176 1180	that
+T45	Exp 1052 1066	the importance
+T46	Exp 1165 1175	the notion
+R4	Coref Anaphora:T36 Antecedent:T47
+T48	SPAN 886 897	p50 and p65
+R5	Coref Anaphora:T40 Antecedent:T48
+R6	Coref Anaphora:T44 Antecedent:T46
+T1	Protein 106 129	IFN regulatory factor 1
+T2	Protein 141 145	CD40
+T3	Protein 326 349	IFN regulatory factor 1
+T4	Protein 351 356	IRF-1
+T5	Protein 404 408	CD40
+T6	Protein 543 548	IRF-1
+T7	Protein 594 599	IRF-1
+T8	Protein 638 642	CD40
+T9	Protein 687 691	CD40
+T10	Protein 716 725	TNF-alpha
+T11	Protein 787 792	IRF-1
+T12	Protein 826 830	CD40
+T13	Protein 832 841	TNF-alpha
+T14	Protein 886 889	p50
+T15	Protein 894 897	p65
+T16	Protein 940 945	CD40L
+T17	Protein 967 971	IL-4
+T18	Protein 975 984	IFN-gamma
+T19	Protein 1070 1075	IRF-1
+T20	Protein 1195 1200	IRF-1
+T47	Exp 658 671	other stimuli

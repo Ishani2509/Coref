@@ -1,0 +1,75 @@
+T43	Exp 58 100	the eosinophil granule major basic protein
+T44	Exp 324 326	we
+T45	Exp 304 322	our previous study
+T46	Exp 473 496	the MBP promoter region
+T47	Exp 589 621	the functional GATA-binding site
+T48	Exp 625 637	the MBP gene
+T49	Exp 663 668	which
+T50	Exp 642 661	the cell line HT93A
+T51	Exp 712 726	the eosinophil
+T52	Exp 1007 1011	that
+T53	Exp 1056 1088	the potential C/EBP-binding site
+T54	Exp 1108 1124	the MBP promoter
+T55	Exp 1139 1141	we
+T56	Exp 1160 1164	that
+T57	Exp 1218 1227	the C/EBP
+T58	Exp 1255 1271	the MBP promoter
+T59	Exp 1348 1350	we
+T60	Exp 1307 1311	both
+T61	Exp 1286 1303	the functionality
+T62	Exp 1312 1321	the C/EBP
+T63	Exp 1403 1419	the MBP promoter
+T64	Exp 1423 1436	the C/EBPbeta
+T65	Exp 1598 1611	the C/EBPbeta
+T66	Exp 1797 1802	which
+T67	Exp 1918 1934	the MBP promoter
+T68	Exp 1963 1974	Our results
+T69	Exp 2202 2236	its positively regulatory function
+T70	Exp 2002 2006	that
+T71	Exp 2127 2131	that
+T72	Exp 1983 2001	the first evidence
+T73	Exp 2063 2075	the promoter
+T74	Exp 2171 2193	the eosinophil lineage
+T75	Exp 2241 2281	the erythroid and megakaryocyte lineages
+R9	Coref Anaphora:T49 Antecedent:T50
+T78	SPAN 1170 1190	C/EBPbeta and GATA-1
+R10	Coref Anaphora:T60 Antecedent:T78
+R11	Coref Anaphora:T66 Antecedent:T76
+R12	Coref Anaphora:T70 Antecedent:T72
+R13	Coref Anaphora:T69 Antecedent:T77
+T1	Protein 0 9	C/EBPbeta
+T2	Protein 14 20	GATA-1
+T3	Protein 62 100	eosinophil granule major basic protein
+T4	Protein 127 136	C/EBPbeta
+T5	Protein 178 216	Eosinophil granule major basic protein
+T6	Protein 218 221	MBP
+T7	Protein 377 383	GATA-1
+T8	Protein 419 425	GATA-2
+T9	Protein 429 432	MBP
+T10	Protein 477 480	MBP
+T11	Protein 629 632	MBP
+T12	Protein 786 796	C/EBPalpha
+T13	Protein 909 918	C/EBPbeta
+T14	Protein 1024 1033	C/EBPbeta
+T15	Protein 1112 1115	MBP
+T16	Protein 1170 1179	C/EBPbeta
+T17	Protein 1184 1190	GATA-1
+T18	Protein 1259 1262	MBP
+T19	Protein 1368 1377	C/EBPbeta
+T20	Protein 1382 1388	GATA-1
+T21	Protein 1407 1410	MBP
+T22	Protein 1427 1436	C/EBPbeta
+T23	Protein 1441 1447	GATA-1
+T24	Protein 1497 1506	C/EBPbeta
+T25	Protein 1511 1517	GATA-1
+T26	Protein 1602 1611	C/EBPbeta
+T27	Protein 1615 1621	GATA-1
+T28	Protein 1744 1750	GATA-1
+T29	Protein 1755 1764	C/EBPbeta
+T30	Protein 1812 1818	GATA-1
+T31	Protein 1907 1913	GATA-1
+T32	Protein 1922 1925	MBP
+T33	Protein 2012 2018	GATA-1
+T34	Protein 2023 2032	C/EBPbeta
+T76	Exp 1785 1794	riend ATA
+T77	Exp 2132 2135	FOG

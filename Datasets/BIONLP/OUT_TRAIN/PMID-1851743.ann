@@ -1,0 +1,31 @@
+T12	Exp 93 101	the role
+T13	Exp 276 288	the presence
+T14	Exp 462 475	the induction
+T15	Exp 553 575	the jun and fos family
+T16	Exp 720 722	it
+T17	Exp 616 628	the addition
+T18	Exp 668 681	the induction
+T19	Exp 690 702	the addition
+T20	Exp 802 816	the jun family
+T21	Exp 891 905	the fos family
+T22	Exp 985 1004	the jun gene family
+T23	Exp 1033 1043	its effect
+T24	Exp 1047 1060	the induction
+T25	Exp 1098 1111	the induction
+T26	Exp 1195 1216	the marked difference
+T27	Exp 1325 1329	that
+T28	Exp 1279 1292	The induction
+T29	Exp 1448 1476	the transcription factor AP1
+R3	Coref Anaphora:T16 Antecedent:T30
+R4	Coref Anaphora:T23 Antecedent:T31
+T1	Protein 632 650	phytohemagglutinin
+T2	Protein 846 851	c-jun
+T3	Protein 853 857	junD
+T4	Protein 863 867	junB
+T5	Protein 916 921	c-fos
+T6	Protein 926 931	fra-1
+T7	Protein 1115 1120	c-jun
+T8	Protein 1159 1164	c-jun
+T9	Protein 1258 1263	c-jun
+T30	Exp 706 709	PMA
+T31	Exp 948 951	PMA

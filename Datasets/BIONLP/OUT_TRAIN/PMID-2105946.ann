@@ -1,0 +1,28 @@
+T13	Exp 145 168	the polypeptide product
+T14	Exp 372 374	We
+T15	Exp 383 394	the effects
+T16	Exp 405 419	the regulation
+T17	Exp 1003 1008	which
+T18	Exp 1115 1127	the presence
+T19	Exp 1307 1311	that
+T20	Exp 1338 1347	this rate
+T21	Exp 1432 1441	the rates
+T22	Exp 1466 1479	The half-life
+T23	Exp 1583 1596	the half-life
+T24	Exp 1727 1731	that
+T25	Exp 1732 1744	the increase
+T26	Exp 1702 1716	These findings
+R2	Coref Anaphora:T17 Antecedent:T27
+T1	Protein 55 60	c-jun
+T2	Protein 172 177	c-jun
+T3	Protein 423 428	c-jun
+T4	Protein 508 513	c-jun
+T5	Protein 695 700	c-jun
+T6	Protein 1065 1070	c-jun
+T7	Protein 1183 1188	c-jun
+T8	Protein 1252 1257	c-jun
+T9	Protein 1445 1450	c-jun
+T10	Protein 1483 1488	c-jun
+T11	Protein 1600 1605	c-jun
+T12	Protein 1748 1753	c-jun
+T27	Exp 973 1002	a structurally distinct agent

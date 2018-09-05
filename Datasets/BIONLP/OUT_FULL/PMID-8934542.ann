@@ -1,0 +1,53 @@
+T26	Exp 237 282	the human disease X-linked agammaglobulinemia
+T27	Exp 290 298	The gene
+T28	Exp 344 357	the exception
+T29	Exp 415 431	the first 280 bp
+T30	Exp 444 480	the major transcriptional start site
+T31	Exp 391 414	this expression pattern
+T32	Exp 556 568	the promoter
+T33	Exp 543 552	this part
+T34	Exp 621 645	The transcription factor
+T35	Exp 668 694	the closely related factor
+T36	Exp 710 720	the PU-box
+T37	Exp 736 770	the erythroleukemia cell line K562
+T38	Exp 779 790	the absence
+T39	Exp 820 836	the Btk promoter
+T40	Exp 870 884	the expression
+T41	Exp 850 861	either site
+T42	Exp 997 1002	where
+T43	Exp 945 955	the PU box
+T44	Exp 973 995	the T-cell line Jurkat
+T45	Exp 1011 1035	the Spi-1 family members
+T46	Exp 1159 1164	which
+T47	Exp 1295 1299	that
+T48	Exp 1314 1326	the Btk gene
+T49	Exp 1343 1362	the combined action
+T50	Exp 1278 1288	this study
+R5	Coref Anaphora:T27 Antecedent:T7
+R6	Coref Anaphora:T35 Antecedent:T10
+R7	Coref Anaphora:T42 Antecedent:T44
+R8	Coref Anaphora:T46 Antecedent:T51
+T1	Protein 34 77	Bruton's agammaglobulinemia tyrosine kinase
+T2	Protein 84 87	Btk
+T3	Protein 105 108	Sp1
+T4	Protein 114 119	Spi-1
+T5	Protein 120 124	PU.1
+T6	Protein 142 185	Bruton's agammaglobulinemia tyrosine kinase
+T7	Protein 187 190	Btk
+T8	Protein 582 585	Sp1
+T9	Protein 646 651	Spi-1
+T10	Protein 652 656	PU.1
+T11	Protein 695 700	Spi-B
+T12	Protein 794 799	Spi-B
+T13	Protein 806 810	PU.1
+T14	Protein 824 827	Btk
+T15	Protein 1015 1020	Spi-1
+T16	Protein 1062 1067	Spi-B
+T17	Protein 1079 1083	PU.1
+T18	Protein 1111 1114	Btk
+T19	Protein 1145 1149	PU.1
+T20	Protein 1212 1215	Btk
+T21	Protein 1318 1321	Btk
+T22	Protein 1366 1369	Sp1
+T23	Protein 1375 1379	PU.1
+T51	Exp 1153 1157	mice

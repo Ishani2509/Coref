@@ -1,0 +1,19 @@
+T12	Exp 244 261	their modulations
+T13	Exp 128 138	This study
+T14	Exp 431 461	the hybrid bcr/abl mRNA levels
+T15	Exp 481 485	that
+T16	Exp 921 931	each other
+T17	Exp 651 665	the proportion
+T18	Exp 724 738	the proportion
+T19	Exp 793 814	the pbmc preparations
+T20	Exp 856 874	the hybrid bcr/abl
+R3	Coref Anaphora:T12 Antecedent:T2
+T1	Protein 14 19	c-fos
+T2	Protein 189 192	p53
+T3	Protein 409 414	c-fos
+T4	Protein 416 421	c-myc
+T5	Protein 423 426	p53
+T6	Protein 876 881	c-myc
+T7	Protein 886 889	p53
+T8	Protein 1069 1074	c-fos
+T9	Protein 1097 1102	c-myc

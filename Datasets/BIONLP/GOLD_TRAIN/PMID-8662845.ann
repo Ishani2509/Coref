@@ -1,0 +1,16 @@
+T1	Protein 120 133	interleukin-3
+T2	Protein 166 179	interleukin-3
+T3	Protein 181 185	IL-3
+T4	Protein 373 377	IL-3
+T5	Protein 509 513	IL-3
+T6	Protein 1267 1271	IL-3
+T7	Protein 1422 1426	IL-3
+T8	Exp 585 619	the core binding factor (CBF) site	615 619	site
+T9	Exp 621 626	which
+T10	Exp 1124 1149	a second repressor region	1143 1149	region
+T11	Exp 1150 1154	that
+T12	Exp 1518 1547	multiple interacting elements	1539 1547	elements
+T13	Exp 1548 1552	that
+R1	Coref Anaphora:T9 Antecedent:T8
+R2	Coref Anaphora:T11 Antecedent:T10
+R3	Coref Anaphora:T13 Antecedent:T12

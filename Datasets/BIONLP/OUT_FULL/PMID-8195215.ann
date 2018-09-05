@@ -1,0 +1,62 @@
+T13	Exp 46 60	the Ets family
+T14	Exp 108 142	the alpha 4 integrin gene promoter
+T15	Exp 224 228	that
+T16	Exp 273 290	the immune system
+T17	Exp 343 345	we
+T18	Exp 387 398	the pattern
+T19	Exp 561 565	that
+T20	Exp 597 601	that
+T21	Exp 422 434	The activity
+T22	Exp 483 508	the alpha 4 gene promoter
+T23	Exp 744 746	it
+T24	Exp 610 622	The sequence
+T25	Exp 835 849	the Ets family
+T26	Exp 888 899	this region
+T27	Exp 1067 1069	we
+T28	Exp 1076 1080	that
+T29	Exp 1081 1086	the 3
+T30	Exp 1054 1065	this region
+T31	Exp 1230 1234	When
+T32	Exp 1300 1305	which
+T33	Exp 1336 1350	the Ets family
+T34	Exp 1536 1538	it
+T35	Exp 1461 1466	the 5
+T36	Exp 1570 1579	this loss
+T37	Exp 1710 1712	We
+T38	Exp 1802 1806	they
+T39	Exp 1722 1726	that
+T40	Exp 1835 1840	which
+T41	Exp 1877 1881	that
+T42	Exp 1736 1743	neither
+T43	Exp 1747 1756	the two 5
+T44	Exp 1849 1860	the pattern
+T45	Exp 1887 1912	the alpha 4 gene promoter
+T46	Exp 1958 2007	the tissue- and developmental-specific expression
+T47	Exp 2059 2070	the pattern
+T48	Exp 1914 1930	This arrangement
+R9	Coref Anaphora:T15 Antecedent:T49
+R10	Coref Anaphora:T19 Antecedent:T50
+R11	Coref Anaphora:T20 Antecedent:T51
+R12	Coref Anaphora:T23 Antecedent:T24
+R13	Coref Anaphora:T34 Antecedent:T52
+R14	Coref Anaphora:T38 Antecedent:T42
+R15	Coref Anaphora:T40 Antecedent:T53
+R16	Coref Anaphora:T41 Antecedent:T54
+T1	Protein 112 128	alpha 4 integrin
+T2	Protein 145 162	alpha 4 integrins
+T3	Protein 402 409	alpha 4
+T4	Protein 487 494	alpha 4
+T5	Protein 574 581	alpha 4
+T6	Protein 731 738	alpha 4
+T7	Protein 802 809	alpha 4
+T8	Protein 1131 1155	GA-binding protein alpha
+T9	Protein 1157 1167	GABP alpha
+T10	Protein 1510 1520	GABP alpha
+T11	Protein 1891 1898	alpha 4
+T12	Protein 2074 2090	alpha 4 integrin
+T49	Exp 204 223	matrix interactions
+T50	Exp 550 560	cell lines
+T51	Exp 586 596	cell lines
+T52	Exp 1468 1481	most Ets site
+T53	Exp 1824 1834	modulators
+T54	Exp 1864 1876	Ets proteins

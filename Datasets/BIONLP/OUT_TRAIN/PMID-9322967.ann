@@ -1,0 +1,23 @@
+T12	Exp 52 86	the pituitary transcription factor
+T13	Exp 162 164	we
+T14	Exp 116 131	the development
+T15	Exp 178 192	the expression
+T16	Exp 260 281	the human neutrophils
+T17	Exp 466 470	that
+T18	Exp 491 504	the GH-N gene
+T19	Exp 513 526	the GH-V gene
+T20	Exp 541 543	we
+T21	Exp 582 586	that
+T22	Exp 643 677	the pituitary transcription factor
+R2	Coref Anaphora:T21 Antecedent:T23
+T1	Protein 26 30	GH-N
+T2	Protein 87 93	Pit-1b
+T3	Protein 102 104	GH
+T4	Protein 196 198	GH
+T5	Protein 319 321	GH
+T6	Protein 412 414	GH
+T7	Protein 495 499	GH-N
+T8	Protein 517 521	GH-V
+T9	Protein 678 683	Pit-1
+T10	Protein 696 702	Pit-1b
+T23	Exp 560 581	western blot analysis

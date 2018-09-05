@@ -1,0 +1,19 @@
+T1	Exp 47 51	that
+T2	Exp 427 451	the long terminal repeat
+T3	Exp 519 521	we
+T4	Exp 527 531	that
+T5	Exp 500 518	the present report
+T6	Exp 652 682	the kappaB regulatory elements
+T7	Exp 697 702	which
+T8	Exp 893 906	The magnitude
+T9	Exp 1142 1150	its role
+T10	Exp 1154 1166	the trapping
+T11	Exp 1195 1209	The importance
+T12	Exp 1235 1254	the pathophysiology
+T13	Exp 1213 1231	these observations
+R4	Coref Anaphora:T1 Antecedent:T14
+R5	Coref Anaphora:T7 Antecedent:T15
+R6	Coref Anaphora:T9 Antecedent:T16
+T14	Exp 44 45	s
+T15	Exp 693 694	s
+T16	Exp 1118 1130	another drug

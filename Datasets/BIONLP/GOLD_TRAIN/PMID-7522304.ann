@@ -1,0 +1,14 @@
+T1	Protein 46 59	cyclophilin B
+T2	Protein 469 482	cyclophilin B
+T3	Protein 635 648	interleukin-2
+T4	Protein 755 799	calcium-signal modulating cyclophilin ligand
+T5	Protein 801 805	CAML
+T6	Protein 896 900	CAML
+T7	Protein 989 1002	cyclophilin B
+T8	Exp 126 183	a calcium-dependent signal from the T-cell receptor (TCR)
+T9	Exp 184 188	that
+T10	Exp 346 392	potential cellular homologues of cyclosporin A
+T11	Exp 393 397	that
+T12	Exp 734 746	This protein
+R1	Coref Anaphora:T9 Antecedent:T8
+R2	Coref Anaphora:T11 Antecedent:T10

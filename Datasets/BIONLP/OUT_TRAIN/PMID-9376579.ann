@@ -1,0 +1,47 @@
+T20	Exp 206 210	that
+T21	Exp 230 244	the regulation
+T22	Exp 402 406	they
+T23	Exp 273 284	Our studies
+T24	Exp 292 296	that
+T25	Exp 697 701	that
+T26	Exp 844 861	these transcripts
+T27	Exp 970 976	either
+T28	Exp 1393 1397	that
+T29	Exp 1639 1650	the absence
+T30	Exp 1493 1529	this C/EBP epsilon mRNA accumulation
+T31	Exp 1790 1802	the increase
+T32	Exp 1871 1903	the DMSO-induced differentiation
+T33	Exp 1924 1948	the granulocytic pathway
+T34	Exp 2032 2034	we
+T35	Exp 2051 2055	that
+T36	Exp 2113 2134	the NB4 promyelocytes
+T37	Exp 2291 2302	the absence
+T38	Exp 2199 2213	This induction
+T39	Exp 2347 2349	We
+T40	Exp 2358 2362	that
+T41	Exp 2441 2445	that
+T42	Exp 2363 2398	the C/EBP epsilon promoter/enhancer
+R4	Coref Anaphora:T20 Antecedent:T4
+R5	Coref Anaphora:T22 Antecedent:T43
+R6	Coref Anaphora:T41 Antecedent:T44
+T1	Protein 65 95	CCAAT/enhancer binding protein
+T2	Protein 102 115	C/EBP epsilon
+T3	Protein 125 138	C/EBP epsilon
+T4	Protein 175 205	CCAAT/enhancer binding protein
+T5	Protein 307 320	C/EBP epsilon
+T6	Protein 509 522	C/EBP epsilon
+T7	Protein 772 785	C/EBP epsilon
+T8	Protein 1077 1090	C/EBP epsilon
+T9	Protein 1219 1232	C/EBP epsilon
+T10	Protein 1321 1334	C/EBP epsilon
+T11	Protein 1414 1427	C/EBP epsilon
+T12	Protein 1498 1511	C/EBP epsilon
+T13	Protein 1604 1617	C/EBP epsilon
+T14	Protein 1709 1722	C/EBP epsilon
+T15	Protein 1806 1819	C/EBP epsilon
+T16	Protein 1993 2006	C/EBP epsilon
+T17	Protein 2070 2083	C/EBP epsilon
+T18	Protein 2217 2230	C/EBP epsilon
+T19	Protein 2367 2380	C/EBP epsilon
+T43	Exp 353 362	NB4 cells
+T44	Exp 2408 2440	a retinoic acid-response element

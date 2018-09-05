@@ -1,0 +1,38 @@
+T24	Exp 48 77	the endogenous immunoglobulin
+T25	Exp 157 184	the transcriptional control
+T26	Exp 301 303	we
+T27	Exp 441 446	which
+T28	Exp 229 236	the aim
+T29	Exp 272 299	these transcription factors
+T30	Exp 452 464	both factors
+T31	Exp 525 554	the endogenous immunoglobulin
+T32	Exp 784 788	that
+T33	Exp 735 771	the lambda5 promoter/enhancer region
+T34	Exp 828 855	these transcription factors
+T35	Exp 892 896	that
+T36	Exp 963 967	that
+T37	Exp 993 1011	the B cell lineage
+T38	Exp 873 883	these data
+R7	Coref Anaphora:T27 Antecedent:T39
+T41	SPAN 108 372	Early B cell factor (EBF) and E47 participate in the transcriptional control of early B lymphocyte differentiation. With the aim of identifying genetic targets for these transcription factors, we stably transfected cDNAs encoding EBF or a covalent homodimer of E47
+R8	Coref Anaphora:T30 Antecedent:T41
+R9	Coref Anaphora:T36 Antecedent:T40
+T1	Protein 0 3	EBF
+T2	Protein 8 11	E47
+T3	Protein 108 127	Early B cell factor
+T4	Protein 129 132	EBF
+T5	Protein 138 141	E47
+T6	Protein 338 341	EBF
+T7	Protein 369 372	E47
+T8	Protein 482 485	EBF
+T9	Protein 490 493	E47
+T10	Protein 584 591	lambda5
+T11	Protein 596 601	VpreB
+T12	Protein 690 693	EBF
+T13	Protein 698 701	E47
+T14	Protein 739 746	lambda5
+T15	Protein 789 796	lambda5
+T16	Protein 897 900	EBF
+T17	Protein 905 908	E47
+T39	Exp 405 439	immature hematopoietic Ba/F3 cells
+T40	Exp 957 962	genes

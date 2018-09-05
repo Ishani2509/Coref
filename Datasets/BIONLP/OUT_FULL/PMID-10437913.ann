@@ -1,0 +1,31 @@
+T19	Exp 197 210	the HLA class
+T20	Exp 353 376	the molecular mechanism
+T21	Exp 393 402	the class
+T22	Exp 424 426	We
+T23	Exp 441 451	the effect
+T24	Exp 472 486	the activation
+T25	Exp 490 502	the promoter
+T26	Exp 516 543	the prototype class II gene
+T27	Exp 649 671	the Rb-defective cells
+T28	Exp 735 756	its repressive effect
+T29	Exp 892 947	the Rb-transformed cell lines, interleukin 8 expression
+T30	Exp 961 977	these cell lines
+R2	Coref Anaphora:T28 Antecedent:T12
+T1	Protein 0 14	Retinoblastoma
+T2	Protein 51 56	Oct-1
+T3	Protein 91 104	interleukin-8
+T4	Protein 152 166	retinoblastoma
+T5	Protein 235 244	IFN-gamma
+T6	Protein 289 291	Rb
+T7	Protein 300 309	IFN-gamma
+T8	Protein 380 382	Rb
+T9	Protein 455 457	Rb
+T10	Protein 545 550	Oct-1
+T11	Protein 653 655	Rb
+T12	Protein 673 675	Rb
+T13	Protein 713 718	Oct-1
+T14	Protein 758 763	Oct-1
+T15	Protein 795 808	interleukin 8
+T16	Protein 862 867	Oct-1
+T17	Protein 896 898	Rb
+T18	Protein 923 936	interleukin 8

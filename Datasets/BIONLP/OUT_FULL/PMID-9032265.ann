@@ -1,0 +1,42 @@
+T4	Exp 30 59	the ferritin heavy-chain gene
+T5	Exp 61 73	the activity
+T6	Exp 77 106	the CCAAT binding factor NF-Y
+T7	Exp 210 230	The ferritin H-chain
+T8	Exp 368 380	the majority
+T9	Exp 404 418	the regulation
+T10	Exp 464 487	the translational level
+T11	Exp 534 539	which
+T12	Exp 630 635	which
+T13	Exp 728 730	We
+T14	Exp 741 745	that
+T15	Exp 797 801	that
+T16	Exp 746 764	the minimum region
+T17	Exp 768 796	the ferritin H-gene promoter
+T18	Exp 912 924	the TATA box
+T19	Exp 1012 1017	which
+T20	Exp 926 942	This cis element
+T21	Exp 1115 1140	The CCAAT element present
+T22	Exp 1191 1216	the ferritin H-chain gene
+T23	Exp 1314 1325	the binding
+T24	Exp 1337 1365	the transcriptional activity
+T25	Exp 1167 1187	this promoter region
+T26	Exp 1438 1440	we
+T27	Exp 1452 1467	the induced HRF
+T28	Exp 1491 1531	the ubiquitous transcription factor NF-Y
+T29	Exp 1587 1592	which
+T30	Exp 1758 1762	that
+T31	Exp 1679 1696	the NF-YA subunit
+T32	Exp 1707 1737	the transcriptional activation
+T33	Exp 1795 1810	this activation
+T34	Exp 1812 1814	We
+T35	Exp 1863 1880	the NF-YA subunit
+R5	Coref Anaphora:T11 Antecedent:T36
+R6	Coref Anaphora:T12 Antecedent:T37
+R7	Coref Anaphora:T15 Antecedent:T17
+R8	Coref Anaphora:T19 Antecedent:T38
+T1	Protein 214 230	ferritin H-chain
+T2	Protein 772 782	ferritin H
+T3	Protein 1195 1211	ferritin H-chain
+T36	Exp 517 532	erythroid cells
+T37	Exp 617 628	macrophages
+T38	Exp 987 1009	heme-responsive factor

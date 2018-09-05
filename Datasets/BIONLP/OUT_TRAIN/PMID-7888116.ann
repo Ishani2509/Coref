@@ -1,0 +1,27 @@
+T9	Exp 0 14	The regulation
+T10	Exp 78 105	the retinoic acid receptors
+T11	Exp 131 141	the effect
+T12	Exp 199 210	this effect
+T13	Exp 318 328	The effect
+T14	Exp 487 508	The expression levels
+T15	Exp 572 607	the human retinoid-X receptor alpha
+T16	Exp 695 699	Both
+T17	Exp 795 807	the presence
+T18	Exp 823 873	the co-stimulatory agent phorbol myristate acetate
+T19	Exp 695 722	Both all-trans and 9-cis RA
+T20	Exp 881 894	The retinoids
+T21	Exp 1028 1043	these retinoids
+T22	Exp 1045 1057	The 9-cis RA
+T23	Exp 1183 1200	the single agents
+T24	Exp 1661 1671	The effect
+T25	SPAN 518 607	RAR alpha (hRAR alpha, receptor for all-trans RA) and the human retinoid-X receptor alpha
+R2	Coref Anaphora:T16 Antecedent:T25
+T26	SPAN 518 607	RAR alpha (hRAR alpha, receptor for all-trans RA) and the human retinoid-X receptor alpha
+R3	Coref Anaphora:T19 Antecedent:T26
+T1	Protein 518 527	RAR alpha
+T2	Protein 529 539	hRAR alpha
+T3	Protein 582 607	retinoid-X receptor alpha
+T4	Protein 609 619	hRXR alpha
+T5	Protein 1311 1320	RXR alpha
+T6	Protein 1462 1471	RXR alpha
+T7	Protein 1542 1551	RAR alpha

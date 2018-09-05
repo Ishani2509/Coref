@@ -1,0 +1,39 @@
+T1	Protein 16 21	bcl-2
+T2	Protein 72 76	LMP1
+T3	Protein 259 263	LMP1
+T4	Protein 336 341	bcl-2
+T5	Protein 442 446	LMP1
+T6	Protein 599 604	Bcl-2
+T7	Protein 648 652	LMP1
+T8	Protein 719 724	Bcl-2
+T9	Protein 839 843	LMP1
+T10	Protein 940 944	LMP1
+T11	Protein 1172 1178	ICAM-1
+T12	Protein 1209 1213	LMP1
+T13	Protein 1293 1297	LMP1
+T14	Protein 1386 1390	LMP1
+T15	Protein 1450 1456	ICAM-1
+T16	Protein 1529 1534	Bcl-2
+T17	Protein 1630 1634	LMP1
+T18	Protein 1788 1792	LMP1
+T19	Protein 1865 1871	ICAM-1
+T20	Protein 1876 1881	Bcl-2
+T21	Protein 1968 1974	ICAM-1
+T22	Protein 2014 2019	Bcl-2
+T23	Protein 2048 2053	Bcl-2
+T24	Protein 2121 2125	LMP1
+T25	Protein 2247 2251	LMP1
+T26	Exp 78 104	a B-cell-specific response
+T27	Exp 105 109	that
+T28	Exp 667 705	an artifact of the selection procedure
+T29	Exp 706 713	whereby
+T30	Exp 839 843	LMP1
+T31	Exp 889 926	two different experimental approaches
+T32	Exp 927 931	that
+T33	Exp 1014 1031	the viral protein
+T34	Exp 2345 2362	the viral protein	2355 2362	protein
+R1	Coref Anaphora:T27 Antecedent:T26
+R2	Coref Anaphora:T29 Antecedent:T28
+R3	Coref Anaphora:T32 Antecedent:T31
+R4	Coref Anaphora:T33 Antecedent:T30	[T9]
+R5	Coref Anaphora:T34 Antecedent:T33

@@ -1,0 +1,32 @@
+T1	Protein 40 46	GM-CSF
+T2	Protein 48 52	IL-3
+T3	Protein 54 68	M-CSF receptor
+T4	Protein 70 75	C-FMS
+T5	Protein 78 106	early growth response gene-1
+T6	Protein 108 113	EGR-1
+T7	Protein 119 124	M-CSF
+T8	Protein 395 399	IL-3
+T9	Protein 401 407	GM-CSF
+T10	Protein 409 412	FMS
+T11	Protein 417 422	EGR-1
+T12	Protein 506 511	M-CSF
+T13	Protein 1092 1097	M-CSF
+T14	Protein 1136 1139	FMS
+T15	Protein 1148 1153	EGR-1
+T16	Protein 1311 1316	M-CSF
+T17	Protein 1321 1324	FMS
+T18	Exp 395 428	IL-3, GM-CSF, FMS and EGR-1 genes
+T19	Exp 429 434	which
+T20	Exp 484 516	The expression of the M-CSF gene	488 498	expression
+T21	Exp 518 522	that
+T22	Exp 691 702	these genes	697 702	genes
+T23	Exp 881 895	the same genes	890 895	genes
+T24	Exp 1265 1279	the 2 patients	1271 1279	patients
+T25	Exp 1280 1285	whose
+T26	Exp 1394 1403	the genes	1398 1403	genes
+R1	Coref Anaphora:T19 Antecedent:T18	[T11, T8, T9, T10]
+R2	Coref Anaphora:T21 Antecedent:T20	[T12]
+R3	Coref Anaphora:T22 Antecedent:T18	[T11, T8, T9, T10]
+R4	Coref Anaphora:T23 Antecedent:T22
+R5	Coref Anaphora:T25 Antecedent:T24
+R6	Coref Anaphora:T26 Antecedent:T18	[T11, T8, T9, T10]

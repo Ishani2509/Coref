@@ -1,0 +1,23 @@
+T8	Exp 237 239	we
+T9	Exp 276 281	which
+T10	Exp 225 235	this study
+T11	Exp 504 526	their initial diameter
+T12	Exp 427 437	this model
+T13	Exp 577 596	The lung macrophage
+T14	Exp 615 639	the main cellular source
+T15	Exp 713 739	the chemokines interleukin
+T16	Exp 789 806	this model system
+T17	Exp 834 849	These mediators
+T18	Exp 1178 1182	that
+T19	Exp 1743 1754	the effects
+T20	Exp 1628 1638	This model
+R3	Coref Anaphora:T9 Antecedent:T21
+R4	Coref Anaphora:T11 Antecedent:T22
+T1	Protein 684 711	tumor necrosis factor-alpha
+T2	Protein 759 785	matrix metalloproteinase-9
+T3	Protein 1297 1301	IL-8
+T4	Protein 1306 1333	tumor necrosis factor-alpha
+T5	Protein 1416 1420	IL-8
+T6	Protein 1563 1567	IL-8
+T21	Exp 267 272	model
+T22	Exp 439 444	cells

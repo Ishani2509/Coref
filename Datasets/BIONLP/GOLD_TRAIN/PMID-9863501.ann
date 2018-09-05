@@ -1,0 +1,6 @@
+T1	Protein 549 560	p24 antigen
+T2	Protein 768 795	tumor necrosis factor alpha
+T3	Protein 797 806	TNF-alpha
+T4	Exp 55 79	Phenylarsine oxide (PAO)	68 73	oxide
+T5	Exp 81 86	which
+R1	Coref Anaphora:T5 Antecedent:T4

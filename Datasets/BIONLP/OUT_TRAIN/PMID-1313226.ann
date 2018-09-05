@@ -1,0 +1,39 @@
+T17	Exp 108 110	We
+T18	Exp 125 135	the effect
+T19	Exp 206 220	the expression
+T20	Exp 224 249	the proto-oncogenes c-jun
+T21	Exp 274 276	we
+T22	Exp 287 301	the modulation
+T23	Exp 345 361	the AP-1 element
+T24	Exp 401 415	the expression
+T25	Exp 419 433	the c-fos gene
+T26	Exp 497 502	which
+T27	Exp 481 495	The c-jun mRNA
+T28	Exp 675 687	The kinetics
+T29	Exp 705 718	the two genes
+T30	Exp 830 843	Both messages
+T31	Exp 886 910	the c-fos and c-jun mRNA
+T32	Exp 1026 1030	that
+T33	Exp 1046 1063	the transcription
+T34	Exp 1067 1081	the c-fos gene
+T35	Exp 1093 1107	the c-jun gene
+T36	Exp 1173 1189	the AP-1 element
+T37	Exp 1312 1316	that
+T38	Exp 1335 1349	the production
+T39	Exp 1387 1396	the yield
+T40	Exp 1404 1416	the function
+T41	Exp 1289 1302	These results
+R4	Coref Anaphora:T26 Antecedent:T27
+T1	Protein 26 31	c-fos
+T2	Protein 36 41	c-jun
+T3	Protein 244 249	c-jun
+T4	Protein 254 259	c-fos
+T5	Protein 423 428	c-fos
+T6	Protein 485 490	c-jun
+T7	Protein 668 673	c-fos
+T8	Protein 754 759	c-fos
+T9	Protein 813 818	c-jun
+T10	Protein 890 895	c-fos
+T11	Protein 900 905	c-jun
+T12	Protein 1071 1076	c-fos
+T13	Protein 1097 1102	c-jun

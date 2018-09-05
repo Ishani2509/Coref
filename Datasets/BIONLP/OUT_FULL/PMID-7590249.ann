@@ -1,0 +1,25 @@
+T14	Exp 155 176	the NF-kappa B family
+T15	Exp 455 465	these mice
+T16	Exp 703 718	the p50 subunit
+T17	Exp 626 656	these phenotypic abnormalities
+T18	Exp 957 961	that
+T19	Exp 1010 1021	Our results
+T20	Exp 1031 1035	that
+T21	Exp 1093 1124	the signal-dependent activation
+T22	Exp 1196 1224	the postinduction repression
+T23	Exp 1295 1308	the two forms
+T24	Exp 1338 1351	the necessity
+T25	Exp 1255 1268	These results
+R3	Coref Anaphora:T18 Antecedent:T26
+T1	Protein 87 102	I kappa B alpha
+T2	Protein 233 248	I kappa B alpha
+T3	Protein 253 267	I kappa B beta
+T4	Protein 297 312	I kappa B alpha
+T5	Protein 683 698	I kappa B alpha
+T6	Protein 707 710	p50
+T7	Protein 821 836	I kappa B alpha
+T8	Protein 982 996	I kappa B beta
+T9	Protein 1036 1050	I kappa b beta
+T10	Protein 1060 1075	I kappa B alpha
+T11	Protein 1164 1179	I kappa B alpha
+T26	Exp 911 956	normal signal-dependent NF-kappa B activation

@@ -1,0 +1,30 @@
+T15	Exp 109 120	the effects
+T16	Exp 89 99	This study
+T17	Exp 307 357	the chronically infected promonocytic cell line U1
+T18	Exp 359 390	The magnitude and time kinetics
+T19	Exp 394 409	the LIF effects
+T20	Exp 538 552	this cell line
+T21	Exp 650 688	the DNA binding protein nuclear factor
+T22	Exp 581 614	responsible for these LIF effects
+T23	Exp 916 945	The DNA binding protein NF-kB
+T24	Exp 1078 1103	the parent cell line U937
+T25	Exp 1108 1123	both cell lines
+T26	Exp 1271 1319	The oxygen radical scavenger N-acetyl-L-cysteine
+T27	Exp 1470 1481	its effects
+T28	Exp 1419 1433	the production
+T29	Exp 1557 1570	These results
+R2	Coref Anaphora:T27 Antecedent:T12
+T1	Protein 60 86	leukemia inhibitory factor
+T2	Protein 124 150	leukemia inhibitory factor
+T3	Protein 152 155	LIF
+T4	Protein 240 243	LIF
+T5	Protein 281 292	p24 antigen
+T6	Protein 398 401	LIF
+T7	Protein 448 452	IL-6
+T8	Protein 603 606	LIF
+T9	Protein 791 794	LIF
+T10	Protein 1124 1127	LIF
+T11	Protein 1378 1381	LIF
+T12	Protein 1407 1410	LIF
+T13	Protein 1551 1555	IL-6
+T14	Protein 1580 1583	LIF

@@ -1,0 +1,26 @@
+T11	Exp 117 139	the HTLV-I Tax protein
+T12	Exp 177 192	the Tax protein
+T13	Exp 263 311	the pleiotropic transcription factor NF-kappa B.
+T14	Exp 380 382	we
+T15	Exp 495 500	which
+T16	Exp 415 450	the transcription factor NF-kappa B
+T17	Exp 454 465	the nucleus
+T18	Exp 582 593	the nucleus
+T19	Exp 657 668	The ability
+T20	Exp 796 810	the activation
+T21	Exp 917 941	the cellular environment
+T22	Exp 943 975	the short- and long-term effects
+T23	Exp 1183 1198	The cells lines
+T24	Exp 1235 1250	the delineation
+T25	Exp 1285 1309	the selective regulation
+R2	Coref Anaphora:T15 Antecedent:T26
+T1	Protein 128 131	Tax
+T2	Protein 181 184	Tax
+T3	Protein 524 527	Tax
+T4	Protein 628 631	Tax
+T5	Protein 782 785	Tax
+T6	Protein 869 872	Fos
+T7	Protein 877 880	Jun
+T8	Protein 979 982	Tax
+T9	Protein 1048 1051	Tax
+T26	Exp 479 493	lymphoid cells

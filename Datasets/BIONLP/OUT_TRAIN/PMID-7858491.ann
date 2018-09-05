@@ -1,0 +1,48 @@
+T21	Exp 429 434	which
+T22	Exp 454 466	the long arm
+T23	Exp 518 522	that
+T24	Exp 484 498	The expression
+T25	Exp 502 516	the M-CSF gene
+T26	Exp 555 568	the short arm
+T27	Exp 622 631	the study
+T28	Exp 651 664	the potential
+T29	Exp 673 687	the expression
+T30	Exp 706 721	the maintenance
+T31	Exp 739 760	the neoplastic clones
+T32	Exp 860 877	the second allele
+T33	Exp 881 895	the same genes
+T34	Exp 899 917	the leukemic cells
+T35	Exp 691 702	these genes
+T36	Exp 919 935	The latter issue
+T37	Exp 1047 1062	the 17 patients
+T38	Exp 1088 1102	The M-CSF gene
+T39	Exp 1132 1139	the FMS
+T40	Exp 1144 1159	the EGR-1 genes
+T41	Exp 1183 1199	the latter cases
+T42	Exp 1265 1279	the 2 patients
+T43	Exp 1307 1316	the M-CSF
+T44	Exp 1394 1403	the genes
+R4	Coref Anaphora:T21 Antecedent:T45
+R5	Coref Anaphora:T23 Antecedent:T25
+T46	SPAN 409 422	FMS and EGR-1
+R6	Coref Anaphora:T35 Antecedent:T46
+T47	SPAN 409 422	FMS and EGR-1
+R7	Coref Anaphora:T33 Antecedent:T47
+T1	Protein 40 46	GM-CSF
+T2	Protein 48 52	IL-3
+T3	Protein 54 68	M-CSF receptor
+T4	Protein 70 75	C-FMS
+T5	Protein 78 106	early growth response gene-1
+T6	Protein 108 113	EGR-1
+T7	Protein 119 124	M-CSF
+T8	Protein 395 399	IL-3
+T9	Protein 401 407	GM-CSF
+T10	Protein 409 412	FMS
+T11	Protein 417 422	EGR-1
+T12	Protein 506 511	M-CSF
+T13	Protein 1092 1097	M-CSF
+T14	Protein 1136 1139	FMS
+T15	Protein 1148 1153	EGR-1
+T16	Protein 1311 1316	M-CSF
+T17	Protein 1321 1324	FMS
+T45	Exp 423 428	genes

@@ -1,0 +1,20 @@
+T1	Exp 375 399	the human cell line K562
+T2	Exp 401 403	We
+T3	Exp 413 424	the effects
+T4	Exp 454 465	the binding
+T5	Exp 541 581	the transcriptional regulatory sequences
+T6	Exp 640 651	the binding
+T7	Exp 682 694	this element
+T8	Exp 719 780	the binding of the lineage limited transcription factor NF-E2
+T9	Exp 784 820	this transcriptional control element
+T10	Exp 896 916	its recognition site
+T11	Exp 872 883	the binding
+T12	Exp 970 984	the expression
+T13	Exp 1119 1131	the activity
+T14	Exp 1135 1146	the lineage
+T15	Exp 1040 1065	this nonspecific increase
+T16	Exp 1281 1306	their contrasting effects
+T17	Exp 1183 1204	The divergent effects
+T18	Exp 1310 1340	the transcription factor NF-E2
+R3	Coref Anaphora:T10 Antecedent:T11
+R4	Coref Anaphora:T16 Antecedent:T17

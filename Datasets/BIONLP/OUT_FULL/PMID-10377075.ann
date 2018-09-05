@@ -1,0 +1,37 @@
+T20	Exp 164 197	the endothelial cell (EC) surface
+T21	Exp 471 498	the nuclear receptor family
+T22	Exp 659 675	their regulation
+T23	Exp 590 607	The present study
+T24	Exp 774 778	that
+T25	Exp 863 899	the PPARalpha activators fenofibrate
+T26	Exp 1132 1150	its mRNA half-life
+T27	Exp 1039 1064	Both PPARalpha activators
+T28	Exp 1266 1270	that
+T29	Exp 1545 1572	its transcriptional control
+T30	Exp 1709 1714	which
+T31	Exp 1647 1663	the clinical use
+T32	Exp 1600 1613	Such findings
+R5	Coref Anaphora:T22 Antecedent:T4
+R6	Coref Anaphora:T26 Antecedent:T13
+R7	Coref Anaphora:T29 Antecedent:T17
+R8	Coref Anaphora:T30 Antecedent:T33
+T1	Protein 46 79	vascular cell adhesion molecule-1
+T2	Protein 397 445	Peroxisome proliferator-activated receptor-alpha
+T3	Protein 447 456	PPARalpha
+T4	Protein 621 630	PPARalpha
+T5	Protein 679 712	vascular cell adhesion molecule-1
+T6	Protein 714 720	VCAM-1
+T7	Protein 812 821	PPARalpha
+T8	Protein 867 876	PPARalpha
+T9	Protein 921 930	TNF-alpha
+T10	Protein 939 945	VCAM-1
+T11	Protein 1017 1026	PPARgamma
+T12	Protein 1044 1053	PPARalpha
+T13	Protein 1092 1098	VCAM-1
+T14	Protein 1189 1195	VCAM-1
+T15	Protein 1292 1298	VCAM-1
+T16	Protein 1355 1364	PPARalpha
+T17	Protein 1475 1484	PPARalpha
+T18	Protein 1576 1582	VCAM-1
+T19	Protein 1728 1737	PPARalpha
+T33	Exp 1695 1707	fibric acids
