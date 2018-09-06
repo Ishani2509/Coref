@@ -1,0 +1,93 @@
+
+from sklearn import tree, svm
+import numpy as np
+from sklearn.metrics import precision_recall_fscore_support,confusion_matrix, f1_score,precision_score, recall_score, classification_report
+content = open('Feature_vectors_Demonstrative_NP').read()
+
+## Extracting the feature vectors and labels of the Relative Pronoun Cases
+features = []
+labels = []
+for line in content.split("\n"):
+	if(line!=""):
+		if(len(line.split("*")[0].split(","))==2):
+			features.append(line.split("*")[0])
+			labels.append(line.split("*")[1])
+
+processed_features = []
+int_features = []
+for elem in features:
+	if("'" in elem):
+		elem = elem.replace("'", "")
+	processed_features.append(elem[1:-1])
+
+int_features_list = []
+for elem in processed_features:
+	int_features = []
+	for item in elem.split(","):
+		int_features.append(int(item))
+
+	int_features_list.append(int_features)		
+
+int_labels = []
+
+for elem in labels:
+	int_labels.append(int(elem))
+
+
+##-------------Train Using The Feature Vectors----------------------##
+X = int_features_list
+Y = int_labels
+
+print(X[0:3])
+print(Y[0:3])
+##----------- Extraction from the Dev Set---------------------------##
+dev_content = open('Feature_vectors_Demonstrative_NP_dev').read()
+features_dev = []
+labels_dev = []
+for line in dev_content.split("\n"):
+	if(line!=""):
+		if(len(line.split("*")[0].split(","))==2):
+			features_dev.append(line.split("*")[0])
+			labels_dev.append(line.split("*")[1])
+
+processed_features_dev = []
+int_features = []
+for elem in features_dev:
+	if("'" in elem):
+		elem = elem.replace("'", "")
+	processed_features_dev.append(elem[1:-1])
+
+int_features_list_dev = []
+for elem in processed_features_dev:
+	int_features = []
+	for item in elem.split(","):
+		int_features.append(int(item))
+
+	int_features_list_dev.append(int_features)		
+
+int_labels_dev = []
+
+for elem in labels_dev:
+	int_labels_dev.append(int(elem))
+
+##-------------Train Using The Feature Vectors----------------------##
+X_dev = int_features_list_dev
+Y_dev = int_labels_dev
+
+print(len(Y_dev))
+
+clf = svm.SVC(kernel='linear', C= 1, class_weight={1: 2})
+clf.fit(X, Y)
+
+ypred = clf.predict(X_dev)
+
+cm = confusion_matrix(Y_dev, ypred, labels=[0,1])
+print(cm)
+tn, fp, fn, tp = cm.ravel()
+print('TP = ' + str(tp))
+print('TN = ' + str(tn))
+print('FN = ' + str(fn))
+print('FP = ' + str(fp))
+print(precision_score(Y_dev, ypred,average='macro'))
+print(recall_score(Y_dev, ypred,average='macro'))
+print(f1_score(Y_dev, ypred,average='macro'))
